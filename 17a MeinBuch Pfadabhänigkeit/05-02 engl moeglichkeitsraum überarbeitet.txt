@@ -1,0 +1,122 @@
+== 5.2 Gewohnheit als Mikropfad ==
+
+:1. On February 5, 2014, a strike closed much of London’s Underground and broke thousands of morning routines at once.
+:2. Only about 37 percent of stations remained open, so commuters who had entered the network still had to improvise paths through it.
+:3. The disruption lasted two days, brief enough that the underlying geography and the travelers’ jobs had not changed.
+:4. What changed was that a familiar answer to a repeated problem was suddenly unavailable.
+:5. Economists Shaun Larcom, Ferdinand Rauch, and Tim Willems later examined travel records associated with 18,113 Oyster cards used by highly regular morning commuters.
+:6. They compared routes before, during, and after the strike, using unaffected travelers and journeys as controls against ordinary day-to-day variation.
+:7. Among commuters whom the strike had forced to deviate, roughly one in twenty continued using a different route after normal service returned.
+:8. The lasting switches suggested that these travelers had discovered journeys they preferred to the ones they had repeatedly chosen before.
+:9. The estimate did not imply that every old route was poor, or that a transport strike benefited most passengers, who mainly endured delays.
+:10. It exposed a narrower puzzle: repetition had allowed a workable route to survive without being tested against alternatives that were already available.
+:11. A daily journey is an unusually visible example of a much broader economy of action.
+:12. If each departure required a fresh comparison of every platform, transfer, and walking connection, the search for an ideal route could consume much of the time it was meant to save.
+:13. Human beings avoid that burden by letting many recurring situations call up responses that have worked before.
+:14. This is the first service a habit performs: it saves attention, decision time, and the effort of rebuilding a plan from scratch.
+:15. Such economy is not a defect in thought but one condition for directing thought toward surprises, conflicts, and unfamiliar problems.
+:16. A habit, in the useful psychological sense, is not simply a behavior performed often.
+:17. It is a learned tendency for a response to become readily activated when features of a familiar situation recur.
+:18. Those features may include a place, an hour, an object, the presence of another person, an emotional state, or the action that came immediately before.
+:19. The response may be a single movement, such as reaching for a switch, or an organized sequence, such as locking a door and pocketing the key.
+:20. Its expected consequence matters because actions are usually first repeated for a reason, whether they bring comfort, speed, approval, relief, or progress toward a goal.
+:21. The surrounding context matters because repetition links the response not just to its result but to the circumstances in which the result was obtained.
+:22. A cue, a routine, and a reward therefore provide a useful sketch, but they do not constitute a final scientific blueprint.
+:23. Cues can be diffuse, routines can contain many nested actions, and an expected reward can launch learning without remaining consciously represented whenever the action later occurs.
+:24. Competing theories assign different weight to direct context-response associations, remembered outcomes, goals, and the retrieval of recent episodes.
+:25. In ordinary life these processes can cooperate, which is why a person may follow a habit while also endorsing the goal that originally produced it.
+:26. Automatic does not mean unconscious in every respect, involuntary in the legal sense, or impossible to interrupt.
+:27. It means that some work of selecting and initiating an action has become less dependent on deliberate comparison at that moment.
+:28. The familiar situation has acquired a head start.
+:29. Experience-sampling studies, which prompt people to report what they are doing during the day, have found that close to half of reported actions recur in the same locations on a near-daily basis.
+:30. That figure measures regularity rather than proving that each action is controlled by habit, but it shows the scale of behavior available for automation.
+:31. A twelve-week study by Phillippa Lally and colleagues followed volunteers who repeated a chosen eating, drinking, or activity behavior in a stable daily context.
+:32. Participants’ reported automaticity generally rose quickly at first and then more slowly toward a plateau, with large differences among people and behaviors.
+:33. One missed opportunity did not measurably derail the learning curve, a result inconsistent with the popular idea that a perfect unbroken streak is the essence of habit.
+:34. The study was modest in size and relied on self-report, so its highly variable timelines should not be turned into a universal countdown.
+:35. Its sturdier lesson is relational: repeated behavior became easier to initiate when a recognizable context returned.
+:36. More recent experiments using practiced action sequences have also found that additional practice strengthens measurable cue-response associations and supports performance when attention is divided.
+:37. Repetition thus does more than add identical events to a ledger.
+:38. It changes the next event by increasing fluency, reducing uncertainty, and making one response faster to retrieve than its competitors.
+:39. An awkward sequence becomes smoother because perception and movement are increasingly coordinated around its recurring demands.
+:40. A known result becomes easier to expect because the same response has produced it before.
+:41. The environment itself may grow better fitted to the routine as objects are left in customary places, schedules are coordinated, and other people learn what to expect.
+:42. Each of these changes is small, yet together they alter the cost structure of the next choice.
+:43. The practiced response can be executed cheaply, while an alternative requires attention, prediction, and a tolerance for temporary clumsiness.
+:44. Because the alternative is chosen less often, it receives less practice and generates less information about its possible benefits.
+:45. Lack of information then makes the familiar action appear safer, encouraging another repetition and another missed comparison.
+:46. This is the positive feedback that turns a sequence of choices into a microscopic path.
+:47. The path does not command the next step, but it tilts the ground beneath it.
+:48. Its history is causal because earlier repetitions have changed present proficiency, expectations, contextual fit, and the evidence available for choosing otherwise.
+:49. No single repetition creates this structure, and its strength need not grow at a constant rate.
+:50. The first few trials may yield large gains as gross uncertainty disappears, while later repetitions refine speed and coordination by smaller amounts.
+:51. Once performance is sufficiently easy, further practice can preserve the response without greatly improving it.
+:52. That plateau can be entirely beneficial when the environment remains stable and the routine continues to serve its purpose.
+:53. Familiar key sequences let a practiced typist produce words without choosing each letter, just as routine checks let an experienced worker reserve attention for anomalies.
+:54. These are bindings that enlarge the practical possibility space by releasing scarce attention for other uses.
+:55. Mere inertia is different because an action can persist for reasons that repetition has not reinforced, such as an external rule, a fixed timetable, or the absence of any feasible substitute.
+:56. Problematic lock-in is narrower still: the learned path must not only persist but make departure cumulatively harder or keep superior alternatives from being discovered and developed.
+:57. The London commuters’ behavior fits part of that pattern, yet their travel records cannot reveal whether a cue-response habit, limited information, rational avoidance of experimentation, or some mixture of these processes produced each old route.
+:58. Frequency alone cannot settle the question, because deliberate actions can be frequent and habitual actions can be rare when their triggering context is rare.
+:59. Researchers therefore probe what happens when an outcome loses value, when a familiar context disappears, or when a practiced response collides with a newly relevant goal.
+:60. Those tests reveal where effortless continuity ends and inflexible control begins.
+:61. In the classic outcome-devaluation experiment, a person or animal first learns an action that reliably produces a valued result.
+:62. The experimenter then makes that result less desirable, perhaps by feeding the subject to satiety, and tests the action before new feedback can update the old learning.
+:63. A goal-directed performer should reduce the action because its anticipated consequence is no longer worth pursuing.
+:64. A strictly habitual performer may initially continue because the familiar cue activates the response without requiring a fresh appraisal of the result.
+:65. A related test degrades the contingency between action and outcome, asking whether behavior adjusts when the response no longer causes what it once caused.
+:66. These procedures give “habit” a demanding experimental meaning rather than treating it as a synonym for frequency, preference, or weak will.
+:67. They do not imply that a habitual performer has forgotten the outcome, lost consciousness, or become incapable of stopping.
+:68. They isolate a narrower question about what information controls the response at the moment it is selected.
+:69. Even an outcome-insensitive response can change after the performer directly experiences the new consequences of acting.
+:70. Habitual control is therefore better pictured as a temporarily privileged route than as a severed connection between action and result.
+:71. Experiments with rodents have repeatedly shown that extended practice can shift behavior from sensitivity to outcomes toward stronger control by antecedent cues.
+:72. The translation of that finding into human behavior has been far less tidy.
+:73. In 2009, Elizabeth Tricomi, Bernard Balleine, and John O’Doherty reported that people given extended practice on a simple button-pressing task became less responsive to a reduction in the reward’s value.
+:74. As training proceeded, brain imaging also showed increasing cue-related activity in a posterior part of the putamen, within circuitry associated with practiced sensorimotor responses.
+:75. The combination appeared to provide a laboratory model of a human action becoming habitual through repetition.
+:76. Nine years later, however, Sanne de Wit and colleagues reported five attempts using several tasks in which additional training failed to produce the predicted increase in outcome-insensitive responding.
+:77. Participants sometimes made responses consistent with habit, but the researchers could not make those responses reliably more prevalent simply by lengthening practice.
+:78. That failure does not show that everyday human habits are imaginary, because brief laboratory tasks omit the rich, repeated contexts in which daily routines develop.
+:79. Nor does the earlier imaging result prove that a single brain region contains a switch from reason to habit, since brain activity measured alongside behavior does not by itself establish exclusive control.
+:80. Together, the findings make a cleaner point: repetition can increase automaticity without inevitably producing complete indifference to present goals or consequences.
+:81. Different forms of control can operate in parallel, cooperate on the same action, and trade influence when circumstances change.
+:82. The practiced system offers speed, while deliberation remains capable of intervening when a discrepancy becomes salient enough to justify its cost.
+:83. Stress, divided attention, time pressure, task complexity, and the stability of cues can all affect that balance, so training duration alone is not a universal dial.
+:84. The distinction between habitual and goal-directed action is useful, but human behavior need not pass through two sealed compartments in a fixed order.
+:85. A selective review published by learning researcher Mark Bouton in 2024 sharpened another important qualification by asking whether experimentally identified habits are inherently more persistent.
+:86. Across several kinds of learning evidence, the answer was weaker than the familiar image of an ineradicable habit would suggest.
+:87. Responses classified as habitual were often especially dependent on their training context, and direct contact with changed consequences could modify them.
+:88. Automaticity, inflexibility, and persistence must therefore be distinguished rather than folded into a single measure of habit strength.
+:89. Useful automation requires only that a fitting response become easy to initiate and perform in recurring circumstances.
+:90. Problematic lock-in requires more: the response and its setting must keep reinforcing one another in ways that raise switching costs, suppress alternatives, or conceal their value.
+:91. This context dependence explains why a routine can look formidable in one setting and scarcely appear in another.
+:92. A route begun at the same doorway and hour may unfold with little thought, whereas a journey from an unfamiliar address demands active navigation even when the destination is unchanged.
+:93. Bas Verplanken and his colleagues examined this principle among university employees who either had or had not recently moved home.
+:94. Among recent movers, stronger environmental concern was associated with less frequent car commuting.
+:95. Among employees whose residential context had remained stable, equally strong concern did not show the same relationship to their commuting behavior.
+:96. The move had not created the value, but the disruption of familiar cues may have allowed an existing value to exert more influence over a decision that routine had previously settled.
+:97. Because the comparison was not a randomized experiment, movers could have differed from nonmovers in unmeasured ways, and the study cannot prove that relocation caused the behavioral pattern.
+:98. Its value lies in the interaction it revealed, not in a claim that every move opens the same window or sends behavior in a predictable direction.
+:99. The London strike supplied a more abrupt interruption and unusually detailed behavioral records, strengthening the inference that forced exploration changed some later choices.
+:100. Yet that study also observed a selected group of highly regular public-transport users over a short post-strike period, and a changed route could reflect new information without meeting the strict outcome-devaluation definition of habit.
+:101. Taken together, the two travel cases show how context can preserve a default and how disturbance can restore comparison without establishing one all-purpose psychological law.
+:102. Performing a different action once can be easy because focused attention and a current goal can temporarily overrule the response with the head start.
+:103. That small victory need not alter the association that made the old response quick to retrieve.
+:104. When the former setting returns and attention moves elsewhere, the practiced routine may again win the race to execution.
+:105. This is why a momentary behavioral change and a durable change of path are different achievements with different costs.
+:106. Changing the environment can matter decisively because it intervenes before the old response is selected, reducing the force or visibility of its cues.
+:107. A closed station does this brutally, while a new home, a revised schedule, or a changed arrangement of tools can do it without prohibiting the former action outright.
+:108. Such alterations also redistribute friction, the small burdens of time, movement, uncertainty, and coordination that make one response easier than another.
+:109. If an alternative now lies nearer to hand, begins from the same preceding action, or fits the surrounding timetable better, it has more chances to be repeated and learned.
+:110. The setting is not merely physical, because other people can cue a routine, reward its performance, depend on its timing, or make deviation socially expensive.
+:111. An institution can likewise preserve a personal habit through opening hours, work sequences, software defaults, or transport connections that no individual controls alone.
+:112. Environmental reconstruction is consequently not a magic lever and is often costlier than the behavior whose probability it changes.
+:113. People differ greatly in their power to rearrange homes, jobs, caregiving duties, streets, and schedules, so a stable routine cannot be read as a transparent measure of motivation.
+:114. Nor is disruption automatically beneficial, since breaking an efficient path imposes search, error, and coordination costs before anyone knows whether a better one exists.
+:115. In the Underground study, about 95 percent of the commuters forced to experiment did not retain a newly discovered route, while all those affected bore some cost during the strike.
+:116. A system that reconsidered every action on every occasion would squander the very attention that habits conserve, making perfect flexibility another form of incapacity.
+:117. A durable path change usually requires an alternative response to gain its own practice, predictable consequences, and contextual fit, even while the older association may remain capable of reappearing under familiar cues.
+:118. Replacement therefore alters the competition among reachable actions rather than erasing history, and the new routine can become either a useful platform or another narrowing default.
+:119. As repeated actions select places, people, and outcomes, they also select the evidence a person encounters about what normally happens and what seems worth expecting.
+:120. A micro-path of behavior has then begun to furnish the raw material from which the mind anticipates the world.

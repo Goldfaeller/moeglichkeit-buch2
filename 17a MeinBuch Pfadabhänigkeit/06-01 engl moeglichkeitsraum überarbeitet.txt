@@ -1,0 +1,122 @@
+== 6.1 Institutionen als Gedächtnis ==
+
+:1. A new employee in the United States can enter a nine-digit Social Security number into a payroll system in seconds.
+:2. The boxes on the screen belong to the present, but the shape of the answer comes from a bookkeeping problem posed before electronic computers existed.
+:3. In 1935, the new federal old-age insurance program needed a reliable way to connect each covered worker with wages reported by many employers over many years.
+:4. Names alone would not do, because people shared them, changed them, misspelled them, and moved between jobs and states.
+:5. The Social Security number, first issued in 1936, was the compact solution.
+:6. It was not designed as proof of identity, a universal password, or a master key to American life.
+:7. It was an account number for keeping an earnings history accurate enough to calculate a future benefit.
+:8. That narrow purpose immediately required something much larger than a card.
+:9. Employers had to learn what to report, workers had to apply, post offices had to distribute and process forms, and a central office had to reconcile millions of records.
+:10. The institution was taking shape as a memory system before most citizens had received its most visible token.
+:11. Its physical center was the Candler Building, a former Coca-Cola warehouse on Baltimore's waterfront that the Social Security Board occupied in October 1936.
+:12. The location was supposed to be temporary, because officials expected the record operation eventually to move elsewhere.
+:13. Yet the building's broad floors could bear filing cabinets, paper, and electromechanical equipment at a scale that Washington offices could not readily accommodate.
+:14. Eighteen production employees reported there on November 9, and more than 2,500 were at work by the end of December.
+:15. Mailbags delivered applications in batches, clerks checked and coded them, machines punched and sorted cards, and files connected names to numbers and numbers to earnings.
+:16. This was memory as organized labor.
+:17. No clerk needed to know a worker's career from beginning to end, because the forms, sequence of operations, and filing system preserved what the program needed to know.
+:18. No single file, meanwhile, was the institution's memory by itself.
+:19. The number meant little without reporting rules, and the rules achieved little without trained people, machines, error checks, storage space, and an expectation that employers would use the same identifier again.
+:20. Each component made the others more useful.
+:21. The nine digits therefore survived not simply because someone had chosen them, but because an expanding arrangement learned to work around them.
+:22. By 1960, when the agency finally left the Candler Building, the supposedly short stay had lasted twenty-four years.
+:23. The building had become more than a container for a policy.
+:24. Its layout, equipment, staff concentrations, and location had shaped which procedures were practical, which skills were recruited, and which alternatives would have required disruptive relocation.
+:25. A temporary answer had acquired complementary parts.
+:26. That transformation offers a precise sense in which an institution can be called an answer to a past question.
+:27. The phrase does not mean that a building remembers, that a rule possesses a mind, or that history somehow commands the present.
+:28. It means that earlier problems leave material and social arrangements that continue to guide action after the original decision makers have gone.
+:29. Some of those arrangements are written: statutes, regulations, forms, job descriptions, record formats, and instructions for handling exceptions.
+:30. Others are embodied in roles: the clerk who verifies an application, the employer who reports wages, the technician who maintains a database, and the official authorized to correct an error.
+:31. Still others reside in routines, including the order in which a case is opened, checked, routed, stored, retrieved, and closed.
+:32. Buildings and technologies store history differently, by making some sequences easy and others awkward or impossible.
+:33. Training stores it by teaching newcomers how to recognize a proper case before they have personally encountered every way a case can go wrong.
+:34. Expectations complete the system, because citizens, employers, and other agencies plan around what they believe the institution will accept and deliver.
+:35. Institutional memory is thus distributed rather than lodged in a single archive.
+:36. An archive can record what happened, but a routine can reproduce a response without explaining why that response was adopted.
+:37. A veteran employee may remember the reason for an unusual exception, while a database preserves only the field that the exception created.
+:38. A building may keep departments near one another long after the workflow that justified their proximity has changed.
+:39. A professional curriculum may continue to emphasize a distinction because examinations, manuals, and promotion standards all assume that graduates know it.
+:40. These stores of memory overlap, reinforce one another, and sometimes contradict one another.
+:41. That is why replacing the people at the desks rarely returns an institution to zero.
+:42. Newcomers inherit pending cases, legal obligations, software permissions, office geography, budget categories, and colleagues' judgments about what competent work looks like.
+:43. They also inherit people outside the organization who have adjusted their own conduct to its procedures.
+:44. An employer's payroll software, for example, is not part of the Social Security Administration, yet it helps stabilize the Administration's method by making the established number cheap to use and a replacement expensive to introduce.
+:45. This external adjustment is one source of path dependence: an earlier arrangement changes the cost of later alternatives by attracting investments that fit it.
+:46. Another source is learning, because repeated performance makes the familiar procedure faster and gives the organization a richer stock of solutions for familiar failures.
+:47. A third is coordination, since a common rule becomes more valuable when many participants expect one another to follow it.
+:48. None of these mechanisms requires anyone to revere tradition.
+:49. People may continue an inherited practice because all the neighboring practices have been fitted to it, even while privately regarding it as clumsy.
+:50. Formal rules alone cannot explain that continuity.
+:51. Every organization also relies on informal rules, the conventions and shared judgments that tell people when a written instruction applies, how strictly to read it, and whom to ask when it does not fit.
+:52. A regulation may say that evidence must be convincing, but experienced staff still learn which discrepancies signal an ordinary clerical mistake and which require another document.
+:53. Conversely, an informal shortcut can hollow out a meticulous formal safeguard if supervisors reward speed and coworkers treat checking as needless fuss.
+:54. The real institution lies in the interaction between what is prescribed, what is routinely done, and what others expect will happen.
+:55. This interaction can preserve hard-won knowledge that no manual could fully state.
+:56. It can carry lessons across retirement, election, reorganization, and technological replacement.
+:57. It can also preserve an inference after the evidence that once supported it has disappeared.
+:58. Organizational learning researchers have long emphasized that routines encode interpretations of experience, not experience in a raw and infallible form.
+:59. An office may remember the remedy while forgetting the failure that made the remedy sensible.
+:60. The next generation then receives a dependable answer without necessarily receiving the question against which it was tested.
+:61. Once the question is lost, a rule can look either timeless or absurd, and both impressions may be wrong.
+:62. Deciding whether an institution has preserved wisdom or merely accumulated fossils requires recovering what its arrangements actually do.
+:63. The Social Security number offers both possibilities in unusually clear form.
+:64. The original nine-digit format suited a vast mechanical record system whose designers had to sort, verify, and retrieve accounts quickly.
+:65. Once millions of people possessed those numbers, however, other public bodies saw a ready-made way to avoid building separate systems.
+:66. In 1943, an executive order directed federal agencies to use Social Security account numbers when they found it advisable to establish new permanent numerical identifiers for individuals.
+:67. The Civil Service Commission adopted the number for federal employees in 1961, and the Internal Revenue Service began using it for taxpayer identification in 1962.
+:68. As computerized record keeping spread, businesses and additional government programs also found the common number convenient.
+:69. An answer devised for wage histories became infrastructure for matching records across domains its designers had not built it to serve.
+:70. This expansion generated positive feedback, meaning that every major adoption increased the attraction of further adoption.
+:71. An agency saved money by using a number already assigned to much of the population, while citizens avoided having to manage another identifier.
+:72. Software vendors, employers, banks, and administrators then built fields, validation rules, files, and data exchanges around the same nine-digit pattern.
+:73. The more extensive that surrounding equipment became, the less appealing a clean replacement looked.
+:74. Yet this history does not establish that the number survived only because institutions resist change.
+:75. A common identifier solves a genuine coordination problem, and any large society administering taxes or benefits must distinguish one person's record from another's.
+:76. The persistence of a useful arrangement may reflect continuing function rather than path dependence.
+:77. Indeed, replacing one working identifier with several incompatible ones could increase errors, duplicate records, and burdens on the people required to navigate them.
+:78. The rival explanation must therefore be taken seriously: perhaps the old answer remains because the old question, accurate linkage across time, never vanished.
+:79. Path dependence begins only when the earlier selection alters the relative cost, visibility, or feasibility of later choices.
+:80. In this case, the decisive evidence is not that nine digits are still used, but that accumulated databases, laws, skills, interfaces, and expectations make alternatives more expensive than they would have been before mass adoption.
+:81. Even that is not complete lock-in.
+:82. Organizations can and do use additional account numbers, credentials, and identity checks for purposes the Social Security number cannot safely perform.
+:83. Congress has constrained some uses, agencies have changed evidentiary requirements, and institutions increasingly separate the task of locating a record from the task of proving who is requesting it.
+:84. The Privacy Act of 1974, for example, restricted when government could penalize a person for refusing to disclose the number and required agencies requesting it to explain whether disclosure was mandatory or voluntary.
+:85. Later statutes authorized or required disclosure in particular domains, producing a layered settlement rather than either universal prohibition or unrestricted use.
+:86. The inherited system remained, but its legal perimeter changed.
+:87. Technical change also occurred inside the stable shell.
+:88. On June 25, 2011, the Social Security Administration randomized new numbers, ending the geographical significance previously carried by the first three digits.
+:89. Randomization protected the integrity and extended the usable life of the numbering system while preserving the nine-digit interface on which other systems depended.
+:90. The alteration was substantial for assignment procedures but deliberately modest for everyone else's software.
+:91. Paper indexes gave way to electronic records, evidence standards tightened, and the organizational work changed even though the familiar number endured.
+:92. An institution, then, need not choose between perfect preservation and total replacement.
+:93. It can hold an external connection steady while rebuilding processes behind it, much as a railway can modernize signaling without changing every track gauge at once.
+:94. The analogy has limits, because institutional rules allocate authority and rights rather than merely connecting machinery.
+:95. Still, a stable interface can protect people from the cascading costs of simultaneous change.
+:96. That protection is the useful side of institutional binding.
+:97. Workers can move among employers over decades because earnings reports continue to accumulate in a record that does not depend on any one company, clerk, or computer generation.
+:98. Citizens can form expectations about future claims, and administrators can audit discrepancies against a durable sequence of reports.
+:99. Reliability is not the accidental residue of bureaucracy here; it is an achievement produced by redundancy, standardization, and continuity.
+:100. The same continuity can nevertheless preserve a dangerous mismatch between an old tool and a new task.
+:101. A Social Security card was never designed to prove that the person presenting it is the person named on it, and knowledge of the number alone is not sound evidence of identity.
+:102. Once organizations began treating a widely shared record key as though it were a secret credential, the system carried an assumption its original design could not support.
+:103. Ubiquity, which made the number efficient for matching, made exposure more consequential when it was used for authentication.
+:104. The institution had not simply remembered too much; it had reused one memory device for a problem with different requirements.
+:105. Correcting that mismatch is difficult because the relevant institution extends far beyond the agency that issues the number.
+:106. Changing an internal database would not alter the forms, contracts, software, laws, and habits of thousands of outside organizations.
+:107. A transition would require coordination among actors who face different costs, control different components, and do not all benefit equally from moving first.
+:108. This distribution of authority turns technical dependence into political dependence.
+:109. Earlier investments shape not only what a reform costs but also who has expertise, who can delay it, and whose daily work will absorb the disruption.
+:110. Informal expectations deepen the problem when staff or customers continue treating familiar digits as decisive even after formal policy demands additional evidence.
+:111. Replacing personnel cannot remove a practice sustained by interfaces outside the office and assumptions inside the public.
+:112. Nor does any of this make the path irreversible.
+:113. Privacy rules, alternative credentials, new verification procedures, and number randomization show that constraints can be added, functions separated, and internal mechanisms rebuilt.
+:114. Institutions sometimes forget as well as remember, especially when records become unreadable, experienced staff depart, or a routine is performed without the judgment that once corrected its errors.
+:115. Deliberate forgetting is harder than deleting a manual because old software prompts, performance measures, professional habits, and client expectations can keep retrieving the abandoned response.
+:116. What survives is therefore selective: an organization may retain a code while losing its rationale, preserve a ritual while changing its effect, or keep a name while replacing nearly everything beneath it.
+:117. Power must also remain visible, since some arrangements persist because beneficiaries defend them, not because collective memory mechanically reproduces them.
+:118. Memory, coordination, learning, material investment, and political advantage are rival explanations in some cases and mutually reinforcing mechanisms in others.
+:119. Calling an institution a memory becomes analytically useful only when those links are specified rather than hidden inside the metaphor.
+:120. The practical question is when a formerly interlocking arrangement loosens enough, and an alternative becomes organized enough, for a different answer to take hold.

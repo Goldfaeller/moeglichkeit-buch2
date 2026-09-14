@@ -1,0 +1,183 @@
+== 2.7 Epistase und die Reihenfolge der Mutationen ==
+
+:1. In 2006, a team of evolutionary biologists built thirty-two versions of a bacterial gene.
+:2. The versions contained every possible combination of five mutations found together in a highly antibiotic-resistant form of the gene.
+:3. The researchers placed these variants in Escherichia coli and measured how much cefotaxime was needed to prevent bacterial growth.
+:4. They were not content to compare the sensitive starting point with the resistant endpoint.
+:5. By constructing every intermediate, they turned a small corner of genetic possibility into an experimental map.
+:6. The five mutations together raised measured resistance by roughly one hundred thousandfold.
+:7. Because five changes can arrive in 5 × 4 × 3 × 2 × 1 orders, there were 120 direct routes from the starting variant to the endpoint.
+:8. If each mutation had produced the same effect in every background, all 120 routes would have risen toward greater resistance.
+:9. Only eighteen did so at every step under the criterion used in the study.
+:10. The other 102 contained at least one change that failed to improve resistance in the genetic background in which it appeared.
+:11. The destination was the same, but the probability of reaching it depended sharply on the order of approach.
+:12. That dependence has a name: epistasis.
+:13. In its broad evolutionary sense, epistasis means that the effect of a genetic variant depends on other variants in the same genetic background.
+:14. A mutation is therefore not like a brick whose weight stays fixed wherever it is carried.
+:15. The same change in DNA can be beneficial in one background, nearly neutral in another, and harmful in a third.
+:16. Nothing about the letters of the mutation has changed, but the system in which those letters operate has.
+:17. An additive model offers the useful contrasting case.
+:18. In such a model, each variant makes an independent contribution, so the effects can be combined without knowing which change came first.
+:19. Many traits can be approximated this way across limited ranges, and the approximation often makes good predictions.
+:20. Epistasis begins where that independence fails.
+:21. A deliberately simple four-genotype example shows why failure can turn history into a mechanism.
+:22. Imagine a short sequence with neither mutation A nor mutation B, and assign that starting genotype a fitness of 100 in one specified environment.
+:23. Suppose A alone raises fitness to 102, while B alone lowers it to 99.
+:24. Suppose the combination AB has a fitness of 106 because A changes the background in which B acts.
+:25. A lineage that receives A first can then acquire B through two successive increases, from 100 to 102 to 106.
+:26. A lineage that receives B first must initially fall from 100 to 99 before it can reach the same endpoint.
+:27. Under strong selection and rare mutation, the first route is much more likely than the second.
+:28. The example is imaginary, not a report of a particular gene, but its logic is experimentally testable.
+:29. Mutation A has altered the accessibility of mutation B, not merely preceded it in time.
+:30. This is path dependence in a particularly clean form because changing the order changes the set of readily selectable steps.
+:31. Geneticists distinguish several strengths of such interaction, although the labels matter less here than their consequences for possible paths.
+:32. In magnitude epistasis, a mutation remains beneficial or remains harmful across backgrounds, but the size of its effect changes.
+:33. Two individually helpful changes may produce less benefit together than expected, or they may reinforce each other and produce more.
+:34. In sign epistasis, the direction itself changes, so a mutation that helps in one background harms in another.
+:35. Reciprocal sign epistasis is stronger still because each of two mutations reverses the sign of the other's effect.
+:36. Magnitude epistasis bends an otherwise smooth slope, whereas sign epistasis can remove a steadily rising route.
+:37. Reciprocal sign epistasis can help create separate peaks divided by lower-fitness intermediates.
+:38. Not every case of sign epistasis produces a permanent trap, and not every rugged landscape has only one important destination.
+:39. The terms also require a declared baseline because an interaction can look different when researchers measure growth, survival, enzyme activity, or another trait.
+:40. Fitness in evolutionary biology means reproductive success in a particular environment, not molecular performance in the abstract.
+:41. An enzyme may hydrolyze an antibiotic more efficiently while imposing a cost through poor folding, excessive production, or interference with the cell.
+:42. Conversely, a mutation that barely changes catalytic activity may improve resistance by raising the amount of stable enzyme available.
+:43. Molecular function and organismal fitness are connected, but they are not interchangeable.
+:44. That distinction is especially important in antibiotic experiments, where minimum inhibitory concentration measures resistance rather than competitive fitness directly.
+:45. Greater resistance will often be advantageous when the relevant drug is present, but its selective value depends on dose, growth conditions, host background, and any costs paid when the drug is absent.
+:46. The landscape belongs as much to the environment as to the sequence.
+:47. Proteins nevertheless provide a vivid physical reason why conditional effects can arise.
+:48. A protein is a chain of amino acids that folds into a moving three-dimensional structure and interacts with other molecules.
+:49. Replacing one amino acid can alter chemical contacts near that site, shift distant motions, change stability, or modify the route by which the chain folds.
+:50. A second replacement then acts on the altered structure rather than on the structure that existed before the first change.
+:51. In one background, the second mutation may improve binding or catalysis without disrupting the fold.
+:52. In another, the same mutation may push an already marginally stable protein past a threshold at which too little functional protein remains.
+:53. Function and stability can therefore travel together in the same physical change, even when selection favors only their combined consequence.
+:54. This is one form of pleiotropy, in which a single mutation affects more than one property.
+:55. It is an important source of epistasis in proteins, but it is not the only one and should not be treated as a universal explanation.
+:56. Conditional effects can also emerge from nonlinear thresholds, altered expression, metabolic pathways, regulatory networks, and interactions between different genes.
+:57. The safe with interlocking dials remains a useful analogy if its limits are kept in view.
+:58. Turning one dial can shift the internal linkage, so the useful setting of another dial depends on what has already moved.
+:59. In the same way, one mutation can change whether a later mutation improves or jams a molecular process.
+:60. Yet a protein was not designed as a lock, a population does not know a combination, and many sequences can perform similar functions.
+:61. The analogy captures conditional order, not intention or a single predetermined solution.
+:62. Turn the dials in one order, and a route may remain open one small step at a time.
+:63. Turn them in another, and the same endpoint may require an intermediate that selection is unlikely to preserve under the conditions at hand.
+:64. A second reconstructed protein history shows the same logic in a different molecular system without reducing epistasis to antibiotic resistance.
+:65. Researchers used ancestral sequence reconstruction to study how the vertebrate glucocorticoid receptor acquired its later preference for cortisol.
+:66. The method compares the sequences of living descendants, estimates ancestral sequences on an evolutionary tree, synthesizes the inferred genes, and tests the resulting proteins.
+:67. It does not recover an ancient molecule from a fossil, so every reconstruction remains a model whose uncertainty must be assessed.
+:68. The inferred ancestral receptor responded to several related corticosteroid hormones rather than showing the narrower preference of later glucocorticoid receptors.
+:69. Seven historically occurring amino-acid substitutions were sufficient in the experiment to reproduce the major shift toward cortisol specificity.
+:70. Five were classified as function-switching substitutions, while two earlier substitutions were classified as permissive.
+:71. When the five function-switching changes were introduced without the permissive pair, the reconstructed receptor lost the relevant function.
+:72. The two permissive changes alone had little effect on hormone specificity, but their presence allowed the later five to produce a functional receptor.
+:73. Their importance therefore lay less in what they immediately accomplished than in what they made tolerable afterward.
+:74. Structural and biochemical work indicated that the permissive substitutions stabilized local elements disturbed by the function-switching changes.
+:75. Calling them permissive does not mean that they were physically inactive or invisible to every possible measure.
+:76. It means that their decisive historical effect appeared in combination with changes that had not yet occurred.
+:77. A later experiment screened thousands of variants for alternative mutations that might rescue the function-switching receptor.
+:78. Several alternatives restored aspects of the derived receptor, but they damaged the ancestral receptor's regulation or function when tested in the earlier background.
+:79. A mutation that can rescue a finished combination is not necessarily a mutation that could have permitted a viable path from the starting state.
+:80. The historical permissive pair was unusual because it remained compatible with both the ancestral structure and the derived one.
+:81. This result supplied the small sequence pattern in physical form: P before F left a functional route, whereas F before P produced a nonfunctional intermediate.
+:82. Ancestral reconstruction cannot replay every ecological circumstance that affected the real lineage, but it can test whether a proposed molecular order is biophysically coherent.
+:83. Together, the receptor and beta-lactamase studies use complementary strategies, with one reconstructing an inferred historical route and the other measuring every combination in a chosen five-mutation set.
+:84. The beta-lactamase experiment made this abstract logic measurable.
+:85. Beta-lactamases are enzymes that can hydrolyze beta-lactam antibiotics before those drugs reach their bacterial targets.
+:86. The study focused on a reference TEM beta-lactamase and resistance to cefotaxime, a third-generation cephalosporin.
+:87. Four of the five point mutations changed amino acids, while the fifth lay in a noncoding region that could affect how the gene was expressed.
+:88. That mixture already warns against describing the result as a story about protein shape alone.
+:89. The researchers created all 2 to the fifth power, or thirty-two, combinations of the five mutations.
+:90. They then measured the minimum inhibitory concentration of cefotaxime for bacteria carrying each gene variant.
+:91. This design is combinatorially complete for those five chosen sites because every corner of that small genetic cube was tested.
+:92. It is not complete for the rest of the gene, the rest of the bacterial genome, or the many other mutations that might affect resistance.
+:93. From the thirty-two measurements, the team could trace all 120 orders in which the five specified mutations might accumulate without reversals or simultaneous changes.
+:94. Eighteen paths increased measured resistance at every step.
+:95. Even among those eighteen, the study's population-genetic models assigned highly unequal probabilities to the routes.
+:96. An early mutation did more than add a little resistance because it changed which later improvements were available.
+:97. This is stronger evidence of path dependence than a chronology in which one mutation merely happened to occur before another.
+:98. The experimental map ties sequence to consequence and consequence to selective accessibility.
+:99. It also illustrates why the word accessible must be handled carefully.
+:100. The original calculation assumed a strong-selection, weak-mutation regime in which one mutation is fixed or lost before the next relevant mutation arises.
+:101. It treated a path as selectively accessible when each successive step increased resistance under the assay conditions.
+:102. Those assumptions create a clear test, but they do not describe every evolving population.
+:103. A mildly harmful mutation can sometimes persist or become fixed through genetic drift, especially when populations are small or structured.
+:104. Two mutations can arise before either has swept through a large population, a process that can bypass a low intermediate through genetic tunneling.
+:105. Recombination can join variants that arose in different individuals when the biology of the organism permits it.
+:106. Mutation bias can make some nominally possible steps much more common than others.
+:107. A changing environment can flatten a valley, move a peak, or reverse which genotype counts as better.
+:108. Later analysis of the same small map showed that allowing neutral steps, reversals, or multiple changes expands the set of formally available routes.
+:109. It is also useful to distinguish a mutation from a substitution when describing these routes.
+:110. A mutation is a new DNA change in an individual lineage, whereas a substitution is a variant that becomes established in a population over generations.
+:111. Most new mutations disappear, whether because they are harmful, because chance removes them, or because their carriers leave no descendants for unrelated reasons.
+:112. Selection does not foresee and choose a sequence of mutations, but instead biases the survival and reproduction of variants already present under current conditions.
+:113. The probability of a path therefore combines which mutations arise, which backgrounds receive them, and which variants persist long enough for another change to follow.
+:114. None of these qualifications erases the observed epistasis.
+:115. They change a claim of absolute impossibility into the more accurate claim that history alters probabilities, waiting times, and costs.
+:116. The laboratory map has further boundaries that matter for interpretation.
+:117. Its five mutations were selected because they connected two variants of special interest, rather than sampled at random from all possible changes.
+:118. Its measured landscape covered one antibiotic, one set of laboratory conditions, and one bacterial genetic context.
+:119. Minimum inhibitory concentrations are recorded in discrete dilution steps and cannot reveal every small difference in growth or transmission.
+:120. Clinical resistance also depends on gene copy number, plasmids, cell physiology, antibiotic exposure, ecological competition, and movement among hosts.
+:121. A thirty-two-genotype experiment cannot establish how rugged every protein landscape is.
+:122. Nor can reconstructing all combinations prove that nature traversed one particular route in the past.
+:123. What it can establish directly is that the effects of the chosen changes were conditional and that many direct uphill orders were closed under the stated test.
+:124. That is a substantial result precisely because its scope is limited enough to measure.
+:125. Epistasis is not simply another name for constraint.
+:126. A protein may be constrained by chemistry even if every mutation has the same effect in every background.
+:127. Path dependence appears when earlier variants modify the effect, availability, or cost of later variants.
+:128. Epistasis is also not a general trade-off between competing properties such as catalytic speed and stability.
+:129. A trade-off becomes path-dependent when an earlier compromise changes which later compromises can be reached through viable intermediates.
+:130. Nor does a restricted path imply determinism.
+:131. Several routes may remain open, different endpoints may be reachable, and mutation, drift, recombination, and environmental change still influence which route is taken.
+:132. A narrow space of accessible moves can contain more than one future.
+:133. Epistasis can even open possibilities as well as close them.
+:134. A permissive mutation may have little immediate effect yet stabilize a structure enough to tolerate a later function-changing mutation.
+:135. A compensatory mutation may rescue a harmful side effect after another change has occurred.
+:136. Gene duplication can leave one copy performing an old function while another accumulates changes under different constraints.
+:137. In each case, inherited background supplies an opportunity that a different background would not possess.
+:138. The past is therefore not merely a burden on molecular evolution but part of its working material.
+:139. Conditional effects also help explain why a change can become harder to reverse long after the conditions that first favored it have disappeared.
+:140. A mutation that initially raised fitness may be followed by other substitutions whose benefits depend on its presence.
+:141. Those later changes alter the background against which a return to the ancestral state would act.
+:142. Reversing the first mutation can then be harmful even if that mutation was not indispensable when it originally appeared.
+:143. Evolutionary biologists call this entrenchment because subsequent history deepens the commitment to an earlier state.
+:144. The glucocorticoid receptor research found such restrictive substitutions after the functional transition, making simple reversal of key earlier changes damaging in the later protein.
+:145. The result has been described as an epistatic ratchet, but a ratchet is again an analogy rather than a claim of absolute irreversibility.
+:146. Additional compensatory substitutions, duplication, or a changed environment might still create a different route to a similar function.
+:147. What has risen is the cost and complexity of reversal, not a metaphysical barrier against change.
+:148. Entrenchment distinguishes path dependence from mere inheritance because it identifies a feedback between early and late substitutions.
+:149. The early state shapes which later variants are favored, and those later variants in turn make departure from the early state more damaging.
+:150. This feedback can stabilize a useful molecular function by buffering it against many disruptive changes.
+:151. The same stability can narrow the routes by which the function can be modified when conditions change.
+:152. Useful continuity and restricted evolvability are therefore not opposites but possible consequences of the same web of interactions.
+:153. A molecular lock-in can be productive while it preserves coordinated parts, and constraining when alternatives require many coordinated replacements.
+:154. Epistasis does not decide whether such stability is good or bad because that judgment depends on the environment, the function, and the time horizon.
+:155. A modest protein of three hundred amino acids has 20 to the three-hundredth power possible sequences if every standard amino acid is allowed at every position.
+:156. That astronomical count describes theoretical combinations, not viable proteins waiting to be sampled with equal probability.
+:157. Real evolution moves through a network in which neighboring sequences differ by mutations that can actually occur and persist.
+:158. Epistasis changes the links in that network because a substitution can redirect, strengthen, weaken, or effectively remove later links.
+:159. Mutation rates, genetic architecture, population processes, and the environment shape the network as well.
+:160. The space of possibilities is an analytical model rather than a literal territory through which a lone population walks with a map.
+:161. Populations contain many individuals and sometimes many competing variants at once.
+:162. Selection changes variant frequencies probabilistically, while drift can preserve or remove variants regardless of a small fitness difference.
+:163. The landscape metaphor is useful when it reminds us to ask which transitions are connected, and misleading when it makes every valley look fixed and uncrossable.
+:164. Epistasis also extends beyond mutations within a single protein.
+:165. A regulatory variant may matter only after a second gene acquires a compatible target site.
+:166. A metabolic mutation may help only when another pathway supplies enough substrate or removes a toxic product.
+:167. Variants in different genes can mask, amplify, or reverse one another's effects through the networks in which their products participate.
+:168. Development, physiology, and behavior add further layers between genotype and reproductive success.
+:169. The same pair of mutations can consequently interact differently in different organisms or environments.
+:170. This broader context makes large genetic landscapes harder to reconstruct, not less historical.
+:171. It also cautions against treating the five-mutation beta-lactamase map as a miniature of all evolution.
+:172. Restricted paths can make evolution more repeatable when independent populations face the same environment from the same starting point.
+:173. Yet ruggedness can also make outcomes less predictable by offering several peaks, each reached through a different early event.
+:174. Predictability depends not only on the number of uphill paths but also on mutation supply, population size, competition among lineages, environmental change, and the probabilities of the available steps.
+:175. Fewer formal routes do not guarantee one repeated destination.
+:176. Laboratory reconstruction can reveal the signposts on paths chosen for study, but it cannot by itself show how populations distribute themselves across those paths through time.
+:177. That question requires parallel populations allowed to evolve for many generations under recorded conditions.
+:178. Repeated lineages can reveal which changes recur, which depend on earlier accidents, and which temporary losses survive long enough to enable later gains.
+:179. Stored samples can then let researchers return to earlier generations and test whether a later innovation would have worked in an ancestor that lacked the relevant preparation.
+:180. Such experiments move the study of order from a reconstructed sequence of molecular states to an observed sequence of population events.
+:181. At the molecular scale, history endures not as a memory inside the gene but as a change in what the next mutation can do.

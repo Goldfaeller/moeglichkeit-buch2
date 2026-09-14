@@ -1,0 +1,193 @@
+== 1. Der Raum des Möglichen ==
+
+:1. In the center of Leicester, several modern streets still trace the boundaries of a medieval Franciscan friary.
+:2. Most of the precinct wall has vanished from view.
+:3. Parts survive underground, while buildings, property lines, and streets preserve portions of its outline above them.
+:4. A pedestrian can follow that outline without knowing that a long-demolished institution is helping to direct the walk.
+:5. Nothing about the present traffic alone explains the pattern.
+:6. The explanation lies in a sequence: a wall bounded the friary, later construction respected the boundary, and still later uses inherited what earlier building had fixed.
+:7. The obstacle receded, but the accommodations made around it acquired foundations, owners, pipes, doors, habits, and legal descriptions.
+:8. Its material presence weakened as its consequences multiplied.
+:9. This is the kind of puzzle that a snapshot of the present cannot solve.
+:10. A street may bend around a vanished wall, a parcel may preserve the edge of a dissolved estate, and a passage may survive because generations of buildings opened onto it.
+:11. None of those forms is explained simply by saying that old cities are irregular.
+:12. The useful question is how a temporary condition became a durable arrangement.
+:13. That question turns a quaint survival into evidence.
+:14. It also reveals why replacing the missing wall would be easy while straightening everything built around its former boundary might be ruinously hard.
+:15. The wall is no longer the constraint.
+:16. The network of later dependencies is.
+:17. There are two different questions that can be asked about the shape of almost anything, and they are easily confused.
+:18. The first looks outward at present conditions: given what this thing must do now, what form would serve best?
+:19. This is the question of the engineer, the reformer, and the analyst, and it is indispensable when a system can be redesigned from scratch.
+:20. The second looks backward: what was here before, and what could be changed without destroying something that still had to work?
+:21. The first question compares outcomes.
+:22. The second reconstructs routes.
+:23. A present arrangement may be excellent, mediocre, or damaging, but its survival alone establishes none of those judgments.
+:24. Competition can remove some failures, selection can favor some variants, and deliberate reform can repair some mistakes.
+:25. Yet each of those processes works on the variants that are available from a particular starting point.
+:26. What remains is therefore not necessarily what an unconstrained designer would choose today.
+:27. It is what survived a sequence of tests while other possibilities were never reached, ceased to fit, or became too costly to pursue.
+:28. This does not make the present a mistake.
+:29. It makes the route to the present part of the explanation.
+:30. The name for this kind of explanation is path dependence.
+:31. The term is often diluted into the claim that history matters, but that claim is too broad to do much work.
+:32. Every street, organism, machine, and institution has a past, yet not every feature of each one is meaningfully path dependent.
+:33. A process is path dependent when earlier states or their order change the availability, probability, or cost of later states.
+:34. The sequence must alter what can happen next, not merely precede it.
+:35. If a thermostat restores the same room temperature after several brief disturbances, those disturbances occurred but left little relevant path dependence in the temperature it maintains.
+:36. If a steel beam bends because its present load exceeds its present strength, the immediate explanation is a physical constraint, even though the beam also has a manufacturing history.
+:37. If builders route a street around an obstruction and later construction makes the detour expensive to remove, the sequence itself has changed the later options.
+:38. These three cases separate mere history, present constraint, and path-dependent development.
+:39. Starting conditions matter too, but they are not the whole mechanism.
+:40. A boulder in the road constrains the first traveler whether it arrived by landslide or truck.
+:41. Path dependence begins when the response to that boulder changes the choices confronting later travelers after the boulder itself has gone.
+:42. Timing can matter as much as the initial condition.
+:43. Installing a bridge before a settlement expands may channel its roads differently from installing the same bridge after streets and property lines have hardened.
+:44. The same present pressure can therefore produce different responses in systems with different pasts.
+:45. One city can reroute traffic cheaply because it reserved a corridor, while another must negotiate thousands of dependencies created by earlier growth.
+:46. The contrast does not prove that one city was wiser at every stage.
+:47. It shows that earlier arrangements changed the price and visibility of later choices.
+:48. To make those altered choices thinkable, we need a second tool: the possibility space.
+:49. The possibility space is an analytical model, not a hidden geometric chamber in which real systems reside.
+:50. Its points represent states that the analysis treats as possible, and its connections represent transitions that could link one state to another.
+:51. Two states count as neighbors when a sufficiently small and workable change can carry the system between them.
+:52. This definition makes reachability more important than resemblance.
+:53. Two designs may look almost identical yet require incompatible factories, skills, or interfaces.
+:54. Two others may look quite different yet be connected by a sequence of inexpensive modifications.
+:55. The space of possibilities is also smaller than the space of descriptions.
+:56. A state may be imaginable in words but physically impossible.
+:57. It may be physically possible but unable to perform the required function.
+:58. It may perform the function in isolation but be unreachable through any sequence of affordable, compatible, and functioning intermediate states.
+:59. Theoretically thinkable, physically possible, functionally viable, and historically accessible are therefore four different tests.
+:60. Path dependence concerns the last test and the way earlier movement changes it.
+:61. A system does not hover above all conceivable designs, survey them, and select a destination.
+:62. It begins somewhere specific, equipped with particular materials, routines, contracts, categories, and skills.
+:63. From there it can usually move only through neighboring states.
+:64. Each intermediate state must work well enough for the system to keep operating, or someone must be able to carry the losses during the transition.
+:65. A city cannot suspend housing while every street is redrawn, and a hospital cannot stop treating patients while all its records, machines, and routines are replaced at once.
+:66. The cost of the intermediate steps can therefore block an attractive destination even when the destination itself would be affordable.
+:67. This is why a visible alternative is not necessarily an accessible one.
+:68. The landscape metaphor gives that problem a useful shape.
+:69. Imagine states as locations and some measure of performance as height.
+:70. A system can climb through small improvements and arrive on a modest hill from which every neighboring step leads downward.
+:71. A higher hill may exist elsewhere, but reaching it would require crossing a valley of temporarily worse performance.
+:72. That modest hill is a local optimum, not proof that the system has found the global optimum available under the chosen measure.
+:73. Local improvement can thus be individually sensible and collectively confining.
+:74. No stupidity, laziness, or conspiracy is required.
+:75. The valley may represent lost output, incompatible equipment, legal uncertainty, retraining, physical danger, or a period during which two systems must run side by side.
+:76. Some valleys can be crossed with reserves, adapters, subsidies, or coordinated migration.
+:77. Others are physically impassable, and still others only appear impassable because nobody has mapped a viable intermediate step.
+:78. The landscape image must not be mistaken for a measurable map possessed by the actors.
+:79. Real systems pursue several goals, disagree about their importance, and change while they are being observed.
+:80. Their terrain can move when the environment changes, a new material appears, or an interface opens a route that did not previously exist.
+:81. A region of possibilities can be lost, hidden, made expensive, or newly created.
+:82. The system also helps reshape its own terrain by building infrastructure, training people, and generating expectations around its present form.
+:83. The map is therefore partly a consequence of the journey.
+:84. That moving map explains why beginnings sometimes matter out of proportion to their size.
+:85. Contingency names the fact that an event occurred even though another outcome was possible under the circumstances.
+:86. It does not mean that the event lacked causes, that every alternative was equally likely, or that the result was arbitrary.
+:87. A deliberate choice can be contingent if the actors could reasonably have chosen otherwise.
+:88. A random event is contingent too, but randomness is only one source of contingency.
+:89. An unforeseen event may have been fully caused, while a tiny initial difference may be predictable in principle yet magnified beyond practical foresight.
+:90. These distinctions matter because a small beginning does not explain a large consequence by itself.
+:91. Most accidents fade.
+:92. A temporary detour that leaves no path, building, rule, or expectation behind is simply forgotten.
+:93. Contingency becomes historically powerful only when later processes preserve or amplify its effects.
+:94. This is the work of feedback.
+:95. Negative feedback counters a deviation and pulls a system back toward a range, as a thermostat does when room temperature changes.
+:96. Positive feedback makes a change more likely to produce further change in the same direction.
+:97. Positive here describes the sign of the loop, not its value for anyone affected by it.
+:98. A faint footpath can attract walkers because it is easier to follow, and their steps make it still clearer.
+:99. An early production advantage can increase sales, which finances learning and scale, which lowers costs and strengthens the advantage.
+:100. A communication standard can gain value as more people adopt it, because each user adds compatible partners for the others.
+:101. A method can spread because schools teach it, employers seek it, and students then choose it because employers seek it.
+:102. Expectations create another loop when people back the option they believe others will adopt.
+:103. These are different mechanisms: learning effects improve practice, scale effects lower unit costs, network effects increase compatibility value, and expectation effects coordinate bets on a future standard.
+:104. Their consequences may reinforce one another, but naming the mechanism prevents feedback from becoming a magical word for persistence.
+:105. Feedback also occurs when systems modify the environments to which they later respond.
+:106. The footpath changes the ground, the street attracts buildings, and the buildings make the street harder to move.
+:107. Biologists call some analogous processes niche construction when organisms alter features of their own selective environment.
+:108. Human systems do this with unusual speed because plans, laws, investments, and shared classifications can rebuild the surroundings deliberately.
+:109. Self-reinforcement does not continue without limit.
+:110. Markets saturate, maintenance costs rise, resources run short, competitors adapt, and negative feedback can arrest or reverse a trend.
+:111. Early advantage therefore changes probabilities rather than writing destiny.
+:112. When reinforcement lasts long enough for complementary dependencies to accumulate, it can produce lock-in.
+:113. Lock-in is not a lock in the literal sense.
+:114. It is a condition in which leaving an arrangement carries high and often self-reinforcing switching costs.
+:115. The bill is rarely located in the central object alone.
+:116. Moving a street is expensive because buildings, parcels, utilities, addresses, routes, and livelihoods have been fitted around it.
+:117. Replacing a technical standard can require new equipment, converted data, rewritten contracts, retrained workers, and coordination with everyone who must remain compatible.
+:118. Some costs are technical, some economic, some cognitive, and some institutional.
+:119. Sunk costs matter because abandoning an installed system may strand earlier investment, but future switching costs matter even when the old spending is irrecoverable either way.
+:120. The decisive question is what else has come to depend on the arrangement.
+:121. Nothing need forbid change for dependency to make change improbable.
+:122. Yet improbability is not impossibility.
+:123. Lock-in varies in strength, and shocks, coordinated replacement, gradual conversion, or a bridge between old and new systems can loosen it.
+:124. Nor is every lock-in a social failure.
+:125. A shared language, a reliable payment convention, or a common safety standard can create enormous value precisely because people can trust others to use it.
+:126. The benefit of coordination and the cost of departure arise from the same dependencies.
+:127. A lock-in can therefore be useful and change-inhibiting at once.
+:128. Dominance does not prove technical superiority, but neither does historical contingency prove inferiority.
+:129. The present arrangement must be evaluated by evidence, not acquitted or condemned by its history.
+:130. Evaluation requires another distinction, because constraints do not all come from paths.
+:131. Complex systems often face trade-offs among goals that draw on the same limited resources.
+:132. Speed may conflict with energy use, precision with robustness, efficiency with reserve, and specialization with range.
+:133. Such conflicts can exist even in a system with no relevant historical lock-in.
+:134. A trade-off is a relationship among objectives, while path dependence is a relationship between a sequence and later possibilities.
+:135. The two meet when an earlier compromise changes which later compromises are available or affordable.
+:136. Choosing a lightweight architecture may create compensating components, specialized tools, and expertise that guide the next twenty design choices.
+:137. By then, reversing the first compromise means unwinding what was fitted around it.
+:138. The original choice may have been reasonable under the conditions of its time and still become ill suited after those conditions change.
+:139. That is historical misalignment, not proof of an original mistake.
+:140. Trade-offs also do not mean that every change merely exchanges one harm for another.
+:141. A Pareto improvement makes at least one relevant objective better without making another worse, and neglected systems may contain many such improvements.
+:142. A Pareto frontier is reached only when improving one objective requires sacrificing another within the options then available.
+:143. Innovation can move that frontier by opening combinations that were previously impossible.
+:144. History can move it too, but sometimes inward, as skills disappear, interfaces close, and alternatives lose support.
+:145. A system that performs brilliantly today may be consuming its ability to move tomorrow.
+:146. The capacity to keep producing workable variation is called evolvability.
+:147. In plain language, it is the ability to continue changing.
+:148. The concept originated in evolutionary biology, where definitions and measures vary with the level and question under study.
+:149. Used more broadly, it directs attention to the number and variety of workable next steps a system retains.
+:150. Evolvability is not the same as present performance.
+:151. It is also distinct from flexibility, which permits adjustment within a range, and from resilience, which concerns recovery or continued function under disturbance.
+:152. Robustness preserves function despite change, while evolvability permits the production of useful new variation.
+:153. The two can conflict, but they can also support each other when tolerance allows variants to survive long enough to be tested.
+:154. Modularity can preserve evolvability by allowing one component to change without forcing simultaneous changes everywhere else.
+:155. Redundancy can provide a spare route or component that is not carrying the entire load and can acquire a new role.
+:156. Open interfaces can let alternatives connect without replacing a whole system at once.
+:157. Variation, error tolerance, reserves, and multiple suppliers can likewise preserve reachable neighborhoods in the possibility space.
+:158. None is a universal recipe, and each carries immediate costs.
+:159. Spare capacity looks idle, parallel systems duplicate effort, and modular interfaces may sacrifice some efficiency.
+:160. Their future value is uncertain and may never appear in a current budget.
+:161. This asymmetry helps explain why repeated optimization for visible short-term performance can gradually produce rigidity without anyone choosing fragility.
+:162. Path dependence is therefore not determinism.
+:163. A constraint removes or raises the cost of some options, whereas a determination selects a single outcome.
+:164. A valley channels a river, but within it the river can braid, meander, flood, cut new channels, and abandon old ones.
+:165. The analogy has limits because institutions and technologies can sometimes survey alternatives, coordinate investment, and deliberately reshape their valleys.
+:166. They can also fail to recognize routes that remain physically open.
+:167. A narrow possibility space may still contain several paths, while a wide one does not guarantee that a good path will be seen or chosen.
+:168. Similar pressures can even produce convergence, bringing systems with different histories toward comparable functions by different routes.
+:169. Such convergence shows that history constrains without controlling every result.
+:170. The strength of path dependence also differs across features of the same system.
+:171. A building may be easy to repaint, expensive to rewire, and practically impossible to move without demolition.
+:172. The useful question is not whether the whole building has a history, but which dependencies make a particular change difficult and which neighboring changes remain available.
+:173. A claim of path dependence must therefore identify evidence of a mechanism rather than point vaguely toward the past.
+:174. Persistence by itself is ambiguous.
+:175. An arrangement may persist because it still performs well, because present physics leaves no alternative, because law protects it, or because self-reinforcing dependencies make departure costly.
+:176. Only the last explanation is path dependence in the strict sense, although several explanations can operate together.
+:177. Diagnosing a path means showing how an earlier state or sequence changed a later choice set.
+:178. Counterfactual comparison helps because it asks what would probably have remained possible if an earlier event or order had differed.
+:179. Such comparison is not a license to invent a frictionless world in which every attractive alternative was available.
+:180. A serious counterfactual uses options, knowledge, resources, and intermediate steps that actors could plausibly have possessed at the time.
+:181. It also refuses to assume that the unchosen path would have been better merely because it was lost.
+:182. Some alternatives disappear because they fail, some because another option wins useful support, and some because investment in one route deprives its rivals of the complements they would need to develop.
+:183. Distinguishing the impossible, the uncompetitive, the underdeveloped, and the merely untried is part of reconstructing the possibility space honestly.
+:184. Human agency enters the picture not outside the path but within it, using inherited tools to alter the costs of future moves.
+:185. Adapters, compensation, retraining, parallel operation, and coordinated standards can turn a sheer valley into a sequence of survivable steps.
+:186. A shock may break dependencies quickly, while patient layering can redirect them without a dramatic rupture.
+:187. Conversely, a reform can look radical yet reproduce old categories, interfaces, and incentives, leaving the deeper path almost untouched.
+:188. A genuine path change alters the structure of later choices, not merely the appearance of the present arrangement.
+:189. The phrase possibility space matters because a space is not a cell.
+:190. Earlier paths shape its ridges, erase some exits, and open others, but they do not reduce the present to a single point.
+:191. The vanished wall in Leicester still organizes movement, yet what it has left behind is not a command from the past but a changed set of costs for the future.

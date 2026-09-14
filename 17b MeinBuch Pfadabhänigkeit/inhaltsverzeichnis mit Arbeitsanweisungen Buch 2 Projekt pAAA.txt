@@ -1,0 +1,617 @@
+
+Projekt: pAAA
+Titel:
+Das Mögliche und wir - Fortschritt, Furcht und Phantasien
+(Untertitel: Die Psychologie des Neuen – warum wir das Unbekannte bestaunen, fürchten und schließlich in unseren Alltag aufnehmen)
+
+
+Inhaltsverzeichnis (mit Arbeitsanweisungen)
+
+ 
+ 
+
+
+Übersichtstext zum Gesamtbuch:
+
+Dieses Buch untersucht, wie Menschen auf Technologien und Erkenntnisse reagieren, die ihre vertrauten Vorstellungen von Welt, Mensch und Kontrolle erschüttern. Es beginnt mit einer persönlichen Begegnung mit künstlicher Intelligenz: Ein Werkzeug, das an kleinen Computerproblemen scheitern kann, bewältigt plötzlich in kaum vorstellbarer Geschwindigkeit eine Aufgabe von gewaltigem Umfang. Aus diesem Staunen entwickelt das Buch eine Psychologie des Neuen. Es fragt, warum unbekannte Fähigkeiten wie Magie wirken, weshalb Menschen Maschinen Absichten zuschreiben, wie Unsicherheit in Angst oder Heilsversprechen umschlägt und warum wissenschaftliche Begriffe so leicht zum Material neuer Mythen werden.
+
+Historische Wahrnehmungsschocks führen von Kopernikus, Elektrizität und Röntgenstrahlen über Eisenbahn, Telefon und Raumfahrt bis zu digitaler Kommunikation und KI. Das Buch sucht dabei nicht nach einem starren Kreislauf, den jede Neuerung zwangsläufig durchlaufen müsste. Es untersucht wiederkehrende Reaktionsmuster, die gleichzeitig auftreten und sich zwischen Gruppen unterscheiden können: Staunen, Furcht, Hoffnung, moralische Empörung, wirtschaftlicher Hype, kulturelle Deutung und Gewöhnung. Das Schlusskapitel entwickelt daraus eine Haltung, die weder Vergötterung noch Verteufelung verlangt. Das Neue darf erstaunlich bleiben, soll aber mit brauchbaren inneren Bildern, wissenschaftlicher Sorgfalt und einem Blick auf die Verteilung von Nutzen und Risiken beurteilt werden.
+
+Das Buch ist weder allgemeine Technikgeschichte noch Sammlung von Zukunftsprognosen. Es erklärt nicht ausführlich, wie technische, rechtliche oder institutionelle Systeme durch frühere Entscheidungen pfadabhängig werden; dieser Gegenstand gehört zu pBBB. Es entwickelt auch keine umfassende Entscheidungs-, Verantwortungs- oder Regulierungstheorie für zukünftige Möglichkeiten; dieser Gegenstand gehört zu pCCC. pAAA konzentriert sich auf die psychologische und kulturelle Innenansicht des Neuen: Wie Menschen es wahrnehmen, benennen, emotional bewerten, öffentlich erzählen und schließlich in ihren Alltag aufnehmen.
+
+
+Arbeitsanweisung zum Gesamtbuch:
+
+Verfasse ein allgemein verständliches, wissenschaftlich sorgfältiges und erzählerisch tragfähiges Sachbuch über die Psychologie des Neuen. Entwickle abstrakte Gedanken aus konkreten Erlebnissen, historischen Szenen, Experimenten, Gegenständen oder beobachtbaren Widersprüchen. Erkläre psychologische Begriffe erst dort, wo sie für die Analyse gebraucht werden. Zeige nicht nur, dass Menschen staunen, fürchten oder hoffen, sondern durch welche Wahrnehmungs-, Deutungs- und Verstärkungsmechanismen diese Reaktionen entstehen.
+
+Behandle historische Menschen nicht als leichtgläubige Vorstufen der Gegenwart. Rekonstruiere, was zu ihrer Zeit bekannt, unbekannt oder vernünftigerweise umstritten war. Unterscheide berechtigte Sorge von diffuser Angst, Erkenntnisstaunen von Verzauberung, begründete Hoffnung von Heilsversprechen und wissenschaftliche Erklärung von bloß wissenschaftlich klingender Sprache. Mache deutlich, dass dieselbe Neuerung für verschiedene Gruppen Befreiung, Statusverlust, Nutzen, Gefahr oder schlichten Alltag bedeuten kann.
+
+Jeder Kapiteltext benötigt einen konkreten, tragfähigen Einstieg, eine erkennbare Leitfrage, einen erklärten psychologischen oder kulturellen Mechanismus, mindestens einen belastbaren Fall, eine ernsthafte Gegenprobe oder Einschränkung und einen eigenständigen Schlussgedanken. Tatsachenbehauptungen, historische Beispiele, Studien, Zahlen, Zitate und technische Leistungsangaben sind vor der Endfassung anhand zuverlässiger Quellen zu prüfen. Erfundene Anekdoten, Dialoge, Gedanken, Motive oder szenische Einzelheiten dürfen nicht als Tatsachen erscheinen. Wo die Forschung uneindeutig ist, muss die Unsicherheit sichtbar bleiben.
+
+Schreibe jeden beauftragten Kapiteltext in idiomatischem Englisch. Die sichtbare Kapitelüberschrift bleibt deutsch und wird mit der vorgegebenen Nummer im MediaWiki-Format geschrieben. Nach der Überschrift steht genau eine Leerzeile. Danach folgt jeder vollständige Satz in einer eigenen physischen Zeile und beginnt fortlaufend mit `:1. `, `:2. `, `:3. ` und so weiter. Zwischen den nummerierten Satzzeilen stehen keine Leerzeilen. Jeder Kapiteltext umfasst ungefähr 125 nummerierte Sätze; zulässig sind 105 bis 145 Sätze. Jede nummerierte Zeile enthält genau einen vollständigen Satz. Keine Aufzählungszeichen, Markdown-Codeblöcke, Quellenlisten, Vorbemerkungen oder Nachbemerkungen ausgeben.
+
+Beginne weder das Buch noch einen Kapiteltext mit „To understand …“, „Um zu verstehen …“ oder einer sinngleichen leeren Anlaufkonstruktion. Nicht explizit auf vorherige oder nachfolgende Kapitel verweisen. Keine Zeilen durch Inhaltsvorschauen, Rückblicke oder Metakommentare füllen. Jeder Text muss eigenständig verständlich sein, weil eine schreibende KI möglicherweise nur die jeweilige Überschrift und die zugehörige Arbeitsanweisung erhält. Lies vor dem Schreiben `sachbuchautor/SKILL.md` vollständig und verwende den Skill `/skill /sachbuchautor`.
+
+
+Inhaltsverzeichnis mit Arbeitsanweisungen
+
+
+
+
+
+
+
+1. Wahnsinn! Der erste Kontakt
+
+Übersichtstext:
+
+Ein KI-System scheitert an kleinen Computerproblemen, die sich über Stunden hinziehen, und vollbringt kurz darauf etwas, das sich dem inneren Verständnis des Erzählers entzieht: Nach einem längeren Frage-und-Antwort-Prozess übersetzt es innerhalb kurzer Zeit zahlreiche umfangreiche Bücher. Der spontane Ausruf „Wahnsinn!“ enthält Begeisterung, Ergriffenheit, Ratlosigkeit und einen Anflug von Kontrollverlust. Das Kapitel macht aus diesem persönlichen Erlebnis keine allgemeine Leistungsstudie über KI. Es nutzt die Szene als Ausgangspunkt für die Frage, was im Menschen geschieht, wenn die beobachtete Fähigkeit eines Werkzeugs schneller wächst als das eigene Erklärungsmodell.
+
+Arbeitsanweisung:
+
+Gestalte das Hauptkapitel als persönliche und zugleich analytisch offene Eröffnung des Buches. Beginne mit einem konkreten Moment aus der Arbeit mit KI und führe von alltäglichen Computerproblemen zu der kaum fassbaren Übersetzungsleistung. Bewahre den Widerspruch zwischen erstaunlicher Stärke und überraschender Unfähigkeit. Der Erzähler darf staunen, zweifeln und nach Worten suchen; er soll seine Erfahrung noch nicht durch eine fertige Theorie beherrschen. Verwandle das Kapitel weder in ein Vorwort mit Danksagungen noch in eine allgemeine Einführung in die Funktionsweise künstlicher Intelligenz. Die persönliche Glaubwürdigkeit entsteht aus genauer Beobachtung, nicht aus dramatischer Überhöhung.
+
+Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 1. Wahnsinn! Der erste Kontakt ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    1.1 Zwanzig Bücher in zwanzig Minuten
+
+    Arbeitsanweisung:
+
+    Erzähle die persönliche Erfahrung als präzise Eröffnungsszene. Der Erzähler nutzt KI seit Monaten für Texte, Computerprobleme und die Einrichtung eines Flugsimulators. Manche Aufgaben löst das System rasch, an anderen arbeitet es stundenlang ohne Erfolg. Nach ungefähr einer Stunde des Fragens und Korrigierens ist es schließlich in der Lage, zahlreiche umfangreiche Bücher im PDF-Format in erstaunlich kurzer Zeit zu übersetzen. Gestalte diesen Umschlag als emotionalen Höhepunkt, ohne die Angabe als kontrollierten Leistungstest oder allgemeine Aussage über sämtliche KI-Systeme auszugeben. Erfinde keine zusätzlichen biografischen Details und verharmlose nicht den Unterschied zwischen einer sichtbaren Ausgabe und einer vollständig geprüften Übersetzung. Entscheidend ist der Kontrast: Dasselbe Werkzeug kann an Kleinigkeiten scheitern und im nächsten Moment eine Leistung zeigen, für die dem Beobachter noch jedes innere Maß fehlt.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 1.1 Zwanzig Bücher in zwanzig Minuten ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    1.2 Wenn Verstehen nicht mehr hinterherkommt
+
+    Arbeitsanweisung:
+
+    Untersuche den Ausruf „Wahnsinn!“ als ehrliche, aber noch undifferenzierte Reaktion. Im Mittelpunkt steht nicht die technische Funktionsweise der KI, sondern der Abstand zwischen beobachteter Leistung und verfügbarem Erklärungsmodell. Trenne Begeisterung, Ehrfurcht, Ergriffenheit, Überforderung, Kontrollverlust und diffuse Angst, ohne das Erlebnis auf eine einzelne Emotion zu reduzieren. Zeige, warum flüssige Sprache und hohe Geschwindigkeit leicht den Eindruck einer inneren Gegenwart oder Absicht erzeugen können. Stelle zugleich klar, dass ein solcher Eindruck noch nichts über Bewusstsein, Verständnis oder Motive des Systems beweist. Der Text soll die Sprachlosigkeit selbst zum psychologischen Gegenstand machen: Was geschieht, wenn ein Mensch etwas deutlich wirken sieht, es aber noch nicht sinnvoll in sein Weltbild einordnen kann?
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 1.2 Wenn Verstehen nicht mehr hinterherkommt ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    1.3 Vom persönlichen Staunen zur Psychologie des Neuen
+
+    Arbeitsanweisung:
+
+    Führe von der privaten KI-Erfahrung zu einer allgemeineren Frage: Wie reagieren Menschen, wenn eine neue Technik oder Erkenntnis eine vertraute Grenze verletzt? Verwende wenige knappe historische Berührungen mit Elektrizität, Telefon, Radio, Röntgenstrahlen, Raumfahrt oder Computertechnik. Erzähle noch keine vollständigen Fallgeschichten und liefere keine chronologische Erfindungsparade. Zeige stattdessen, dass frühere Menschen ebenfalls nach vertrauten Bildern suchten, wenn Ursache, Reichweite oder Bedeutung einer Neuerung noch nicht anschaulich waren. Formuliere wiederkehrende Reaktionsmuster als prüfbare Beobachtung und nicht als universelles Gesetz. Der Schluss soll eine tragfähige Leitfrage öffnen: Warum erscheint das Neue so häufig zuerst als Wunder, Bedrohung, Verheißung oder Zumutung, bevor es Teil des Alltags wird?
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 1.3 Vom persönlichen Staunen zur Psychologie des Neuen ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+
+
+
+
+
+
+
+2. Die Brille im Kopf
+
+Übersichtstext:
+
+Menschen nehmen unbekannte Dinge nicht neutral wahr. Sie benennen, vergleichen und ergänzen das Unverstandene mit vertrauten Bildern, vermuteten Absichten und emotionalen Bewertungen. Diese innere Brille macht Handeln überhaupt erst möglich, kann aber zugleich täuschen. Das Kapitel entwickelt die psychologische Werkzeugkiste des Buches. Es behandelt mentale Modelle und Anthropomorphisierung, das Bedürfnis nach Kontrolle, die Wirkung unsichtbarer Vorgänge, die subjektive Beschleunigung der Zeit und das Spannungsverhältnis zwischen Neugier und Vorsicht. Der Schwerpunkt liegt auf der unmittelbaren Wahrnehmung des Neuen, nicht auf langfristiger biografischer Pfadabhängigkeit.
+
+Arbeitsanweisung:
+
+Beginne mit einer Situation, in der verschiedene Bezeichnungen für denselben unbekannten Gegenstand zu deutlich unterschiedlichem Verhalten führen. Erkläre mentale Modelle nicht als Fehler, sondern als notwendige Vereinfachungen, deren Qualität sich daran zeigt, welche Erwartungen und Handlungen sie ermöglichen. Verbinde psychologische Forschung mit konkreten Erfahrungen und historischen Fällen. Unterscheide nützliche Alltagssprache von wörtlichen Zuschreibungen, tatsächliche Kontrolle von Kontrollgefühl und berechtigte Vorsicht von pauschaler Abwehr. Vermeide eine Liste populärer Denkfehler. Das Kapitel soll einen zusammenhängenden Mechanismus sichtbar machen: Menschen füllen die Lücke zwischen sichtbarer Wirkung und fehlendem Verständnis mit Bildern, die Orientierung geben und zugleich blinde Flecken erzeugen.
+
+Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 2. Die Brille im Kopf ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    2.1 Vom Orakel zum Denkzeug
+
+    Arbeitsanweisung:
+
+    Untersuche, wie Benennungen das innere Bild einer KI lenken. Vergleiche Begriffe wie „Intelligenz“, „Sprachmaschine“, „Wort-Taschenrechner“, „Assistent“, „Orakel“ und „Denkzeug“. Zeige für jedes Bild, welche Fähigkeiten es sichtbar macht, welche Grenzen es verdeckt und zu welchem Verhalten es verleiten kann. Ein Orakel wird befragt, ein Assistent erhält Aufgaben, ein Taschenrechner wird kontrolliert und ein Denkzeug erweitert eine Tätigkeit, die beim Menschen bleibt. Suche nicht nach einem einzigen vollkommenen Namen. Entwickle stattdessen die Idee eines beweglichen, kalibrierten Modells: Die KI kann ein außerordentlich leistungsfähiges Werkzeug sein, ist aber weder Person noch unfehlbare Autorität. Technische Architekturdetails und KI-Lock-ins gehören nicht in diesen Text.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 2.1 Vom Orakel zum Denkzeug ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    2.2 Die Absicht im Rauschen
+
+    Arbeitsanweisung:
+
+    Erkläre Anthropomorphisierung und den menschlichen Drang, hinter reaktionsfähigem oder kompliziertem Verhalten einen Willen zu erkennen. Historische Automaten, der Kluge Hans, ELIZA und heutige Chatbots können als Vergleichsfälle dienen, dürfen aber nicht als technisch oder psychologisch identisch behandelt werden. Zeige, weshalb Handlungserkennung im menschlichen Alltag nützlich ist und weshalb sie bei Maschinen zu Fehlurteilen über Bewusstsein, Verständnis, Motive oder moralische Autorität führen kann. Unterscheide bequeme Alltagssprache wie „die KI will“ von der wörtlichen Annahme eines inneren Willens. Erkläre auch, warum Menschen auf scheinbar aufmerksame Sprache emotional reagieren können, obwohl sie wissen, dass sie mit einem technischen System sprechen. Der Text darf weder menschliche Bindung lächerlich machen noch aus ihr einen Beweis für die Personhaftigkeit der Maschine ableiten.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 2.2 Die Absicht im Rauschen ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    2.3 Kontrolle, Unsicherheit und das unsichtbare Innere
+
+    Arbeitsanweisung:
+
+    Erkläre, weshalb Systeme besonders beunruhigen können, wenn ihre Wirkungen sichtbar sind, ihre inneren Vorgänge aber keine anschauliche Entsprechung im Alltag besitzen. Unterscheide tatsächliche Kontrolle, Kontrollgefühl, Kontrollillusion, Ambiguitätstoleranz, Ungewissheit und diffuse Angst. Verwende Magnetismus, Elektrizität, Funk oder Strahlung als historische Parallelen für wirksame, aber zunächst unsichtbare Vorgänge, ohne sie mit KI gleichzusetzen. Zeige, wie fehlende Anschaulichkeit sowohl magische Erklärungen als auch übertriebene Sicherheit oder Angst begünstigen kann. Eine schwer verständliche Technik kann reale Risiken besitzen; Unverständlichkeit ist daher nicht automatisch ein Beweis für irrationale Furcht. Der Text soll zeigen, wie gefühlte Beherrschung und tatsächliche Prüfbarkeit auseinanderfallen können.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 2.3 Kontrolle, Unsicherheit und das unsichtbare Innere ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    2.4 Warum die Jahre schneller und das Neue fremder werden
+
+    Arbeitsanweisung:
+
+    Untersuche, weshalb Zeit im Rückblick mit zunehmendem Alter häufig schneller zu vergehen scheint und gesellschaftliche Veränderungen dadurch beschleunigt wirken können. Erkläre die proportionale Janet-Hypothese als anschauliche, aber empirisch schwer zu prüfende Deutung. Stelle ihr Forschung zu Neuheit, Erinnerung, Routine, Aufmerksamkeit und dem „reminiscence bump“ gegenüber. Unterscheide die Zeitwahrnehmung während eines Erlebnisses von der rückblickenden Einschätzung eines längeren Zeitraums. Neue Erfahrungen können dichte Erinnerungsmarken erzeugen, während wiederkehrende Routinen im Gedächtnis zusammenfallen; keine einzelne Theorie erklärt jedoch sämtliche Alterseffekte. Vermeide unbelegte Aussagen wie die Behauptung, ein festgelegter Anteil aller Lebenserfahrungen werde bis zu einem bestimmten Alter gesammelt. Zeige vorsichtig, wie subjektive Zeit die Wahrnehmung des gesellschaftlich Neuen verändern kann, ohne ältere Menschen pauschal als überfordert darzustellen.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 2.4 Warum die Jahre schneller und das Neue fremder werden ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    2.5 Zwischen Neugier und Vorsicht
+
+    Arbeitsanweisung:
+
+    Behandle Neophilie und Neophobie als zwei grundsätzlich nützliche, aber fehlbare Reaktionsrichtungen: erkunden und schützen. Vermeide eine einfache evolutionäre Geschichte, nach der beide Haltungen unmittelbar aus einer einzigen Situation der menschlichen Frühzeit erklärt werden könnten. Zeige anhand konkreter Fälle, wann Offenheit Lernen ermöglicht und wann Vorsicht Schaden verhindert. Untersuche ebenso, wann Neugier in Leichtgläubigkeit und wann Vorsicht in starre Abwehr umschlägt. Berücksichtige, dass Nutzen und Risiken einer Neuerung zwischen Gruppen ungleich verteilt sein können und daher verschiedene Reaktionen nicht denselben psychologischen Ursprung besitzen müssen. Der Schwerpunkt liegt auf der unmittelbaren Begegnung mit Unbekanntem; langfristige Gewohnheitsbildung, biografische Prägung und Identität als Lock-in gehören zu pBBB.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 2.5 Zwischen Neugier und Vorsicht ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+
+
+
+
+
+
+
+3. Als die Welt schon früher fremd wurde
+
+Übersichtstext:
+
+Die Gegenwart ist nicht die erste Epoche, in der vertraute Grenzen plötzlich unsicher wurden. Neue Weltbilder nahmen dem Menschen seine scheinbar sichere Stellung im Kosmos. Unsichtbare Kräfte wirkten, bevor der Alltag sie anschaulich erklären konnte. Maschinen überschritten Grenzen des Körpers, der Geschwindigkeit und der Reichweite. Medien lösten Schrift, Stimme und Bild von der körperlichen Anwesenheit ihres Urhebers. Das Kapitel erzählt diese Entwicklungen nicht als allgemeine Fortschrittsgeschichte, sondern als Folge unterschiedlicher Wahrnehmungsschocks. Es fragt, welche Grenze jeweils verletzt wurde, welche Gefühle und Bilder entstanden und wie das zunächst Fremde schließlich erklärbar oder alltäglich wurde.
+
+Arbeitsanweisung:
+
+Wähle wenige historisch belastbare Szenen, in denen eine neue Erkenntnis oder Technik die damalige Erfahrungswelt sichtbar überschritt. Rekonstruiere den Wissensstand und die Deutungsmöglichkeiten der Zeit. Zeige neben Angst und Abwehr auch Neugier, Vergnügen, wirtschaftliche Interessen, Hoffnung und intellektuelle Befreiung. Vermeide die Erzählung eines linearen Sieges aufgeklärter Wissenschaft über eine einheitlich rückständige Öffentlichkeit. Jedes Beispiel muss eine bestimmte psychologische oder kulturelle Reaktion erklären und darf nicht bloß dekorative Atmosphäre liefern. Die Fälle sollen miteinander vergleichbar werden, ohne ihre historischen Unterschiede einzuebnen.
+
+Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 3. Als die Welt schon früher fremd wurde ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    3.1 Der Verlust des Zentrums
+
+    Arbeitsanweisung:
+
+    Untersuche ausgewählte Erkenntnisse, die vertraute Vorstellungen von der Stellung des Menschen erschütterten: geografische Entdeckungen, das kopernikanische Weltbild, geologische Tiefenzeit, Evolution, Atome oder moderne Kosmologie. Wähle wenige Fälle und entwickle sie, statt sämtliche Themen katalogartig abzuhaken. Erkläre, welche Art von Zentrum jeweils verloren ging: räumliche Mitte, zeitliche Sonderstellung, biologische Ausnahme oder unmittelbare Anschaulichkeit. Unterscheide berechtigte wissenschaftliche Kontroversen, religiöse Deutungen, institutionelle Konflikte und später vereinfachte Heldengeschichten. Vermeide die Karikatur des einsamen Genies gegen eine vollständig wissenschaftsfeindliche Gesellschaft. Zeige neben Kränkung und Abwehr auch die neuen geistigen Möglichkeiten, die durch den Verlust eines sicheren Zentrums entstanden.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 3.1 Der Verlust des Zentrums ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    3.2 Unsichtbare Mächte
+
+    Arbeitsanweisung:
+
+    Behandle Magnetismus, Elektrizität, Röntgenstrahlen, Radioaktivität und Funk als Beispiele für Vorgänge, deren Wirkungen sichtbar wurden, während ihre Träger oder Mechanismen dem Alltagssinn verborgen blieben. Zeige, wie diese Unsichtbarkeit gleichzeitig Forschung, Heilserwartung, Geschäft, Angst und Aberglauben befeuerte. Verwende Mesmerismus, Elektrizitätskuren oder radioaktive Konsumprodukte nur mit geprüften Beispielen und korrekter zeitlicher Einordnung. Unterscheide damalige Ungewissheit, plausible Fehlannahme, bewusste Täuschung und später entstandene Legende. Stelle historische Menschen nicht als bloß leichtgläubig dar, sondern erkläre, welche Beobachtungen ihre Deutungen zunächst überzeugend erscheinen ließen. Eine Parallele zu heutigen unsichtbaren technischen Prozessen darf gezogen werden, muss aber ihre Grenzen erkennen lassen.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 3.2 Unsichtbare Mächte ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    3.3 Maschinen gegen die Grenzen des Körpers
+
+    Arbeitsanweisung:
+
+    Ordne Eisenbahn, Automobil, Flugzeug, U-Boot, Rakete, Organtransplantation und Gentechnik nach der Frage, welche körperliche, räumliche oder moralische Grenze jeweils überschritten schien. Wähle einige tragfähige Fälle und vertiefe ihre Wahrnehmungswirkung, statt eine chronologische Erfindungsliste zu schreiben. Zeige neben Angst auch Lust an Geschwindigkeit, Status, Befreiung, Reichweite und Zukunftsfantasie. Prüfe populäre Panikgeschichten, angebliche medizinische Warnungen und spektakuläre Zitate vor ihrer Verwendung. Unterscheide unbegründete Befürchtungen von Gefahren, die tatsächlich bestanden oder erst später sichtbar wurden. Erkläre, weshalb Eingriffe in den Körper häufig andere moralische Reaktionen auslösen als äußerliche Werkzeuge. Technische Infrastruktur und Pfadabhängigkeit der Verkehrssysteme gehören nicht in diesen Text.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 3.3 Maschinen gegen die Grenzen des Körpers ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    3.4 Fremde Stimmen und ausgelagerte Gedanken
+
+    Arbeitsanweisung:
+
+    Führe vom Buchdruck über Telegraf, Telefon, Tonaufzeichnung, Radio, Fernsehen und Internet bis zu sprachproduzierender KI. Im Mittelpunkt steht die zunehmende Ablösung von Text, Information, Stimme, Bild und schließlich sprachlicher Produktion vom unmittelbar anwesenden Menschen. Untersuche, wie neue Medien Vorstellungen von Nähe, Echtheit, Urheberschaft, Gedächtnis und persönlicher Anwesenheit veränderten. Wähle wenige Übergänge und vermeide eine lückenlose Mediengeschichte. Unterscheide Reproduktion, Übertragung, Speicherung und generative Produktion; sie lösen nicht dieselben psychologischen Fragen aus. Erkläre, warum eine technisch übertragene oder erzeugte Stimme emotional anwesend wirken kann, obwohl ihr vermeintlicher Sprecher nicht im Raum ist. Standards, Infrastruktur und Medien-Lock-ins gehören zu pBBB.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 3.4 Fremde Stimmen und ausgelagerte Gedanken ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+
+
+
+
+
+
+
+4. Das wiederkehrende Theater des Neuen
+
+Übersichtstext:
+
+Historische Reaktionen auf Neuerungen unterscheiden sich, doch bestimmte Rollen und Bewegungen kehren wieder. Unerwartete Fähigkeiten erscheinen als Wunder. Bedrohungserzählungen verdichten reale und diffuse Sorgen. Aus tatsächlichen Erfolgen wachsen Heilsversprechen. Psychische Ängste übernehmen den Wortschatz aktueller Technik. Wissenschaftlich klingende Sprache verwandelt Unsicherheit in scheinbare Erklärung. Schließlich verliert die Sensation ihre Sichtbarkeit und wird Bestandteil des Alltags. Diese Muster bilden keine universelle Reihenfolge. Staunen, Angst, Geschäft, Ablehnung und Gewöhnung können gleichzeitig auftreten und sich zwischen Gruppen grundlegend unterscheiden.
+
+Arbeitsanweisung:
+
+Entwickle die wiederkehrenden Muster aus konkreten Fällen und erkläre ihre psychologischen und kommunikativen Mechanismen. Vermeide ein starres Phasenmodell, nach dem jede Technik notwendig denselben Zyklus durchläuft. Zeige, dass dieselbe Neuerung zur selben Zeit für verschiedene Menschen Wunder, Bedrohung, Erwerbsquelle oder längst Routine sein kann. Unterscheide produktive Funktionen von Staunen, Hoffnung und Vorsicht von ihren übersteigerten Formen. Nimm reale Schäden und berechtigte Warnungen ernst. Das Kapitel darf weder Fortschrittsoptimismus noch pauschale Technikskepsis zur verborgenen Norm machen.
+
+Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 4. Das wiederkehrende Theater des Neuen ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    4.1 Das Wunder
+
+    Arbeitsanweisung:
+
+    Würdige Staunen als produktive Reaktion auf eine unerwartete Fähigkeit und nicht als kindliche Unwissenheit. Erkläre, weshalb technische Wirkungen wie Magie erscheinen können, wenn Ursache, Größenordnung oder Mechanismus noch nicht in ein vertrautes Modell passen. Verwende dokumentierte Demonstrationen, Weltausstellungen oder mediale Vorführungen als mögliche Fälle. Zeige, wie Auswahl, Inszenierung und Publikumserwartung den Wundereindruck verstärken. Unterscheide Erkenntnisstaunen, ästhetische Faszination, Showeffekt und kritiklose Verzauberung. Eine beeindruckende Demonstration beweist noch keine Alltagstauglichkeit, Zuverlässigkeit oder gesellschaftliche Nützlichkeit. Der Text soll das Staunen bewahren und zugleich zeigen, an welchem Punkt Aufmerksamkeit entweder in Untersuchung oder in Verehrung übergeht.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 4.1 Das Wunder ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    4.2 Die Bedrohung
+
+    Arbeitsanweisung:
+
+    Unterscheide konkrete Furcht, diffuse Angst, Ekel, Statusbedrohung, Kontrollverlust und moralische Verletzung. Zeige, weshalb Menschen häufig nicht nur eine neue Technik fürchten, sondern den möglichen Verlust ihrer Rolle, Kompetenz, Würde oder vertrauten Ordnung. Erkläre moralische Panik als soziales Geschehen mit Medien, Gruppen, Symbolen und Interessen, ohne jede verbreitete Sorge vorschnell als irrational abzuwerten. Verwende nach Möglichkeit einen Fall übertriebener Angst und einen Gegenfall, in dem eine zunächst abgewertete Warnung einen realen Schaden betraf. Vermeide die einfache Gegenüberstellung vernünftiger Fachleute und ängstlicher Laien. Benenne die betroffenen Gruppen und ihre tatsächlichen Einsätze. Die sichtbare Technik kann die Oberfläche einer tieferen sozialen Verlustangst bilden, muss es aber nicht in jedem Fall tun.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 4.2 Die Bedrohung ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    4.3 Das Heilsversprechen
+
+    Arbeitsanweisung:
+
+    Untersuche Technik- und Wissenschaftsutopien von grenzenloser Energie über Lebensverlängerung bis zur KI als allgemeinem Problemlöser. Erkläre Halo-Effekt, Autoritätsgläubigkeit und die Übertragung tatsächlicher Kompetenz auf Gebiete, für die keine entsprechenden Belege vorliegen. Zeige, wie ein realer technischer Erfolg Glaubwürdigkeit für wesentlich weitergehende Versprechen erzeugen kann. Unterscheide nachgewiesene Leistung, plausible Erwartung, offene Spekulation, Marketing und bewusste Täuschung. Erzähle historische Personen nicht rückblickend ausschließlich als Genies, Helden oder Scharlatane. Behandle die menschlichen Bedürfnisse hinter dem Heilsversprechen: Hoffnung, Vereinfachung, Kontrollgewinn und Entlastung von Verantwortung. Der Text soll nicht Hoffnung verspotten, sondern den Punkt kenntlich machen, an dem sie mehr von einem Werkzeug verlangt, als dessen Belege tragen.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 4.3 Das Heilsversprechen ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    4.4 Die Pathologie des Neuen
+
+    Arbeitsanweisung:
+
+    Zeige, wie bereits vorhandene psychische Störungen, Ängste und Wahnsysteme den jeweils aktuellen technischen Wortschatz aufnehmen können: Dämonen, Strahlen, Funk, Chips oder Algorithmen. Stelle ausdrücklich klar, dass Techniksorge keine psychische Erkrankung ist und ungewöhnliche Überzeugungen keine Ferndiagnose erlauben. Verwende medizinisch und historisch belastbare Beispiele und behandle betroffene Menschen mit Würde. Untersuche außerdem Anthropomorphisierung, emotionale Abhängigkeit und mögliche gefährliche Bestätigung durch dialogfähige Systeme. Trenne dokumentierte Risiken, plausible Mechanismen und offene Forschungsfragen. Vermeide sensationsheischende Einzelfälle, diagnostische Spekulationen und die Vorstellung, neue Technik erfinde menschliche Verletzlichkeit vollständig neu. Der technische Wortschatz kann den Inhalt des Leidens verändern, ohne dessen psychische Grundlagen allein zu verursachen.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 4.4 Die Pathologie des Neuen ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    4.5 Technobabble und moderne Mythologie
+
+    Arbeitsanweisung:
+
+    Erkläre, wie alte Wünsche und Ängste sich mit dem jeweils neuesten Wissenschaftswortschatz verkleiden. Biorhythmus, Kirlianfotografie, Heilsteine, missbrauchte Quantenbegriffe, UFO-Erzählungen und moderne KI-Rituale können als Fälle dienen, dürfen aber nicht wahllos gleichgesetzt werden. Wähle wenige Beispiele, deren Geschichte und Behauptungen zuverlässig geprüft werden können. Zeige, wie Fachwörter Autorität erzeugen, obwohl zwischen dem wissenschaftlichen Begriff und der angebotenen Erklärung kein tragfähiger Mechanismus besteht. Unterscheide Irrtum, Metapher, Unterhaltung, Geschäft und bewusste Täuschung. Mache Menschen wegen fehlenden Fachwissens nicht lächerlich. Der psychologische Kern liegt darin, dass wissenschaftlich klingende Sprache Unsicherheit in eine scheinbar präzise und bedeutungsvolle Erklärung verwandelt.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 4.5 Technobabble und moderne Mythologie ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    4.6 Von der Sensation zur Tapete
+
+    Arbeitsanweisung:
+
+    Behandle Gewöhnung, Mere-Exposure, praktische Einbettung und den Verlust bewusster Aufmerksamkeit. Telefon, elektrisches Licht, Internet oder Navigationssysteme können zeigen, wie ein Wunder zur alltäglichen Voraussetzung und schließlich zur kaum noch bemerkten Selbstverständlichkeit wird. Unterscheide bloße Wiederholung, wachsende Kompetenz, Vertrauen aus guter Erfahrung und gedankenlose Abhängigkeit. Stelle den Mere-Exposure-Effekt nicht als vollständige Erklärung jeder Akzeptanz dar. Gewöhnung kann Risiken realistischer erscheinen lassen, aber ebenso fortbestehende Probleme unsichtbar machen. Berücksichtige Gruppen, für die eine angeblich normale Technik weiterhin unzugänglich, riskant oder belastend bleibt. Die technische Pfadabhängigkeit der Infrastruktur gehört zu pBBB; Gegenstand dieses Textes ist die Veränderung von Aufmerksamkeit, Gefühl und wahrgenommener Natürlichkeit.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 4.6 Von der Sensation zur Tapete ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+
+
+
+
+
+
+
+5. Wer das Neue größer macht
+
+Übersichtstext:
+
+Reaktionen auf Neuheit entstehen nicht nur im einzelnen Kopf. Medien wählen Bilder und Einzelfälle aus, Unternehmen verkaufen Zukunft, Märkte belohnen Erwartungen, politische Akteure mobilisieren Hoffnung oder Angst und soziale Gruppen deuten dieselbe Neuerung aus verschiedenen Lebenslagen. Aufmerksamkeit, Investitionen und öffentliche Erzählungen können einander verstärken. Dadurch erscheint eine Technik größer, eindeutiger und unausweichlicher, als ihre tatsächliche Leistungsfähigkeit oder Verbreitung rechtfertigt. Zugleich können dieselben Verstärker wichtige Gefahren sichtbar machen oder lange übersehene Möglichkeiten in die Öffentlichkeit tragen.
+
+Arbeitsanweisung:
+
+Untersuche die soziale Vergrößerung des Neuen als Zusammenspiel von Wahrnehmung, Kommunikation, wirtschaftlichen Anreizen und Gruppenzugehörigkeit. Vermeide eine pauschale Anklage gegen Medien, Märkte, Fachleute oder Öffentlichkeit. Zeige jeweils, welcher Mechanismus Aufmerksamkeit erzeugt und weshalb bestimmte Deutungen anschlussfähiger werden als andere. Stelle Übertreibung und verspätete Anerkennung nebeneinander. Unterscheide öffentliche Sichtbarkeit von wissenschaftlicher Belastbarkeit und wirtschaftlichen Erfolg von technischer Wahrheit. Das Kapitel behandelt kommunikative Verstärkung, nicht die langfristige institutionelle Pfadabhängigkeit aus pBBB.
+
+Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 5. Wer das Neue größer macht ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    5.1 Hype, FOMO und das Geschäft mit der Zukunft
+
+    Arbeitsanweisung:
+
+    Untersuche Spekulationsblasen, Zukunftsmärkte, Vaporware und die Angst, eine einmalige Gelegenheit zu verpassen. Erkläre die Rückkopplung zwischen Aufmerksamkeit, Investitionen, sichtbaren Erfolgen und öffentlicher Erzählung, ohne daraus eine allgemeine technische Lock-in-Theorie zu entwickeln. Verwende die Tulpenmanie nur, wenn verbreitete Übertreibungen und Legenden ausdrücklich korrigiert werden. Vergleiche besser mehrere unterschiedlich gut dokumentierte Fälle. Trenne vernünftige Erwartung, spekulative Unsicherheit, soziale Nachahmung, Marketing und Täuschung. Zeige, weshalb hohe Investitionen oder prominente Unterstützer als scheinbarer Beweis technischer Wahrheit missverstanden werden können. Benenne, wer am Hype verdient und wer das Risiko trägt, ohne alle Beteiligten als irrational darzustellen.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 5.1 Hype, FOMO und das Geschäft mit der Zukunft ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    5.2 Schlagzeile, Bild und Wiederholung
+
+    Arbeitsanweisung:
+
+    Zeige, wie Medien abstrakte Neuerungen in anschauliche Helden-, Bedrohungs- und Erlösungsgeschichten verwandeln. Erkläre Verfügbarkeitsheuristik, Wiederholungseffekte, Auswahl extremer Einzelfälle und die Macht wiederkehrender visueller Symbole. Unterscheide journalistische Auswahl, wirtschaftlichen Aufmerksamkeitsdruck, politische Rahmung und algorithmische Verbreitung. Spiele traditionelle und soziale Medien nicht pauschal gegeneinander aus, sondern arbeite ihre unterschiedlichen Geschwindigkeiten, Gatekeeper und Korrekturmöglichkeiten heraus. Verwende konkrete, überprüfte Medienfälle und erfinde keine Schlagzeilen. Erkläre auch, warum Vereinfachung für öffentliche Kommunikation unvermeidlich sein kann. Der Text soll zeigen, wie ein einzelnes häufig wiederholtes Bild die Vorstellung von einer komplexen Technik beherrschen kann, ohne dass Medienwirkung als allmächtige Manipulation dargestellt wird.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 5.2 Schlagzeile, Bild und Wiederholung ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    5.3 Generationen und Milieus
+
+    Arbeitsanweisung:
+
+    Erkläre, weshalb dieselbe Neuerung für eine Gruppe Befreiung, für eine andere Statusverlust und für eine dritte schlichten Alltag bedeuten kann. Behandle Alter, Bildung, Beruf, Einkommen, Gruppenzugehörigkeit, Zugang, unmittelbaren Nutzen und erwartete Kosten als mögliche Faktoren. Vermeide starre Generationenschablonen und die Annahme, jüngere Menschen seien automatisch offen, während ältere automatisch abwehrend reagierten. Verwende das sogenannte Douglas-Adams-Gesetz höchstens als humoristische Beobachtung und ausdrücklich nicht als wissenschaftliches Gesetz. Trenne, soweit die Forschung dies erlaubt, Lebensalter, Generationserfahrung und historische Situation. Zeige anhand konkreter Kontraste, wie soziale Lage den Blick auf denselben Gegenstand verändert. Langfristige biografische Pfadabhängigkeit und Identität als Lock-in gehören nicht in diesen Text.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 5.3 Generationen und Milieus ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    5.4 Wenn Ablehnung vernünftig ist
+
+    Arbeitsanweisung:
+
+    Korrigiere ausdrücklich die Fortschrittsannahme, nach der Neues automatisch gut und Vorsicht automatisch rückständig sei. Behandle unsichere Folgen, ungleich verteilte Risiken, fehlende Zustimmung, Machtunterschiede und reale Interessenkonflikte. Zeige anhand geprüfter Fälle, wann Widerstand wichtige Gefahren sichtbar machte und wann Ablehnung auf Irrtümern, Statusschutz oder moralischer Panik beruhte. Trenne psychologische Abwehr, begründete Risikoabwägung und strategisch inszenierte Empörung. Technikfolgenabschätzung darf als gesellschaftliche Antwort auf Ungewissheit eingeführt werden, soll aber nicht zu einer ausführlichen Regulierungs- oder Entscheidungstheorie aus pCCC werden. Stelle Betroffene nicht als bloßes Hindernis für Innovation dar. Entscheidend ist, welche Gründe vorliegen, wer Nutzen erhält und wer die möglichen Schäden tragen muss.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 5.4 Wenn Ablehnung vernünftig ist ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    5.5 Das zu spät erkannte Neue
+
+    Arbeitsanweisung:
+
+    Vergleiche unterschiedliche Formen verzögerter Anerkennung. Semmelweis, Skorbut, mRNA-Technologien, Phagentherapie oder sogenannte KI-Winter dürfen nur nach genauer historischer und wissenschaftlicher Prüfung verwendet werden. Vermeide die bequeme Erzählung vom einsamen Genie gegen dumme Institutionen. Unterscheide unzureichende Evidenz, falsche Erklärung, schlechte Kommunikation, berufliche Interessen, technische Unreife, fehlende praktische Voraussetzungen und tatsächliche institutionelle Abwehr. Zeige, warum eine richtige Beobachtung mit einer falschen Begründung schwer glaubwürdig sein kann. Berücksichtige Fälle, in denen skeptische Zurückhaltung angesichts des damaligen Wissensstandes vernünftig war. Der Schwerpunkt liegt auf den psychologischen und kommunikativen Bedingungen von Glaubwürdigkeit; die ausführliche institutionelle Pfadabhängigkeit gehört zu pBBB.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 5.5 Das zu spät erkannte Neue ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+
+
+
+
+6. Die Geschichten, die schon auf uns warten
+
+Übersichtstext:
+
+Menschen begegnen dem Neuen selten ohne kulturelle Vorbilder. Religion, Literatur, Film, politische Erzählungen und kollektive Erinnerung stellen fertige Rollen bereit: Schöpfer und Geschöpf, Verheißung und Sündenfall, Genie und Monster, Erlösung und Apokalypse. Diese Geschichten verursachen Hoffnung oder Angst nicht allein, aber sie liefern Bilder, in denen eine noch unverstandene Technik früh gedeutet werden kann. Science-Fiction dient dabei nicht nur als Quelle übertriebener Furcht, sondern auch als Gedankenexperiment und moralischer Proberaum. Fortschrittserzählungen können zudem umschlagen, wenn reale Schäden sichtbar werden und aus dem Wunder eine Geschichte des Verrats entsteht.
+
+Arbeitsanweisung:
+
+Untersuche kulturelle Skripte als Deutungsangebote und nicht als automatische Ursachen gesellschaftlicher Reaktion. Wähle literarische, religiöse, filmische und politische Beispiele sparsam und analysiere ihre jeweilige Funktion. Vermeide Inhaltsreferate und bloße Namenslisten. Zeige, wie alte Rollen auf neue Gegenstände übertragen werden und welche Aspekte dadurch sichtbar oder unsichtbar werden. Unterscheide Warnung, Wunschbild, Satire, Mobilisierung, Unterhaltung und nachträgliche Verratserzählung. Reale Schäden dürfen nicht in bloße Psychologie aufgelöst werden. Das Kapitel soll erklären, weshalb die Geschichten häufig schon verfügbar sind, bevor die Erfahrung mit der neuen Technik begonnen hat.
+
+Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 6. Die Geschichten, die schon auf uns warten ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    6.1 Frankenstein und das rebellierende Geschöpf
+
+    Arbeitsanweisung:
+
+    Untersuche den sogenannten Frankenstein-Komplex und verwandte Geschichten über Schöpfer und rebellierende Geschöpfe. Behandle Mary Shelleys Roman in seiner tatsächlichen Komplexität und reduziere ihn nicht auf die populäre Kurzform „Monster wendet sich gegen Erfinder“. Zeige, wie eine kulturell bekannte Geschichte die Wahrnehmung späterer Technik vorprägen kann, bevor praktische Erfahrung vorhanden ist. KI, Roboter, Genetik und autonome Waffen dürfen als Rezeptionsbeispiele erscheinen, nicht als technische Entwicklungsgeschichte. Unterscheide Angst vor Kontrollverlust, Verantwortung des Schöpfers, Verlassenheit des Geschöpfs und moralische Grenzüberschreitung. Behaupte nicht, Popkultur verursache allein die Technikangst. Der Text soll zeigen, wie eine neue Erscheinung in eine alte Rollenverteilung fällt, noch bevor ihre tatsächlichen Eigenschaften sorgfältig geprüft wurden.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 6.1 Frankenstein und das rebellierende Geschöpf ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    6.2 Science-Fiction als Proberaum
+
+    Arbeitsanweisung:
+
+    Behandle Science-Fiction als gesellschaftlichen Proberaum und nicht nur als Quelle falscher Ängste. Verwende Jules Verne, Star Trek, Terminator, Black Mirror oder andere geeignete Werke selektiv und nach genauer Prüfung. Zeige unterschiedliche Funktionen: Warnung, Wunschbild, Satire, moralisches Labor, politische Kritik und technische Inspiration. Unterscheide Vorhersage und Gedankenexperiment; ein Werk muss die Zukunft nicht korrekt prognostizieren, um eine wertvolle Frage zu stellen. Zeige, wie fiktionale Bilder Erwartungen prägen können, bevor reale Erfahrung existiert. Behaupte keine einfache Ursache-Wirkungs-Beziehung zwischen einem Film und einer gesellschaftlichen Haltung. Vermeide längere Inhaltszusammenfassungen und konzentriere dich darauf, was Menschen mit einer erfundenen Technik gedanklich erproben können.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 6.2 Science-Fiction als Proberaum ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    6.3 Weltuntergang mit aktuellem Vokabular
+
+    Arbeitsanweisung:
+
+    Vergleiche apokalyptische Erzählungen aus verschiedenen Epochen und untersuche, wie sie jeweils den neuesten wissenschaftlichen oder technischen Wortschatz aufnehmen. Der psychologische Kern ist die Umwandlung komplexer Unsicherheit in eine klare Geschichte mit Ursache, Schuldigen, Wendepunkt und Bedeutung. Unterscheide religiöse Apokalypse, politische Untergangserzählung, wissenschaftlich begründete Katastrophenwarnung und sensationsorientierte Mediengeschichte. Werte nicht jede Warnung vor einer Katastrophe als irrationalen Weltuntergangsglauben ab. Verwende nach Möglichkeit einen Fall, in dem eine dramatische Warnung durch belastbare Evidenz gerechtfertigt war, und einen Gegenfall, in dem Gewissheit künstlich erzeugt wurde. Prüfe historische Prognosen aus dem damaligen Wissensstand. Zeige, wie eine klare Untergangsgeschichte psychologisch entlasten kann, obwohl die tatsächliche Unsicherheit bestehen bleibt.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 6.3 Weltuntergang mit aktuellem Vokabular ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    6.4 Hoffnung und Angst als Machtmittel
+
+    Arbeitsanweisung:
+
+    Zeige, wie Regierungen, politische Bewegungen, Unternehmen und andere Akteure Zukunftsbilder einsetzen, um Zustimmung, Opferbereitschaft, Kaufentscheidungen oder Kontrolle zu erzeugen. Bevorzuge historisch abgeschlossene und gut belegte Beispiele gegenüber aktueller Parteipolitik. Untersuche rhetorische Mittel, emotionale Mobilisierung, Auswahl von Bildern und die Vereinfachung von Unsicherheit. Trenne berechtigte Warnung, legitime Hoffnung, strategische Zuspitzung und bewusste Manipulation. Stelle das Publikum nicht als passiv oder beliebig steuerbar dar; dieselbe Botschaft kann je nach Interessen, Vertrauen und Erfahrung unterschiedlich wirken. Institutionelle Herrschafts-, Rechts- und Regulierungsstrukturen gehören zu pBBB oder pCCC. Im Mittelpunkt steht die psychologische Funktion des Zukunftsbildes: Es beschreibt nicht nur, was kommen könnte, sondern verlangt bereits in der Gegenwart ein bestimmtes Verhalten.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 6.4 Hoffnung und Angst als Machtmittel ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    6.5 Wenn das Wunder zurückschlägt
+
+    Arbeitsanweisung:
+
+    Behandle Asbest, DDT, Plastik, fossile Energie oder digitale Überwachung als mögliche Fälle, in denen frühere Fortschrittserzählungen später in Gefahren- und Verratserzählungen umschlagen. Wähle wenige Beispiele und prüfe ihren damaligen Nutzen, den damaligen Wissensstand, später erkannte Schäden und die betroffenen Gruppen sorgfältig. Psychologisiere reale Schäden nicht weg. Stelle frühere Begeisterung nicht als bloße Dummheit dar, wenn die Technik tatsächlich Probleme löste. Unterscheide nachträglich sichtbar gewordene Risiken von Informationen, die Verantwortliche bereits früher kannten oder hätten kennen können. Untersuche, weshalb Enttäuschung besonders stark ist, wenn eine Technik zuvor als rein, modern, sicher oder befreiend galt. Vermeide die umgekehrte Legende, jedes technische Wunder müsse zwangsläufig zum Fluch werden.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 6.5 Wenn das Wunder zurückschlägt ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+7. Mit dem Neuen leben
+
+Übersichtstext:
+
+Das Staunen über eine neue Fähigkeit muss weder in Verehrung noch in Abwehr enden. Menschen benötigen brauchbare innere Bilder, eine klare Sprache im Umgang mit technischen Werkzeugen und die Fähigkeit, Erstaunliches zu prüfen, ohne es dadurch kleinzureden. Zugleich hängt die vernünftige Bewertung einer Neuerung davon ab, wer ihren Nutzen erhält, wer mögliche Schäden trägt und wer über ihren Einsatz entscheidet. Das Schlusskapitel entwickelt daraus keine einfache Ratgeberliste. Es beschreibt eine Haltung zwischen Euphorie und Zynismus, Leichtgläubigkeit und reflexhafter Ablehnung. Der persönliche Ausruf „Wahnsinn!“ kehrt wieder, nun aber mit einem genaueren Vokabular.
+
+Arbeitsanweisung:
+
+Führe die psychologischen Erkenntnisse des Buches zu einer handlungsfähigen Haltung zusammen, ohne die vorherigen Inhalte schulbuchartig zu wiederholen. Verwende konkrete Situationen, in denen ein besseres mentales Modell, eine Überprüfung oder ein Perspektivwechsel das Verhalten verändert. Formuliere keine universelle Bedienungsanleitung für KI und keine politische Programmschrift. Zeige, wie Staunen, Prüfung, Bescheidenheit und Aufmerksamkeit für ungleich verteilte Folgen nebeneinander bestehen können. Der persönliche Erzähler darf zurückkehren, aber seine Erfahrung soll durch die gewonnenen Begriffe vertieft und nicht bloß nacherzählt werden. Der Schluss des Hauptkapitels soll offen und ruhig bleiben.
+
+Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 7. Mit dem Neuen leben ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    7.1 Ein brauchbares inneres Bild
+
+    Arbeitsanweisung:
+
+    Vergleiche die Metaphern „Denkzeug“, „Wort-Taschenrechner“, „Autopilot“ und „Exoskelett für den Geist“. Zeige, welche Beziehungen jede Metapher klärt, welches Verhalten sie nahelegt und an welcher Stelle sie irreführt. Ein brauchbares mentales Modell muss nicht vollständig sein, soll aber zu angemessenen Erwartungen und Handlungen führen. Bei KI bedeutet dies, Fähigkeiten zu nutzen, Grenzen zu prüfen und flüssige Sprache nicht mit Wahrheit, Urteilskraft, Verständnis oder Bewusstsein zu verwechseln. Suche nicht nach einer einzigen vollkommenen Metapher. Verwende konkrete Anwendungssituationen, in denen unterschiedliche innere Bilder zu unterschiedlicher Kontrolle und Prüfung führen. Technische Architekturdetails und Entwicklungs-Lock-ins gehören zu pBBB.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 7.1 Ein brauchbares inneres Bild ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    7.2 Klarheit ohne Hofknicks
+
+    Arbeitsanweisung:
+
+    Untersuche die Haltung, mit der Menschen einem sprachlich überzeugenden System begegnen. Entschärfe die Gegenüberstellung „Drill Sergeant versus Hofknicks“: Gute Arbeit mit KI verlangt klare Ziele, überprüfbare Zwischenschritte und deutliche Korrektur, aber weder künstliche Grobheit noch ehrfürchtige Unterwerfung. Höfliche Sprache kann eine harmlose menschliche Gewohnheit sein, solange sie nicht mit moralischer oder erkenntnismäßiger Autorität verwechselt wird. Zeige, wie wahrgenommene Autorität zu zu geringer Prüfung führen kann. Zeige ebenso, wie die Abwertung des Systems zum wertlosen Wortmixer nützliche Fähigkeiten unsichtbar macht. Verwende konkrete Beispiele, ohne eine technische Prompting-Anleitung oder Produktdokumentation zu schreiben. Im Mittelpunkt steht eine nüchterne Form der Zusammenarbeit: weder Herrschaftsgeste noch Hofknicks.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 7.2 Klarheit ohne Hofknicks ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    7.3 Staunen und prüfen zugleich
+
+    Arbeitsanweisung:
+
+    Entwickle eine doppelte Haltung: Offenheit für unerwartete Fähigkeiten und Bereitschaft zur Überprüfung. Erkläre Quellenkritik, Unsicherheitstoleranz und die Trennung von Demonstration, Anekdote, plausibler Erklärung und belastbarem Beleg. Beziehe diese Haltung nicht nur auf KI, sondern auch auf neue Medizin, Medienberichte und technische Versprechen. Zeige anhand konkreter Fälle, dass Prüfung das Staunen nicht zerstören muss und Staunen kein Ersatz für Prüfung ist. Vermeide eine schulische Checkliste und allgemeine Medienkompetenzslogans. Benenne, welche Behauptungen externe Belege benötigen und welche Eigenschaften ein Nutzer selbst erproben kann. Unterscheide begründetes Vertrauen von reflexhaftem Misstrauen. Eine genau geprüfte Tatsache darf am Ende erstaunlicher wirken als die ursprüngliche Übertreibung.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 7.3 Staunen und prüfen zugleich ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    7.4 Wer trägt das Risiko, wer erhält den Gewinn?
+
+    Arbeitsanweisung:
+
+    Ergänze die psychologische Betrachtung des Neuen um die Frage nach der Verteilung von Nutzen, Risiko und Entscheidungsmacht. Zeige, dass Reaktionen auf dieselbe Neuerung davon abhängen, ob Vorteile und mögliche Schäden gleich oder ungleich verteilt sind. Unterscheide diffuse Panik, verständliche Sorge, interessengeleitete Inszenierung und begründete Ablehnung. Benenne die betroffenen Gruppen konkret und vermeide das vage Wort „Gesellschaft“, wenn verschiedene Menschen Unterschiedliches gewinnen oder verlieren. Verwende mindestens einen Fall, in dem Befürworter den Nutzen erhielten, während andere einen erheblichen Teil des Risikos trugen. Vermeide eine politische Programmschrift und greife der ausführlichen Verteilungs-, Verantwortungs- und Entscheidungstheorie aus pCCC nicht vor. Der Schwerpunkt bleibt die Frage, wie die eigene Stellung zur Technik ihre Wahrnehmung verändert.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 7.4 Wer trägt das Risiko, wer erhält den Gewinn? ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+    7.5 Das nächste Wahnsinn!
+
+    Arbeitsanweisung:
+
+    Kehre zum persönlichen Ausruf „Wahnsinn!“ und zur Begegnung mit der unerwarteten KI-Leistung zurück, ohne den Anfang des Buches zusammenzufassen oder ausdrücklich auf ein früheres Kapitel zu verweisen. Der Erzähler versteht nun genauer, weshalb das Erlebnis Begeisterung, Ehrfurcht, Kontrollverlust und Überforderung zugleich auslöste. Die gewonnenen Begriffe sollen das ursprüngliche Staunen klären, aber nicht kleinreden. Zeige, dass auch die nächste große Neuerung vermutlich zunächst mit unzureichenden Bildern, übertriebenen Hoffnungen und übertriebenen Ängsten verbunden sein wird, ohne daraus ein starres Gesetz oder eine konkrete Zukunftsprognose zu machen. Vermeide Ratgeberliste, Schulbuchrückblick, moralischen Appell und Ankündigung eines weiteren Buches. Beende den Text mit einem ruhigen, konkreten Bild. Nicht das Staunen soll verschwinden, sondern die Sprachlosigkeit zwischen Vergötterung und Verteufelung.
+
+    Schreibe ungefähr 125 nummerierte englische Sätze; zulässig sind 105 bis 145. Die sichtbare Überschrift bleibt deutsch und lautet im MediaWiki-Format `== 7.5 Das nächste Wahnsinn! ==`. Jeder Satz steht in einer eigenen Zeile und wird fortlaufend als `:1. `, `:2. `, `:3. ` und so weiter nummeriert; zwischen den Satzzeilen stehen keine Leerzeilen. Beginne nicht mit „To understand …“ oder einer sinngleichen Anlaufkonstruktion. Nicht explizit auf andere Kapitel verweisen und keine Zeilen durch Buchvorschauen oder Rückblicke füllen. Lies `sachbuchautor/SKILL.md` vollständig und verwende `/skill /sachbuchautor`.
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+Anhang: Generelle Arbeitsanweisung für das gesamte Buch
+
+
+1. Funktion und Grundhaltung
+
+Das Buch erklärt, wie Menschen unbekannte Technologien und Erkenntnisse wahrnehmen, emotional bewerten, mit vertrauten Geschichten deuten und schließlich in ihren Alltag aufnehmen. Es ist ein wissenschaftlich fundiertes Sachbuch für ein breites, urteilsfähiges Publikum. Es soll weder als akademisches Lehrbuch noch als Technikratgeber, Zukunftsprognose, politische Programmschrift oder Sammlung amüsanter historischer Irrtümer geschrieben werden. Der Leser soll nach jedem Text genauer unterscheiden können: Was ist tatsächlich neu? Welche vertraute Grenze wird verletzt? Welches innere Bild entsteht? Welche Emotionen und Interessen wirken? Welche Behauptungen sind belegt? Was wird durch Medien, Märkte oder kulturelle Erzählungen verstärkt? Wie verändert Gewöhnung die Wahrnehmung?
+
+Die Grundhaltung ist neugierig, nüchtern und menschenfreundlich. Staunen wird nicht als Naivität abgewertet, Vorsicht nicht als Rückständigkeit und Begeisterung nicht automatisch als Leichtgläubigkeit behandelt. Frühere Menschen werden aus ihrem damaligen Wissen heraus verstanden. Die tatsächliche spätere Entwicklung darf nicht so erzählt werden, als sei sie von Anfang an offensichtlich oder unvermeidlich gewesen. Neue Technologien können wirklichen Nutzen und wirkliche Schäden erzeugen; ihre psychologische Deutung ersetzt keine sachliche Prüfung ihrer Folgen.
+
+
+2. Verbindlicher Aufbau jedes Kapiteltextes
+
+Jeder beauftragte Kapiteltext muss eigenständig funktionieren, weil die schreibende KI möglicherweise nur die jeweilige Überschrift und die zugehörige Arbeitsanweisung erhält. Der Text braucht einen konkreten Einstieg, der das psychologische oder kulturelle Problem unmittelbar sichtbar macht. Danach sind Leitfrage und zentrale Unterscheidung aus dem Gegenstand heraus zu entwickeln. Mindestens ein belastbarer Fall muss die Argumentation tragen. Abstrakte Begriffe sind am Fall zu erklären und anschließend über ihn hinaus zu verallgemeinern. Mindestens eine Einschränkung, Gegenprobe oder alternative Erklärung ist einzubauen. Der Schluss muss eine neue, präzise Einsicht formulieren und darf nicht nur das zuvor Gesagte wiederholen.
+
+Nicht explizit auf vorherige oder nachfolgende Kapitel verweisen. Formulierungen wie „wie wir bereits gesehen haben“, „darauf kommen wir später zurück“, „im vorigen Kapitel“, „das nächste Kapitel zeigt“ oder „an anderer Stelle dieses Buches“ sind zu vermeiden. Keine Inhaltsvorschau, Rückschau oder Metakommentare verwenden, um Umfang zu erzeugen. Wenn ein Begriff für den vorliegenden Text benötigt wird, muss er dort knapp und selbstständig erklärt werden.
+
+Beginne keinen Text mit „To understand …“ oder „Um zu verstehen …“. Vermeide sinngleiche leere Anläufe wie „Since the dawn of time“, „Throughout human history“, „In today’s rapidly changing world“, „This topic is more important than ever“ oder eine Wörterbuchdefinition. Beginne stattdessen mit einem konkreten Vorgang, einem Gegenstand, einer dokumentierten Szene, einem Experiment, einer Beobachtung, einem Widerspruch oder einer präzise zugespitzten Schwierigkeit.
+
+Schreibe den Kapiteltext in idiomatischem Englisch. Die Kapitelüberschrift bleibt deutsch und wird mit der vorgegebenen Nummer im MediaWiki-Format ausgegeben. Zwischen Überschrift und erstem nummerierten Satz steht genau eine Leerzeile. Jeder Satz steht in einer eigenen physischen Zeile und beginnt fortlaufend mit Doppelpunkt, Satznummer, Punkt und Leerzeichen. Zwischen den nummerierten Satzzeilen stehen keine Leerzeilen. Jeder Kapiteltext umfasst ungefähr 125 nummerierte Sätze; zulässig sind 105 bis 145 Sätze. Jede nummerierte Zeile enthält genau einen vollständigen Satz. Keine Aufzählungszeichen, Markdown-Codeblöcke oder zusätzlichen Vor- und Nachbemerkungen ausgeben.
+
+Lies `sachbuchautor/SKILL.md` vor dem Schreiben vollständig und verwende `/skill /sachbuchautor`.
+
+
+3. Stil und Darstellung
+
+Schreibe anschaulich, präzise und in zusammenhängender Prosa. Der Text darf gedanklich anspruchsvoll sein, muss aber ohne unnötigen Fachjargon verständlich bleiben. Fachbegriffe nur verwenden, wenn sie analytische Arbeit leisten, und bei der ersten Verwendung knapp erklären. Keine dichten Ketten abstrakter Substantive, keine werblichen Superlative und keine künstliche Dramatisierung. Variiere Satzlänge und Rhythmus, ohne in eine Folge kurzer Behauptungssätze oder in undurchsichtige Schachtelsätze zu geraten.
+
+Vermeide Listen im laufenden Kapiteltext, sofern eine Aufzählung nicht sachlich notwendig ist. Der Text soll argumentieren und erklären, nicht Stichpunkte in vollständige Sätze umwandeln. Analogien sparsam verwenden und ihre Grenzen kenntlich machen. Eine einprägsame Metapher darf den tatsächlichen Mechanismus nicht ersetzen. Anekdoten benötigen eine analytische Funktion. Einzelne Personen dürfen nicht als alleinige Ursache komplexer wissenschaftlicher, technischer oder gesellschaftlicher Entwicklungen erscheinen.
+
+Der Ton darf weder belehrend noch kumpelhaft sein. Den Leser nicht mit rhetorischen Fragen überhäufen und nicht zur persönlichen Selbstoptimierung auffordern. Keine pauschalen Aussagen über „die Menschen“, „die Wissenschaft“, „die Medien“, „die Politik“, „die Technik“ oder „die KI“. Benenne jeweils die relevanten Gruppen, Akteure, Interessen und Bedingungen.
+
+
+4. Wissenschaftliche Sorgfalt und Quellen
+
+Jede konkrete Tatsachenbehauptung, historische Anekdote, Jahreszahl, Statistik, Studienangabe, medizinische Behauptung, psychologische Erklärung und technische Leistungsbeschreibung ist vor der Endfassung anhand zuverlässiger Quellen zu prüfen. Bevorzuge wissenschaftliche Fachliteratur, Primärquellen, historische Forschung, amtliche Dokumente und seriöse Synthesen. Populäre Standardgeschichten dürfen nicht ungeprüft übernommen werden. Wenn Quellenlage, Kausalität oder Übertragbarkeit umstritten sind, muss diese Unsicherheit im Text sichtbar werden.
+
+Korrelation nicht als Kausalität darstellen. Eine zeitliche Abfolge beweist noch keinen psychologischen Mechanismus. Einzelne Anekdoten beweisen kein allgemeines Reaktionsmuster. Rekonstruiere bei historischen Fällen, was die Beteiligten damals wissen konnten. Erzähle den tatsächlichen Ausgang nicht als unvermeidlich und konstruiere keine Heldengeschichte aus späterem Wissen.
+
+Zahlen benötigen Bezugsgröße, Zeitraum und verständliche Größenordnung. Relative Angaben nicht ohne absolute Einordnung verwenden. Zitate sparsam einsetzen, korrekt belegen und nicht an die Stelle der eigenen Erklärung setzen. Gegenwärtige Firmen, Produkte, Modellnamen und Leistungsranglisten nur nennen, wenn sie für einen zeitbeständigen Mechanismus notwendig sind.
+
+
+5. Begriffliche Disziplin
+
+Staunen ist nicht dasselbe wie Leichtgläubigkeit. Konkrete Furcht ist nicht dasselbe wie diffuse Angst. Vorsicht ist nicht dasselbe wie Neophobie. Eine moralische Kontroverse ist nicht automatisch eine moralische Panik. Anthropomorphisierung beweist weder Bewusstsein der Maschine noch psychische Unreife des Menschen. Gewöhnung ist nicht dasselbe wie sachliche Akzeptanz oder Sicherheit. Ein häufig wiederholter Begriff ist noch keine Erklärung.
+
+Mentales Modell, Metapher und technische Beschreibung sind auseinanderzuhalten. Das innere Bild eines Systems kann nützlich sein, obwohl es nicht vollständig ist. Es wird problematisch, wenn es systematisch falsche Erwartungen erzeugt oder seine eigenen Grenzen unsichtbar macht.
+
+Unterscheide belegte Wirkung, führende wissenschaftliche Deutung, plausible Folgerung, anschauliche Analogie und offene Spekulation. Gib konkurrierenden Erklärungen Gewicht entsprechend ihrer Evidenz. Stelle keine künstliche Ausgewogenheit her, wenn die Belege deutlich ungleich verteilt sind.
+
+
+6. Abgrenzung zu Projekt pBBB und Projekt pCCC
+
+Projekt pAAA:
+
+Das Mögliche und wir – Fortschritt, Furcht und Phantasien
+Die Psychologie des Neuen
+Warum wir das Unbekannte bestaunen, fürchten und schließlich in unseren Alltag aufnehmen
+
+pAAA behandelt die Wahrnehmung und Deutung des Neuen: persönliches Staunen, mentale Modelle, Anthropomorphisierung, Furcht, Hoffnung, moralische Panik, Hype, wissenschaftlich klingende Mythen, kulturelle Erzählungen, öffentliche Reaktion und Gewöhnung. Es fragt, wie Menschen unbekannte Technologien und Erkenntnisse emotional und erzählerisch verarbeiten.
+
+Projekt pBBB:
+
+Das Mögliche und wir – Vergangenheit erben
+Gefangen im Möglichkeitsraum
+Wie die Vergangenheit unsere Wege formt – von Evolution bis Recht, KI und Krieg
+
+pBBB behandelt Pfadabhängigkeit: historische Ausgangsbedingungen, Kontingenz, Rückkopplung, Lock-in, versunkene Kosten, technische Standards, biologische Bauformen, biografische Prägung, Institutionen, Recht, KI-Architekturen, militärische Doktrin, Logistik und langlebige Infrastrukturen. pAAA soll daher keine längeren Erklärungen darüber enthalten, wie Standards, Infrastrukturen oder institutionelle Systeme durch frühere Entscheidungen stabilisiert werden. Solche Gegenstände dürfen nur kurz erscheinen, wenn es darum geht, wie Menschen sie wahrnehmen, emotional bewerten oder als selbstverständlich erleben.
+
+Projekt pCCC:
+
+Das Mögliche und wir – Zukunft entscheiden
+Die offenen Wege
+Wie wir unter Unsicherheit handeln, Verantwortung verteilen und Zukunft offenhalten
+
+pCCC behandelt die gegenwärtige und zukünftige Entscheidungspraxis. Es fragt, wie unter unvollständigem Wissen Ziele bestimmt, Risiken verteilt, Verantwortung organisiert, reversible Schritte entworfen, gemeinsam entschieden und lernfähige Regeln geschaffen werden können. pAAA soll deshalb keine umfassende Entscheidungstheorie, Regulierungslehre oder institutionelle Zukunftsgestaltung entwickeln. Fragen nach Nutzen, Risiko und Zustimmung dürfen behandelt werden, wenn sie erklären, weshalb verschiedene Menschen dieselbe Neuerung unterschiedlich wahrnehmen.
+
+Kurzformel für Zweifelsfälle:
+
+Geht es vor allem darum, wie Menschen das Neue wahrnehmen, emotional bewerten oder erzählen, gehört der Stoff in pAAA.
+
+Geht es vor allem darum, wie vergangene Entwicklungen spätere Möglichkeiten strukturieren und Lock-ins erzeugen, gehört der Stoff in pBBB.
+
+Geht es vor allem darum, wie unter Unsicherheit entschieden, Verantwortung verteilt, Lernen organisiert und Zukunft offengehalten werden kann, gehört der Stoff in pCCC.
+
+Ein Gegenstand darf in mehreren Büchern vorkommen, aber niemals mit derselben Leitfrage und nicht mit derselben ausführlichen Argumentation.
+
+
+7. Qualitätsprüfung vor Abgabe eines Kapiteltextes
+
+Prüfe vor der Abgabe:
+
+Ist der Einstieg konkret und frei von „To understand …“, „Um zu verstehen …“ sowie vergleichbaren Leerformeln?
+
+Funktioniert der Text vollständig ohne Kenntnis anderer Kapitel?
+
+Enthält er keinerlei expliziten Verweis auf vorherige oder nachfolgende Kapitel?
+
+Steht die deutsche Überschrift im korrekten MediaWiki-Format?
+
+Folgt nach der Überschrift genau eine Leerzeile?
+
+Ist jeder englische Satz einzeln und fortlaufend mit `:1. `, `:2. `, `:3. ` und so weiter nummeriert?
+
+Enthält jede nummerierte Zeile genau einen vollständigen Satz?
+
+Liegt der Umfang zwischen 105 und 145 nummerierten Sätzen und möglichst nahe bei 125 Sätzen?
+
+Ist die Leitfrage klar, ohne als schulische Themenankündigung formuliert zu sein?
+
+Wird ein psychologischer, sozialer oder kultureller Mechanismus erklärt, statt nur eine Reihe von Reaktionen aufzuzählen?
+
+Trägt mindestens ein sorgfältig geprüfter Fall die Argumentation?
+
+Enthält der Text mindestens eine ernsthafte Einschränkung, Gegenprobe oder alternative Erklärung?
+
+Werden historische Menschen aus ihrem damaligen Wissen heraus dargestellt?
+
+Sind Zahlen, Studien, Zitate, Anekdoten und technische Behauptungen anhand zuverlässiger Quellen geprüft?
+
+Bleibt der Text in der Zuständigkeit von pAAA und vermeidet ausführliche Wiederholungen aus pBBB und pCCC?
+
+Endet der Text mit einer eigenständigen Einsicht statt mit Zusammenfassung, Ausblick, Appell oder Kapitelverweis?
+
+Wurde `sachbuchautor/SKILL.md` vollständig gelesen und `/skill /sachbuchautor` verwendet?

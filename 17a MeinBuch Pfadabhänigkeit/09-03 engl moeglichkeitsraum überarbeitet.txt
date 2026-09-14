@@ -1,0 +1,122 @@
+== 9.3 Die Kavallerie und das Maschinengewehr ==
+
+:1. On August 12, 1914, German cavalry crossed the little Gete River near the Belgian town of Halen and rode into fields that offered less freedom than they appeared to promise.
+:2. General Georg von der Marwitz had been sent forward with a cavalry corps to reconnoiter, screen the German advance, and help open the route westward.
+:3. Across that route, Lieutenant General Léon de Witte placed Belgian cavalrymen who had left their horses behind and taken up rifles on a defensive line west of the town.
+:4. Carabineer-cyclists guarded the approaches, field guns covered the open ground, and machine guns strengthened positions around farms and rises.
+:5. Several German regiments attacked mounted, and the action later acquired the evocative Belgian name Battle of the Silver Helmets from the headgear left on the field.
+:6. In its most familiar retelling, Halen is the moment when the medieval horse charged the modern machine gun and history announced the winner.
+:7. That picture captures the vulnerability of mounted troops under concentrated fire, but it removes almost everything that made the result possible.
+:8. The German riders did not encounter a machine gun floating by itself in an empty field.
+:9. They entered a constructed killing ground in which riflemen, machine-gun crews, artillery batteries, obstacles, buildings, and the shape of the land reinforced one another.
+:10. A sunken road disrupted momentum, fences and crops complicated movement and observation, and Belgian fire struck formations whose room to deploy was limited.
+:11. German infantry and artillery were present as well, and at points they drove Belgian troops from forward positions, so the day was neither a single charge nor an effortless defensive triumph.
+:12. The Belgians won a tactical success, yet the larger German invasion continued, a reminder that stopping one formation at one crossing is not the same as stopping an army.
+:13. The distinction matters because weapons acquire their meaning from the systems in which they operate.
+:14. A machine gun could place many bullets into a narrow sector, but an early heavy model required a crew, ammunition, a stable firing position, and often water for cooling.
+:15. Its fire became more effective when obstacles held attackers in view and when rifles covered ground the gun could not.
+:16. Artillery could break up assembly areas, suppress opposing guns, or force soldiers away from otherwise favorable positions.
+:17. Field fortification turned folds in the earth, farms, trenches, and wire into a geometry of delay and exposure.
+:18. Observers and messengers had to report where an attack was forming, commanders had to redirect reserves and fire, and orders still had to arrive before the target moved.
+:19. At Halen, important news moved slowly enough that higher headquarters briefly formed an alarming picture from events already changing on the ground.
+:20. Every layer depended on logistics, because a rapid-firing weapon without cartridges and an artillery battery without shells soon became elaborate dead weight.
+:21. Horses created a parallel supply problem: they granted mobility without gasoline, but they needed fodder, water, rest, veterinary care, and replacements.
+:22. The battlefield contest was therefore not horse against gun but one military network pressing against another under severe uncertainty.
+:23. When a network failed at one joint, the value of its most impressive component could collapse with it.
+:24. Conversely, an ordinary weapon placed behind an obstacle and connected to observation, ammunition, and supporting fire could become exceptionally difficult to approach.
+:25. European officers had not awakened in 1914 to discover rapid fire for the first time.
+:26. The Maxim gun had existed since the 1880s, and observers had studied firepower, entrenchment, and mounted operations in the South African and Russo-Japanese wars.
+:27. The British cavalry manual of 1907 discussed fire action, machine-gun sections, terrain, and cooperation with horse artillery alongside the mounted attack.
+:28. After the South African War, British cavalry carried the same long rifle as the infantry rather than a short carbine and trained to fight dismounted.
+:29. German cavalry divisions entered the war with machine guns, while attached Jäger battalions added rifles, more machine guns, bicycles, motor transport, and ammunition wagons.
+:30. French commanders also reinforced cavalry formations with infantry, although French organization and operational expectations differed from German and British practice.
+:31. These armies disagreed not over whether bullets were dangerous but over the circumstances in which speed, shock, reconnaissance, fire, and dismounted action should take priority.
+:32. National doctrine reflected different strategic plans, budgets, training systems, likely theaters, and beliefs about how quickly a future campaign would move.
+:33. It is easier in retrospect to isolate the machine gun than it was for planners who had to prepare one force for screening, reconnaissance, raids, pursuit, flank protection, and combat across several kinds of terrain.
+:34. Abolishing mounted troops before trucks and tracked vehicles were reliable substitutes would also have surrendered a real form of operational mobility.
+:35. On the open fronts of eastern Europe and the Middle East, mounted forces retained opportunities that the trenches, shell holes, and dense fire systems of the Western Front sharply curtailed.
+:36. Even in France and Belgium, cavalry could still scout during mobile phases, move rapidly as a reserve, and then hold ground on foot.
+:37. The relevant error was therefore not the mere survival of the horse but the use of mounted shock where the surrounding conditions had stripped shock of its advantages.
+:38. New technology often enters an organization as an answer to a familiar question before anyone reorganizes the questions themselves.
+:39. Military institutions initially treated the machine gun as a concentrated source of fire that could support existing cavalry missions.
+:40. That classification was reasonable enough to get the weapon purchased, assigned, supplied, and taught, because it connected novelty to units and procedures that already existed.
+:41. It also encouraged incremental change: add a gun section to the formation, then preserve most of the formation's inherited purpose.
+:42. The same process worked in reverse when cavalrymen dismounted, since the horse could be reconceived as transportation to the firing line rather than the platform from which every fight had to be conducted.
+:43. Neither interpretation mechanically followed from the device itself.
+:44. Doctrine selected which capacities of a technology became visible, and experience then tested the package of weapon, role, training, and support.
+:45. This is why a failed attack does not by itself prove blindness.
+:46. Some experiments fail because the enemy is stronger than reports suggested, terrain is misunderstood, supporting fire arrives late, or a gamble that could work against a shaken opponent meets an intact defense.
+:47. Commanders must learn from samples produced by an adversary who is simultaneously concealing, moving, and learning.
+:48. The line between a necessary trial and a reckless repetition can become clear only as reports accumulate, and even then reports from battle are incomplete and contested.
+:49. At Halen, however, successive mounted attacks against a defense already revealing its firepower suggest more than the unavoidable cost of one probe.
+:50. They show how an inherited image of decisive shock could persist inside a force that already possessed evidence and equipment for other methods.
+:51. Such persistence is path dependence only when earlier choices alter the cost or probability of later ones.
+:52. Years of riding instruction made mounted action immediately executable, while a different style required practice in fire control, coordination, and the care of horses left behind the line.
+:53. Promotion and prestige rewarded mastery of established cavalry skills, giving officers both competence in and attachment to the arm's recognized missions.
+:54. Procurement supplied saddles, lances, remounts, transport, and specialized units, while mobilization plans reserved particular roads, timetables, and tasks for them.
+:55. Fodder columns, veterinary services, breeding programs, and depots tied the visible rider to a large institutional investment.
+:56. Because those arrangements still delivered reconnaissance and mobility, retaining them was not merely an irrational defense of sunk costs.
+:57. They made adaptation within the mounted system cheaper and faster than replacing the entire system at once.
+:58. Yet the same complementarity narrowed attention toward revisions that preserved cavalry and away from alternatives requiring new vehicles, mechanics, fuel chains, and organizational authority.
+:59. A useful capability and a dangerous commitment could thus inhabit the same formation.
+:60. The harder test began when repeated combat supplied enough feedback to demand change while leaving armies too little time to rebuild from the ground up.
+:61. Armies answered that test less often by discarding cavalry overnight than by changing the combinations in which mounted troops fought.
+:62. Once continuous trenches hardened across the Western Front, large cavalry formations lost much of the space required for reconnaissance, pursuit, and operational maneuver.
+:63. Many horse soldiers therefore spent long periods fighting on foot, holding sectors, reinforcing threatened positions, or supplying manpower to other arms.
+:64. During the battles around Ypres in 1914 and 1915, British cavalry moved as a reserve and then dismounted to help close gaps in a dangerously thin line.
+:65. That transition did not require officers to discover that a rifle could be fired from the ground, because the relevant practice was already part of British training.
+:66. It required them to apply one element of a mixed doctrine far more frequently than prewar expectations had suggested.
+:67. Machine guns and horse artillery gave mounted formations their own supporting fire, while signal units and attached infantry widened what those formations could attempt.
+:68. The horse increasingly served as a means of reaching a useful place rather than proof that the soldier must fight from the saddle after arriving there.
+:69. Mounted shock nevertheless survived as a conditional tactic against exposed, disordered, surprised, or retreating opponents.
+:70. Its shrinking domain is evidence of adaptation, not evidence that every remaining charge was sensible.
+:71. It also shows why a category may persist after its internal balance has changed so far that the old label conceals a different working system.
+:72. Cavalry had not simply remained cavalry in the meaning the word carried a generation earlier.
+:73. The fighting at Moreuil Wood during the German spring offensive of 1918 revealed this hybrid character under extreme pressure.
+:74. Canadian cavalry rushed to help block a German advance near Amiens, fought both mounted and dismounted, and contested the wood alongside other troops.
+:75. Lieutenant Gordon Flowerdew's squadron made the mounted charge that later dominated paintings and commemoration, and Flowerdew received a posthumous Victoria Cross.
+:76. Yet the wider action also involved dismounted attacks, rifle fire, reinforcements, repeated counterattacks, and the movement of reserves across a fluid battlefield.
+:77. Reducing the episode to heroic riders against machine guns makes the same analytical mistake as reducing Halen to doomed riders against machine guns, even though the moral coloring is reversed.
+:78. At Moreuil Wood, speed helped place soldiers where a collapsing front urgently needed them, but speed did not remove the lethal cost of attacking defended ground.
+:79. The cavalry helped delay the German advance and suffered heavily; neither fact cancels the other.
+:80. Its contribution depended on a temporary return of movement, a particular tactical emergency, and cooperation with forces that could hold what mounted mobility helped reach.
+:81. Under other conditions, the same horses and training would have offered little advantage and imposed substantial burdens.
+:82. A capability may therefore remain valuable in a narrowing set of circumstances without deserving control over the organization's entire future.
+:83. A second case demonstrates that even a vast army could revise an interlocking system within months when the channels for learning worked.
+:84. During the Battle of the Somme in 1916, German defenders endured artillery and infantry attacks that exposed the cost of concentrating too many men in forward trenches and insisting that lost ground be regained immediately.
+:85. Local units improvised, wrote reports, and compared methods while the high command tried to turn scattered experience into general doctrine.
+:86. By the winter of 1916 and 1917, German instructions described an elastic defense in depth rather than a uniformly packed front line.
+:87. The revised system placed fewer troops in exposed forward positions, distributed strongpoints through a deeper zone, and held mobile reserves for counterattacks.
+:88. Machine guns were not abandoned or worshiped; they were repositioned within a new arrangement of space, time, and responsibility.
+:89. Artillery had to isolate attackers and support counterstrokes, while commanders needed communications flexible enough to act on local conditions rather than defend every yard by reflex.
+:90. Fortifications multiplied the available choices only if they were laid out deeply enough, connected to covered movement, and supported by troops trained to use them.
+:91. Logistics supplied the shells, construction materials, replacements, and reserves that converted an elegant diagram into an operating defense.
+:92. The innovation lay in the relationship among these parts, not in any single new device.
+:93. This change was quick by the standards of a large bureaucracy at war, but it was neither instantaneous nor uniform.
+:94. The new doctrine disputed a deeply rooted principle that ground once held should not be yielded voluntarily, and some commanders continued to favor a rigid forward defense.
+:95. Others accepted the language of depth while arranging their troops in ways that preserved the old practice.
+:96. At Vimy Ridge in April 1917, German forces had not fully constructed or correctly applied the intended defensive system, and delayed reserves contributed to a severe initial defeat.
+:97. German analysis of that failure produced further adjustments rather than a declaration that the reform itself had solved the battlefield.
+:98. The episode exposes a crucial difference between issuing doctrine and creating capability.
+:99. Printed instructions can change in days, but trenches must be dug, telephones laid, artillery plans coordinated, officers persuaded, and soldiers trained under conditions that vary from sector to sector.
+:100. An organization learns only when information alters repeated action across those material and social connections.
+:101. Even then, an enemy learns too, turning yesterday's successful adaptation into tomorrow's problem.
+:102. Rapid change is possible, but it advances through inherited channels that distribute some lessons faster than others.
+:103. The German process worked partly because front-line experience could travel through formal reports, specialist officers, conferences, training, and authoritative manuals.
+:104. It also worked because the revised defense reused existing weapons, ranks, supply organizations, and habits of local initiative rather than demanding an entirely new army.
+:105. This was a path change assembled from path-compatible pieces.
+:106. Its speed therefore does not refute path dependence; it illustrates one way institutions can exploit earlier investments to redirect themselves.
+:107. The same inheritance that obstructs one reform may provide the competence, vocabulary, and administrative reach needed for another.
+:108. Where experience threatened an organization's identity or budget without offering an implementable replacement, resistance was more likely.
+:109. Where a lesson could be attached to existing units, taught through familiar schools, and supplied through established depots, adoption faced lower switching costs.
+:110. Feedback became consequential only after an institution selected, interpreted, and connected it to action.
+:111. Combat supplies brutally clear evidence that a position has been lost or a unit destroyed, but it rarely isolates the cause as neatly as a controlled experiment.
+:112. A charge may fail because of firepower, terrain, timing, exhausted horses, faulty reconnaissance, broken communications, or the absence of support, and several causes may interact.
+:113. A tactic may succeed because the enemy was already withdrawing, then receive credit it does not deserve when copied against a prepared defense.
+:114. Survival also measures only one dimension of performance, whereas armies pursue speed, territory, information, surprise, economy, and political objectives that can conflict.
+:115. The pressure of war consequently intensifies selection without providing a single, stable fitness test for every weapon or organization.
+:116. It removes some possibilities, rewards others for a time, and changes the environment in which the next trial occurs.
+:117. The helmets left at Halen were real, as were the horses and riders destroyed beside them, but they did not mark a clean border between an ignorant past and a mechanized future.
+:118. They marked the failure of one configuration under particular conditions and the beginning of a harsher argument over how mobility and fire could be joined.
+:119. Some armies altered tactics, some roles contracted, and some mounted institutions preserved themselves by becoming internally different.
+:120. What battle selected was never the weapon alone, but a temporarily workable connection among equipment, terrain, doctrine, communication, labor, and supply.

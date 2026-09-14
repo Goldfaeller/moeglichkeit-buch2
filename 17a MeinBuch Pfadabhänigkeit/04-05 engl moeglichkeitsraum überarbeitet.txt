@@ -1,0 +1,147 @@
+== 4.5 Wenn Modelle zur Infrastruktur werden ==
+
+:1. In Amsterdam's oldest districts, many buildings do not rest directly on the ground.
+:2. They stand on piles driven through peat and clay toward firmer layers below.
+:3. Older builders did not always reach the deepest load-bearing sand, and uneven settlement still leaves its signature in leaning facades.
+:4. The wooden piles themselves can endure for centuries when they remain submerged, yet they become vulnerable when groundwater falls and air reaches the timber.
+:5. The foundation is therefore neither a dead relic nor an unchanging fact.
+:6. It is an inherited arrangement that continues to demand inspection, maintenance, and sometimes reinforcement.
+:7. An architect working above it may choose walls, windows, and rooms, but cannot choose where the firm ground lies.
+:8. Every new plan begins with loads that earlier foundations can carry and weaknesses that later construction must respect.
+:9. This is what makes infrastructure different from a merely large or expensive object.
+:10. Other things are organized around it.
+:11. Its most successful decisions disappear from view because users no longer need to reconsider them each morning.
+:12. People notice rent and sloping floors long before they think about piles beneath the street.
+:13. Machine-learning models can acquire the same structural role, although software and soil obey very different laws.
+:14. A model becomes infrastructure when other products, decisions, and routines rely on its continued availability and characteristic behavior.
+:15. It may begin as one product among several, tested against alternatives and replaced when another performs better.
+:16. At that stage, switching may require little more than changing an experiment and rerunning an evaluation.
+:17. Widespread use alone does not cross the threshold.
+:18. A popular model can remain replaceable if its users keep their data portable, its interface stable, and its role narrow.
+:19. The decisive change occurs when people stop merely calling the model and begin rebuilding work around it.
+:20. A support system routes messages through its classifications.
+:21. A research group designs a search process around its embeddings.
+:22. An editor tunes a drafting workflow to its strengths and known failures.
+:23. A company adds filters, retrieval tools, logs, permissions, and human review around its outputs.
+:24. Each addition can be sensible on its own.
+:25. Together they turn the model from a component that performs a task into a base layer that defines how many tasks are performed.
+:26. The transition rarely arrives with a ceremony because the visible interface may remain unchanged.
+:27. The model still receives an input and returns an output.
+:28. What changes is the weight placed above it.
+:29. Software engineers call such an arrangement a stack because each layer rests on services supplied by the layer below.
+:30. The application developer may know little about the model's training data or internal parameters, just as a shopkeeper need not know the depth of every pile.
+:31. That ignorance is not necessarily negligence.
+:32. Abstraction is one of infrastructure's chief benefits because it lets specialists solve one problem without rebuilding every lower layer.
+:33. A broadly capable model can spread the fixed cost of training across many uses that could not afford to train an equivalent system independently.
+:34. Shared interfaces can also make tools, documentation, and trained workers useful across projects.
+:35. Common foundations therefore enlarge the practical possibility space before they narrow it.
+:36. A small team can assemble translation, search, classification, or summarization functions from services that already exist.
+:37. The team gains speed precisely because it accepts decisions made elsewhere.
+:38. Training methods, data choices, output conventions, and service limits arrive together as a package.
+:39. This bargain is often productive, and calling it a lock-in does not make it a mistake.
+:40. Lock-in means that accumulated benefits and dependencies raise the cost of leaving, not that leaving becomes physically impossible.
+:41. The cost begins to grow in places that a procurement list may not show.
+:42. Prompts are revised until they elicit acceptable behavior from a particular model family.
+:43. Parsers come to expect particular headings, labels, or response structures.
+:44. Retrieval systems are tuned to the dimensions and statistical properties of particular representations.
+:45. Latency budgets are set around a familiar speed, while caches and queues absorb a familiar pattern of demand.
+:46. Staff learn which outputs require scrutiny and which edge cases should be sent to a person.
+:47. Managers reorganize deadlines and responsibilities around a reliability profile that is never captured by a single accuracy score.
+:48. None of these adjustments needs to be intended as a lasting commitment.
+:49. All of them can function as one.
+:50. The visible dependency says that the application needs a model to perform a certain operation.
+:51. The deeper dependency says that the surrounding system expects this model's particular behavior while doing it.
+:52. That second-order dependence is harder to inventory because much of it lives outside formal contracts.
+:53. A specification may promise a valid data format without promising a preferred tone, ordering, or interpretation of an ambiguous request.
+:54. Downstream users nevertheless adapt to whatever they repeatedly observe.
+:55. A harmless phrasing habit can become a hidden interface once another program parses it.
+:56. A tolerance for untidy input can become a hidden requirement once people stop cleaning that input.
+:57. A familiar refusal or warning can become part of a human review procedure even if no document guarantees that it will remain.
+:58. Widely used software has always accumulated such accidental contracts.
+:59. Learning systems deepen the problem because their behavior is statistical and cannot be exhausted by a short list of rules.
+:60. The practical interface is therefore larger than the documented interface, yet no operator can list every behavior on which every downstream user relies.
+:61. A model update exposes this gap.
+:62. The new version may score better on average and still reverse individual answers that an application had learned to trust.
+:63. It may become more concise while breaking a parser that expected explanatory text.
+:64. It may reduce one class of error while creating a regression in a rare case that matters greatly to one user.
+:65. In ordinary software, backward compatibility usually asks whether old commands still produce outputs of the promised type.
+:66. In machine learning, compatibility may also require asking whether the distribution of mistakes has changed.
+:67. That is a much harder promise to define and test.
+:68. Keeping an old model version available can buy time, but it also multiplies maintenance, security, and monitoring burdens.
+:69. Forcing every user onto a new version reduces that burden for the provider while transferring adaptation costs downstream.
+:70. Versioning is therefore not clerical housekeeping but a way of allocating the cost of change.
+:71. Interchangeability offers an apparent escape.
+:72. If several models accept the same request format, an organization may hope to substitute one for another as easily as replacing a standardized bolt.
+:73. A common syntax helps, but syntactic compatibility is not behavioral equivalence.
+:74. Two models can accept identical inputs and differ in accuracy, calibration, latency, refusal behavior, context limits, or the structure of their outputs.
+:75. The surrounding workflow must either tolerate those differences or translate between them.
+:76. Translation layers, model gateways, and regression tests can lower switching costs by isolating applications from a particular supplier.
+:77. They cannot make unlike systems identical, and they become infrastructure in their own right.
+:78. A supposedly neutral gateway may encode assumptions about messages, tools, permissions, and billing that favor the systems for which it was first designed.
+:79. Modularity moves some of the lock-in to the interface rather than abolishing it.
+:80. Proprietary access can add another layer of dependence.
+:81. When users reach a model only through a remote service, they may not control its weights, deployment schedule, capacity, or retirement date.
+:82. They can observe outputs and contractual guarantees, but some of the most consequential changes remain inside the provider's system.
+:83. Moving to an openly available model can restore control over deployment while creating new obligations for hardware, security, updates, and specialized staff.
+:84. Openness changes the distribution of costs and powers; it does not erase them.
+:85. The relevant comparison is therefore not between dependence and independence.
+:86. It is between different bundles of dependence, each with its own price, knowledge requirements, and room for revision.
+:87. Concentration around a shared model produces the same double effect at a larger scale.
+:88. An improvement in the foundation can propagate quickly to many applications without each team repeating the research.
+:89. A defect can travel by the same route.
+:90. Researchers who introduced the term foundation model emphasized this leverage and its mirror image: downstream systems can inherit failures from the common base.
+:91. The result is not that every application will fail in the same way, because prompts, added data, filters, and human procedures still matter.
+:92. It is that a common weakness can create correlated risk across systems that appear separate at the surface.
+:93. Diversity among application logos does not guarantee diversity in the machinery underneath them.
+:94. An outage reveals the connection most plainly.
+:95. If many services call the same remote model, the loss of that model can disable functions whose users never knew they shared a supplier.
+:96. Redundant servers within one service protect against some hardware failures but not against every software defect, policy change, account problem, or upstream outage.
+:97. A second provider can reduce that common point of failure only if data, interfaces, tests, and procedures are ready for the switch.
+:98. A fallback written on a risk register but never exercised is an option in theory, not necessarily an accessible path in practice.
+:99. Error propagation can be quieter than an outage.
+:100. A shared tendency to misread a type of input may pass through thousands of downstream systems while each operator sees only a few local cases.
+:101. Local monitoring can miss a pattern that becomes visible only across the ecosystem.
+:102. Conversely, a foundation's general weakness may be harmless in a tightly constrained application whose designers validate every relevant case.
+:103. Dependence increases exposure, but context determines the consequence.
+:104. This qualification matters because infrastructure is not a synonym for fragility.
+:105. Electrical grids, water systems, and common protocols create reliability through coordination, reserves, and disciplined maintenance.
+:106. Model infrastructure can likewise become safer when dependencies are documented, versions are traceable, failure modes are tested, and responsibilities are clear.
+:107. Those practices do not remove the path; they preserve more routes through it.
+:108. The history of electricity supplies a physical comparison for how an inherited standard can remain useful while making change expensive.
+:109. Eastern Japan operates mainly at fifty hertz and western Japan at sixty hertz.
+:110. The division traces back to generators imported from Germany and the United States during the country's early electrification.
+:111. Once utilities installed networks and customers bought compatible equipment, frequency became more than a property of individual generators.
+:112. It became an expectation embedded in power stations, factories, appliances, and regional coordination.
+:113. Converter stations now transfer electricity between the two frequency regions, so the boundary is not absolute.
+:114. Their finite capacity nevertheless limited how much western power could help the east after the 2011 earthquake and nuclear disaster.
+:115. Japan subsequently expanded conversion capacity instead of rebuilding either half of the country around a single frequency.
+:116. That choice illustrates a common response to lock-in: build a bridge across the inherited boundary when replacing the foundation would cost far more.
+:117. The frequencies persist neither because one is universally superior nor because engineers are powerless.
+:118. They persist because coordinated continuity delivers value and wholesale conversion would require simultaneous changes across an enormous installed base.
+:119. A model is not an electrical frequency, and the difference limits the analogy.
+:120. Frequency is precisely measurable and governed by a compact technical specification, whereas a model's relevant behavior may vary across prompts, populations, tasks, and versions.
+:121. The software layer can also change far faster than a national grid.
+:122. Yet the shared mechanism remains: complementary investments transform yesterday's workable choice into today's costly point of departure.
+:123. Path dependence appears in the sequence, not merely in the constraint.
+:124. If an organization designed its data, tests, and workflows around several substitutable models from the beginning, it would face a different set of options today.
+:125. Once years of prompts, integrations, staff knowledge, audit records, and customer expectations accumulate around one system, the same switch becomes harder.
+:126. The model has not become technically irreplaceable; the organization has made replacement organizationally expensive.
+:127. This distinction also identifies counterforces.
+:128. Teams can record which model version produced which output and retain representative test cases from real use.
+:129. They can separate business rules from model prompts, preserve portable source data, and avoid letting undocumented prose formats control critical actions.
+:130. They can maintain a narrow fallback for essential functions even when a single general model handles ordinary work.
+:131. They can periodically test an alternative instead of assuming that a nominally compatible service will work when needed.
+:132. These measures have costs in money, attention, latency, and duplicated effort.
+:133. Complete optionality is neither free nor always desirable.
+:134. A system designed to switch everything at any moment may sacrifice the deep optimization that makes a stable foundation useful.
+:135. Evolvability lies between those extremes: enough commitment to gain from shared infrastructure, enough modularity and recorded knowledge to keep some neighboring paths reachable.
+:136. Amsterdam offers the same sober lesson beneath its streets.
+:137. Builders do not pull up every old pile simply because it was placed under different conditions.
+:138. They inspect the inherited foundation, reinforce it where necessary, and design new loads with an understanding of what lies below.
+:139. For models, that understanding depends on measurement.
+:140. An organization cannot decide whether a version remains fit, whether a substitute is equivalent, or whether a hidden weakness is spreading without choosing tests and metrics.
+:141. Those measurements make cumulative comparison possible, just as a fixed reference point lets surveyors detect movement.
+:142. They also direct attention toward the behaviors that are easiest to count.
+:143. Once investment and reputation follow the scores, a benchmark can shape the model infrastructure it was meant only to assess.
+:144. The next layer under tomorrow's applications may therefore be selected not only by what models can do, but by what today's tests have taught builders to see.
+:145. Long before the foundation disappears from view, the measuring marks begin deciding where its weight will fall.

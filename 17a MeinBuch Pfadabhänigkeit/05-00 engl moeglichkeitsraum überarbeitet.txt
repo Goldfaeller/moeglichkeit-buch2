@@ -1,0 +1,142 @@
+== 5. Die Spur im Kopf ==
+
+:1. In 1949, twenty-eight Harvard and Radcliffe students sat before a tachistoscope, a device that flashed an image for a measured fraction of a second.
+:2. Most of the playing cards they saw obeyed a rule learned so early that few card players notice learning it: hearts and diamonds are red, clubs and spades black.
+:3. The experimenters, Jerome Bruner and Leo Postman, had also prepared impossible cards, including a red six of spades and a black four of hearts.
+:4. The students recognized the ordinary cards after an average exposure of 28 milliseconds, but the color-reversed cards required 114 milliseconds on average.
+:5. At first, many reported a trick card as an ordinary one, preserving either its familiar suit or its familiar color while unconsciously repairing the contradiction.
+:6. After encountering several incongruous cards, however, they became much quicker at recognizing another, as though the category of the possible had expanded during the experiment.
+:7. The study was small, its equipment belonged to another era, and its authors acknowledged that practice and presentation order were partly confounded.
+:8. It cannot prove that expectations simply overwrite the evidence of the senses, a claim about perception that remains more complicated than any card trick.
+:9. What it captured with unusual economy was a basic fact of mental life: incoming information arrives in a system already prepared to find some interpretations faster than others.
+:10. Experience does not merely leave a record of what happened; it helps determine what will be noticed, completed, and judged plausible next time.
+:11. Psychologists use the word schema for one form of this preparation, meaning a compressed structure of knowledge that organizes what usually belongs together.
+:12. A clipped reply from a colleague, for example, can fit several schemas at once: hurried efficiency, social unease, private irritation, or open hostility.
+:13. Someone accustomed to reliable cooperation may initially favor the first reading, whereas someone repeatedly punished by unreliable partners may inspect the same few words for danger.
+:14. Neither interpretation is a photograph of the speaker's intention, and neither follows from personal history alone, because tone, context, current stakes, and later evidence still matter.
+:15. Yet the first interpretation changes which evidence receives attention and which response feels sensible.
+:16. That is why a schema is not merely a prejudice lodged in the head but also a device for reducing the cost of thought in a world that rarely supplies complete information.
+:17. Without such compression, every doorway, face, and sentence would have to be understood from the beginning.
+:18. With it, speed is purchased by making familiar possibilities easier to see than unfamiliar ones.
+:19. The familiar label confirmation bias conceals several different processes inside that bargain.
+:20. People may search mainly where confirming evidence is likely to appear, notice compatible details sooner, judge the same evidence by different standards, or remember the supportive parts more readily.
+:21. None of these tendencies makes revision impossible, because a prediction that fails clearly and repeatedly can weaken the schema that produced it.
+:22. The card experiment itself contained this corrective movement: once incongruity had become an expected possibility, incongruity was easier to see.
+:23. The psychological path therefore lies neither in the stimulus nor in memory alone but in a feedback process by which earlier classifications alter the handling of later evidence.
+:24. Calling that process path dependence is useful only if history changes the probability, visibility, or cost of a later response through an identifiable mechanism.
+:25. A loss of hearing that makes conversation difficult is a constraint, but it is not by itself path dependence.
+:26. A difficult choice between equally costly alternatives is a trade-off, but it need not owe anything to the order in which earlier choices occurred.
+:27. Simple persistence may be inertia, while lock-in is the stronger case in which leaving a familiar route has become costly because skills, expectations, relationships, or resources have accumulated around it.
+:28. Even lock-in is not destiny.
+:29. It changes the terrain on which choice occurs rather than abolishing choice altogether.
+:30. No single starting point supplies that terrain.
+:31. Temperament, genetic differences, prenatal development, learning, social experience, and present circumstances operate together, often in ways that prevent their effects from being placed in separate boxes.
+:32. A child's disposition can influence which reactions the child elicits from adults and peers, so an initially small behavioral difference may help produce a different social environment.
+:33. Those reactions, in turn, alter practice, confidence, knowledge, and access to the next situation.
+:34. People also move toward settings that fit abilities and expectations they already possess, whether they are choosing a game at recess, a demanding course, or a circle of friends.
+:35. Developmental psychologists distinguish these patterns as evocative transactions, in which a person draws out responses from others, active transactions, in which a person selects or builds an environment, and reactive transactions, in which the same event is experienced differently by different people.
+:36. The labels matter less than the loop they describe: environments shape people who then help select, interpret, and modify their environments.
+:37. A cautious child who hangs back from noisy group play may receive fewer invitations and less practice in joining, making caution increasingly functional in the world that has formed around it.
+:38. A more socially assertive child may collect invitations, rehearsal, and favorable recognition from the same classroom.
+:39. The divergence does not show that either child contained a finished adult personality from the start, because a patient friend, a hostile peer group, a new school, illness, success, or chance can alter the sequence.
+:40. Research across the life span accordingly finds both increasing continuity in many personality differences and continuing capacity for change.
+:41. Continuity becomes especially likely when a person's recurring environments keep rewarding the behavior that helped create them.
+:42. Habit is the most intimate version of this economy.
+:43. An action initially chosen for a reason can, through repetition in a stable context, become closely linked to the cues present when it is performed.
+:44. As the context returns, the practiced response comes to mind or begins more readily than a response that must be assembled afresh.
+:45. This automaticity frees limited attention for whatever is novel, difficult, or dangerous.
+:46. Much of competence depends on it, from tying a shoelace while speaking to reading common words without sounding out each letter.
+:47. The same efficiency, however, means that alternatives are sampled less often and remain less fluent.
+:48. Repetition raises the immediate advantage of the repeated action through familiarity and practice, which makes another repetition more likely and further enlarges the advantage.
+:49. There is no universal number of repetitions after which this process clicks into place, because people, behaviors, rewards, and contexts differ.
+:50. Habit formation is generally gradual, and its strength can level off rather than rising without limit.
+:51. A change of context can also interrupt an old cue-response connection, which is why behavior sometimes shifts after a move, a new job, or a redesigned workspace even when intentions have not changed.
+:52. This helps separate habit from mere laziness and from genuine lock-in.
+:53. Putting keys in the same bowl each evening is an efficient default with negligible costs of exit.
+:54. Continuing a routine simply because reconsideration demands attention may be inertia, not a path that has restructured the available alternatives.
+:55. A harder lock-in emerges when neglected skills decay, partners coordinate around the routine, or abandoning it threatens valued commitments.
+:56. Past practice has then altered the present cost structure.
+:57. Choosing otherwise now requires not just a new decision but an investment in options that the old routine left undeveloped.
+:58. The brain participates in these changes, but describing a learned behavior as a neural pathway can mislead if it suggests a single groove carved permanently into tissue.
+:59. Learning changes activity and connections across multiple interacting systems, while deliberate, goal-sensitive action and more automatic control can cooperate or compete.
+:60. Neural plasticity is what permits both stabilization and later relearning; it is not evidence that every person is equally changeable under every condition.
+:61. The path becomes more consequential when other people begin to respond to it.
+:62. A teacher, for instance, rarely invents an expectation from nothing, because past work, classroom conduct, language, and prior records often contain real information about a student.
+:63. Once formed, however, the expectation may affect whom the teacher calls on, how long an answer is allowed to develop, how difficult the next task is, and what kind of feedback follows an error.
+:64. A student given fewer demanding opportunities may practice less, become less confident, and eventually perform in a way that seems to validate the original judgment.
+:65. This is a self-fulfilling prophecy only when the expectation helps cause the outcome, not whenever a forecast happens to be wrong or right.
+:66. The loop also contains a power asymmetry, because a teacher or supervisor controls opportunities that a classmate's private opinion does not.
+:67. In one longitudinal study of 73 teachers and 1,289 fifth graders, teachers' expectations predicted individual students' later mathematics grades and test performance, with academic self-concept accounting for part of the association, but the average expectation of a whole class added no significant effect after prior achievement was controlled.
+:68. That design could not eliminate every rival explanation, including the possibility that teachers were partly detecting differences already under way.
+:69. A broad review of thirty-five years of classroom research likewise concluded that self-fulfilling effects occur but are usually small, often dissipate, and predict outcomes far less dramatically than the popular Pygmalion story implies.
+:70. Yet even a bounded social feedback can matter when it changes which difficult task, encouraging relationship, or consequential doorway a person encounters next.
+:71. The next doorway matters because entering it can supply the practice, companions, and recognition that make a further doorway visible.
+:72. A student who succeeds at one demanding task may be offered another, and repeated invitations can eventually look like evidence of a natural identity rather than the history of allocated chances.
+:73. Reputation then carries the path beyond the original relationship, as records, recommendations, and stories tell new people what to expect, while the person may also begin to describe the pattern as who I am.
+:74. Identity, in this sense, is both a narrative that connects one's own experiences and a social position recognized by other people.
+:75. Public commitments make that position more expensive to revise because colleagues, partners, and families organize plans around the continuity of a role.
+:76. Changing direction may therefore require more than changing one's mind; it may also mean disappointing allies, surrendering status, or becoming a novice in public.
+:77. An experienced accountant considering a life in nursing does not compare two job descriptions on a blank sheet, because one option already contains credentials, fluent routines, professional friendships, and years of earned trust.
+:78. The tension becomes sharper when evidence against a past choice also threatens the chooser's self-respect or belonging, a conflict psychologists call cognitive dissonance when it demands some psychological adjustment.
+:79. People may change the action, revise the belief, add a justification, accept the inconsistency, or treat the troubling evidence as less credible.
+:80. No single response follows automatically, and the discomfort is not proof of pathology or dishonesty, since some resistance to instantaneous revision protects promises and projects from every passing doubt.
+:81. Reliable friendship, sustained craft, parenthood, and collective work all require a self that remains recognizable long enough for others to depend on it.
+:82. The harder question is when continuity ceases to serve a valued future and survives mainly to defend a costly past.
+:83. A sunk cost is time, money, or effort that has already been spent and cannot be recovered by the present decision, and it must be separated from a future switching cost, such as the tuition still required for retraining or the income likely to be lost during a transition.
+:84. In a classic field experiment, people who had paid more for a season subscription to a theater series attended more plays during the following six months than people who had received larger discounts.
+:85. Once the subscription was bought, its purchase price could not improve the quality of the remaining performances, yet the larger past payment appeared to exert a stronger claim on attendance.
+:86. A career, relationship, or organization is rarely so clean a case because past investment often creates assets that still yield future benefits: experience may remain useful, colleagues may deserve consideration, and a known arrangement may carry less uncertainty than an attractive alternative.
+:87. Status quo bias, loss aversion, ownership, habit, sunk costs, and rational concern about transition are therefore not interchangeable names for stubbornness, and a serious account of path dependence asks which of them is changing the present calculation and by how much.
+:88. Sometimes history has produced a local optimum: a position better than the nearby alternatives that are currently reachable, though not necessarily better than a distant option that would have required an earlier start.
+:89. This is where every developing person meets the problem of exploration and exploitation: exploitation means using a familiar option whose rewards are reasonably well known, allowing skill and trust to compound.
+:90. Exploration means accepting a possible short-term loss in order to learn whether an unfamiliar option might prove better.
+:91. There is no permanently correct balance, because the value of searching depends on time, risk, information, resources, and the stability of the environment.
+:92. Early success can tilt that balance by making more practice, reward, and opportunity available along the successful route while the alternatives remain untested.
+:93. The sociologist Robert Merton introduced the biblical shorthand Matthew effect for cumulative advantage in science, and the reading researcher Keith Stanovich later adapted it to the possibility that early literacy differences may widen through reciprocal feedback.
+:94. A child who reads more fluently may choose to read more, encounter more vocabulary and knowledge, and consequently find later reading easier.
+:95. That elegant loop is a mechanism, not a universal law of childhood.
+:96. A two-year study following 587 Greek students found no general fan-shaped widening between initially stronger and weaker readers and even found convergence on some measures, though the gaps did not disappear.
+:97. Other longitudinal work has linked stronger early word reading to faster vocabulary growth, illustrating how a cumulative process can operate for one outcome without governing every dimension of literacy.
+:98. Cumulative advantage is thus conditional on what is rewarded, what further practice becomes available, and what countervailing instruction or support enters the sequence.
+:99. The Moving to Opportunity experiment offers a larger-scale test of how timing and environment can redirect a life path without rewriting a person at will.
+:100. Beginning in the 1990s, randomly selected families living in high-poverty public housing in several American cities were offered vouchers intended to help them move to lower-poverty neighborhoods.
+:101. Later tax-record analysis found that children who moved when they were younger than thirteen were more likely to attend college and earned more as adults, among other improvements, while moves made during adolescence produced slightly negative effects on several outcomes.
+:102. The researchers suggested that duration of exposure helped explain the age pattern, while disruption may have offset benefits for adolescents.
+:103. The experiment cannot identify one psychological switch that changed inside each child, because neighborhoods alter schools, peers, safety, stress, information, and adult networks at the same time.
+:104. Its lesson for path dependence is more precise: changing the environment changed later opportunities, but the result depended on when the change entered an already developing sequence.
+:105. The possibilities of a person cannot be divided neatly into an inner set called character and an outer set called circumstance.
+:106. Sensitive phases name periods when certain forms of learning are easier or especially consequential, not deadlines after which change becomes biologically impossible.
+:107. In a study of 669,498 native and nonnative English speakers, estimated grammar-learning ability remained high through late adolescence and then declined, much later than many popular accounts of a childhood switch had implied.
+:108. Because high-level mastery itself takes years, the study also indicated that people seeking native-like performance generally needed to begin well before learning ability started to fall.
+:109. Its online sample, retrospective language histories, and computational model do not reveal a single biological cause, and language exposure is entangled with schooling, migration, identity, and daily use.
+:110. Older learners can still become highly proficient, but they usually face different learning conditions, less time for immersion, and a steeper average trajectory.
+:111. Timing changes costs and probabilities, not the logical possibility of learning.
+:112. Relationships display the same combination of continuity and revision: a meta-analysis covering 127 papers and more than twenty-one thousand assessed attachments found moderate stability overall, but stability weakened across longer intervals and was not statistically reliable in intervals longer than fifteen years.
+:113. That is incompatible with the popular picture of a few childhood attachment types fixing every adult partnership.
+:114. Repeated experiences of availability or rejection can shape expectations and partner choice, yet later relationships also supply evidence from which those expectations may be revised.
+:115. Trust can reduce the need to search, monitor, and renegotiate every interaction, releasing attention for plans that neither partner could carry alone.
+:116. The resulting stability opens shared possibilities such as caregiving, specialization, and long projects while closing other arrangements that require independence or easy exit.
+:117. Autonomy protects against destructive dependence, but maximum independence would also forfeit many potential gains from coordination.
+:118. Different personalities and relationships embody different compromise profiles, not positions on a single scale from unhealthy to healthy.
+:119. Digital environments can accelerate these loops because a past choice is recorded and used to arrange the next field of choice.
+:120. A click, pause, purchase, follow, or dismissal becomes imperfect evidence about preference.
+:121. A recommendation system ranks some items above others on the basis of such evidence, changing what the user is most likely to encounter next.
+:122. The user's next action then enters the data from which later rankings are learned, so selection and visibility can reinforce one another even if neither user nor system intends to narrow the field.
+:123. People are not passive material in this loop, since they choose platforms, maintain social networks, ignore suggestions, search deliberately, and bring preferences formed elsewhere, and changes in exposure do not always produce matching changes in conviction.
+:124. In a field experiment involving 23,377 Facebook users during the 2020 United States election, reducing exposure to posts from like-minded sources by roughly one-third changed what people saw but produced no measurable change in eight preregistered attitude outcomes.
+:125. That result does not prove recommendation harmless, any more than evidence of a feed effect would prove that algorithms imprison their users.
+:126. It shows why polarization must be explained through the interaction of selection, social networks, available content, platform design, and prior commitments rather than through a mechanical filter-bubble story.
+:127. Serendipitous encounters, diverse contacts, editorial choices, deliberate searches, and recommendation systems designed to explore can all reopen parts of the information field.
+:128. For an adult, then, a possibility is not merely an imaginable destination but a reachable sequence of transitions.
+:129. Skills, health, money, time, legal access, caregiving duties, geography, and relationships determine which sequences exist and what they would cost.
+:130. Earlier specialization may make many routes remote, yet it can also create the mastery, reputation, and dependable bonds from which a deeply developed life is built.
+:131. Change remains possible, but it is neither free nor the product of will alone.
+:132. People possess one unusual counterforce: they can make their own path an object of thought, describe its mechanisms, and sometimes rearrange the environment that keeps it going.
+:133. This reflexivity does not erase a cue-response link, restore a lost opportunity, pay for retraining, or make other people cooperate merely because the pattern has been named.
+:134. Language, education, counseling, therapy, mentoring, and social support can nevertheless turn private self-observation into a structured practice with feedback, alternative interpretations, and protected experiments.
+:135. A review of 207 intervention studies found meaningful average changes in measured personality traits over about twenty-four weeks, especially in emotional stability, although the evidence combined different designs and consisted largely of clinical interventions.
+:136. The finding rejects the notion of a personality sealed in early life without promising that anyone can become anything under any conditions.
+:137. Reflexivity can even create a new lock-in when an explanation of one's history hardens into an identity that excludes disconfirming experience.
+:138. Useful self-knowledge therefore treats the past as evidence about the present terrain, not as a verdict on the future.
+:139. Stability itself can provide the secure base, resources, and trustworthy relationships from which a controlled departure becomes possible.
+:140. The trace in the mind becomes most powerful when other minds begin to follow it together, because a habit that is shared, recorded, rewarded, and enforced is already becoming an institution.

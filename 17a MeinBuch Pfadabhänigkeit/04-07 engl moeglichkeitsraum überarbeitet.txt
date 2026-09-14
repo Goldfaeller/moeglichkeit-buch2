@@ -1,0 +1,162 @@
+== 4.7 Goodharts Gesetz ==
+
+:1. In the spring of 1902, the French colonial administration of Hanoi had a problem with rats.
+:2. Sewers built beneath the European quarter as emblems of modern sanitation had also given rats protected routes into its buildings.
+:3. With plague already present in the city, officials organized Vietnamese crews to kill the animals underground.
+:4. The surviving daily tallies, later examined by historian Michael Vann, record thousands of dead rats and, on the busiest days, more than twenty thousand.
+:5. Yet the killing produced no durable victory, so the administration extended a small bounty to the public.
+:6. Because collecting entire carcasses would create another sanitary problem, payment required only a severed tail.
+:7. Tails soon arrived in large numbers.
+:8. Colonial accounts also reported live rats without tails, the breeding of rats for the reward, and a trade that brought animals into Hanoi from elsewhere in Tonkin.
+:9. These details come to us through records made by the colonial state, so the precise scale of each response is harder to establish than the existence of the perverse incentive itself.
+:10. What is secure is enough to expose the error.
+:11. A rat without a tail could remain alive, and a rat brought into the city could generate the same payment as one removed from it.
+:12. The bounty had made the cheapest route to a tail diverge from the desired route to fewer rats.
+:13. This was not merely a comic mistake in pest control, and it was not proof that the Vietnamese residents of Hanoi had misunderstood the rule.
+:14. They understood the payable rule better than the officials understood the system they were trying to change.
+:15. The administration wanted a healthier city, chose rat deaths as an operational goal, counted tails as evidence of those deaths, and attached money to the count.
+:16. Those were three different things: a goal, a measure, and an incentive.
+:17. The program treated them as if they were interchangeable.
+:18. That substitution is the opening through which Goodhart's law enters.
+:19. Almost everything worth caring about is diffuse, slow, and expensive to observe.
+:20. Learning, health, safety, competence, understanding, and the quality of a piece of work have no natural unit, and all of them reveal themselves over time rather than on demand.
+:21. Organizations therefore use proxies, which are observable quantities that tend to travel alongside the outcomes they value.
+:22. Test scores travel alongside learning, citation counts travel alongside scientific importance, waiting times travel alongside a functioning hospital, and rat tails travel alongside dead rats.
+:23. The phrase travel alongside is doing enormous work here, because it describes a correlation, and correlations are always observed under particular conditions.
+:24. Before the bounty, a loose tail was ordinarily evidence that a rat had died.
+:25. After the bounty, a tail was also a small financial instrument.
+:26. Attaching a reward changes precisely that condition.
+:27. From the moment a number carries consequences, a new question exists in the world that was not there before: what is the cheapest way to raise it?
+:28. And there is essentially never only one way.
+:29. The incentive structure determines which of those routes is attractive, available, and worth learning.
+:30. Repetition then turns a one-time loophole into a path.
+:31. Skills, routines, tools, and expectations accumulate around the rewarded behavior, making the next round of the same response easier.
+:32. In 1975, the British economist Charles Goodhart gave this general structure its best-known name in a paper prepared for a Reserve Bank of Australia conference.
+:33. Goodhart was writing about monetary management, not rat tails, schools, or machine learning.
+:34. Central bankers had observed statistical relationships between particular definitions of the money supply and wider economic activity.
+:35. Such regularities looked useful as guides for control, but Goodhart warned that pressure placed on them for control purposes would tend to make them collapse.
+:36. The British government did not announce its first formal target range for broad money until 1976, so the warning preceded the fully public targeting regime with which it later became associated.
+:37. Goodhart's original claim was also more careful than the slogan now attached to his name.
+:38. He wrote about observed statistical regularities under pressure, not about every act of measurement inevitably destroying every measure.
+:39. The underlying reason was adaptive behavior within finance.
+:40. Banks and customers could shift transactions among financial instruments, and any definition singled out for restraint could encourage activity to migrate beyond its boundary.
+:41. The aggregate was not merely recording conduct because its use in policy helped reorganize that conduct.
+:42. In a 1997 study of audit culture in British universities, anthropologist Marilyn Strathern used the compact formulation now usually repeated: a measure that becomes a target ceases to be a good measure.
+:43. Donald Campbell had reached a related conclusion in a 1976 paper on social indicators.
+:44. He argued that the more a quantitative indicator governs consequential decisions, the more it becomes exposed to corruption pressures and the more it can distort the process it monitors.
+:45. Robert Lucas's 1976 critique of econometric policy evaluation belongs to the same family of problems, although it made a distinct argument about policies changing the behavior on which earlier models were estimated.
+:46. These arguments converged because measurement used for control creates a feedback loop.
+:47. A descriptive number enters the environment it once merely described.
+:48. Rewards and penalties change behavior, changed behavior alters the data, and the altered data weaken the old relationship between proxy and goal.
+:49. The sequence matters.
+:50. A statistic may work perfectly well while it is only observed, weaken when it becomes a public benchmark, and deteriorate further when budgets or careers depend on it.
+:51. This is path dependence rather than the bare fact that a measure has a history.
+:52. Each round of response changes the cost, visibility, and probability of the responses available in the next round.
+:53. A useful image is a rope disappearing into fog, with something valuable presumed to be tied to the far end.
+:54. Pulling gently may reveal that rope and object move together under ordinary conditions.
+:55. Pulling hard tells you a great deal, because you discover very quickly whether the rope was attached to the thing you wanted or merely lying next to it.
+:56. Optimization is the act of pulling hard, which is exactly why measures can fail under the pressure they were introduced to apply.
+:57. It drives a system away from the ordinary range in which the proxy was tested and toward the edge where high scores can be produced.
+:58. At that edge, unusual cases and hidden variables matter more, so the old correlation may no longer hold.
+:59. Sometimes the failure is causal: changing the proxy does not change the outcome that originally made the proxy informative.
+:60. Sometimes it is strategic: an actor deliberately exploits a loophole in the rule.
+:61. Sometimes it is statistical: selecting only the most extreme values also selects unusually large measurement errors or lucky noise.
+:62. These mechanisms can coexist, but they should not be blurred into a single story about cheating.
+:63. Responses to a target can be separated roughly into fraud, gaming, and honest drift.
+:64. The first is outright fraud: falsified figures, invented patients, or fabricated data.
+:65. The second is gaming, in which the number is raised by entirely real actions that satisfy the measure while doing little for the purpose behind it.
+:66. The tailless rat fits this second pattern because the evidence was genuine while the intended outcome was absent.
+:67. Honest drift is quieter.
+:68. People may work diligently and in good faith at exactly what they are judged on, while years of collective effort tilt an entire field toward what the measure rewards.
+:69. No villain is required for honest drift, which is why it is so rarely noticed and so hard to reverse.
+:70. The distinction also prevents an easy moral error.
+:71. If managers treat every disappointing metric as evidence of dishonest workers, they miss the possibility that their own rule made the disappointing behavior rational.
+:72. If workers blame every target for every bad outcome, they miss cases in which the target reveals a real failure and improvement in the number reflects genuine improvement.
+:73. The mechanism must be demonstrated in each case.
+:74. One must ask what the target rewards, what alternative routes can raise it, who can take those routes, and what later investments make those routes durable.
+:75. Scientific evaluation shows how the durable version develops.
+:76. Research is hard to evaluate for the same reason it is valuable: whether a result matters may not be clear for years, and judging it properly requires reading it, understanding it, and knowing the field.
+:77. So the countable stands in: papers published, citations received, grant money won, and the impact factor of the journals involved.
+:78. The impact factor is a particularly instructive example, because it was never designed for this purpose at all.
+:79. Garfield later warned that using journal averages to compare authors was a different and much less defensible operation.
+:80. The warning did not remove the attraction of a number that could be read quickly across unfamiliar fields.
+:81. Once publication counts and journal rankings affect jobs, grants, and institutional budgets, researchers and universities have reasons to reorganize work around them.
+:82. Papers can be divided into smaller units, fashionable positive results can receive more attention than careful negative findings, and questions with rapid publication prospects can displace slower ones.
+:83. These outcomes do not prove fraud, and none follows from a citation count alone.
+:84. They arise when a limited indicator becomes consequential enough to redirect effort.
+:85. The deepest cost appears in no audit at all, because it consists of work never done: the risky long project, the replication without novelty, or the database whose maintenance earns little visible credit.
+:86. Measurement pressure is not a complete explanation for replication problems in psychology, medicine, or other sciences.
+:87. Selective reporting, weak methods, small samples, editorial preferences, and ordinary error also matter, and their relative importance varies by field.
+:88. The narrower claim is both safer and more useful: incentives tied to publication metrics can change which projects are attempted, which results are submitted, and which skills accumulate.
+:89. That is enough to reshape the reachable possibility space of research.
+:90. A young scientist who needs several papers before the next hiring round faces different practical options from one rewarded for maintaining a ten-year dataset.
+:91. Laboratories invest in equipment and expertise suited to the work that wins support.
+:92. Journals recruit reviewers for the questions they regularly publish, and graduate programs train students for the methods that produce recognized outputs.
+:93. Early success attracts complementary investments, and those investments make similar success cheaper to pursue later.
+:94. A metric has then become more than a score because it has helped build the field that keeps reproducing the score.
+:95. All of this predates machine intelligence by decades, which is exactly why it is worth stating plainly before turning to it.
+:96. Many learning systems are trained by adjusting parameters to reduce a loss or increase a reward calculated from examples, outcomes, or human judgments.
+:97. The number is not the purpose itself; it is a tractable instruction connected to that purpose.
+:98. If the connection is incomplete, a capable optimizer may discover a solution its designers did not intend.
+:99. In a documented experiment with the video game CoastRunners, a reinforcement-learning agent received points for hitting targets placed along a boat racecourse.
+:100. The score was expected to accompany successful racing, but finishing the race was not what the score directly rewarded.
+:101. The agent found a lagoon where three targets reappeared and circled there collecting them repeatedly.
+:102. It crashed, caught fire, and moved away from the finish while earning a higher score than ordinary play.
+:103. This was a correct solution to the scored task and a failure at the intended task.
+:104. The episode is vivid because the gap is visible to any human watching the boat, but real systems often hide the gap behind plausible output.
+:105. The same logic scales up to systems evaluated on public leaderboards.
+:106. A benchmark begins as a common test that permits comparison across models and makes cumulative improvement easier to recognize.
+:107. Those are genuine benefits, not bureaucratic decoration.
+:108. Once the benchmark becomes a gate to publication, investment, or prestige, however, teams concentrate data collection, tuning, and engineering on the capabilities it rewards.
+:109. Scores may rise because general capability improves, because the system becomes unusually suited to the test, or because test material has leaked into training data.
+:110. The same reported gain can therefore represent several different movements through the possibility space.
+:111. Repeated comparison encourages tools and expertise tailored to the established test, lowering the cost of another incremental gain there.
+:112. Meanwhile, abilities that the benchmark omits become harder to justify, fund, and even name as central research problems.
+:113. Something similar happens when systems are tuned on human approval, since approval is itself a proxy and a decidedly leaky one.
+:114. If rushed evaluators consistently prefer fluent and confident answers, a system trained on those judgments may learn surface qualities that earn approval without a matching gain in accuracy.
+:115. Human feedback does not inherently cause that result, because careful raters, better tasks, and checks against external evidence can change the signal.
+:116. The point is that approval is a measurement process with its own conditions and blind spots.
+:117. Greater optimizing power amplifies both the useful and the misleading parts of that process.
+:118. Improving an optimizer while leaving its objective untouched is therefore not automatically progress toward the purpose behind the objective.
+:119. The most durable version of the whole problem, however, appears where measurement meets authority.
+:120. An administration does not merely observe the world; it defines the categories in which the world is permitted to be recorded, and a case recorded as one thing is that thing for every subsequent purpose.
+:121. Attach targets to those categories, and the categories begin to move.
+:122. A measure adopted by an organization does not remain a measure for long; it becomes a form field, a database column, a job description, a budget line, an inspection regime, and a career ladder.
+:123. These complementary investments create switching costs.
+:124. Replacing the measure may require new software, retraining, renegotiated contracts, revised legal definitions, and a break in the time series used to judge improvement.
+:125. Then a second trap closes quietly, in the name of good practice, and its name is comparability.
+:126. Time series are genuinely valuable, and a measure redefined this year makes every figure collected over the previous two decades incommensurable with everything that follows.
+:127. So the longer a bad measure has been in place, the stronger the case for keeping it, and that case comes not from anyone defending the measure but from everyone who simply wants to know whether things are getting better.
+:128. The number outlives its rationale, the people who could explain why it was chosen retire, and what remains is a definition of success that nobody selected and nobody can easily replace.
+:129. This is how a proxy adopted for administrative convenience at one moment becomes a limit on what an institution is able to perceive decades later.
+:130. This is a lock-in, but not an absolute one.
+:131. The measure can still be changed, although accumulated investments make abrupt replacement costly and encourage incremental repair.
+:132. Nor is every measurement problem path-dependent.
+:133. A poorly calibrated sensor may be inaccurate today for purely technical reasons, and replacing it may restore accuracy without confronting a network of routines or incentives.
+:134. A timeless trade-off between speed and depth of evaluation is also not yet path dependence.
+:135. It becomes path-dependent when earlier choices build institutions around fast assessment and make slow judgment progressively harder to supply.
+:136. The obvious conclusion that organizations should stop measuring things is wrong, and worth rejecting explicitly.
+:137. Some measures remain useful under pressure because they lie close to the real objective, manipulation is costly, independent checks exist, or the target is set as a threshold rather than a demand for endless maximization.
+:138. Counting correctly filled orders can support genuinely better service when correctness is independently inspected and defects cannot simply be moved outside the count.
+:139. Any organization that abandons measurement does not automatically become wise; it may instead become governed by anecdote, seniority, and confidence, all of which are also proxies.
+:140. The relevant question is not whether to measure but how the act of measuring changes the system being measured.
+:141. Several things help, and not one of them is free.
+:142. Multiple measures can reveal damage displaced beyond one indicator, but a complicated composite score can create new blind spots and arguments about weighting.
+:143. Downstream outcomes can sit closer to the real goal, but they arrive late and may be influenced by many causes outside the measured actor's control.
+:144. Fresh or partly hidden tests can reduce direct overfitting, but secrecy weakens transparency and repeated use eventually teaches participants what the test rewards.
+:145. Slow qualitative review can notice context a dashboard misses, but it costs time and carries the inconsistency and bias of human judgment.
+:146. Random audits, adversarial testing, and checks for side effects can raise the price of gaming without proving that every unobserved consequence is harmless.
+:147. Treating a measure as evidence for deliberation rather than as an automatic trigger preserves room for judgment, though it also gives decision makers more discretion.
+:148. Deliberately stopping short of the maximum can protect the region where proxy and goal remain aligned.
+:149. The most durable defense is the capacity to revise the measurement system before organizations become unable to imagine success in any other units.
+:150. That capacity requires preserving alternative data, expert judgment, and interfaces through which a new measure can coexist with the old one during transition.
+:151. Such redundancy may look inefficient while the established metric works, yet it is what keeps correction historically accessible when the metric begins to fail.
+:152. A measure does more than report a possibility space once rewards, tools, and institutions gather around it.
+:153. It illuminates some routes, darkens others, and lowers the cost of traveling repeatedly in the direction it names as success.
+:154. Goodhart's law identifies the moment when a signpost starts helping to build the road.
+:155. The resulting road may carry real traffic and produce real value, which is why abandoning it is rarely simple.
+:156. Its danger lies not only in pointing toward the wrong destination but in making other destinations harder to reach.
+:157. A measure is a map of a territory nobody can inspect directly, drawn because the territory itself is too large and too slow to walk.
+:158. Steer by the map casually and it will stay approximately honest.
+:159. Steer by it hard enough and the territory begins to rearrange itself to match the map, until the map is perfectly accurate and tells you nothing at all.
+:160. Hanoi's tails mattered not because they were counterfeit, but because a rule had made real tails easier to produce than the public good they were supposed to represent.

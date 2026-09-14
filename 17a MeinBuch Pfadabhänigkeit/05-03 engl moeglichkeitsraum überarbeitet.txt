@@ -1,0 +1,122 @@
+== 5.3 Schemata und die Vorwegnahme der Welt ==
+
+:1. In a darkened Harvard laboratory in 1949, students stared through a device that flashed playing cards for fractions of a second, some ordinary, with red hearts and black spades.
+:2. Others violated a convention the students had seen honored thousands of times: a six of spades appeared in red, or a four of hearts in black.
+:3. The researchers, Jerome Bruner and Leo Postman, lengthened each exposure until a participant could identify the card correctly twice in succession.
+:4. Normal cards were recognized after an average exposure of 28 milliseconds, whereas the color-reversed cards required an average of 114 milliseconds.
+:5. When a red six of spades first appeared, participants often reported either a normal black six of spades or a normal red six of hearts.
+:6. Expectation recruited one feature to correct the other before the contradiction became visible.
+:7. Twenty-seven of the 28 participants produced at least one such dominance response to an anomalous card.
+:8. Once they had encountered several impossible cards, however, they became quicker at seeing the next one for what it was.
+:9. This small, old experiment had important limitations, including a design that could not cleanly separate practice from growing readiness for incongruity, and it did not prove that the mind simply ignores whatever violates belief.
+:10. Its more durable lesson is narrower: the same sensory input can take longer to organize when it conflicts with a well-practiced expectation, and new experience can alter that expectation.
+:11. Perception begins before all the facts have arrived.
+:12. Light, sound, and touch deliver samples rather than complete descriptions of the world.
+:13. The eye receives patterns of brightness and color, not labels announcing card, face, danger, or joke.
+:14. Social scenes are more incomplete still, because a pause, a glance, or a clipped reply does not reveal the intention behind it.
+:15. The perceiver must combine incoming evidence with knowledge accumulated across earlier encounters.
+:16. Psychologists use the word schema for a reusable structure of knowledge that captures recurring relations among objects, events, roles, or people.
+:17. A schema is not a photograph stored in the head, nor is it a tiny script consulted by a central reader.
+:18. It is a compressed organization of experience that makes some interpretations and continuations easier to construct than others.
+:19. A restaurant schema, for example, connects entrances, menus, ordering, eating, payment, and departure without specifying the exact room or meal.
+:20. By representing what usually goes together, it lets the mind infer missing steps and anticipate likely ones.
+:21. That reduction in mental work is the schema's great utility.
+:22. No one could move efficiently through a day while examining every door handle, facial movement, and familiar phrase as an unprecedented puzzle.
+:23. Expertise depends on the same economy, because a seasoned radiologist, mechanic, or chess player notices meaningful configurations that a novice sees only as scattered details.
+:24. The economy carries a risk precisely because it works so often.
+:25. Details that fit an available pattern can be integrated quickly, while details that would support another pattern may require slower examination.
+:26. What is expected may attract attention earlier, receive a more confident label, or supply a plausible element that the stimulus itself left uncertain.
+:27. This does not divide perception into a dishonest top-down process and an honest bottom-up one.
+:28. Current evidence and prior knowledge normally cooperate, and neither would be sufficient for most real tasks by itself.
+:29. Modern research shows that expectations can alter both perceptual decisions and activity within sensory systems, although scientists continue to debate which computational account best unifies those effects.
+:30. A clear, sustained signal can overturn an expectation, while a noisy or ambiguous signal gives prior knowledge more room to influence the result.
+:31. In that limited sense, a schema acts like a prior estimate of what is likely, without requiring the brain to perform a consciously accessible calculation.
+:32. A prior that reflects a stable environment improves judgment rather than corrupting it.
+:33. A poorly calibrated prior can make the same efficiency expensive by filling a gap with the wrong event, motive, or category.
+:34. A schema should also be distinguished from a habit.
+:35. A habit makes a response easier to execute in a familiar context, whereas a schema makes an interpretation easier to assemble.
+:36. The two can reinforce each other, but either can operate without the other.
+:37. Path dependence appears when a schema helps determine which later evidence a person encounters, notices, understands, and retains, thereby shaping the experience from which the next expectation will be built.
+:38. An initial expectation directs attention toward certain cues.
+:39. Those cues support a particular interpretation, and the interpreted episode then enters memory as another apparent confirmation.
+:40. Repetition makes that route more fluent and more available at the next ambiguous moment.
+:41. Alternative interpretations have not become impossible, but reaching them now demands cues, attention, or deliberate comparison that the established route does not.
+:42. That is more than simple persistence.
+:43. If a fixed physical barrier forced every observer to the same conclusion, personal history would add nothing to the explanation.
+:44. History matters when different sequences of plausible experience produce different expectations, which then change the probability and cost of later interpretations.
+:45. Consider a neighbor who smiles briefly, looks away, and continues walking instead of stopping to talk.
+:46. Someone expecting cordiality can read the smile as friendly and the departure as mere haste.
+:47. Someone expecting social unease can see an uncertain person escaping an awkward exchange.
+:48. Someone expecting rejection can treat the same glance and departure as a hostile dismissal.
+:49. The observable behavior has remained constant while the completed account of its meaning has changed.
+:50. Interpretation is not arbitrary, because tone, context, and subsequent conduct can favor one account over the others.
+:51. At the first uncertain moment, however, a schema supplies an intention that no camera could record directly.
+:52. Laboratory studies of category accessibility isolate a stripped-down version of this process.
+:53. In a 1977 experiment, Tory Higgins, William Rholes, and Carl Jones exposed participants to favorable or unfavorable trait words before they read an ambiguous description of another person.
+:54. When the earlier words named traits that could plausibly describe the target, they shifted how participants characterized and evaluated him and also influenced later recollection.
+:55. The experiment did not show that a few words permanently rewrote anyone's view of human nature.
+:56. It showed that a recently activated category can gain an interpretive advantage when the available behavior fits more than one category.
+:57. Such effects form only one part of what is loosely called confirmation bias.
+:58. The label covers several processes that should not be collapsed into a single mental defect.
+:59. A person may actively ask questions likely to produce supporting answers, or may simply attend more readily to details that an existing schema has made conspicuous.
+:60. Selection decides which evidence enters the room, but an established schema can still influence the hearing that evidence receives.
+:61. Evidence that matches an expectation is often accepted as another instance of a familiar pattern.
+:62. Evidence that conflicts with it may face extra questions about method, motive, relevance, or chance.
+:63. This asymmetry is biased evaluation, a different process from seeking friendly evidence or noticing it first.
+:64. In a widely cited 1979 experiment, Charles Lord, Lee Ross, and Mark Lepper recruited supporters and opponents of capital punishment to assess two purported studies of whether executions deterred murder.
+:65. One study appeared to support deterrence, and the other appeared to undermine it.
+:66. Both groups judged the methods and results congenial to their existing position more convincing, even though everyone received the same mixed package.
+:67. The result is a vivid demonstration of how a prior view can supply different standards of scrutiny.
+:68. Yet the experiment involved strong positions on one contentious issue and cannot establish that every disagreement survives balanced evidence in this way.
+:69. Later research has found substantial variation with the importance of the belief, the quality of the information, and the goal of the person assessing it.
+:70. Confirmation bias can reflect defense of an identity, but it can also emerge from ordinary shortcuts that contain no wish to protect the self.
+:71. In 2009, a meta-analysis covering 91 studies and just under 8,000 participants found a moderate overall preference for information congenial to existing attitudes, beliefs, or behavior.
+:72. The preference was neither universal nor fixed.
+:73. When uncongenial information was useful for accomplishing a current goal, people could prefer the challenge over the reassurance.
+:74. A mind guided by schemas is therefore not a sealed chamber but a selective system whose openings change with purpose and circumstance.
+:75. The same person may avoid a hostile argument about a cherished commitment and actively hunt for a flaw in a favored plan when a bridge, a budget, or a patient's safety depends on being right.
+:76. Memory supplies a fourth possible route of confirmation, and perhaps the easiest one to caricature.
+:77. It is tempting to imagine an archive that quietly preserves confirmations and discards contradictions.
+:78. The evidence is more complicated.
+:79. A 1992 meta-analysis of 54 experiments examined memory for information that either matched or violated social expectations.
+:80. Overall, participants recalled and recognized expectancy-incongruent information better when recognition scores were corrected for a tendency to say that an item had appeared.
+:81. On uncorrected recognition measures, however, they were more inclined to report expectancy-consistent information as previously seen.
+:82. An anomaly may command attention and invite the extra thought that later makes it memorable.
+:83. At the same time, a schema can supply a plausible detail when the original episode has become incomplete.
+:84. Remembering is a reconstruction produced from traces of an event and organized knowledge, not a replay that must always favor either the expected or the surprising.
+:85. A schema can preserve a contradiction because it stands out, assimilate an uncertain detail because it fits, or do both at different stages of the same recollection.
+:86. Which effect dominates depends on such conditions as the strength of the expectation, the demands of the task, the person's processing goal, and the delay before recall.
+:87. That variability is precisely why confirmation bias should not become a catchall explanation applied whenever a belief endures.
+:88. For path dependence, persistence needs a feedback link to the history that produced it.
+:89. An established schema lowers the effort required to encode matching evidence and supplies ready explanations for why the evidence belongs together.
+:90. A mismatch creates what researchers call prediction error, the difference between what was expected and what occurred.
+:91. Strong, repeated, and informative mismatches can force revision because explaining each one away eventually becomes harder than changing the pattern.
+:92. A solitary contradiction, by contrast, can be treated as measurement error, an unusual circumstance, or an exception.
+:93. Research on social categories has shown one way this insulation can occur.
+:94. People may place a highly atypical counterexample in a subtype, effectively creating a mental folder marked exceptional rather than revising the broader category.
+:95. Several modest counterexamples distributed across many otherwise typical cases are often harder to quarantine and can produce more change.
+:96. This exception mechanism allows a schema to survive evidence that it could not have predicted.
+:97. Sometimes that is reasonable, since useful generalizations should not collapse whenever noise produces one odd result.
+:98. The cost appears when the exception label is so easy to apply that no possible observation can count against the expectation.
+:99. A schema's strength is therefore not the same as permanence.
+:100. Revision becomes more likely when contrary evidence is repeated, diagnostic, obtained under varied conditions, delivered by trusted sources, and connected to a workable alternative account.
+:101. Social stakes make the process more consequential because an inferred intention can narrow the responses a person considers available.
+:102. Hostile attribution bias is the studied tendency to read harmful intent into an ambiguous provocation.
+:103. A 2015 longitudinal study followed 1,299 children drawn from 12 cultural groups in nine countries over four years.
+:104. The researchers presented each child with ten hypothetical situations in which another child's intent was unclear and asked both what the provocateur meant and how the participant would respond.
+:105. Across every group, children were more likely to predict an aggressive response from themselves when they had assigned hostile rather than benign intent to the ambiguous act.
+:106. Children who more often made hostile attributions also showed higher later levels of aggression reported by themselves and their mothers, even after the analysis accounted for earlier aggression.
+:107. The study reached beyond a momentary laboratory prime, but its vignettes and statistical controls did not prove that a private schema independently caused every later act.
+:108. Earlier aggression, family relationships, peer treatment, and local norms can shape both expectations and conduct, leaving reciprocal influence more plausible than a single inward cause.
+:109. The finding fits a developmental loop in which experience tunes interpretation, interpretation makes some responses more likely, and those responses affect the experiences that follow.
+:110. Up to this point, the clearest examples have concerned how observers organize evidence that remains physically unchanged.
+:111. In a social encounter, however, the observer's response becomes part of the next stimulus confronting the observed person.
+:112. Harold Kelley's 1950 experiment gave students advance descriptions of a guest lecturer that differed by a single characterization, presenting him as either rather warm or rather cold before he led the same kind of class discussion.
+:113. Students prepared to expect warmth rated him more favorably than those prepared to expect coldness.
+:114. They also participated more in the discussion.
+:115. Because the students behaved differently toward the lecturer, the encounter soon contained more than two interpretations of an identical performance; it contained two differently developing interactions.
+:116. That is the hinge between perceptual confirmation and behavioral confirmation.
+:117. A 1977 telephone study by Mark Snyder, Elizabeth Tanke, and Ellen Berscheid made the loop still more explicit by giving male participants a photograph that led them to believe, falsely and at random, that the woman on the call was physically attractive or unattractive.
+:118. Men holding the favorable expectation behaved more sociably, and women unaware of the photograph responded in ways that independent listeners also judged warmer and more animated.
+:119. That classic experiment was small and artificial, and it also highlights a necessary test: a correct prediction is not self-fulfilling unless the expectation changes another person's treatment and that treatment contributes to the predicted response.
+:120. In the card experiment the anomalous object waited unchanged behind the shutter, but between people an expectation can alter the next piece of evidence before anyone has a chance to see it.

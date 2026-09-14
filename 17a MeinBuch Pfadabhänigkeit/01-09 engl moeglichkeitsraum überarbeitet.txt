@@ -1,0 +1,127 @@
+== 1.9 Das Mise en place ==
+
+:1. Before a professional kitchen serves anything at all, it completes a great deal of work that no customer will ever see.
+:2. Vegetables are cut and sorted into containers, sauces and stocks are prepared, herbs are picked from their stems, and tools are arranged within reach.
+:3. The French term for this disciplined preparation is mise en place, literally putting in place.
+:4. Its purpose is not ceremony but readiness.
+:5. A cook who can reach the right ingredient at the right moment can spend attention on heat, timing, and taste instead of searching through a refrigerator.
+:6. Once the orders arrive, preparation becomes performance.
+:7. This chapter has been a mise en place.
+:8. The station now holds seven conceptual tools: path dependence, possibility space, contingency, lock-in, trade-offs, feedback, and evolvability.
+:9. Path dependence names a process in which earlier steps change the number, cost, or probability of later options.
+:10. A possibility space is an analytical map of the states a system might occupy and the transitions by which it might move between them.
+:11. Contingency means that an outcome could have been otherwise without implying that anything whatsoever could have happened.
+:12. Lock-in describes a path made difficult to leave by accumulated commitments and rising switching costs.
+:13. A trade-off appears when improving one valued property consumes resources or sacrifices another valued property.
+:14. Feedback occurs when an outcome changes the conditions that will produce the next outcome.
+:15. Evolvability is the capacity to keep generating workable variation and to remain capable of further change.
+:16. Listed separately, the seven ideas resemble utensils laid out across a counter.
+:17. In use, they become parts of one explanation.
+:18. The possibility-space map begins by separating imaginable states from reachable ones.
+:19. Some imagined states violate physical limits and therefore were never genuine options.
+:20. Others are physically possible but cannot perform the function a system must continue to perform during a transition.
+:21. Still others could work in principle but lie beyond the routes opened by the system's particular history.
+:22. The space is not a room hidden somewhere in nature, and its boundaries are rarely measurable with geometric precision.
+:23. The map earns its keep by forcing us to ask why one transition is near, another costly, and a third effectively invisible.
+:24. Contingency places forks in that map.
+:25. It does not mean that an event had no cause or that every outcome was equally likely.
+:26. An unexpected failure, a minor timing difference, or an early choice among comparable alternatives can send development down different routes.
+:27. The decisive question is whether the difference survives.
+:28. Feedback can make survival more likely by converting an early advantage into conditions that favor further advantage.
+:29. Adoption may attract compatible products, services, and trained users.
+:30. Repeated use may produce skills and process improvements that lower costs.
+:31. Expectations about future adoption may then encourage still more investment in the same path.
+:32. Each step changes the field on which the next step is chosen.
+:33. Positive feedback is positive only in the sense that it amplifies change, not because its consequences are beneficial.
+:34. Negative feedback, saturation, competition, resource limits, and deliberate intervention can slow or reverse the amplification.
+:35. A system may also alter the environment to which it later has to adapt.
+:36. Roads, standards, routines, and complementary tools can turn yesterday's choice into tomorrow's practical starting condition.
+:37. Trade-offs shape many of the choices made along the route.
+:38. A trade-off by itself is not path dependence, because the same conflict between speed and safety or efficiency and reserve may confront every system at every time.
+:39. The conflict becomes path dependent when an earlier compromise builds capabilities and dependencies that make later compromises unequal in cost.
+:40. Lock-in emerges when those dependencies become dense enough that leaving the path requires coordinated changes across many parts of the system.
+:41. Fixed is usually the wrong word.
+:42. A locked-in arrangement may remain technically replaceable while becoming financially, organizationally, cognitively, or politically expensive to replace.
+:43. Common languages, payment systems, safety rules, and technical standards can create enormous value precisely because people can rely on them.
+:44. The same complementary investments that produce that value can make departure costly.
+:45. Evolvability names what remains available when current performance is not the only concern.
+:46. It is not identical to efficiency, robustness, flexibility, or resilience, although those qualities may support it.
+:47. A system optimized tightly for one present task may lose unused capacities and alternative routes that would matter after conditions change.
+:48. Modular parts, tolerated variation, spare capacity, and open interfaces can preserve routes to states that no planner can yet specify.
+:49. Such reserves carry present costs, which is why they are easily treated as waste.
+:50. Their less visible return is a larger reachable neighborhood in the future.
+:51. The seven tools can now be assembled into a single causal sequence.
+:52. A contingent difference sends two otherwise similar systems along different routes.
+:53. Feedback amplifies the difference by rewarding further movement along one route.
+:54. Learning, infrastructure, and expectations accumulate around what is already working.
+:55. Trade-offs are increasingly evaluated through the capabilities the chosen route has created.
+:56. Alternatives do not necessarily become impossible, but they become harder to see, finance, coordinate, or reach.
+:57. Lock-in stabilizes the resulting arrangement, sometimes with substantial benefits and sometimes with mounting costs.
+:58. A changed environment then tests whether the system retained enough variation and modularity to move again.
+:59. Evolvability determines neither the destination nor success, but it affects how many workable next steps remain.
+:60. The sequence is neither a lottery nor a prison sentence.
+:61. Mere chronology does not establish it.
+:62. If an earlier event leaves the costs, probabilities, and available transitions unchanged, it belongs to the system's history without making the system meaningfully path dependent.
+:63. A passing disturbance that is fully corrected may likewise leave no enduring path.
+:64. Conversely, a path does not require a spectacular accident at its beginning.
+:65. Repeated choices that were each sensible under the conditions of their time can gradually construct a narrow corridor.
+:66. The starting choice may have been intentional, prudent, and even superior to the alternatives then available.
+:67. A later lock-in can therefore be rational in origin and burdensome in consequence without contradiction.
+:68. Present success does not prove that the selected path was globally best.
+:69. Persistence does not prove that it was a mistake.
+:70. The explanation must identify the mechanism that made continuation more likely or departure more expensive.
+:71. That requirement sharpens the two questions running beneath the book.
+:72. What could have turned out differently?
+:73. What can still turn out differently?
+:74. The first question reconstructs a past whose unrealized alternatives left fewer traces than the path actually taken.
+:75. The realized outcome is recorded in artifacts, institutions, skills, and habits built upon it.
+:76. An abandoned option may survive only in a prototype, an obsolete rule, a failed proposal, or nothing at all.
+:77. Looking backward from the finished result therefore makes earlier uncertainty appear smaller than it was.
+:78. Serious historical explanation restores the alternatives that actors could plausibly perceive and pursue at the time.
+:79. The second question begins inside constraints that the present generation did not choose.
+:80. We stand within inherited arrangements whose practical boundaries can feel like features of nature.
+:81. Those boundaries are not all made of the same material.
+:82. A physical limit cannot be repealed by changing expectations.
+:83. An inherited standard may be alterable, but often only after replacing equipment, retraining people, and coordinating users.
+:84. A genuine trade-off may remain even after every historical dependency has been removed.
+:85. Distinguishing these cases prevents both fatalism and wishful thinking.
+:86. The seven tools will now travel through domains that differ radically in material, timescale, and human control.
+:87. Biological evolution provides the first test because its variations are not produced by foresight.
+:88. Organisms must remain sufficiently viable while inherited structures change, so unavailable intermediate forms matter as much as attractive endpoints.
+:89. Technology restores intention, planning, and comparison among designs, yet designers still inherit factories, standards, skills, and surrounding infrastructure.
+:90. Deliberate design can redirect a path, but it also lays foundations on which later designers must build.
+:91. Artificial intelligence compresses some of these dynamics into shorter development cycles.
+:92. Its architectures, hardware, software, data, and benchmarks can reinforce one another while also carrying historical classifications into new decisions.
+:93. Individual development reveals paths stored in learned skills, routines, expectations, and identities rather than in steel or code.
+:94. Reflection can alter such paths, but awareness alone does not erase practice or restore neglected alternatives.
+:95. Institutions distribute path dependence across offices, records, procedures, professional knowledge, and expectations about what others will do.
+:96. Law makes continuity explicit because reliable rules gain value from precedent, while reform must still connect old rights and procedures to new ones.
+:97. Military organizations expose inherited doctrine and equipment to unusually severe tests, yet even urgent adaptation must work through training, logistics, alliances, and production capacity.
+:98. Each domain changes the relative weight of contingency, feedback, coercion, learning, and deliberate redesign.
+:99. No single metaphor can erase those differences without also erasing part of the explanation.
+:100. What the cases can share is evidence that sequence mattered and a mechanism showing how it mattered.
+:101. This way of looking makes dependencies visible before judging them.
+:102. An apparently inferior solution may persist because a whole network has learned to support it.
+:103. A sensible reform may disappoint because it changes a rule without changing the complements that gave the old rule its force.
+:104. A past success may reduce future options because investment follows the demonstrated route and starves alternatives of practice.
+:105. A proposal that begins with someone should just may be ignoring a dependency that has not yet been counted.
+:106. None of this licenses cynicism.
+:107. Constraint is not determination, and lock-in is not immobility.
+:108. Naming a mechanism does not remove it either.
+:109. Diagnosis matters because different mechanisms yield different openings for change.
+:110. A shift may be cheap before skills, contracts, infrastructure, and expectations become aligned around the old arrangement.
+:111. The same shift may become expensive once those complements must move together.
+:112. An external shock can break a feedback loop, but it can also destroy useful coordination without creating a workable alternative.
+:113. Gradual change may preserve function during transition, although it can also reproduce the architecture it was meant to replace.
+:114. Preserving evolvability can keep more routes open, but reserves and parallel options consume resources in the present.
+:115. There is no universal instruction that converts these observations into an easy choice.
+:116. There is instead a more exact question to carry from case to case.
+:117. What was once possible, what remains reachable, and what has made the passage between them cheap, costly, hidden, or closed?
+:118. The kitchen image reaches its limit here.
+:119. A cook can clear a station after service and arrange it anew before the next shift.
+:120. A living system cannot stop life, empty the body onto a counter, and rebuild every dependency from scratch.
+:121. Its changes must work through structures that are already functioning.
+:122. In a giraffe, signals between the brainstem and the larynx descend through the neck within the vagus nerve before the left recurrent branch loops under the aortic arch and climbs back toward the throat.
+:123. The route can stretch for several meters, although the larynx lies much closer to the brain.
+:124. Its course follows inherited relationships among nerves, embryonic pharyngeal arches, and blood vessels rather than the shortest imaginable connection between two adult organs.
+:125. The shortest explanation is therefore not a straight line but the sequence of workable steps that left this route reachable.

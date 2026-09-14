@@ -1,0 +1,193 @@
+== 4.6 Benchmarks als heimliche Wegweiser ==
+
+:1. Set into the stone wall of an English church or bridge, often no higher than a person's waist, a small carved arrow points toward a horizontal groove.
+:2. Many passersby mistake the symbol for graffiti or a mason's idle mark.
+:3. It is a bench mark, a fixed point whose elevation surveyors established and recorded.
+:4. The name recalls the angle iron that could be fitted into the groove to make a small bench for a leveling staff.
+:5. Ordnance Survey eventually densified its national leveling network with roughly three-quarters of a million such marks, and a 2020 agency guide reported about half a million still in existence and usable.
+:6. On mainland Britain, their recorded heights were tied through that network to Ordnance Datum Newlyn.
+:7. That datum preserves the mean sea level calculated from continuous tide readings at Newlyn in Cornwall between 1915 and 1921, even though the sea there has continued to change.
+:8. Some outlying islands use other local datums, a reminder that even a national reference system has edges.
+:9. There is nothing sacred about Newlyn or those six years.
+:10. The choice was practical, defensible, and contingent, because other stable reference arrangements could have served.
+:11. Once adopted, however, it allowed people working far apart and decades apart to describe heights in the same terms.
+:12. A surveyor's bench mark was a reference point, not a goal.
+:13. Nobody built a hill in order to beat it.
+:14. Its value came from stability, shared use, and a deliberately limited claim.
+:15. The modern research benchmark retains that coordinating function but usually adds something the cut mark never had: a task to perform and a score to improve.
+:16. That addition turns a passive reference into a possible guide for action.
+:17. A benchmark in machine learning normally joins at least three choices that are easy to blur together.
+:18. A dataset selects the cases on which a system will be tested.
+:19. A task and its evaluation protocol specify what the system must do under which conditions.
+:20. A metric compresses the resulting performances and errors into one or more numbers.
+:21. A leaderboard may then order systems by those numbers, making comparison unusually fast and visible.
+:22. Each component performs real intellectual labor.
+:23. Without a shared dataset, two laboratories may test on different examples.
+:24. Without a shared protocol, they may give their systems different amounts of information or assistance.
+:25. Without a shared metric, they may disagree about whether one kind of mistake matters more than another.
+:26. Every published result can then be defensible on its own terms and nearly useless for comparison.
+:27. A shared benchmark creates a common experimental language.
+:28. It lets researchers reproduce failures, test a new method against established baselines, and accumulate results instead of reopening every methodological argument.
+:29. It can expose inflated claims because a system that excels in its inventor's demonstration must now face the same cases as its rivals.
+:30. Measurement is therefore not an enemy of discovery.
+:31. In many fields, it is part of the infrastructure that makes cumulative discovery possible.
+:32. Information retrieval offers a revealing early case.
+:33. The first Text REtrieval Conference in 1992 brought together twenty-five participating groups under a program cosponsored by the National Institute of Standards and Technology and the Defense Advanced Research Projects Agency.
+:34. Instead of allowing each group to choose its own documents and questions, the program supplied shared collections, topics, evaluation procedures, and relevance judgments.
+:35. Researchers could compare approaches at a scale that individual laboratories would have struggled to construct alone.
+:36. The point was not merely to crown a winner, and the continuing TREC program explicitly treats the exercise as precompetitive research rather than advertising.
+:37. Its durable products include datasets, judgments, submitted runs, and technical accounts that later researchers can inspect again.
+:38. A common test can thus widen a field's practical possibility space by making previously expensive experiments affordable and comparable.
+:39. It also makes disagreement more productive, because competing groups are finally disagreeing about the same operational question.
+:40. Yet operational questions are never identical to the broad capacities they are intended to represent.
+:41. Search quality, for example, depends on what users need, which documents exist, how relevance is judged, and what costs follow from a missed or misleading result.
+:42. A collection and metric must hold much of that world still in order to make an experiment repeatable.
+:43. The resulting simplification can be illuminating without being neutral or complete.
+:44. Every benchmark is a compact theory of the problem: these cases, presented in this format and scored in this way, count as evidence of being good at this task.
+:45. That theory becomes consequential when a research community begins to organize work around it.
+:46. The collection of handwritten digits known as MNIST shows the benefit and the narrowing in unusually clean form.
+:47. Its makers combined samples from two earlier databases maintained by the National Institute of Standards and Technology.
+:48. One source had been collected from Census Bureau employees and the other from high school students, and the two sources differed enough in difficulty that they were remixed across training and test material.
+:49. The regular version contained 60,000 training images and 10,000 test images.
+:50. Each black-and-white digit was size-normalized to fit within a twenty-by-twenty-pixel box and centered by its pixel mass in a twenty-eight-by-twenty-eight field, with gray levels introduced by the resizing process.
+:51. These choices turned variable handwriting into a compact, inexpensive, and precisely scored classification problem.
+:52. Thousands of students and researchers could train a method on the same examples and compare error rates directly.
+:53. The benchmark became a standard proving ground partly because it was technically modest enough to run without a giant laboratory.
+:54. That accessibility was a scientific virtue, not an embarrassing compromise.
+:55. At the same time, the task assumed that each input had already been separated from surrounding marks, centered, resized, and guaranteed to belong to one of ten categories.
+:56. A bank check, an address on a damaged envelope, or a line of hurried notes does not usually arrive in that condition.
+:57. In a working recognition system, locating and separating characters may be as important as assigning labels to the isolated images.
+:58. MNIST did not falsely claim to include the whole problem, and the paper that documented it discussed larger document-recognition systems with multiple modules.
+:59. The distortion arose later whenever success on the convenient component was casually reported as success on handwriting in general.
+:60. The dataset measured something real while leaving other parts of the real task outside the frame.
+:61. It also demonstrates why ecological validity matters.
+:62. A test has ecological validity to the extent that performance under its arranged conditions tells us something dependable about performance in the environments where the system will actually be used.
+:63. No benchmark possesses this quality merely because its labels are accurate.
+:64. The fit depends on the relationship between its constructed task and the situations about which people draw conclusions.
+:65. A larger and more influential example began with ImageNet.
+:66. The database introduced in 2009 used the noun hierarchy of WordNet as a backbone and initially contained 3.2 million images distributed across 5,247 categories, or synsets.
+:67. The ImageNet Large Scale Visual Recognition Challenge then fixed a subset for standardized comparison.
+:68. Its best-known classification task supplied about 1.2 million training images and asked systems to distinguish among 1,000 object categories.
+:69. The annual challenge ran from 2010 through 2017 and made improvements in large-scale object recognition unusually legible.
+:70. In 2012, for example, a deep convolutional network achieved a top-five error rate of 15.3 percent, far below the 26.2 percent of the second-best entry.
+:71. The common test made the size of that advance visible in a way that scattered demonstrations could not have done.
+:72. ImageNet also supplied a demanding shared workload around which software, hardware use, and experimental craft could improve.
+:73. Its success opened possibilities well beyond its leaderboard, including reusable visual representations and techniques that could be adapted to other tasks.
+:74. The useful benchmark was also a selective lens.
+:75. ImageNet's categories inherited the structure and vocabulary of WordNet, while the challenge organizers made additional choices about which categories and images could support a workable competition.
+:76. The familiar 1,000-class classification set included roughly 120 separate dog-breed labels.
+:77. Distinguishing one breed from another is a legitimate test of fine-grained visual classification, but it is not a timeless definition of machine vision.
+:78. It carried unusual weight because those distinctions happened to be numerous in the fixed category set used by an influential challenge.
+:79. A system could lose rank by confusing two similar breeds while facing no penalty for failing at a visually important category absent from the list.
+:80. That is not a flaw that could have been eliminated by simply choosing a perfect list, because no finite list represents every plausible use of vision.
+:81. It is the unavoidable consequence of operationalizing a broad capacity as a finite task.
+:82. The difficulty begins when the boundary needed for a test disappears from the claims made about the result.
+:83. Image classification is not object detection, localization is not scene understanding, and performance on curated photographs is not automatically performance in every camera, climate, or workplace.
+:84. The challenge organizers themselves distinguished these tasks and modified datasets as the research questions changed.
+:85. Careful benchmarking therefore requires both a stable core and an honest account of what lies beyond it.
+:86. Stability lets results accumulate across time.
+:87. Revision prevents yesterday's tractable proxy from becoming tomorrow's unquestioned definition.
+:88. The tension between those virtues is where historical dependence enters.
+:89. Publishing a dataset is merely an event in the past, and that alone does not make a field path-dependent.
+:90. Path dependence begins when adoption of the dataset changes the cost, visibility, or probability of later research choices.
+:91. Once many papers report the same score, a new paper can establish relevance by adding one row to a familiar table.
+:92. A paper on an unbenchmarked capacity must first defend the capacity, assemble the data, justify the metric, and persuade reviewers that the result is comparable to anything.
+:93. The old route is cheaper because previous travelers paid for its road.
+:94. Public code, data loaders, error analyses, tuned baselines, pretrained models, and teaching materials accumulate around the established test.
+:95. Laboratories acquire equipment and expertise suited to reproducing its workloads.
+:96. Students select questions that can yield a recognized result within the span of a degree.
+:97. Reviewers learn what counts as a meaningful improvement, and that familiarity lowers the explanatory burden for work that follows the same format.
+:98. Funding bodies and employers can read the number without mastering every experimental detail, giving benchmarked performance value outside the laboratory.
+:99. Each additional user makes the shared comparison more informative, so a benchmark can exhibit a network effect.
+:100. More use produces more baselines and tools, those complements reduce the cost of further use, and lower cost attracts still more use.
+:101. This positive feedback is the actual mechanism by which an early measurement choice can redirect a field's later possibility space.
+:102. Alternatives do not become physically impossible.
+:103. They become less visible, less comparable, and more expensive to pursue.
+:104. Replacing an entrenched benchmark may require new data collection, new annotation, new evaluation software, reruns of older systems, and coordination among groups that do not all benefit equally from the change.
+:105. These are switching costs created by the history of adoption rather than by the intrinsic superiority of the original task.
+:106. Yet the same complementary investments also create the benchmark's enormous value.
+:107. A stable standard preserves shared memory, protects prior experimental work, and allows a small laboratory to compare itself with much larger ones.
+:108. This is a useful lock-in as well as a restrictive one.
+:109. Calling it a lock-in does not mean that change is impossible or that the original choice was foolish.
+:110. It means that today's menu of affordable research questions depends partly on yesterday's coordination.
+:111. Nor does every benchmark start such a process.
+:112. Large surveys of computer-vision and language benchmarks find that many never achieve widespread use, while many others approach saturation quickly.
+:113. A dataset can be published, cited briefly, and forgotten without reorganizing a field.
+:114. It becomes a path only when repeated use builds reinforcing technical, social, and institutional investments around it.
+:115. This counterexample matters because it separates historical origin from genuine path dependence.
+:116. The Netflix Prize reveals a different limit of benchmark success.
+:117. In 2006, Netflix offered one million dollars for a ten-percent improvement over its existing system at predicting users' movie ratings.
+:118. The contest operationalized that objective with root mean squared error, a statistic that penalized the distance between a predicted star rating and the rating a user had actually supplied.
+:119. This proxy was precise, automatically scored, and suitable for a competition involving researchers far outside the company.
+:120. Over almost three years, participants developed important recommender-system methods and combined many models to pursue the last fractions of improvement.
+:121. The winning team crossed the specified threshold and received the prize in 2009.
+:122. Netflix later reported that the final ensemble blended hundreds of predictive models.
+:123. Engineers evaluated some of its new methods offline but concluded that the additional accuracy did not justify the effort required to move them into production.
+:124. By then, the company's personalization work had also expanded beyond predicting star ratings to ranking and arranging what members might actually choose to watch.
+:125. The tidy claim that Netflix used none of the prize work is wrong, because two strong component approaches from an earlier progress-prize ensemble were adapted and deployed.
+:126. The final increment on the contest metric was what failed the broader production test.
+:127. Running cost, update speed, engineering complexity, interface design, and the consequences of an actual viewing choice all mattered to the service, although they were not part of the prize score.
+:128. The contest did not measure those things badly.
+:129. It was designed to measure something narrower.
+:130. Participants behaved rationally when they optimized the published criterion, and Netflix behaved rationally when it later evaluated a wider set of costs and goals.
+:131. The episode therefore does not show that benchmarks are useless or that numerical progress is fake.
+:132. It shows that a real improvement in a proxy can remain insufficient evidence of improvement in the larger system the proxy was chosen to represent.
+:133. It also shows a path being changed rather than obeyed forever, because the organization could redirect attention when the service and its questions changed.
+:134. A mature benchmark develops other characteristic problems.
+:135. One is saturation, the approach toward a ceiling at which nearly every serious system answers nearly every test item correctly.
+:136. Near that ceiling, tiny score differences may depend heavily on annotation mistakes, ambiguous cases, or chance variation.
+:137. The broad problem may remain difficult even when the fixed test no longer separates methods well.
+:138. Researchers often respond by making a harder benchmark.
+:139. The successor can open a genuinely new direction by changing the data distribution, adding neglected capabilities, or testing behavior under less controlled conditions.
+:140. It can also inherit the predecessor's assumptions by keeping the same categories, response format, and headline metric while merely increasing difficulty.
+:141. Harder questions in the same format extend the existing road more readily than they reveal another destination.
+:142. Inheritance is attractive because old tools and baselines can be reused.
+:143. A more radical test sacrifices some continuity and requires a new community of comparison to be built.
+:144. The history of the old benchmark thus affects which replacement is cheapest even when everyone agrees that replacement is needed.
+:145. A second problem is overfitting at the scale of a research community.
+:146. A team may never train directly on the official test set and still make repeated design choices after seeing years of results on the same benchmark.
+:147. Across many teams and papers, architectures, preprocessing steps, and training recipes become adapted to the stable peculiarities of the test.
+:148. Score improvements can then become more specific to that benchmark than their broad interpretation suggests.
+:149. This differs from ordinary overfitting within a single experiment, in which a model learns its training samples but performs poorly on new samples drawn for the same intended task.
+:150. Community-level benchmark overfitting concerns the repeated selection of entire methods against a public target until the field learns the test's regularities.
+:151. Both problems weaken the inference from a reported score to performance elsewhere, but they arise through different histories.
+:152. A third problem is contamination.
+:153. When a public test item enters a model's training data, the evaluation no longer cleanly measures performance on unseen material.
+:154. The risk is especially difficult to audit for language models trained on very large collections of public text, because the benchmark itself, discussions of it, or recognizable variants may appear in those collections.
+:155. Exposure does not guarantee memorization, and contamination does not inflate every score by the same amount.
+:156. It does destroy the simple assumption that every published test example remained held out.
+:157. Protected test sets, renewed questions, provenance records, and statistical detection methods can reduce or reveal the problem.
+:158. Each remedy has costs, because secrecy hinders inspection, renewal weakens comparison through time, and provenance can be incomplete.
+:159. Benchmark maintenance is therefore continuing work rather than a one-time act of dataset publication.
+:160. Even an uncontaminated and unsaturated test can lack ecological validity.
+:161. A system may excel at choosing one answer from a supplied list yet struggle when it must ask clarifying questions, recover from interruption, or recognize that none of the offered answers fits.
+:162. A vision model tested on centered photographs may face clutter, unusual viewpoints, changing light, damaged sensors, or categories that were never represented in the evaluation set.
+:163. Reliability under distribution shift, calibration of confidence, response time, energy use, maintenance burden, and the ability to fail safely can all matter in deployment.
+:164. Some of these properties are measurable, but adding all of them to one score would hide conflicts among them rather than eliminate those conflicts.
+:165. A dataset selects which situations count, a metric assigns weight to different errors, and a ranking decides how multiple results will be made visible.
+:166. Change any of those choices and two systems can trade places without either system changing at all.
+:167. The reversal does not prove that measurement is arbitrary.
+:168. It proves that performance always means performance with respect to specified cases and consequences.
+:169. What a benchmark omits does not literally cease to exist as a research subject.
+:170. It becomes harder to display, compare, publish, and reward, which can make neglect more likely.
+:171. A language with little labeled data or no trusted evaluation set is not incapable of technical progress, but demonstrating and compounding that progress costs more.
+:172. Logistics and values meet at this point.
+:173. Automatically scored tasks are favored partly because they are cheap, repeatable, and scalable, while judgments requiring expert humans are slower and may vary between evaluators.
+:174. Those practical differences are genuine, but choosing convenience also distributes attention among capabilities, users, and environments.
+:175. The narrowing is a trade-off before it becomes a path dependence.
+:176. It becomes path-dependent only when repeated investment makes later broadening or redirection costlier than it would have been at the start.
+:177. Communities can preserve room to move by maintaining several benchmarks, refreshing test material, reporting more than one metric, auditing errors, and comparing performance outside the dominant distribution.
+:178. No such practice yields a complete view, and a large dashboard can become as ritualized as a single leaderboard number.
+:179. Multiple measures are useful not because they abolish judgment but because they keep incompatible goals visible.
+:180. Old benchmarks can remain as historical coordinates while new evaluations probe regions the old task could not represent.
+:181. This arrangement preserves comparability without granting one inherited test permanent authority over the field's direction.
+:182. It also preserves evolvability, because researchers retain more than one recognized route by which a contribution can matter.
+:183. The most consequential benchmark decisions are therefore not only the later decisions about how to improve a score.
+:184. They are the earlier decisions about what to test, how to score it, and when accumulated comparability is worth the cost of continuity.
+:185. Those choices are sometimes made by small teams solving an immediate practical problem, but they may also emerge from long consultation and repeated revision.
+:186. In either case, their reach depends less on the authority of their authors than on the network of users and complements that grows around them.
+:187. The arrow cut into the church wall makes a deliberately modest claim about one point's height within a reference system.
+:188. It lets later surveyors return to the same level without pretending that elevation is the only property of the landscape.
+:189. A research benchmark can offer the same disciplined continuity if its limits remain visible.
+:190. Once careers, code, equipment, and expectations accumulate around its score, however, the mark begins to function as a signpost.
+:191. The deepest lock-in lies not in the number itself but in the web of work that makes continuing to answer an inherited question cheaper than asking a different one.

@@ -1,0 +1,122 @@
+== 6.3 Verfassungen als absichtliche Fesseln ==
+
+:1. On March 9, 1937, Franklin Roosevelt sat at a White House desk and asked millions of radio listeners to look past the marble authority of the Supreme Court to the machinery that kept it in place.
+:2. The Court had invalidated central parts of the New Deal, and Roosevelt, newly reelected by a landslide, believed that unelected judges were obstructing measures demanded by a national emergency.
+:3. His proposed Judicial Procedures Reform Bill would have allowed the president to appoint an additional federal judge whenever a sitting judge over seventy declined to retire, with as many as six extra seats possible on the Supreme Court.
+:4. Nothing in the Constitution fixed the Court at nine members, and Congress had changed its size before.
+:5. The plan was therefore not an illegal assault from outside the constitutional order but an attempt to use one of the order's own available levers.
+:6. That fact made the confrontation more revealing, not less.
+:7. Roosevelt had formidable congressional majorities, command of the public stage, and a record of passing legislation at extraordinary speed.
+:8. Yet lawmakers from his own party joined Republicans in treating the proposal as a threat to judicial independence, and the Senate eventually sent the measure back to committee by seventy votes to twenty, stripping it of its central design.
+:9. The result cannot be reduced to a parchment prohibition, because no such prohibition existed.
+:10. Nor can it be explained simply by Roosevelt's lack of power, since few American presidents have entered a second term with more electoral and legislative strength.
+:11. He encountered a restraint built from constitutional structure, public expectation, professional authority, partisan calculation, and fear of the precedent that victory would create.
+:12. A door was legally open and politically almost impassable.
+:13. The restraint emerged from several rules and expectations acting together rather than from a single veto.
+:14. This is what it means for a constitution to act as an intentional fetter.
+:15. A political community places some decisions beyond the reach of its ordinary decision rule, divides other decisions among rival offices, and authorizes institutions that can say no even when a temporary majority wants yes.
+:16. The image of a fetter can mislead if it suggests that an earlier generation merely chained its descendants.
+:17. Constitutions also bind today's majority to bargains that make cooperation possible tomorrow, much as a bridge bears weight because its parts cannot move independently in every direction.
+:18. The bridge is only an analogy, however, because citizens can argue over the design, revise it, reinterpret it, or in extreme circumstances replace it.
+:19. Constitutional self-binding is therefore neither permanent immobility nor obedience to ancestors for its own sake.
+:20. It is a deliberate increase in the cost, time, or breadth of agreement required for certain kinds of change.
+:21. Those costs alter the possibility space of politics before any particular dispute begins.
+:22. Amendment rules provide the clearest version of this mechanism.
+:23. Under Article V of the United States Constitution, an amendment proposed by Congress requires approval by two thirds of both houses and ratification by three fourths of the states.
+:24. An ordinary statute needs neither coalition.
+:25. The higher thresholds force would-be reformers to recruit supporters across more places, elections, institutions, and interests, turning a momentary majority into a test of sustained and geographically distributed consent.
+:26. Delay can cool a panic, expose hidden consequences, and give groups threatened by change time to organize.
+:27. It can also make a promise credible because the government cannot discard the rule as soon as compliance becomes inconvenient.
+:28. A lender, investor, religious minority, opposition party, or ordinary citizen may act differently when today's assurance cannot be erased by tomorrow's narrow vote.
+:29. The benefit does not come from noble wording alone.
+:30. It comes from the expected difficulty of reversal, together with institutions capable of enforcing the commitment and a political culture willing to accept their authority.
+:31. A constitution ignored whenever it becomes costly is a catalog of aspirations, not an effective constraint.
+:32. Basic rights create a second form of self-binding by removing some interests from routine bargaining.
+:33. If freedom of speech or equal treatment depended entirely on winning each legislative contest, an unpopular minority would possess only the protection that its opponents happened to grant it.
+:34. Entrenchment changes the sequence: the government must justify its action under a prior rule, and an affected person may invoke that rule without first assembling an electoral majority.
+:35. This arrangement can protect the future majority as well, because no group can know with confidence that it will remain powerful.
+:36. People who expect to alternate between government and opposition have reason to preserve rules that make losing bearable.
+:37. The bargain expands some possibilities by narrowing others: peaceful dissent, investment, association, and long-term planning become safer because immediate political retaliation becomes harder.
+:38. Yet the same protection may preserve an old distribution of privilege if the original definition of rights excluded people or treated property, status, and citizenship in ways later generations reject.
+:39. Entrenchment tells us that a rule is difficult to change, not that the rule is just.
+:40. The separation of powers binds through a different architecture.
+:41. Instead of demanding one unusually large vote, it assigns lawmaking, execution, and judgment to offices with distinct terms, constituencies, procedures, and incentives.
+:42. A measure may have to survive two legislative chambers, an executive veto, administrative implementation, and judicial review, depending on the system and the issue.
+:43. Each checkpoint creates an opportunity to detect abuse or error, but each also creates a place where action can stall.
+:44. The friction is intentional.
+:45. James Madison argued that written boundaries alone were insufficient and that officeholders needed both the constitutional means and the personal motives to resist encroachment by other branches.
+:46. That design does not assume virtuous officials; it tries to turn rivalry into a partial safeguard against concentrated power.
+:47. It works imperfectly because ambitions can align, parties can connect institutions that the constitutional text separates, and officials can decline to defend powers entrusted to them.
+:48. Still, division changes the price of capture by requiring a would-be dominant actor to overcome several centers of authority rather than one.
+:49. Independent courts and auditors add a further restraint by giving review to people whose tenure, appointment, budget, or professional norms partly insulate them from the decision they examine.
+:50. Judicial tenure during good behavior in the United States was designed to reduce dependence on presidents and legislatures after appointment.
+:51. The insulation is never complete, since judges are selected through politics, courts depend on others to execute judgments, and legal interpretation permits reasonable disagreement.
+:52. Independence is a matter of structured distance, not an escape from society.
+:53. Its value appears when an official can enforce a prior commitment against those who currently control coercion or money.
+:54. Its danger appears when review becomes so unaccountable or doctrine so rigid that correction requires a coalition the political system can almost never assemble.
+:55. Constitutional endurance therefore arises from more than a demanding amendment clause.
+:56. It accumulates through court decisions, legislative habits, party strategies, administrative routines, civic education, and expectations about which formally lawful moves are nevertheless out of bounds.
+:57. These complements reinforce one another: people invest in institutions because they expect the rules to last, and those investments raise the disruption caused by changing the rules.
+:58. Durability is thus produced both by barriers written at the founding and by dependencies constructed afterward.
+:59. Roosevelt's proposal collided with that accumulated structure even though the number nine had no constitutional protection.
+:60. But a restraint strong enough to defeat an opportunistic alteration may also defeat a necessary repair, which leaves the central design problem unresolved.
+:61. The difficulty is that no constitution can specify in advance which future demands will be opportunistic and which will be necessary.
+:62. A threshold calibrated to stop a fleeting majority may also empower a durable minority to block reforms supported across many elections.
+:63. The delay that permits deliberation can become a delay during which preventable harm continues.
+:64. The independent institution that protects dissenters in one dispute may preserve its own authority or an inherited hierarchy in another.
+:65. Self-binding solves one problem by creating another: the people must be protected from hasty power without making considered self-correction impossible.
+:66. Formal amendment rules reveal only part of that balance.
+:67. Article V contains an exceptionally strong protection for equal state representation in the United States Senate, declaring that no state may lose equal suffrage there without its consent.
+:68. Because every affected state can refuse, this provision approaches an individual veto rather than an ordinary supermajority barrier.
+:69. Other constitutional provisions are legally amendable under the two-thirds and three-fourths formula yet may remain politically unreachable when the beneficiaries of the existing arrangement control enough states or legislative seats to stop change.
+:70. Legal amendability asks whether a valid procedure exists.
+:71. Political reachability asks whether real actors, beginning from today's distribution of authority, interests, and beliefs, could plausibly complete it.
+:72. Confusing the two makes a map of formal routes look like a map of usable roads.
+:73. The reverse confusion is just as serious.
+:74. A rule that can be altered by ordinary legislation may be politically stable because voters value it, officials organize around it, and violating it carries reputational or electoral costs.
+:75. The defeat of Roosevelt's plan demonstrated this kind of informal entrenchment, although the episode did not freeze the judiciary exactly as it stood.
+:76. Vacancies later allowed him to appoint new justices, the Court's constitutional doctrine changed, and less controversial parts of judicial administration were reformed.
+:77. The path bent through personnel, interpretation, and narrower statutes after the direct route had closed.
+:78. That sequence also cautions against the tidy story that political pressure simply frightened one justice into switching sides.
+:79. Some judicial votes underlying the Court's apparent turn had been cast before Roosevelt publicly announced his plan, while retirements, new cases, and longer doctrinal developments all contributed to the transformation.
+:80. Constitutional change often occurs without a constitutional amendment, but that does not mean it occurs without mechanisms or costs.
+:81. New Zealand offers a useful countercheck against the claim that rights require courts with an absolute power to invalidate legislation.
+:82. Its Bill of Rights Act of 1990 affirms civil and political rights, yet section 4 directs courts not to invalidate, refuse to apply, or treat another enactment as ineffective solely because it conflicts with those rights.
+:83. Section 6 instructs courts to prefer a rights-consistent meaning whenever the legislation can bear one.
+:84. Section 7 requires the attorney general to alert Parliament when a bill appears inconsistent with protected rights.
+:85. Since reforms that took effect in 2022, a final judicial declaration of inconsistency must be brought before Parliament, and the responsible minister must report the government's response.
+:86. These devices do not give judges the last word.
+:87. They change the path to legislation by inserting legal scrutiny, public notice, interpretation, and a required political response before or after a rights conflict becomes settled practice.
+:88. Their force depends heavily on transparency, professional judgment, parliamentary attention, and the political cost of openly accepting inconsistency.
+:89. This model is more flexible than strong-form judicial review, but flexibility is not synonymous with weakness in every case.
+:90. A legislature can respond more readily to new circumstances or correct a disputed judicial interpretation.
+:91. It can also override a right with fewer procedural obstacles, especially when the people harmed possess little political influence.
+:92. Conversely, a highly entrenched charter can prevent immediate abuse while transferring immense power to the judges who give abstract language concrete meaning.
+:93. Neither architecture abolishes judgment; each relocates it and changes who must persuade whom.
+:94. The comparison is not a contest with a universally superior winner because the value of each safeguard depends on party competition, administrative integrity, civic expectations, access to courts, and the kinds of threat a system is likely to face.
+:95. Institutional design chooses among patterns of possible error rather than eliminating error itself.
+:96. This is why constitutional restraint is path-dependent rather than merely restrictive.
+:97. A high amendment threshold is a constraint from the moment it is adopted, but a path forms as political actors adapt their strategies to it and build complementary practices around it.
+:98. Lawyers learn to pursue contested goals through litigation when amendment is implausible.
+:99. Judges develop doctrines that mediate between old language and new disputes.
+:100. Parties screen proposals for compatibility, advocacy groups select test cases, officials acquire specialized knowledge, and citizens learn which claims sound constitutionally legitimate.
+:101. Success through any one route attracts money, talent, precedent, and expectation to that route, making it easier to use again.
+:102. Alternatives do not vanish, but they become less familiar, less staffed, and more expensive to coordinate.
+:103. These increasing returns can stabilize a workable democracy, not merely trap it.
+:104. Officials who know their jurisdiction can act predictably, opponents can plan within known limits, and minorities can invoke commitments that outlast a hostile election.
+:105. The same investments, however, can turn an initially sensible arrangement into a local optimum: adequate enough to preserve, deeply connected to surrounding practices, and costly to replace even when another design looks better in isolation.
+:106. Calling that condition a lock-in is justified only when earlier institutional development has changed the cost or feasibility of alternatives.
+:107. If every available constitution would face the same security threat, demographic pressure, or scarcity, the limitation is functional rather than path-dependent.
+:108. If reform fails merely because current citizens reject it on the merits, history may explain their beliefs, but institutional feedback has not yet been demonstrated.
+:109. A genuine path mechanism appears when a prior choice creates offices that can veto revision, constituencies that depend on the choice, skills tailored to operating it, or expectations whose disruption would impose immediate losses.
+:110. Those elements help explain why a crisis does not automatically clear the constitutional slate.
+:111. Even when old authority collapses, reformers usually need available drafts, trusted personnel, procedures for ratification, and organizations capable of making the new rules real.
+:112. A dramatic opening in the possibility space can close around the best-prepared alternative rather than the abstractly best one.
+:113. Deliberate path change is nevertheless possible when reformers assemble a broad coalition, supply credible transition rules, preserve valuable functions, and build the capabilities their preferred arrangement requires.
+:114. Sometimes amendment performs that work openly; sometimes reinterpretation, institutional convention, or a sequence of narrower changes does it gradually.
+:115. Each route distributes authority and transition costs differently, so the method of reform becomes part of the constitution it produces.
+:116. The intentional fetter is therefore less like a single chain than a set of hinges whose resistance reflects everything attached to the door.
+:117. Its written clauses matter, but so do the judgments, offices, procedures, expectations, and trained professions fastened to them over time.
+:118. By 1937, nine seats on the Supreme Court had become difficult to alter without ever becoming an unchangeable rule.
+:119. The failed attempt to move that unwritten boundary then added another layer to the expectation that the boundary should hold.
+:120. Once restraint acquires layers in this way, changing the text is only the beginning of changing the law.

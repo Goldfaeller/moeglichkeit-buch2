@@ -1,0 +1,147 @@
+== 4.11 Der Möglichkeitsraum, den wir nicht betreten haben ==
+
+:1. In 1969, Marvin Minsky and Seymour Papert of the Massachusetts Institute of Technology published a rigorous mathematical book about machines that learned.
+:2. Its subject was the perceptron, a family of systems associated above all with Frank Rosenblatt, who had described his model in a scientific paper in 1958 and helped turn it into a prominent research program.
+:3. In its simplest familiar form, a perceptron adjusts weighted connections from examples until it can separate one class of inputs from another.
+:4. Minsky and Papert established sharp limits for classes of perceptrons they analyzed, including their inability under specified conditions to solve certain problems involving parity and connectedness.
+:5. The proofs mattered because they showed that enthusiasm for a learning machine could not substitute for knowing what that machine could represent.
+:6. Yet the mathematical conclusions were narrower than the cautionary tale later built around them.
+:7. The book did not prove that every multilayer neural network was futile, although its authors were skeptical that adding layers would readily overcome the practical difficulties.
+:8. Training useful hidden layers was indeed a formidable problem with the concepts, software, and computing resources then available.
+:9. Research on neural networks lost standing and support around this period, but no single publication switched off the field.
+:10. Symbolic approaches were gaining institutional authority, early connectionist machines had disappointed large expectations, and government funders were demanding more demonstrable results.
+:11. Broader reductions in artificial-intelligence funding during the 1970s also had distinct causes, including critical reviews in Britain and changing priorities in American defense research.
+:12. Work on neural networks continued in scattered communities, so even the familiar image of a completely frozen field is too neat.
+:13. The later revival likewise had no single origin.
+:14. It drew on accumulated work in statistics, neuroscience, optimization, computer engineering, and several traditions of network research.
+:15. In 1986, David Rumelhart, Geoffrey Hinton, and Ronald Williams gave a widely influential demonstration of back-propagation in networks with hidden units, showing how internal representations could be learned by adjusting weights to reduce output error.
+:16. Those networks did not invalidate the earlier proofs, because they were not confined to the systems to which the proofs applied.
+:17. A theorem had remained true while the practical horizon around it changed.
+:18. The perceptron episode is therefore not a simple story about a wrong verdict overturned by better evidence.
+:19. It is a story about how a research field decides which verdicts deserve attention, which obstacles justify persistence, and which questions cease to attract the resources needed to answer them.
+:20. Historians disagree about how much causal weight to assign to the book itself, and that disagreement is part of the lesson rather than an inconvenience to it.
+:21. A technical criticism can matter through several channels at once: what it proves, how influential readers interpret it, which investments it discourages, and which rival program is ready to receive the released money and talent.
+:22. None of those channels alone makes the subsequent path inevitable.
+:23. Together they can change which next steps are affordable, respectable, and visible.
+:24. That is the specific mechanism of path dependence here.
+:25. We keep excellent records of what was built.
+:26. We keep decent records of what was tried and failed.
+:27. We keep much poorer records of what was never tried, because an unattempted experiment produces no result to archive.
+:28. A failed experiment may leave a paper, a dataset, or a disappointed paragraph in a thesis.
+:29. A project abandoned before the proposal stage leaves a blank that looks exactly like every other blank.
+:30. Imagine a photographic archive of a city, complete down to every doorway and drainpipe, and then ask what the city might have looked like instead.
+:31. The archive cannot answer, and it cannot indicate the size of what it fails to show.
+:32. The analogy has a limit, because technical alternatives are not fully formed streets waiting somewhere outside the photograph.
+:33. Many possibilities become describable only after tools, concepts, and neighboring discoveries make them thinkable.
+:34. The possibility space is therefore an analytical model, not a warehouse of finished inventions that history neglected to unpack.
+:35. It includes approaches that were attempted and abandoned, ideas that remained impractical, combinations no one funded, and questions that the available language did not yet permit researchers to formulate clearly.
+:36. These categories should not be confused.
+:37. An approach may be absent because it was refuted, because it performed poorly under relevant tests, because an enabling component was missing, or because attention moved elsewhere before a fair comparison became possible.
+:38. Only the last three leave room for a changed environment to reopen the path, and even then renewed success is not guaranteed.
+:39. Analog computing illustrates the danger of reducing a complicated transition to a technical knockout.
+:40. Electronic analog and hybrid computers remained useful for simulation and control after digital computers began to dominate general-purpose computing.
+:41. Digital systems offered powerful advantages in programmability, reproducibility, storage, and cumulative improvement, while manufacturing, education, and software increasingly organized themselves around those advantages.
+:42. Once that surrounding system thickened, an analog method had to justify not only its own performance but also the cost of leaving a mature digital ecosystem.
+:43. Analog methods were not disproved, and some later machine-learning hardware has again explored computation with physical, continuous quantities.
+:44. Their possible energy and speed advantages come with problems of noise, precision, fabrication, and programmability, so their renewed visibility is not evidence that the earlier choice was simply foolish.
+:45. Neuromorphic computing offers another branch rather than a secret replacement waiting to win.
+:46. It uses designs inspired by features such as sparse, event-driven neural signaling, with the hope of performing some workloads more efficiently than conventional dense computation.
+:47. Comparisons with biological brains require care because a brain and a training cluster perform different tasks under different definitions of accuracy, learning, and energy use.
+:48. The enormous power-station comparisons sometimes used in popular accounts collapse those differences into a number that explains less than it appears to.
+:49. Neuromorphic devices may prove valuable in particular settings without displacing conventional hardware across the field.
+:50. Symbolic systems, evolutionary computation, probabilistic models, and hybrids of learned and hand-structured components occupy still other regions of the map.
+:51. Each brings characteristic strengths, costs, and failure modes rather than a universal claim to superiority.
+:52. Symbolic representations can make some rules explicit but can be expensive to construct and brittle outside anticipated cases.
+:53. Evolutionary methods can search without gradients but may require many evaluations and can be difficult to scale to certain tasks.
+:54. Probabilistic models can represent uncertainty explicitly, yet their assumptions and computational demands still constrain what they can express and estimate.
+:55. Several of these traditions also contributed to mainstream machine learning, which shows why the border between a dominant path and an alternative path keeps moving.
+:56. Calling an approach neglected does not establish that it would have succeeded with equal resources.
+:57. It establishes only that its observed performance was produced under unequal historical conditions.
+:58. The strongest comparison therefore asks two questions instead of one.
+:59. How well does the approach work now, and how did earlier investment shape the conditions under which that performance became possible?
+:60. The mechanism that separates those questions is compounding.
+:61. Suppose two approaches begin with comparable promise, and one happens to fit the available hardware slightly better.
+:62. It runs faster, produces more experiments per year, appears in more papers, attracts more students, and receives better libraries.
+:63. Engineers then optimize chips, drivers, and data pipelines for the operations that growing community uses most.
+:64. The next experiment becomes cheaper, which creates more results and strengthens the case for another round of investment.
+:65. Each step can be locally reasonable without anyone declaring the rival approach false.
+:66. After enough turns, the approaches are no longer being tested in equivalent environments.
+:67. One arrives with mature tools, trained workers, known debugging practices, compatible datasets, and reviewers who understand its vocabulary.
+:68. The other must spend part of every research grant rebuilding those background conditions before its central idea can even be judged.
+:69. This is sometimes called a hardware lottery, but chance is only the beginning of the process.
+:70. The durable effect comes from the way an early match between an idea and available machinery attracts complementary investments that later alternatives must either use or replace.
+:71. Hardware does not merely accelerate answers.
+:72. By making some operations cheap and others expensive, it changes which questions are practical to ask repeatedly.
+:73. Benchmarks add a second layer of selection.
+:74. They make cumulative research possible by giving laboratories common tasks, datasets, and measures.
+:75. Without them, each new method could claim success on a private test, and comparison would dissolve into salesmanship.
+:76. A benchmark also turns one chosen slice of performance into a gateway for attention.
+:77. Studies of benchmark sensitivity have shown that changing the tasks in a benchmark can change the apparent ranking of methods.
+:78. A system that fits the established test can therefore gain visibility, citations, skilled users, and often funding, which help it improve on the next version of the same test.
+:79. The standard does not merely record a race.
+:80. It helps determine which runners receive shoes, coaches, and another invitation to compete.
+:81. This does not make measurement corrupt or dominance unreal.
+:82. It means that measured merit and accumulated support become entangled, so a ranking cannot by itself tell us how the same approaches would have developed under different investments.
+:83. Money reinforces the pattern without acting as a villain.
+:84. Research that requires large computing clusters can be pursued at full scale only by organizations able to secure those clusters, although valuable work elsewhere in the field may need far less computation.
+:85. Investors and managers often prefer projects with interpretable milestones, while established benchmarks and software stacks make milestones easier to promise.
+:86. Curricula then teach the tools that employers and laboratories already use, and those employers recruit from the resulting pool of trained people.
+:87. Reviewers are most able to evaluate work expressed in methods they know, even when they conscientiously try to recognize unfamiliar merit.
+:88. A doctoral researcher faces the same structure at human scale.
+:89. A dissertation has a deadline, and betting it on an approach with weak tooling, few potential advisers, and no established publication venue can endanger a career before it tests a scientific claim.
+:90. Choosing the mature path may be entirely rational for that researcher.
+:91. Thousands of rational choices can nevertheless produce a collective search pattern that nobody selected as a whole.
+:92. This is the deep asymmetry of the situation.
+:93. Choices about what to build often leave budgets, products, papers, and public arguments behind them.
+:94. Choices about what not to investigate can be made in anticipation, before an application is written or an experiment designed.
+:95. They alter the possibility space by aggregation and then disappear from its documentary history.
+:96. A rejected grant proposal leaves a record and an applicant who remembers it.
+:97. A proposal never drafted because the necessary hardware, colleagues, or career prospects were absent leaves much less.
+:98. We should resist the seductive claim that this invisible category must contain a treasure house of superior technologies.
+:99. Most untried ideas may be unworkable, redundant, or uninteresting.
+:100. The epistemic problem is precisely that a field cannot estimate the mixture confidently after the mechanisms of exploration have removed the evidence.
+:101. Recent machine learning has sometimes compressed the hardening of a research path into a small number of years.
+:102. A paper can become a standard software component, a course topic, a benchmark baseline, and a target for specialized hardware while its broader limitations are still being mapped.
+:103. That pace is striking, but claims that it is literally unprecedented across all technological history would require comparisons we do not possess.
+:104. Nor does rapid change refute path dependence.
+:105. A field can replace models quickly while each replacement inherits the same accelerators, programming frameworks, datasets, evaluation habits, and capital-intensive facilities.
+:106. The names on the components change while the cost of leaving the surrounding architecture rises.
+:107. Yet closure is not an all-or-nothing event.
+:108. New algorithms can revive old ideas, cheaper hardware can broaden participation, open software can lower entry costs, and a new task can expose weaknesses that a familiar benchmark concealed.
+:109. The return of multilayer networks is itself evidence that a neglected route can reopen when techniques and material conditions change.
+:110. It is not evidence that every abandoned route deserves revival.
+:111. Some narrowing is exactly what productive research requires, because a field that distributes equal effort across every imaginable approach cannot develop the craft needed to make any one of them work.
+:112. Concentration can create common language, dependable tools, reproducible experiments, and rapid error correction.
+:113. These are useful forms of lock-in.
+:114. Their benefits are also what make a later switch expensive, because the value resides not in one model but in the coordinated system around it.
+:115. Openness therefore has a cost, and romantic accounts of unexplored possibilities tend to hide who pays it.
+:116. Parallel programs require researchers, equipment, maintenance, patient institutions, and years that could have improved the leading approach.
+:117. Preserving an option may still be rational when losing the associated skills and tools would make recreation prohibitively expensive.
+:118. The relevant question is not whether diversity is always good, but which modest present costs prevent especially large and irreversible future losses.
+:119. Agriculture offers a limited but useful comparison.
+:120. Genebanks maintain crop varieties and wild relatives that may not be widely planted, preserving material that breeders can use when environments and needs change.
+:121. Stored seed is not equivalent to a research tradition, because a technical approach also depends on tacit knowledge, functioning equipment, and a community able to teach it.
+:122. A paper archive can preserve an idea while the practical ability to develop it disappears.
+:123. Technical options survive through several kinds of continuity: documentation, reproducible code, small working prototypes, trained practitioners, and tests that reveal qualities outside the dominant benchmark.
+:124. None is free, and none guarantees that the preserved path will become useful.
+:125. They preserve reachability, not success.
+:126. Negative results matter for the same reason.
+:127. When failures are documented with enough detail to reproduce them, later researchers can distinguish a path tested under obsolete constraints from one blocked by a more general limit.
+:128. A discarded result can then become a bridge rather than a rumor.
+:129. History also records cases in which convergence was sensible rather than pathological.
+:130. When a shared interface lets many systems interoperate, the loss of incompatible alternatives may be outweighed by the value of coordination.
+:131. If a new approach offers only a slight laboratory advantage but demands replacement of hardware, software, training, and safety procedures, retaining the established system may reflect a real trade-off rather than intellectual cowardice.
+:132. Path dependence identifies how the costs arose; it does not decide whether paying them is worthwhile.
+:133. That distinction keeps the argument from collapsing into nostalgia for every road not taken.
+:134. It also keeps contingency from becoming fatalism.
+:135. Early events, institutional judgments, and material investments influence later possibilities, but new evidence and new tools can still alter the landscape.
+:136. The landscape metaphor must remain a metaphor, because research communities can redraw parts of their own map while moving across it.
+:137. They can create interfaces between approaches, translate old methods onto new hardware, or recover questions that an earlier benchmark could not express.
+:138. Such work may look unproductive when judged by the dominant path's immediate measure, which is exactly why measures participate in path formation.
+:139. The difficulty is temporal rather than mystical.
+:140. Investments can compound before counterfactual evidence accumulates, because evidence from an unbuilt system arrives only after someone bears the cost of building it.
+:141. By the time that evidence exists, the comparison may already include years of unequal tooling and experience.
+:142. We therefore cannot describe the possibility space we did not enter as if its contents were knowable inventions waiting in the dark.
+:143. We can describe the mechanisms that made some questions cheap, reputable, and measurable while making others costly, strange, or invisible.
+:144. That shift in attention changes the historical record from a parade of winners into evidence of a search conducted under inherited conditions.
+:145. The quiet question left by every successful technical path is which of today's alternatives will later be visible only as the turn we no longer had the tools to take.

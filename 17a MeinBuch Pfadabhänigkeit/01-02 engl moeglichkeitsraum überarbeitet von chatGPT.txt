@@ -1,0 +1,157 @@
+== 1.2 Der Möglichkeitsraum und seine Ränder ==
+
+:1. On a hiking map, two places can lie an inch apart and still be separated by a cliff.
+:2. Their geometric closeness does not tell you whether a walkable route connects them.
+:3. That distinction gives us a picture for thinking about systems whose imaginable futures are far more numerous than their reachable ones.
+:4. Imagine a landscape.
+:5. Not a metaphorical landscape in the loose sense, but a specific one, with a rule for what its points mean.
+:6. Every possible version of a system — every configuration it could in principle take — is a point somewhere on this terrain.
+:7. Two points lie close together if a small permitted change can turn one configuration into the other, and far apart if many difficult changes separate them.
+:8. A system with a great many adjustable features has a landscape with a great many dimensions, which no one can visualize.
+:9. A page reduces those dimensions to two or three, preserving some relationships while inevitably hiding others.
+:10. The picture is useful only if we remember that it is a model of reachability, not a secret geography behind the world.
+:11. Now comes the essential move.
+:12. The system does not hover above this terrain, surveying it and selecting a destination.
+:13. It stands on the ground at one particular point, the state produced by everything that has already happened to it.
+:14. From there it can usually change only through a sequence of allowed transitions.
+:15. In the picture, it can only walk.
+:16. Before following that walk, we need to separate four meanings of possible that ordinary speech often compresses into one word.
+:17. A theoretically imaginable state can be described in words, symbols, or a drawing without yet asking whether reality permits it.
+:18. A physically possible state obeys the relevant laws of matter, energy, mathematics, and logic.
+:19. A functionally viable state can perform whatever minimum tasks allow the system to continue under specified conditions.
+:20. A historically accessible state can be reached from the present one through available steps without losing that necessary function along the way.
+:21. These categories are filters rather than four neat boxes.
+:22. A design can be easy to imagine yet physically impossible, or physically possible yet unable to do the job for which it is proposed.
+:23. It can also be physically sound and functionally excellent at its destination while remaining historically inaccessible from here.
+:24. The missing ingredient in that last case is not possibility in general but a viable path.
+:25. Conversely, an inherited arrangement may be historically easy to continue even when it performs poorly by current standards.
+:26. The possibility space that matters for path dependence is therefore not a catalog of everything conceivable.
+:27. It is the structured set of states that can be reached from a given starting point under particular transition rules.
+:28. Those rules may include physical constraints, but they also include budgets, skills, compatibility requirements, legal permissions, and the need to keep essential work going.
+:29. Walking means moving to adjacent points, one small step at a time.
+:30. What counts as a neighbor depends on the system and the mechanism of change.
+:31. A software patch may be a small step for a digital service, while replacing its data format, hardware, and trained staff at once is not.
+:32. A biological mutation, a factory conversion, and a constitutional amendment create different neighborhoods even when the same diagram is used for all three.
+:33. The metaphor does not erase those differences; it gives us a common question to ask about them.
+:34. Which next states are reachable from this one, and at what cost?
+:35. And every step must leave the system standing, because a system that falls over does not continue.
+:36. Functioning does not mean performing as well as before in every respect.
+:37. A household can tolerate inconvenience during a renovation, a firm can absorb a temporary loss, and an organismal population can contain variants that do less well than others.
+:38. Reserves, redundancy, financing, coordination, and time can therefore turn a shallow valley into a passable one.
+:39. Yet when no tolerable intermediate state connects two configurations, the direct route is absent from the local map.
+:40. A superior destination does not make its own bridge.
+:41. This is where sequence begins to matter.
+:42. An early step can create skills, components, or permissions that make a later step feasible.
+:43. The same later step taken first may fail because those supporting conditions do not yet exist.
+:44. Earlier states have then changed the number, cost, or probability of later possibilities, which is the core mechanism of path dependence.
+:45. Imagine two towns confronting the same increase in flood risk.
+:46. One has streets, sewers, property lines, and maintenance crews organized around rapidly draining water away.
+:47. The other has spent decades preserving channels, wetlands, pumps, and expertise for retaining and redirecting it.
+:48. The same physical pressure meets different inherited systems, so the next affordable projects differ even if both towns want the same degree of protection.
+:49. History has not dictated one response, and it has not made either response automatically wise.
+:50. It has altered the menu from which each town can realistically choose.
+:51. This also shows why having a history is not enough to establish path dependence.
+:52. If two digital files are bit-for-bit identical and operate in equivalent systems, the identities of the people who typed them do not change which edits are now possible.
+:53. Their origins differ, but the difference has left no relevant trace in the transition rules.
+:54. Path dependence requires a continuing mechanism, not merely a story about what happened earlier.
+:55. The word space is slightly misleading, because it suggests something open.
+:56. The possibility space is not open; it is corrugated.
+:57. There are ridges you can walk along, valleys you cannot cross, and whole continents visible in the distance with no route leading to them.
+:58. Consider what a valley means in this picture.
+:59. A valley is a region where the system would function worse than it does now.
+:60. If a superior configuration lies on the far side of a valley, then getting there requires passing through a period of being worse.
+:61. Sometimes the loss is unacceptable, and the destination remains inaccessible by that route regardless of how desirable it appears.
+:62. This is the mechanism represented by a local optimum.
+:63. A local optimum is a point from which no available small change scores better under the chosen measure.
+:64. The word local does essential work in that definition, because the result depends on which changes count as neighboring and which performance measure supplies the height.
+:65. A system stuck on a low hill is not making an error.
+:66. It is doing exactly what it should do at every individual step, and the sum of correct steps can still be a poor outcome.
+:67. No stupidity is required, no failure of will, no shortage of information.
+:68. The obstacle can be the structure of the route itself.
+:69. Even so, a local optimum is not a universal prison.
+:70. Actors may accept a temporary loss, coordinate a large jump, import resources, combine several changes, or discover a path that the simplified map omitted.
+:71. Biological populations may also move through neutral or temporarily disadvantageous states under conditions that a pure uphill-walk model leaves out.
+:72. In high-dimensional spaces, routes can sometimes go around a valley that looks unavoidable in a flat drawing.
+:73. Networks of equally viable states can connect distant regions without requiring a descent at all.
+:74. The familiar picture of isolated peaks can therefore exaggerate both the depth of valleys and the finality of being stuck.
+:75. Its lesson is conditional rather than absolute: local improvement can restrict the destinations reachable by local improvement alone.
+:76. The phrase global optimum requires even more care.
+:77. In a formal model, it can mean the highest-scoring state among all states included in the model.
+:78. In a real organism, city, technology, or institution, there may be no single agreed score and no complete list of states.
+:79. Speed, safety, cost, fairness, resilience, and many other qualities may pull in different directions.
+:80. Changing their relative importance changes which point appears high.
+:81. A peak is therefore never simply better without a specified function, environment, population, and time horizon.
+:82. Some experimental systems permit researchers to measure small local landscapes with care.
+:83. For most complex systems, however, the surface remains a disciplined way of reasoning rather than a chart that could actually be surveyed.
+:84. Now for the property that makes the possibility space genuinely peculiar.
+:85. The terrain is not a fixed map through which the system moves.
+:86. Take one step, and part of the map may redraw itself.
+:87. Configurations that were remote can become adjacent, while an easy return can become expensive.
+:88. A newly acquired skill makes tasks available that previously required outside help.
+:89. A chosen technical standard makes compatible components cheaper while reducing demand for incompatible ones.
+:90. An investment in specialized equipment improves one production route while allowing suppliers for another to disappear.
+:91. These are not changes in the laws of physics.
+:92. They are changes in the network of capabilities and dependencies through which a path must run.
+:93. The surrounding environment can redraw the terrain as well.
+:94. A new material, interface, law, competitor, climate, or price can raise one route, lower another, or connect regions that were previously separate.
+:95. The adoption and use of a system may even help create the later conditions by which its current configuration will be judged.
+:96. What is possible for a system depends on what it currently is, while the surrounding world also helps determine what those possibilities are worth.
+:97. The border moves, but it does not always move in one direction.
+:98. Some steps close routes behind them, some preserve reversibility, and some open several alternatives at once.
+:99. The degree of path dependence turns on how strongly the effects of those steps persist.
+:100. Sunk investments, complementary assets, learned routines, shared expectations, and dismantled alternatives can make forward and backward movement sharply asymmetric.
+:101. Going back is not the reverse of going forward; it is a different and much harder journey, over ground that has changed since you left.
+:102. It is a new project undertaken with different skills, dependencies, and surroundings from those that existed before.
+:103. Several sources produce the border, and it is worth separating them, because they behave differently and can be addressed differently.
+:104. The first is the hard border, set by physics, chemistry, mathematics, and logic.
+:105. No amount of training, investment, or agreement turns a contradiction into a workable design.
+:106. Such a border should not be confused with an expensive transition that remains possible in principle.
+:107. The second is the border of construction, set by what the system is made of.
+:108. The inherited tetrapod body plan organizes appendages around ancestral forelimb and hindlimb fields, even though some lineages have reduced or lost limbs.
+:109. Adding a third functional pair would require coordinated changes in body patterning, nerves, circulation, skeleton, and movement rather than the simple attachment of two extra limbs.
+:110. Insects demonstrate that six limbs violate no general law of matter, but they do not provide tetrapods with a nearby developmental route to the same arrangement.
+:111. Construction borders are therefore historically specific even when they are severe.
+:112. A third border is functional: some intermediate configurations cannot perform the minimum tasks demanded of them in their present environment.
+:113. This border depends on what must be preserved during the transition, so a temporary bypass or substitute can sometimes move it.
+:114. The fourth is the border of dependency, and it is often the one most directly shaped by accumulated history.
+:115. A feature becomes difficult to alter when equipment, contracts, skills, expectations, and other components have been fitted around it.
+:116. The feature itself may be trivial or widely disliked, yet the surrounding web makes replacement costly.
+:117. Dependency borders often remain invisible until an attempted change reveals everything fastened to the old arrangement.
+:118. A final border concerns visibility rather than viability.
+:119. Some regions of the possibility space are unreachable in practice not because a route is blocked but because the relevant actors have not noticed the region exists.
+:120. The route is not literally blocked, but it has little practical effect while no relevant actor can identify or investigate it.
+:121. A new question, instrument, comparison, or representation can make such a region visible.
+:122. Recognition alone does not guarantee that the newly seen destination is useful or reachable, but it can move the first obstacle from ignorance to examination.
+:123. Confusing these borders is costly.
+:124. Treating a dependency border as a hard border produces resignation about things that could be changed.
+:125. Treating a hard border as a dependency border produces exhausting campaigns against physics.
+:126. Treating an unseen route as an impossible route allows the vocabulary of the present to narrow the search for alternatives.
+:127. The categories can also overlap, because a dependency may hide an alternative and a new representation may reveal it without removing the cost of reaching it.
+:128. They are diagnostic questions, not colored fences already drawn on the ground.
+:129. The possibility space does not merely constrain; it also contains regions that were once occupied and no longer can be reached by their former routes.
+:130. A former state may remain imaginable and physically possible even after it ceases to be historically accessible.
+:131. Machinery is scrapped, suppliers depart, professional knowledge disperses, records are lost, and institutions are rebuilt around different expectations.
+:132. An abandoned arrangement is not necessarily waiting intact behind us.
+:133. Yet abandonment does not always destroy a route, because archives, preserved tools, living skills, and interchangeable components can retain part of it.
+:134. A lost region is one whose former route no longer works, while a hidden region has a route that remains unrecognized or neglected.
+:135. But the picture would be badly incomplete if it showed only closure, because the possibility space also opens.
+:136. Sometimes a single change makes an enormous new region accessible all at once.
+:137. Such openings are not always predictable, but neither are they necessarily invisible until hindsight.
+:138. People can sometimes recognize an opening, invest in it deliberately, and still remain uncertain about which destinations it will eventually support.
+:139. An opening does not determine everything that follows; it changes the probabilities and costs of what can follow.
+:140. A step can thus narrow the space, widen it, or exchange one set of options for another.
+:141. The difference may be obvious at the time, but often it emerges only when conditions change and a formerly unused route becomes valuable.
+:142. Different systems have very different amounts of room around them.
+:143. A highly specialized system can sit on a sharp peak, performing superbly under narrow conditions while suffering from many small departures.
+:144. A less specialized system can occupy a broad plateau, performing adequately across a wider range of conditions and modifications.
+:145. Stable conditions may reward the peak, while altered conditions may favor the plateau.
+:146. This is not an iron trade-off, because modular design, redundancy, or better knowledge can sometimes improve current performance and future adaptability together.
+:147. Still, intense optimization can remove spare capacity and alternative routes that produce no immediate return.
+:148. The width and quality of the remaining walkable ground offer one way to picture evolvability, the ability to keep producing viable change.
+:149. Evolvability has no single universal measure, because useful neighborhoods differ across systems and environments.
+:150. A space is not a cell.
+:151. The difference between being trapped and being situated is the difference between having no options and having fewer options than you imagined possible.
+:152. The landscape metaphor reaches its limit precisely where the real work begins, since actual points are hard to define, distances can be asymmetric, values conflict, and other systems are moving too.
+:153. The decisive question is therefore not whether a desirable point can be drawn somewhere on the page.
+:154. It is whether a continuous route of viable steps leads there from the point history has given us.
+:155. A map of possibility becomes useful only when it shows not just destinations, but the roads that still exist.

@@ -1,0 +1,182 @@
+== 3.3 Standards und Netzwerkeffekte ==
+
+:1. On March 10, 1876, Alexander Graham Bell spoke into an experimental transmitter in one room, and Thomas Watson heard him through a receiver in another.
+:2. Bell's laboratory notes record the request that became famous: “Mr. Watson, come here; I want to see you.”
+:3. The exchange demonstrated intelligible speech over a wire, but it was not yet a public telephone network.
+:4. Consider what that experimental link was worth.
+:5. As an apparatus it was remarkable, the product of sustained work on acoustics and electricity.
+:6. As a communication service it was useful only to the two people at its ends.
+:7. A telephone becomes more valuable when it can reach a family member, a customer, a doctor, or anyone else the caller needs.
+:8. The instrument supplies the capability, while the network supplies much of the value.
+:9. When Bell and three partners formed the Bell Telephone Company in July 1877, they were therefore building more than a market for devices.
+:10. They were helping to build a web in which every compatible connection could increase the usefulness of connections already made.
+:11. This is not how most goods behave.
+:12. A hammer works much the same whether four people or four million own one.
+:13. A loaf of bread does not become tastier because a neighbor is eating the same kind.
+:14. Telephones and messaging systems are different because their users can become part of the product available to one another.
+:15. Plugs, file formats, and payment cards differ in another way because their value depends on compatible equipment and services.
+:16. Economists use the term network effect when an additional participant changes the value that other participants receive from a system.
+:17. The mechanism is easy to state but easy to overstate.
+:18. If joining becomes more attractive as compatible participation grows, early adoption can make further adoption more likely.
+:19. That positive feedback describes reinforcement, not technical excellence or social benefit.
+:20. It also does not continue without limit, because prices, congestion, regulation, and competing needs can push in the opposite direction.
+:21. The useful first distinction is between direct and indirect network effects.
+:22. The direct kind is closest to the telephone case, because other reachable users are themselves part of the benefit.
+:23. Each new subscriber may add another person whom existing subscribers can call.
+:24. Yet the relevant number is not the total population carrying a handset.
+:25. It is the set of people and organizations a user may want to reach and can actually reach through compatible connections.
+:26. Two rival carriers can therefore belong to one effective network if calls pass freely between them.
+:27. Conversely, customers of the same brand may occupy separate networks if technical or contractual barriers prevent communication.
+:28. Compatibility, not a logo, defines the economically relevant boundary.
+:29. A familiar calculation shows how quickly the number of possible pairs rises as a network grows.
+:30. With two members there is one possible pair, with three there are three, and with four there are six.
+:31. That count is sometimes mistaken for a law of network value.
+:32. It is only a count of potential links, and most potential links are not equally valuable.
+:33. One new emergency dispatcher or major customer can matter more to a user than thousands of strangers.
+:34. Some added connections can even impose costs through congestion, fraud, or unwanted contact.
+:35. No single curve can convert membership into value for every network.
+:36. What matters for path dependence is the direction of causation: adoption changes the payoff from later adoption.
+:37. A modest early lead can then attract users whose arrival enlarges the lead.
+:38. Below a certain scale, a communication service may struggle because too few desired partners are reachable.
+:39. Above that scale, recruitment may become easier because the network no longer asks each newcomer to arrive almost alone.
+:40. Economists call this threshold a critical mass, but it need not produce one permanent winner.
+:41. The indirect kind of network effect works through complements, the surrounding products and services that become worthwhile when a system has enough users.
+:42. A video player is not more enjoyable merely because a neighbor owns the same model.
+:43. It becomes more useful when stores carry recordings in its format, repair technicians understand it, and manufacturers keep producing compatible equipment.
+:44. Those suppliers do not need to care about any particular buyer.
+:45. They care about the installed base, because a larger base promises a larger market for complementary goods.
+:46. Users follow the complements, while complement producers follow the users.
+:47. The feedback crosses between two groups even though neither group directly supplies the other's entire benefit.
+:48. Fax technology was already old when international organizations agreed on Group 3 specifications in 1980.
+:49. The standards defined crucial parts of how machines encoded documents and communicated over telephone networks.
+:50. Manufacturers could build machines with a stronger expectation that equipment from other manufacturers would understand them.
+:51. Buyers could purchase without joining a tiny private club of compatible correspondents.
+:52. The standard did not invent scanning, telephone transmission, or office demand.
+:53. It reduced uncertainty at the boundaries between machines, which helped interoperable fax systems spread during the following decade.
+:54. Fax consequently illustrates both forms of reinforcement.
+:55. More reachable machines increased the direct usefulness of owning one.
+:56. More users also supported supplies, maintenance, training, and further production.
+:57. The value of compatibility was not an ornament added to the machine's performance.
+:58. It was part of what performance meant in use.
+:59. Current participation is only one source of that value.
+:60. Expectations about future participation can reinforce a standard before the expected users have arrived.
+:61. A buyer choosing between incompatible systems must ask not only which works better today but which will still be supported tomorrow.
+:62. Manufacturers answer that question with licensing terms, production commitments, road maps, and alliances.
+:63. A credible promise of future support attracts buyers, and their arrival makes the promise easier to keep.
+:64. Expectations can thus become partly self-fulfilling.
+:65. They can also collapse when promised products fail to appear or a sponsor withdraws.
+:66. This is why a format contest may remain unsettled for years and then move rapidly after a visible commitment changes forecasts.
+:67. While the contest remains open, prudent buyers may wait rather than risk owning an orphaned system.
+:68. Their caution can delay both alternatives, so a coordination problem can slow adoption even when the underlying technology works.
+:69. Once enough users and suppliers coordinate on one format, the rival may lose support without suffering any sudden technical failure.
+:70. The outcome does not by itself prove that the winner was technically superior.
+:71. Nor does it prove that buyers acted irrationally, because compatibility and expected support are genuine qualities of a working system.
+:72. The familiar claim that the “best” format lost usually hides the question of what best was supposed to mean.
+:73. A format can offer sharper output, lower cost, longer operation, greater durability, easier licensing, or broader compatibility.
+:74. These qualities are real, but they do not collapse into a single ranking without a use case and a set of priorities.
+:75. Timing matters because the advantages present while the installed base is small can shape which base later becomes large.
+:76. Improvements that arrive after coordination has occurred must overcome the accumulated value of compatibility as well as any technical gap.
+:77. Once a standard is widely adopted, further improvement tends to flow toward it.
+:78. Engineers learn its peculiarities, manufacturers tune production for it, and suppliers build complements around it.
+:79. A defeated alternative may remain frozen near the stage at which investment left it.
+:80. Years later the winner may genuinely perform better, but the comparison includes years of unequal development.
+:81. Later superiority can therefore be partly an effect of adoption rather than an independent explanation of why adoption began.
+:82. This feedback makes the process path-dependent.
+:83. Similar technologies facing similar users can end in different positions when early commitments arrive in a different sequence.
+:84. Contingency does not make the result arbitrary, because price, reliability, law, marketing, and technical capability still constrain every step.
+:85. It means that those constraints do not always identify one inevitable winner in advance.
+:86. The word standard is often spoken in a bored voice, as though it referred only to paperwork.
+:87. A standard is better understood as a promise about future compatibility.
+:88. It says that if one party builds a component according to shared rules, other conforming components should work with it.
+:89. The promise is not free, because specifications must be written, tested, interpreted, maintained, and sometimes enforced.
+:90. Its value grows when many independent parties can rely on it without negotiating every connection from scratch.
+:91. Standards reach that position through several different routes.
+:92. A market can produce a de facto standard when one design becomes common enough that others choose compatibility with it.
+:93. A firm can publish or license a proprietary format and retain substantial control over its evolution.
+:94. A consortium can let manufacturers pool expertise and agree on a common specification before products reach customers.
+:95. An open standards process can publish proposals, invite technical participation, document objections, and seek broad agreement.
+:96. The Internet Engineering Task Force exemplifies this last route by developing voluntary protocols through an open, documented process rather than commanding their use.
+:97. Governments can also mandate a rule directly or make a voluntary standard legally significant by incorporating it into regulation.
+:98. These categories often overlap in practice.
+:99. A private committee may develop a specification, a regulator may adopt it, firms may implement it, and users may then reinforce it through everyday choices.
+:100. American color television provides a clear hybrid case.
+:101. In December 1953, the Federal Communications Commission adopted a compatible color standard developed through the National Television System Committee, whose participants came largely from the affected industries.
+:102. Compatibility meant that existing black-and-white receivers could display the new broadcasts in monochrome without modification.
+:103. The signal preserved information that old sets could use while adding color information that new sets could decode.
+:104. The large installed base of receivers and the existing broadcast channels therefore narrowed the acceptable designs.
+:105. That constraint does not prove that the adopted system was the best imaginable color technology in isolation.
+:106. It shows that a television system had to be judged as a transition from an operating network, not as a device on an empty workbench.
+:107. Backward compatibility protected viewers' investments and helped broadcasters change without making every old receiver immediately useless.
+:108. It also carried old engineering choices into the new system.
+:109. The rule coordinated manufacturers, broadcasters, and households while binding future improvements to a signal shaped by the past.
+:110. Each method of setting standards distributes advantages and risks differently.
+:111. A proprietary sponsor may move quickly and maintain a coherent design, but it can also use control over compatibility to collect fees or exclude rivals.
+:112. A consortium can share costs and prevent a wasteful format battle, but established members may have more influence than newcomers or absent users.
+:113. An open process can expose assumptions and widen participation, yet openness does not make expertise, time, and bargaining power equally available.
+:114. A government mandate can secure universal interoperability or safety, but a badly chosen rule can freeze an error across an entire jurisdiction.
+:115. No procedure removes the underlying trade-offs between speed, participation, control, and adaptability.
+:116. Nor does adoption make a standard literally impossible to replace.
+:117. Adapters, gateways, converters, and dual-mode products can connect old and new systems during a transition.
+:118. Users can sometimes join several networks at once, a practice known as multihoming.
+:119. Providers can make rival networks interoperable, turning competition between isolated systems into competition within a larger shared network.
+:120. Distinct standards may also coexist when communities have different needs and little reason to exchange components.
+:121. A new technology with a large enough advantage can finance the cost of migration.
+:122. Regulation can coordinate a common deadline when private users would otherwise wait for one another.
+:123. Supply shocks, security failures, or new interfaces can reopen a choice that once appeared settled.
+:124. Negative feedback also places limits on growth.
+:125. A crowded network can become slower or less trustworthy, and a large complement market can become costly to govern.
+:126. These counterforces explain why network effects raise the probability of concentration without guaranteeing monopoly or permanence.
+:127. Path dependence changes the costs and likelihood of later choices; it does not abolish choice.
+:128. Not every widespread standard is sustained mainly by a network effect.
+:129. A safety specification may prevail because testing shows that it reduces failures and law requires compliance, even if one additional adopter creates little value for existing adopters.
+:130. The protective feature can work in one factory even if no other factory adopts it.
+:131. Compatibility effects can still develop around such rules, but they must be demonstrated rather than assumed from prevalence alone.
+:132. The diagnostic question is whether one participant's adoption changes the payoff facing later participants.
+:133. If it does not, the shared rule may be useful or historically inherited without creating a significant network effect.
+:134. If it does, the next question is which channel carries the reinforcement: direct connection, complementary goods, expected support, or some combination of them.
+:135. Standards create enormous value, and the alternative to a common standard is often a world of stranded islands and machines that cannot communicate.
+:136. Much of modern infrastructure is standards expressed in concrete, copper, radio signals, and code.
+:137. What standards also do is convert a decision into a condition.
+:138. Before coordination, several systems may be open to serious consideration.
+:139. After coordination, the installed base becomes part of the environment in which every later design must work.
+:140. People who arrive later did not make the original choice, yet abandoning it may cost them access to users, skills, suppliers, and equipment.
+:141. Every participant who joins for sound reasons can make an incompatible alternative slightly less attractive to the next participant.
+:142. The usefulness of a standard and its binding force therefore arise from the same coordinating mechanism.
+:143. Preserving the benefit while reducing the binding requires deliberate bridges, migration paths, and rules for revising the standard.
+:144. Once coordination also attracts specialized production, accumulated skill, and falling costs, a second form of reinforcement begins to operate.
+:145. A standard starts by helping separate choices fit together, then quietly changes which future choices are affordable at all.
+:146. That shift is easy to miss because several reinforcing mechanisms often arrive together.
+:147. A larger telephone network raises value by adding reachable parties even if the cost of making each telephone remains unchanged.
+:148. A larger production run may lower the cost of each unit even if one buyer receives no benefit from the mere existence of another buyer.
+:149. Repeated production may also teach workers and engineers how to prevent errors, simplify assembly, and use materials more efficiently.
+:150. Complement makers respond through yet another channel when a large installed base promises enough demand for specialized products.
+:151. These are, respectively, a direct network effect, a scale economy, a learning effect, and an indirect network effect.
+:152. They are analytically distinct, but a successful standard can tie them into one loop.
+:153. Early adoption attracts complements, greater volume can lower prices, accumulated experience can improve quality, and each improvement can attract further adoption.
+:154. The standard then benefits not only from the number of participants but from the productive system assembled around their earlier choices.
+:155. By the time the system is mature, that surrounding investment can be larger and harder to replace than the original device.
+:156. The loop also makes the beginning difficult to reconstruct, because present quality contains the effects of past scale and learning.
+:157. A historian who compares only mature products may therefore mistake the result of reinforcement for its initial cause.
+:158. Keeping the mechanisms separate prevents every successful product from being mislabeled as the inevitable winner of a network contest.
+:159. It also reveals why a standard can narrow one dimension of a possibility space while enlarging another.
+:160. Fixing the geometry of a connector removes freedom to redesign that boundary whenever a manufacturer wishes.
+:161. The same fixed geometry can allow many manufacturers to build interchangeable components without seeking permission from every prospective partner.
+:162. A common file format constrains how information is represented but may let many independent programs exchange that information.
+:163. Coordination can therefore close alternatives at the interface while opening opportunities behind it.
+:164. This is a productive lock-in when the shared boundary supports reliable exchange and leaves room for useful variation on either side.
+:165. The benefit depends on what the specification freezes and what it leaves open.
+:166. A specification that dictates every internal detail can suppress variation that compatibility did not require.
+:167. A specification that leaves crucial behavior ambiguous may produce nominally compliant products that still fail to work together.
+:168. The location and precision of the boundary matter as much as the existence of a standard.
+:169. Versioning introduces another historical choice because a revised standard must decide how much of its past to carry forward.
+:170. Backward compatibility protects installed equipment, learned skills, archived data, and complementary products.
+:171. Supporting every old feature can also burden new implementations and preserve vulnerabilities or limitations that later designers would prefer to remove.
+:172. A clean break may open a more capable design, but it converts earlier investments into transition costs.
+:173. Standards therefore store trade-offs across time rather than solving them once and for all.
+:174. The benefits and costs of that storage are rarely distributed evenly.
+:175. An incumbent with a large installed base may value continuity more than an entrant whose new design gains little from compatibility with the old system.
+:176. Long-term users may prize access to accumulated complements, while newcomers may bear costs created by rules they never helped shape.
+:177. Those differences do not prove that the standard was wrongly chosen, but they help explain why support can persist after circumstances change.
+:178. The durable object is not merely the specification document.
+:179. It is the connected stock of expectations, skills, equipment, contracts, complements, and improvements built in reliance on that document.
+:180. When those investments thicken, a line on paper becomes terrain through which future technology must travel.

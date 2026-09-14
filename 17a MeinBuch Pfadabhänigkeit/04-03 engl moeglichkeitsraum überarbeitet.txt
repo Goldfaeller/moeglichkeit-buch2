@@ -1,0 +1,183 @@
+== 4.3 Software-Ökosysteme ==
+
+:1. Open a laptop belonging to almost any researcher in machine learning and look at the first few lines of a working file.
+:2. There will often be a short block of import statements, perhaps five lines, perhaps eight, each one naming a package that someone else maintains.
+:3. They look like nothing at all, and typing them takes a few seconds.
+:4. Behind them stand decades of code, layers of documentation, decisions by many communities, and projects whose names may have vanished while their conventions remain alive.
+:5. In those few seconds the researcher may inherit a numerical interface first standardized in the era of Fortran, an array layout adapted to older machines, default values chosen for earlier experiments, and a vocabulary in which certain ideas are easy to express.
+:6. None of this is visible.
+:7. It is not concealed in any deliberate sense; it simply lies below the level at which the researcher is currently working, as a foundation lies below the level at which a room is furnished.
+:8. Hardware constrains what can be computed within a given budget.
+:9. Software shapes what is convenient, and convenience repeated across thousands of projects can redirect a field without forbidding anything outright.
+:10. A wall tells you where you cannot go.
+:11. A path changes which destination you are likely to reach, often without announcing that it has done so.
+:12. Software ecosystems are made of those paths.
+:13. An ecosystem includes more than source code.
+:14. It also includes programming languages, libraries, data formats, drivers, documentation, package repositories, maintainers, courses, employers, and the hardware on which all of them must run.
+:15. Each part makes some work easier, while the connections among the parts make isolated replacement difficult.
+:16. The result is not a single lock but a web of complementary investments.
+:17. Start with one of its least glamorous layers: the routines that perform elementary numerical operations.
+:18. Much of modern machine learning repeatedly multiplies vectors and matrices, although complete systems also spend substantial time moving data, applying nonlinear functions, and coordinating processors.
+:19. Researchers rarely write every low-level numerical kernel themselves because efficient implementations must account for memory hierarchies, processor instructions, numerical precision, and parallel execution.
+:20. They call standardized routines or libraries that call those routines for them.
+:21. The Basic Linear Algebra Subprograms, known as BLAS, emerged from a collaborative standardization effort during the 1970s.
+:22. The original Level 1 specification covered scalar and vector operations, while Level 2 and Level 3 routines for matrix-vector and matrix-matrix operations followed in the 1980s and around 1990.
+:23. This staged history matters because BLAS was not a frozen artifact deposited once and left untouched.
+:24. It was extended as computer architectures changed, while familiar operation names and interfaces preserved the value of existing software.
+:25. The standard allows one program to call different optimized implementations on different machines.
+:26. That is a productive lock-in: compatibility binds users to an interface precisely because the interface lets underlying implementations improve.
+:27. Some inherited conventions are less elegant.
+:28. Fortran and C traditionally store the elements of a two-dimensional array in different orders, so software that crosses their boundary must describe, convert, or carefully preserve the layout.
+:29. NumPy still distinguishes C-contiguous from Fortran-contiguous arrays because both forms remain useful and because scientific code must interoperate with both lineages.
+:30. The convention is not a physical law, and either layout can work well when algorithms respect it.
+:31. The path-dependent part is the accumulated code that assumes one layout, the interfaces that promise to preserve it, and the cost of coordinating a simultaneous change.
+:32. A decision becomes a convention; the convention becomes a compatibility requirement; the requirement attracts more code that assumes the convention.
+:33. Positive feedback, not mere age, turns history into a path.
+:34. A private file format created last week has a history but little path dependence if its sole user can replace it at negligible cost.
+:35. A decades-old standard can remain changeable if translators, adapters, and versioned interfaces keep alternatives reachable.
+:36. Age and lock-in therefore correlate only imperfectly.
+:37. The scientific Python ecosystem shows how a much larger path can grow from many locally sensible additions.
+:38. Guido van Rossum began Python at the Dutch research institute CWI during the Christmas period of 1989.
+:39. His experience with the teaching language ABC influenced Python's syntax and readability, but he also wanted the new language to be extensible and able to reach operating-system services.
+:40. That capacity to connect with code written elsewhere proved crucial for numerical work.
+:41. Python itself was not designed as the fastest way to execute dense arithmetic instruction by instruction.
+:42. It could instead serve as a readable coordinating language while compiled libraries performed the expensive loops.
+:43. This division of labor joined two advantages that did not have to reside in the same layer.
+:44. Scientists could express an analysis in approachable code, while specialists could optimize a smaller set of numerical kernels in C, C++, Fortran, or accelerator-specific languages.
+:45. The arrangement also preserved access to mature scientific software that predated Python.
+:46. In the mid-1990s, Numeric brought efficient array operations into Python.
+:47. A later project called Numarray pursued somewhat different design goals, and for a time the community faced two incompatible array packages.
+:48. NumPy emerged in 2005 and reached its 1.0 release in 2006 by bringing the two lines back together around a common foundation.
+:49. That reunification did more than settle a technical argument.
+:50. It gave neighboring projects a stable array representation on which they could build plotting, scientific algorithms, data analysis, and eventually machine-learning tools.
+:51. Each successful package raised the value of the others.
+:52. A plotting library was more useful because it accepted familiar arrays, and the array library was more useful because so many plotting and analysis tools accepted its objects.
+:53. Documentation, examples, courses, and answers in public forums accumulated around the shared conventions.
+:54. A newcomer could solve more problems without leaving the ecosystem, which brought more newcomers and more potential contributors.
+:55. This is an indirect network effect: the value of the core tool rises as compatible complements multiply.
+:56. More users mean more bugs found, more documentation, more worked examples, more answered questions in public forums, and a far higher chance that an obscure problem has already been solved by somebody else.
+:57. Scale effects matter too because widely used infrastructure can sometimes justify testing, packaging, and specialized optimization that a small alternative cannot sustain.
+:58. These mechanisms reinforce one another, but they should not be collapsed into the vague claim that popular software simply becomes better.
+:59. Popularity can improve documentation while leaving an awkward abstraction untouched.
+:60. A large community can find many bugs while also producing so many extensions that coordinated change becomes harder.
+:61. Success creates resources, yet it also creates obligations.
+:62. Once many libraries exchange the same kind of array, changing that array's public behavior can break code far beyond the original project.
+:63. Maintainers therefore spend effort on deprecation warnings, compatibility layers, migration guides, and old calling conventions.
+:64. Backward compatibility protects experiments, businesses, and scientific workflows that users may be unable to reconstruct.
+:65. The same protection makes a clean break more expensive because each preserved behavior becomes another condition a successor must satisfy.
+:66. This is a useful lock-in rather than evidence of technical failure.
+:67. Without stable interfaces, cumulative science would repeatedly spend its energy rebuilding foundations.
+:68. With perfectly rigid interfaces, the foundation could no longer adapt to new hardware or new kinds of data.
+:69. The practical question is how an ecosystem trades immediate continuity against future evolvability.
+:70. Open source changes that trade-off but does not abolish it.
+:71. Access to source code permits inspection, modification, redistribution, and forks under the terms of the relevant license.
+:72. It does not guarantee that a fork has enough maintainers, documentation, computing capacity, or compatible packages to become a viable ecosystem.
+:73. Nor does an open library make its drivers, training data, cloud services, or specialized hardware equally open.
+:74. Openness is therefore a property of particular layers and governance arrangements, not a magic solvent for dependence.
+:75. A well-governed open project can lower exit costs by documenting formats, reviewing changes publicly, and sharing control among contributors.
+:76. It can still be deeply dependent on a hardware stack controlled elsewhere.
+:77. Conversely, a closed component can sometimes be replaceable when it implements a well-documented standard and users retain their data in portable form.
+:78. The relevant unit of analysis is the connected system, not the license on one repository.
+:79. Frameworks make the shaping power of this system easier to observe because their generations are short enough to remain within professional memory.
+:80. Theano, developed at the University of Montreal from the late 2000s, let researchers specify mathematical expressions symbolically and compiled them into efficient low-level implementations.
+:81. Later systems such as the first major version of TensorFlow also emphasized a graph defined before repeated execution.
+:82. A static graph gave the system room to optimize and deploy a complete computation.
+:83. It could also make ordinary inspection and data-dependent control flow less natural because the executed graph was not identical to the sequence of Python statements a researcher saw.
+:84. Frameworks such as PyTorch popularized an imperative style in which operations execute as the program runs and the system records what is needed for automatic differentiation.
+:85. This style made many programs feel like ordinary Python and made intermediate values easier to inspect.
+:86. The contrast was never simply fast graphs against slow convenience.
+:87. Static systems added eager modes, dynamic systems added compilation, and both families borrowed ideas from the other.
+:88. That convergence is itself evidence against technological fatalism.
+:89. A path can bend when dissatisfaction is strong, alternatives interoperate with familiar languages and hardware, and migration offers a clear benefit.
+:90. Even so, framework design changes the cost of exploring particular models.
+:91. An architecture that fits existing abstractions may require a few lines of tested code.
+:92. An architecture with irregular control flow, unusual sparse operations, or unsupported data structures may require a custom operator and weeks of engineering.
+:93. Neither architecture is forbidden.
+:94. One receives a cheap experiment while the other must first finance a tool-building project.
+:95. Across many laboratories, that difference changes which ideas receive timely trials and which remain proposals.
+:96. Software thereby changes the probability and cost of research paths rather than dictating their destination.
+:97. This distinction matters because a present physical limit would persist even if the entire software stack were replaced.
+:98. A software path is different: another route is conceivable, but reaching it requires coordinated changes to code, skills, interfaces, and expectations.
+:99. The framework episode also supplies an important counterexample to simple lock-in stories.
+:100. Researchers did move away from once-influential tools when newer systems made experimentation and debugging easier enough to justify retraining and porting.
+:101. Some old concepts survived the move through converters, familiar array interfaces, and compatible hardware back ends.
+:102. Change succeeded partly because bridges preserved selected investments instead of demanding a leap onto an empty island.
+:103. The deepest lock-in often lies not in a named framework but in assumptions shared by rivals.
+:104. Competing frameworks may all expect tensor-shaped data, automatic differentiation, accelerator kernels, and models assembled from a familiar set of operations.
+:105. Switching between them can therefore be cheap compared with questioning the common computational vocabulary.
+:106. Competition inside a path is not the same as competition among paths.
+:107. Beneath the frameworks lies something still less examined, which is the defaults.
+:108. Every library must choose what happens when a user supplies no learning rate, initialization scheme, numerical precision, stopping rule, or data order.
+:109. A default is necessary because requiring a decision about every parameter would make the software unusable.
+:110. It is also a historical claim embedded in code: this value worked often enough in the cases considered by the maintainers to become the starting point for everyone else.
+:111. Many users change important defaults, but few can investigate every option in every dependency.
+:112. Repetition then gives established configurations an advantage.
+:113. Tutorials demonstrate them, examples copy them, automated searches begin near them, and maintainers test them more intensively than obscure alternatives.
+:114. A challenger is often compared not with an abstract incumbent but with an incumbent polished by years of collective attention.
+:115. Research on recommender systems has shown that carefully tuned older baselines can outperform reported results for newer methods, although that finding does not imply that every novelty disappears under fair tuning.
+:116. It demonstrates a narrower point: comparative results depend on the effort, search range, and implementation quality assigned to each side.
+:117. An ecosystem distributes that effort unevenly before an experiment begins.
+:118. Incumbent methods arrive with mature code and known settings, while a new approach must create much of its own supporting knowledge.
+:119. Being roughly equal is therefore rarely enough to cause a migration.
+:120. A successor must usually compensate users for porting code, relearning tools, accepting new risks, and losing compatibility with collaborators.
+:121. The required margin grows as complementary investments accumulate, but it can fall when adapters or shared standards make switching gradual.
+:122. Defaults do not prove that researchers are passive or that all results are artifacts of software.
+:123. Skilled practitioners inspect assumptions, run sensitivity analyses, and write custom components when the scientific stakes justify the cost.
+:124. The path-dependent effect remains because attention and time are scarce, so not every hidden choice can receive equal scrutiny.
+:125. The most durable component of any software ecosystem is the set of human beings who know how to use it.
+:126. After several years in the field, a practitioner carries a language, a framework, habits for organizing projects, an instinct for recurring failures, and a mental catalogue of error messages.
+:127. Much of this knowledge is specific to the tools that were prominent during training.
+:128. It is genuine expertise, not a cognitive defect.
+:129. It lets experienced people work faster, diagnose failures, and judge when a surprising result is probably a software mistake.
+:130. The same expertise raises the personal cost of migration because proficiency cannot be transferred perfectly by copying files.
+:131. When a machine becomes obsolete, an organization can often price the replacement in money.
+:132. When a software ecosystem becomes obsolete, part of the cost appears as the depreciation of skills that people spent years acquiring.
+:133. Workers and employers respond rationally to that cost.
+:134. Courses teach tools that employers request, employers request tools that graduates know, and publishers create material for the largest audience.
+:135. Job advertisements make the prevailing stack visible to students deciding what to learn.
+:136. Their choices enlarge the labor pool, which lowers employers' hiring risk and encourages the same requirement in future advertisements.
+:137. This expectation feedback can stabilize a tool even when several competitors perform the immediate technical task.
+:138. It also produces real value because shared skills allow teams to communicate, review one another's code, and replace departing colleagues.
+:139. Stability and rigidity are not identical.
+:140. A stable ecosystem can preserve familiar concepts while replacing implementations underneath them.
+:141. A rigid one makes even local improvement costly because components are tightly coupled or interfaces are undocumented.
+:142. Modularity can preserve evolvability by placing explicit boundaries between components.
+:143. Yet modularity merely relocates some path dependence to the interface, which must remain stable enough for modules to cooperate.
+:144. The ecosystem's next layer is the dependency graph that package managers assemble automatically.
+:145. A project may name a modest set of direct dependencies while those packages request further packages of their own.
+:146. These transitive dependencies make reuse cheap because a team can inherit specialized functions without copying or maintaining them.
+:147. They also make parts of the system difficult to survey because no single developer deliberately selected every component in the final graph.
+:148. The trade-off is not reuse versus safety in the abstract.
+:149. It is between the speed and shared maintenance gained from reuse and the coordination, audit, and failure risks created by a larger dependency network.
+:150. In March 2016, this structure became visible when the author of a small JavaScript package called left-pad unpublished it from the npm registry during a wider naming dispute.
+:151. According to npm's post-incident account, dependent projects began failing at a rate of hundreds per minute, many thousands of projects were affected, and the disruption lasted about two and a half hours.
+:152. Most users had not chosen left-pad directly; it arrived through chains of packages that depended on one another.
+:153. The incident was repaired quickly because the code was open and other developers could reproduce the function.
+:154. The registry also changed its policies because technical redundancy alone had not prevented a governance decision from propagating through the network.
+:155. The episode is instructive without proving that small packages or open development are inherently fragile.
+:156. The same modularity that spread the failure allowed a community repair, and the registry could alter its rules in response.
+:157. It shows how an ecosystem stores history in both code and governance.
+:158. A permission that seemed acceptable when the registry was smaller became dangerous after dependency chains deepened.
+:159. Growth changed the consequences of an old rule, and the failure then created a new institutional path.
+:160. Hidden dependence is not carelessness by every participant.
+:161. It is a predictable result of a system in which reuse is rewarded, specialization is efficient, and reading every inherited line would halt most projects.
+:162. Trust is therefore load-bearing.
+:163. The practical alternatives are not total trust and total verification, but different arrangements of testing, version pinning, audits, maintainership, reproducible builds, and shared responsibility.
+:164. Each arrangement preserves some possibilities and makes others more expensive.
+:165. A tool begins as something you use.
+:166. In that phase it is visible: you compare it with alternatives, you complain about it, and you are aware of having chosen.
+:167. Then, if it lasts, it becomes something you think with, and the awareness quietly disappears.
+:168. When a concept already has a tested function, an example, and a data type, trying it may take an afternoon.
+:169. When it has none of these, the first experiment may require a small infrastructure project.
+:170. The absence of a function does not make an idea impossible, but it makes the idea easier to postpone and harder to compare.
+:171. Practitioners describe problems to one another in the vocabulary of their libraries, which means the categories of the library become the categories of the problem.
+:172. Shared vocabulary is indispensable for cumulative work, yet every vocabulary divides the world more finely in some places than in others.
+:173. The answer is not to discard the ecosystem and begin from zero, because zero would also erase validated routines, interoperability, and hard-won knowledge.
+:174. Nor is the answer to treat present tools as the inevitable expression of computational truth.
+:175. Software ecosystems are historical settlements that continue to earn their position by being useful, compatible, and costly to replace.
+:176. Their strongest bindings often deliver their greatest benefits.
+:177. Common arrays, stable interfaces, familiar languages, and trusted packages let a field accumulate results instead of rebuilding its workshop for every experiment.
+:178. Those same achievements channel improvement toward changes that preserve the installed base.
+:179. A viable alternative therefore needs more than superior code; it needs bridges for data, skills, hardware, and neighboring software.
+:180. The imports at the top of the file are not merely conveniences but compressed records of earlier choices and promises about future compatibility.
+:181. Once those tools determine which data are easy to store, exchange, and analyze, the software path begins to shape the evidence from which the next system will learn.

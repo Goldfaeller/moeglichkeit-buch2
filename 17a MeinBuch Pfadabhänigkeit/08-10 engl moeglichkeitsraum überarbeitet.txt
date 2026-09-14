@@ -1,0 +1,122 @@
+== 8.10 Was sich ändern ließ und was nicht ==
+
+:1. At midnight on October 3, 1990, the legal border through Germany vanished, but the legal lives arranged on either side of it did not.
+:2. A marriage celebrated under East German law remained a marriage, a house built on publicly owned land did not lose its walls, and a pending dispute could not sensibly begin again as if no rules had governed it the day before.
+:3. The Unification Treaty therefore performed two movements at once: Article 8 extended most federal law into the accession territory, while Article 9 and detailed annexes preserved selected East German rules or adjusted their replacement.
+:4. This was neither a clean merger of equals nor the instantaneous erasure suggested by the image of a switch.
+:5. It was a controlled transfer in which one legal order supplied the dominant code, courts, commentaries, credentials, and constitutional framework, while transitional law tried to keep millions of existing relationships from becoming unintelligible.
+:6. The contrast reveals why asking whether a law could change is too crude.
+:7. A provision may be replaced in a sentence, yet the practices that made it usable can remain embedded in forms, professional habits, records, expectations, and other provisions that presuppose it.
+:8. The useful scale runs from the individual norm through the legal field and its doctrine to the institution and the profession that apply it.
+:9. At each step outward, the number of complementary parts grows, and so do the costs of changing direction.
+:10. Family law offers the clearest view of the relatively plastic end of that scale.
+:11. East Germany had removed family law from the old Civil Code and enacted a separate Family Code in 1965, built around formal equality between spouses, women's paid employment, shared parental responsibility, and comparatively easy divorce when a marriage had lost its purpose.
+:12. Its language carried socialist commitments, and its practical operation depended on a state that expected mothers to work while providing extensive childcare.
+:13. The same rules therefore combined genuine legal advances with a social arrangement that still left women carrying much of the unpaid domestic burden.
+:14. That mixture matters because a progressive paragraph does not prove that the surrounding system was equally emancipatory.
+:15. Nor does its disappearance prove that its underlying idea disappeared.
+:16. West German family law had followed a slower route away from the male-headed household encoded in the original Civil Code.
+:17. The Basic Law promised equal rights in 1949, but legislation and constitutional judgments were needed to remove rules that continued to privilege husbands and fathers.
+:18. The major West German divorce reform enacted in 1976 replaced fault with marital breakdown as the governing principle, a destination that resembled the East German approach without simply being copied from it.
+:19. Parallel reform is an important countertest for claims of path dependence.
+:20. Two systems can face the same social changes and reach similar solutions by different institutional routes, so resemblance alone does not establish transmission.
+:21. In 1990 the East German Family Code was largely displaced by federal law, but existing marriages, property arrangements, support claims, and parental decisions required transitional rules.
+:22. Couples who had lived under the East German regime of shared marital property were not treated as though their earlier legal choices and acquisitions had never occurred.
+:23. The law shifted them toward the federal regime while allowing specified choices about retaining or changing their property arrangement.
+:24. Such provisions are legal hinges: they connect two systems without pretending that either can be applied retroactively in pure form.
+:25. They also show why family law could change comparatively quickly.
+:26. Marriage, divorce, names, maintenance, and parental status touch one another, but lawmakers can isolate many of their effects by dates, elections, and transition clauses.
+:27. No nationwide inventory of physical assets must be rebuilt merely because the grounds for divorce change.
+:28. No engineer must redesign a bridge because spouses receive a different choice of surname.
+:29. Yet even here, the unit of change matters.
+:30. East German law had long allowed a marrying couple to choose either spouse's surname as the common family name, whereas West German rules retained a gendered default after they permitted a wife's name to be chosen.
+:31. The East German code disappeared at unification, but the constitutional inadequacy of the western default soon became impossible to preserve.
+:32. A Federal Constitutional Court decision in 1991 and federal legislation in 1993 produced a new, choice-based framework in which spouses could also keep their own names.
+:33. The later rule was not the survival of an East German section under another number.
+:34. It was a related solution rebuilt through West German constitutional doctrine and all-German legislation, making influence harder to trace than textual continuity.
+:35. The treatment of children born outside marriage followed another uneven path.
+:36. East German family law rejected the old vocabulary that made illegitimacy an organizing status and accorded such children broader equality, while West German reforms reduced discrimination without eliminating every difference at once.
+:37. After unification, the federal system did not simply adopt the East German Family Code, yet the reform of parent-and-child law that took effect in 1998 removed the formal distinction between legitimate and illegitimate children from the Civil Code.
+:38. It would be reckless to credit that reform to one vanished code, because constitutional requirements, social change, and long-running West German debates had their own force.
+:39. The East German precedent nevertheless remained available as evidence that family relations could be administered without the inherited category.
+:40. That is indirect path influence: an abandoned rule may survive not as binding text but as demonstrated possibility, political memory, or a comparison that changes what reformers consider workable.
+:41. Sexual criminal law supplies a more direct example.
+:42. East Germany deleted Section 151 of its Criminal Code in 1988, ending the special provision governing consensual sexual acts between males before the state itself disappeared.
+:43. At unification, the treaty did not extend the West German Section 175 into the eastern states, so different territorial rules persisted inside one country.
+:44. This awkward arrangement preserved the less punitive eastern position while Parliament confronted harmonization.
+:45. In 1994 the Bundestag repealed Section 175 and created a uniform rule for the sexual protection of young people.
+:46. Here an East German outcome did not merely linger as memory; its continued territorial force made restoration of the stricter western rule both politically visible and legally contestable.
+:47. Even this example resists a triumphal story about one system teaching the other tolerance.
+:48. East German lesbians and gay men had lived under surveillance, organizational restrictions, and powerful pressures to conform that cannot be measured by one criminal provision.
+:49. A comparison of norms is therefore not a moral balance sheet of states.
+:50. Abortion law exposed the limits of transferring even a seemingly separable rule.
+:51. East Germany had adopted a time-limit model in 1972, while West German law after constitutional litigation relied on specified indications for a lawful abortion.
+:52. The Unification Treaty temporarily allowed the two regimes to continue in their respective territories and required a common settlement.
+:53. Parliament enacted an all-German compromise in 1992, but the Federal Constitutional Court's 1993 judgment invalidated central elements and insisted that the legal order express a duty to protect unborn life.
+:54. The revised settlement of 1995 retained access through a counseling framework while classifying abortions performed under that framework in a distinctive way rather than simply reproducing the East German rule.
+:55. Visible political willingness had opened a route, but constitutional doctrine, prior case law, federal institutions, and competing rights claims shaped the bridge that could actually be built.
+:56. This is path dependence without immobility.
+:57. Earlier decisions did not dictate one inevitable result, but they changed the legal vocabulary, the authorized decision makers, and the cost of each available compromise.
+:58. Family and sexual law could thus move far because many changes could be expressed as bounded rules and mediated through transition dates, although their social effects still depended on institutions beyond the statute book.
+:59. The test becomes harder when a legal relation is not chiefly a status or permission but a node in a dense system of ownership, registration, credit, procedure, and professional knowledge.
+:60. There, changing the words is the smallest part of changing the law.
+:61. Property law made that density visible.
+:62. The East German Civil Code distinguished among forms of ownership shaped by a planned economy and permitted, in important situations, ownership of a building to be separated from ownership of the ground beneath it.
+:63. A family might possess an individually owned house while holding only a state-granted right to use publicly owned land.
+:64. That arrangement was not a verbal curiosity but the legal support for investment, possession, inheritance, records, and expectations accumulated over decades.
+:65. The western Civil Code, by contrast, ordinarily treats a building as an integral component of the land.
+:66. Extending that code eastward could therefore supply a common framework, but it could not answer who should own a house whose land and structure had traveled along different legal paths.
+:67. Every attempted answer touched several claims at once: those of former owners, present users, heirs, municipalities, creditors, and investors who needed a reliable title.
+:68. The problem deepened because East German expropriations and transfers had occurred under different policies and in different periods, including acts of political persecution and transactions made under pressure.
+:69. The post-unification principle favoring restitution over compensation addressed historical wrongs, yet restitution could collide with later reliance and delay new investment.
+:70. This was not merely resistance to change.
+:71. It was a conflict among legitimate purposes whose relative weight had been altered by prior events.
+:72. The Property Act, amendments, administrative practice, and repeated court decisions gradually differentiated cases that a single moral formula could not settle.
+:73. The 1994 Property Law Adjustment Act then created routes for converting East German use rights and divided ownership into forms compatible with the Civil Code, including purchase and heritable building rights under specified conditions.
+:74. The statute did not preserve the East German property system, but neither did it treat the system's material consequences as nonexistent.
+:75. It translated inherited positions into the grammar of the prevailing order.
+:76. Translation of this kind is costly because legal concepts do not correspond word for word.
+:77. A right that functioned within one combination of land policy, registration, housing finance, and administration may have no exact counterpart once that combination is gone.
+:78. Judges must then decide which feature deserves protection: formal title, actual investment, justified reliance, restorative justice, or the future marketability of the asset.
+:79. Earlier law survives inside those choices even after its code has been repealed.
+:80. The contrast with divorce is now sharper.
+:81. Changing a ground for divorce alters a criterion used in future decisions, whereas reconciling two property systems requires millions of past actions to be classified without destroying the security that property law is supposed to provide.
+:82. The difference is functional embeddedness, not an intrinsic conservatism of property lawyers.
+:83. Procedure added another layer because rights become effective only through institutions capable of recognizing and enforcing them.
+:84. The German Democratic Republic had not organized judicial independence, constitutional review, administrative courts, and the legal professions in the same way as the Federal Republic.
+:85. Unification therefore required more than issuing new statute books to the old offices.
+:86. The eastern states rebuilt a differentiated court structure, created or restored jurisdictions, reviewed serving judges and prosecutors, recruited new personnel, and drew heavily on assistance from western states.
+:87. By early 1993, former East German judges constituted only a minority of the judiciary in the new states, alongside newly appointed and temporarily or permanently transferred western lawyers.
+:88. That composition embodied a judgment about democratic legitimacy and professional reliability, but it also determined which habits, interpretations, and careers would carry authority into the new system.
+:89. A judge trained in socialist labor law could learn a federal statute, yet mastering its case law, procedural assumptions, commentary literature, and unwritten professional conventions took time.
+:90. Conversely, a western judge arriving with doctrinal fluency might lack local knowledge of East German workplaces, files, property arrangements, and the ordinary bargains people had made under the former system.
+:91. Neither kind of knowledge was interchangeable.
+:92. The asymmetry of credentials nevertheless gave western training greater institutional value because the examination system, appellate hierarchy, textbooks, and future career routes all rewarded it simultaneously.
+:93. This is a self-reinforcing path at the level of a profession.
+:94. The more courts used western doctrine, the more useful western-trained lawyers became; the more such lawyers staffed courts and universities, the more completely new entrants learned that doctrine.
+:95. Common methods brought substantial benefits, including predictable appeals, access to a vast body of commentary, and the ability of lawyers to work across the newly unified country.
+:96. Coordination was an achievement, not simply a defeated alternative.
+:97. Its price was that East German legal knowledge often lost value faster than the social situations it described disappeared.
+:98. Some former judges were rightly excluded because of serious involvement in political injustice, while others passed review and adapted to a radically different role.
+:99. Treating every dismissal as arbitrary would ignore the absence of an independent judiciary under one-party rule.
+:100. Treating every East German jurist as merely compromised would ignore variation in conduct, competence, and capacity to learn.
+:101. The personnel question therefore supplies a counterexample to any mechanical equation between continuity and lock-in.
+:102. Continuing a person could preserve indispensable experience or perpetuate discredited practice, just as replacement could establish constitutional safeguards or discard local competence.
+:103. What mattered was the mechanism joining biography to authority: selection procedures, credentials, institutional oversight, and the distribution of chances to retrain.
+:104. The divided Germany can accordingly be called a quasi-experiment only with care.
+:105. Both states inherited parts of a common legal tradition, but they were not randomly assigned different statutes while every other condition remained equal.
+:106. They differed in political power, economic organization, international alignment, demographic pressures, civil liberties, and the institutions that connected written law to daily life.
+:107. Even the apparent plasticity of family law cannot be isolated from employment policy, childcare, constitutional litigation, religious influence, social movements, and changing household behavior.
+:108. The comparison is strongest when it identifies a mechanism across cases, not when it declares one legal culture naturally flexible and the other naturally rigid.
+:109. Small, bounded rules were generally easier to replace or recreate when administrators could identify the affected relationships and contain the transition.
+:110. Doctrines tied to many complementary rules were harder to transplant because changing one element unsettled the interpretation of others.
+:111. Institutions were harder still, since buildings, budgets, jurisdictions, archives, and chains of appeal had to operate while they were being redesigned.
+:112. Professions carried the deepest practical memory because their training determined which distinctions appeared obvious, which arguments sounded competent, and which alternatives could be administered at all.
+:113. Political power and constitutional principle could override any of these layers, but they could not eliminate the work of conversion.
+:114. The events of 1990 thus do not prove that deeply embedded law cannot change; they show that speed at the level of enactment can conceal years of adjustment at the level of use.
+:115. They also clarify the different fates of East German solutions.
+:116. The Family and Civil Codes vanished as systems, some territorial provisions survived temporarily, the decriminalization represented by the repeal of Section 151 helped shape later harmonization, and ideas such as equal status for children outside marriage reappeared through new national routes.
+:117. What returned was rarely the old rule intact, because each surviving idea entered a framework with different courts, doctrines, interests, and constitutional tests.
+:118. A path can transmit possibilities as well as commands.
+:119. Knowledge of an abandoned arrangement may widen later choice, while dependence on an entire institutional complex may make even a desired change slow and distributively painful.
+:120. Under military pressure, the same logic becomes harsher: doctrine, machines, supply chains, training, and alliances must be changed while failure is measured not in delayed files but in lives, territory, and time.

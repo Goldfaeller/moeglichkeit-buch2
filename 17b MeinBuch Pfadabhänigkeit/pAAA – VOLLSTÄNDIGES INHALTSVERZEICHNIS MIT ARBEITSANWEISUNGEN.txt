@@ -1,0 +1,268 @@
+Der nachfolgende Text ist eine Kopie eines Abschnittes aus Datei "Arbeitsgrundlagen pAAA und pBBB.txt"
+
+
+======================================================================
+A) pAAA – VOLLSTÄNDIGES INHALTSVERZEICHNIS MIT ARBEITSANWEISUNGEN
+======================================================================
+
+Arbeitstitel:
+FORTSCHRITT, FURCHT UND PHANTASIEN
+
+Untertitel:
+Die Psychologie des Neuen – warum wir das Unbekannte bestaunen, fürchten und schließlich in unseren Alltag aufnehmen
+
+Kernthese:
+Neue Technologien und Erkenntnisse verändern nicht nur, was Menschen tun können. Sie erschüttern zunächst ihre vertrauten Vorstellungen von Welt, Mensch und Kontrolle. Das Buch verfolgt den wiederkehrenden Weg vom ersten Staunen über Angst, Überhöhung, Mythos und gesellschaftlichen Streit bis zur Gewöhnung – und zeigt, wie ein nüchterner, aber nicht fantasieloser Umgang mit dem Neuen möglich wird.
+
+Klare Abgrenzung zu pBBB:
+pAAA erklärt nicht ausführlich, warum technische, rechtliche oder institutionelle Systeme durch frühere Entscheidungen festgelegt werden. Standards, Infrastrukturen, Wechselkosten, Rechtskontinuitäten, militärische Logistik und technische Lock-ins gehören in pBBB. pAAA behandelt sie nur, wenn es darum geht, wie Menschen sie wahrnehmen, emotional bewerten oder öffentlich erzählen.
+
+
+1. Wahnsinn! Der erste Kontakt
+
+Aufgabe des Hauptkapitels:
+Das Kapitel übernimmt den Stoff aus „vorwort-pAAA.txt“ und macht daraus keinen konventionellen Dankes- oder Einführungstext, sondern eine persönliche Eröffnungsszene. Die eigene Erfahrung gibt dem Buch Glaubwürdigkeit und eine echte Frage: Was ist das für ein Gefühl, wenn ein Werkzeug in wenigen Minuten etwas vollbringt, das eben noch unmöglich erschien? Der Erzähler darf staunen und ratlos sein; er soll die Antwort noch nicht kennen.
+
+1.1 Zwanzig Bücher in zwanzig Minuten
+Arbeitsanweisung:
+Mit der konkreten Erfahrung beginnen: alltägliche Computerprobleme, stundenlange Fehlersuche, dann der jähe Sprung zu einer Leistung, die innerlich kaum nachvollziehbar ist. Den Kontrast zeigen: Dieselbe KI kann Großes in verblüffender Geschwindigkeit leisten und an Kleinigkeiten scheitern. Die Szene mit den übersetzten Büchern als emotionalen Höhepunkt gestalten, ohne aus der persönlichen Erfahrung bereits eine allgemeine Leistungsbehauptung über jedes KI-System zu machen.
+
+1.2 Wenn Verstehen nicht mehr hinterherkommt
+Arbeitsanweisung:
+Das Wort „Wahnsinn“ als ehrliche, noch undifferenzierte Reaktion untersuchen. Nicht die technische Funktionsweise der KI erklären, sondern den Abstand zwischen beobachteter Leistung und innerem Erklärungsmodell. Die Leitfragen aus dem Vorwort aufnehmen: Bin ich mit diesem Gefühl allein? Ist es Begeisterung, Kontrollverlust, Ehrfurcht, Überforderung oder eine Mischung daraus?
+
+1.3 Vom persönlichen Staunen zur Psychologie des Neuen
+Arbeitsanweisung:
+Die private Erfahrung in die Buchfrage überführen. Zeigen, dass frühere Generationen bei Elektrizität, Telefon, Radio, Röntgenstrahlen, Raumfahrt oder Computertechnik ebenfalls nach vertrauten Bildern suchten. Noch keine lange Beispielparade liefern; nur das Versprechen formulieren, dass sich im historischen Vergleich wiederkehrende psychologische Muster erkennen lassen.
+
+
+2. Die Brille im Kopf
+
+Aufgabe des Hauptkapitels:
+Bevor das Buch historische Fälle erzählt, muss es erklären, warum das Neue überhaupt so stark wirkt. Menschen nehmen unbekannte Dinge nicht neutral auf. Sie ergänzen Lücken mit vertrauten Bildern, Absichten, Geschichten und Gefühlen. Dieses Kapitel liefert die psychologische Werkzeugkiste von pAAA, ohne in die biografische Pfadabhängigkeit aus pBBB Kapitel 5 abzudriften.
+
+2.1 Vom Orakel zum Denkzeug
+Arbeitsanweisung:
+Untersuchen, wie Benennungen das innere Bild lenken: „Intelligenz“, „Sprachmaschine“, „Wort-Taschenrechner“, „Assistent“, „Orakel“ oder „Denkzeug“. Zeigen, dass jedes Bild bestimmte Fähigkeiten sichtbar und andere unsichtbar macht. Ziel ist kein einziges endgültiges Wort, sondern ein bewegliches, kalibriertes Modell: leistungsfähiges Werkzeug, aber weder Person noch unfehlbare Autorität.
+
+2.2 Die Absicht im Rauschen
+Arbeitsanweisung:
+Anthropomorphisierung, übermäßige Handlungserkennung und den Drang behandeln, hinter kompliziertem Verhalten einen Willen zu vermuten. Historische Automaten, der Kluge Hans, ELIZA und heutige Chatbots können als Stationen dienen. Klar unterscheiden zwischen nützlicher Alltagssprache („die KI will …“) und dem Irrtum, daraus Bewusstsein, Motive oder moralische Autorität abzuleiten.
+
+2.3 Kontrolle, Unsicherheit und das unsichtbare Innere
+Arbeitsanweisung:
+Erklären, weshalb uns Systeme besonders beunruhigen, wenn ihre Wirkung sichtbar, ihr innerer Vorgang aber nicht anschaulich ist. Kontrollillusion, Ambiguitätstoleranz, Ungewissheit und diffuse Angst einführen. Nicht behaupten, Unverständlichkeit sei neu; die historische Parallele zu Magnetismus, Elektrizität, Funk und Strahlung herausarbeiten.
+
+2.4 Warum die Jahre schneller und das Neue fremder werden
+Arbeitsanweisung:
+Den Abschnitt zur subjektiven Zeit aus „vorwort-pAAA.txt“ hier einarbeiten. Die proportionale Janet-Hypothese als eingängige, aber nicht abschließend belegte Erklärung kennzeichnen. Daneben die besser anschlussfähige Neuheits- und Erinnerungshypothese, Routine, Aufmerksamkeit und den „reminiscence bump“ erklären. Keine einzelne Theorie als vollständige Lösung präsentieren. Die Pointe lautet: Neuheit erzeugt Erinnerungsmarken, Routine verdichtet Zeit – und Alter verändert daher auch die gefühlte Geschwindigkeit gesellschaftlicher Veränderung.
+
+2.5 Zwischen Neugier und Vorsicht
+Arbeitsanweisung:
+Neophilie und Neophobie nicht als einfache Steinzeitgeschichte, sondern als zwei notwendige Strategien behandeln: erkunden und schützen. Zeigen, weshalb weder maximale Offenheit noch maximale Abwehr sinnvoll ist. Der Schwerpunkt liegt auf der aktuellen Reaktion auf Unbekanntes; die langfristige biografische Verengung des Möglichkeitsraums bleibt pBBB vorbehalten.
+
+
+3. Als die Welt schon früher fremd wurde
+
+Aufgabe des Hauptkapitels:
+Historische Entwicklungen nicht als allgemeine Technikgeschichte erzählen, sondern als Serie von Wahrnehmungsschocks. Jedes Unterkapitel soll dasselbe Raster beantworten: Welche vertraute Grenze wurde verletzt? Welche Gefühle und Bilder entstanden? Wer versprach Erlösung, wer sah Gefahr? Wie wurde das Unbegreifliche schließlich normal?
+
+3.1 Der Verlust des Zentrums
+Arbeitsanweisung:
+Geografische Entdeckungen, Kopernikus, geologische Tiefenzeit, Darwin, Atome und Urknall als Kränkungen vertrauter Weltbilder darstellen. Entscheidend ist nicht die vollständige Wissenschaftsgeschichte, sondern die psychologische Reaktion auf den Verlust einer sicheren Stellung des Menschen. Unterschiede zwischen berechtigter wissenschaftlicher Kontroverse, religiöser Deutung und später erfundenen Heldengeschichten sauber halten.
+
+3.2 Unsichtbare Mächte
+Arbeitsanweisung:
+Magnetismus, Elektrizität, Röntgenstrahlen, Radioaktivität und Funk als Kräfte behandeln, deren Wirkungen sichtbar, deren Träger aber dem Alltagssinn verborgen waren. Zeigen, wie Unsichtbarkeit gleichzeitig Forschung, Heilserwartung, Geschäft und Aberglauben befeuerte. Mesmerismus, Elektrizitätskuren oder radioaktive Konsumprodukte nur mit geprüften Beispielen einsetzen.
+
+3.3 Maschinen gegen die Grenzen des Körpers
+Arbeitsanweisung:
+Eisenbahn, Automobil, Flugzeug, U-Boot, Rakete, Organtransplantation und Gentechnik nach der Frage ordnen, welche körperliche oder moralische Grenze jeweils überschritten schien. Medizinische Panikgeschichten nicht ungeprüft wiederholen. Neben Angst auch Lust, Status, Geschwindigkeit, Befreiung und Zukunftsfantasie zeigen.
+
+3.4 Fremde Stimmen und ausgelagerte Gedanken
+Arbeitsanweisung:
+Vom Buchdruck über Telegraf, Telefon, Radio, Fernsehen und Internet bis zur KI führen. Im Mittelpunkt steht die fortschreitende Ablösung von Information, Stimme, Bild und schließlich sprachlicher Produktion vom unmittelbar anwesenden Menschen. Die technische Infrastruktur und ihre Lock-ins nicht erklären; stattdessen fragen, weshalb jede neue Stufe Nähe, Echtheit und Urheberschaft neu verhandeln lässt.
+
+
+4. Das wiederkehrende Theater des Neuen
+
+Aufgabe des Hauptkapitels:
+Dieses Kapitel ist das analytische Zentrum des Buches. Die historischen Beispiele aus Kapitel 3 werden nun zu wiederkehrenden Reaktionsmustern verdichtet. Die Muster dürfen nicht als starre Universalphasen dargestellt werden: Hoffnung, Angst, Ablehnung und Gewöhnung können gleichzeitig auftreten und sich zwischen Gruppen stark unterscheiden.
+
+4.1 Das Wunder
+Arbeitsanweisung:
+Staunen als produktive Reaktion würdigen, nicht als kindliche Unwissenheit abwerten. Erklären, weshalb unerwartete Fähigkeiten zunächst wie Magie wirken und warum Demonstrationen, Weltausstellungen und mediale Vorführungen diesen Eindruck verstärken. Zwischen echtem Erkenntnisstaunen und kritikloser Verzauberung unterscheiden.
+
+4.2 Die Bedrohung
+Arbeitsanweisung:
+Konkrete Furcht, diffuse Angst, Ekel, Statusbedrohung und moralische Verletzung auseinanderhalten. Zeigen, warum Menschen häufig nicht nur eine neue Technik, sondern den Verlust ihrer Rolle, Kompetenz oder vertrauten Ordnung fürchten. Moralische Panik als soziales Geschehen erklären, ohne jede Sorge vorschnell als irrational abzutun.
+
+4.3 Das Heilsversprechen
+Arbeitsanweisung:
+Technik- und Wissenschaftsutopien von ewiger Energie über Lebensverlängerung bis zur KI als Problemlöser untersuchen. Halo-Effekt, Autoritätsgläubigkeit und die Übertragung echter Kompetenz auf fremde Gebiete erklären. Geniale Leistungen und unbelegte Versprechen sorgfältig trennen; Personen nicht nachträglich nur als Helden oder Scharlatane erzählen.
+
+4.4 Die Pathologie des Neuen
+Arbeitsanweisung:
+Zeigen, wie vorhandene psychische Störungen und Ängste das Vokabular ihrer Zeit aufnehmen: Dämonen, Strahlen, Funk, Chips, Algorithmen. Keine Ferndiagnosen und keine Gleichsetzung von Techniksorge mit Krankheit. Anthropomorphisierung, emotionale Abhängigkeit und gefährliche Bestätigung durch dialogfähige Systeme sachlich behandeln.
+
+4.5 Technobabble und moderne Mythologie
+Arbeitsanweisung:
+Erklären, wie alte Wünsche und Ängste sich mit dem jeweils neuesten Wissenschaftswortschatz verkleiden. Biorhythmus, Kirlianfotografie, Heilsteine, Quantenbegriffe, UFOs und moderne KI-Rituale als Fälle prüfen. Die Pointe ist nicht, Menschen lächerlich zu machen, sondern zu zeigen, wie wissenschaftlich klingende Sprache Unsicherheit in scheinbare Erklärung verwandelt.
+
+4.6 Von der Sensation zur Tapete
+Arbeitsanweisung:
+Gewöhnung, Mere-Exposure, praktische Einbettung und den Verlust der Sichtbarkeit behandeln. Telefon, elektrisches Licht, Internet oder Navigationssysteme können zeigen, wie ein Wunder zur Infrastruktur und schließlich zur gedankenlosen Selbstverständlichkeit wird. Nicht die technische Pfadabhängigkeit der Infrastruktur erklären; der Gegenstand ist die Veränderung von Aufmerksamkeit und Gefühl.
+
+
+5. Wer das Neue größer macht
+
+Aufgabe des Hauptkapitels:
+Die Reaktion auf Neuheit entsteht nicht nur im einzelnen Kopf. Medien, Märkte, politische Akteure, Experten, Unternehmen und soziale Gruppen verstärken bestimmte Deutungen. Das Kapitel untersucht diese Verstärkung, nicht die langfristige institutionelle Pfadabhängigkeit.
+
+5.1 Hype, FOMO und das Geschäft mit der Zukunft
+Arbeitsanweisung:
+Spekulationsblasen, Zukunftsmärkte, Vaporware und das Gefühl untersuchen, eine einmalige Gelegenheit zu verpassen. Tulpenmanie nur verwenden, wenn populäre Übertreibungen korrigiert werden; besser mehrere unterschiedlich gut dokumentierte Fälle vergleichen. Zeigen, wie Aufmerksamkeit, Investitionen und öffentliche Erzählung einander verstärken, ohne daraus bereits eine allgemeine Lock-in-Theorie zu machen.
+
+5.2 Schlagzeile, Bild und Wiederholung
+Arbeitsanweisung:
+Darstellen, wie Medien aus abstrakten Neuerungen anschauliche Helden-, Bedrohungs- und Erlösungsgeschichten formen. Verfügbarkeitsheuristik, Wiederholung, Auswahl extremer Einzelfälle und visuelle Symbole einführen. Traditionelle und soziale Medien nicht pauschal gegeneinander ausspielen; ihre unterschiedlichen Beschleunigungsmechanismen herausarbeiten.
+
+5.3 Generationen und Milieus
+Arbeitsanweisung:
+Erklären, weshalb dieselbe Neuerung für eine Gruppe Befreiung, für eine andere Statusverlust und für eine dritte bloßen Alltag bedeutet. Alter, Bildung, Beruf, Einkommen, Gruppenzugehörigkeit und unmittelbarer Nutzen als Faktoren behandeln. Das sogenannte Douglas-Adams-Gesetz höchstens als humoristische Beobachtung verwenden, nicht als wissenschaftliches Gesetz.
+
+5.4 Wenn Ablehnung vernünftig ist
+Arbeitsanweisung:
+Eine wichtige Gegenkorrektur einbauen: Neues ist nicht automatisch gut, und Vorsicht ist nicht automatisch Rückständigkeit. Unsichere Folgen, ungleich verteilte Risiken, fehlende Zustimmung und reale Interessenkonflikte behandeln. Technikfolgenabschätzung hier als gesellschaftliche Antwort auf Ungewissheit erklären, nicht als institutionellen Lock-in.
+
+5.5 Das zu spät erkannte Neue
+Arbeitsanweisung:
+Semmelweis, Skorbut, mRNA, Phagentherapie oder KI-Winter nur nach genauer Prüfung als unterschiedliche Formen verzögerter Anerkennung vergleichen. Nicht eine bequeme Erzählung vom einsamen Genie gegen dumme Institutionen wiederholen. Fragen, welche psychologischen und kommunikativen Faktoren Evidenz glaubwürdig oder unglaubwürdig erscheinen lassen.
+
+
+6. Die Geschichten, die schon auf uns warten
+
+Aufgabe des Hauptkapitels:
+Menschen begegnen Neuem selten ohne Vorbilder. Religion, Literatur, Film, politische Erzählung und kollektive Erinnerung stellen fertige Rollen bereit: Schöpfer und Geschöpf, Verheißung und Sündenfall, Genie und Monster, Erlösung und Apokalypse. Das Kapitel zeigt, wie diese kulturellen Skripte die Wahrnehmung strukturieren.
+
+6.1 Frankenstein und das rebellierende Geschöpf
+Arbeitsanweisung:
+Den Frankenstein-Komplex und verwandte Schöpfungsmythen als Deutungsmuster untersuchen. Zeigen, wie eine Geschichte die Wahrnehmung späterer Technik vorprägen kann, ohne zu behaupten, Popkultur verursache allein die Angst. KI, Roboter, Genetik und autonome Waffen nur als Rezeptionsbeispiele verwenden; die technische Entwicklung bleibt pBBB vorbehalten.
+
+6.2 Science-Fiction als Proberaum
+Arbeitsanweisung:
+Science-Fiction nicht nur als Quelle falscher Ängste, sondern als gesellschaftliches Gedankenexperiment behandeln. Jules Verne, Star Trek, Terminator oder Black Mirror selektiv einsetzen und unterschiedliche Funktionen zeigen: Warnung, Wunschbild, Satire, moralisches Labor. Herausarbeiten, wie fiktive Bilder Erwartungen formen, bevor reale Erfahrung vorhanden ist.
+
+6.3 Weltuntergang mit aktuellem Vokabular
+Arbeitsanweisung:
+Apokalyptische Erzählungen über verschiedene Epochen vergleichen. Nicht jede Warnung vor einer Katastrophe als irrationalen Weltuntergangsglauben abtun. Der psychologische Kern ist die Umwandlung komplexer Unsicherheit in eine klare Geschichte mit Ursache, Schuldigen, Wendepunkt und Bedeutung.
+
+6.4 Hoffnung und Angst als Machtmittel
+Arbeitsanweisung:
+Zeigen, wie Regierungen, Bewegungen und Unternehmen Zukunftsbilder nutzen, um Zustimmung, Opferbereitschaft, Kaufentscheidungen oder Kontrolle zu erzeugen. Historische Beispiele gegenüber aktueller Parteipolitik bevorzugen. Das Kapitel analysiert Rhetorik und emotionale Mobilisierung; institutionelle Herrschafts- und Rechtsstrukturen gehören in pBBB.
+
+6.5 Wenn das Wunder zurückschlägt
+Arbeitsanweisung:
+Asbest, DDT, Plastik, fossile Energie oder digitale Überwachung als Fälle behandeln, in denen frühere Fortschrittserzählungen später in Gefahren- und Verratserzählungen umschlagen. Den realen Schaden nicht psychologisieren. Untersuchen, warum Enttäuschung besonders stark ist, wenn eine Technik zuvor als rein, modern oder befreiend galt.
+
+
+7. Mit dem Neuen leben
+
+Aufgabe des Hauptkapitels:
+Das Schlusskapitel soll keine simple Liste von Ratschlägen liefern. Es führt die psychologischen Erkenntnisse zusammen und entwickelt eine Haltung zwischen Unterwerfung und Abwehr, Euphorie und Zynismus. Der persönliche Erzähler aus Kapitel 1 darf zurückkehren: Das Staunen bleibt, aber es erhält Begriffe und Maßstäbe.
+
+7.1 Ein brauchbares inneres Bild
+Arbeitsanweisung:
+Die Metaphern „Denkzeug“, „Wort-Taschenrechner“, „Autopilot“ und „Exoskelett für den Geist“ vergleichen. Zeigen, dass ein gutes mentales Modell nicht vollständig wahr sein muss, aber zu angemessenem Verhalten führen sollte. Bei KI bedeutet das: Fähigkeiten nutzen, Grenzen prüfen und flüssige Sprache nicht mit Urteilskraft verwechseln.
+
+7.2 Klarheit ohne Hofknicks
+Arbeitsanweisung:
+Die frühere Formel „Drill Sergeant vs. Hofknicks“ entschärfen und präzisieren. Gute Arbeit mit KI verlangt klare Ziele, überprüfbare Zwischenschritte und deutliche Korrektur, aber keine künstliche Grobheit. Der psychologische Punkt lautet: Wer das System als Autorität erlebt, prüft es zu wenig; wer es als wertlosen Wortmixer behandelt, nutzt es zu wenig.
+
+7.3 Staunen und prüfen zugleich
+Arbeitsanweisung:
+Eine doppelte Haltung entwickeln: Offenheit für unerwartete Fähigkeiten und Bereitschaft zur Überprüfung. Quellenkritik, Unsicherheitstoleranz und die Trennung von Demonstration, Anekdote und belastbarem Beleg einführen. Nicht nur auf KI beziehen; die Haltung soll für neue Medizin, Medienberichte und technische Versprechen gleichermaßen gelten.
+
+7.4 Wer trägt das Risiko, wer erhält den Gewinn?
+Arbeitsanweisung:
+Die psychologische Betrachtung um eine faire Bewertungsfrage ergänzen. Reaktionen auf Neues hängen davon ab, ob Nutzen und Risiko gleich oder ungleich verteilt sind. Dadurch lässt sich zwischen irrationaler Panik, verständlicher Sorge und interessengeleiteter Inszenierung unterscheiden, ohne das Buch zu einer politischen Programmschrift zu machen.
+
+7.5 Das nächste Wahnsinn!
+Arbeitsanweisung:
+Zum Ausgangswort aus Kapitel 1 zurückkehren. Der Erzähler versteht nun besser, weshalb ihn die KI so stark getroffen hat, ohne das Erlebnis kleinzureden. Das Buch ruhig und offen beenden: Nicht das Staunen soll verschwinden, sondern die Sprachlosigkeit zwischen Vergötterung und Verteufelung.
+
+
+REDAKTIONELLE RESERVELISTE FÜR pAAA
+
+Diese Themen dürfen vorkommen, aber nicht zu selbstständigen systemischen Abhandlungen anwachsen:
+- QWERTZ, Spurweiten, IPv4, x86 und technische Standards
+- BGB, Rechtskontinuität und institutionelle Reform
+- militärische Doktrin, Logistik und Waffenplattformen
+- technische Architektur, Daten- und Hardware-Lock-ins der KI
+- langfristige biografische Pfadabhängigkeit, Identität als Lock-in und versunkene Kosten
+
+Wenn eines dieser Themen mehr als ein kurzes Beispiel benötigt, gehört die ausführliche Darstellung in pBBB.
+
+
+
+
+
+
+------------
+
+Ganz allgemein:
+
+
+pAAA behält:
+- persönliches KI-Erlebnis und Staunen
+- subjektive Zeit, Neuheit und Routine
+- Anthropomorphisierung und mentale Modelle
+- Angst, moralische Panik und Pathologie des Neuen
+- Heilsversprechen, Halo-Effekt, Hype und FOMO
+- Technobabble, Esoterik und moderne Mythen
+- Medien, Popkultur, Apokalypse und gesellschaftliche Deutung
+- Gewöhnung, Normalisierung und vernünftiger Umgang mit Neuheit
+
+pBBB (gilt für ein früheres, thematisch ähnliches Projekt mit anderen Schwerpunkten und anderem Inhaltsverzeichnis) behält:
+- Definition und Theorie der Pfadabhängigkeit
+- Möglichkeitsraum, Kontingenz, Lock-in, Trade-offs, Rückkopplung und Evolvierbarkeit
+- evolutionäre Reihenfolgeabhängigkeit und historische Baupläne
+- technische Standards, Netzwerkeffekte, Infrastruktur und Modularität
+- KI-Architektur, Hardware, Software, Daten, Benchmarks und Agenten-Integration
+- biografische Entwicklung, Gewohnheiten, Schemata, Identität und kumulative Vorteile
+- Institutionen, Verfassungen, Verwaltung und Reformmechanismen
+- deutsches Recht, DDR-Vergleich und Wiedervereinigung
+- militärische Doktrin, Produktion, Logistik, Plattformen und Bündnisstandards
+
+Kurzformel für jede spätere Zweifelsentscheidung:
+Geht es darum, wie Menschen etwas Neues erleben und deuten, gehört es zu pAAA.
+Geht es darum, wie frühere Zustände spätere Möglichkeiten strukturieren, gehört es zu pBBB.
+
+
+ 
+
+Also möglichst nichts oder nur ganz wenig in die Kapitel von pAAA schreiben, was  in die Kapitel von pBBB reingehört.
+
+
+----------------
+
+ZWECK DIESER DATEI
+
+Diese Datei trennt die beiden Buchprojekte inhaltlich und methodisch voneinander und dient anschließend als Arbeitsgrundlage für menschliche Autoren und für schreibende KI-Systeme.
+
+pAAA (das jetzige Projekt mit den einzelnen Kapiteln) fragt: Was macht das Neue mit uns?
+pBBB (an thematisch ähnliches aber anderes bereits fertiggestelltes Projekt) fragt: Was macht das Alte mit unseren Möglichkeiten?
+
+pAAA behandelt Wahrnehmung, Gefühl, Deutung, öffentliche Reaktion und Gewöhnung. pBBB behandelt historische Ausgangsbedingungen, erreichbare und verlorene Möglichkeiten, Verflechtung, Rückkopplung, Trade-offs und Lock-in. Derselbe Gegenstand darf in beiden Büchern vorkommen, aber nie mit derselben Leitfrage.
+
+Beispiel KI:
+- pAAA: Warum erscheint KI als Magie, Person, Orakel, Erlöser oder Bedrohung?
+- pBBB: Wie legen Architektur, Hardware, Daten, Benchmarks und organisatorische Einbettung den weiteren Entwicklungspfad fest?
+
+Beispiel QWERTZ:
+- pAAA: allenfalls kurz als vertraute Selbstverständlichkeit und als Beispiel dafür, dass Gewöhnung wie Natürlichkeit wirkt.
+- pBBB: ausführlich als Fall von Standardisierung, Netzwerkeffekten, Wechselkosten und umstrittener Technikgeschichte.
+
+Übergreifende Schreibregel für beide Bücher:
+Historische Anekdoten, Studien, Zitate, Jahreszahlen und populäre Technikgeschichten müssen vor der Endfassung überprüft werden. Wo die Forschung uneindeutig ist, darf der Text die Unsicherheit nicht zugunsten einer glatten Pointe verschweigen. Eine gute Geschichte ist ein Einstieg, aber kein Beweis.
+

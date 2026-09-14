@@ -1,0 +1,122 @@
+== 6.6 Schichtweise Reform statt Neubau ==
+
+:1. On July 5, 1948, Britain’s minister of health, Aneurin Bevan, received a set of keys at Park Hospital outside Manchester.
+:2. The gesture marked the opening of the National Health Service, but the building behind him was no newborn institution.
+:3. Construction had begun in 1926 under the Barton-upon-Irwell Poor Law Union, the hospital had admitted patients since 1928, and during the Second World War it had served first British and then American forces.
+:4. On the appointed day, its wards did not vanish, its nurses did not forget their work, and its patients could not be put on hold while a pristine system was assembled elsewhere.
+:5. The ownership and public purpose changed at once; much of the machinery of care did not.
+:6. This is what institutional reform usually looks like from inside: people keep arriving at the desk while the rules behind the desk are being rewritten.
+:7. The National Health Service Act of 1946 made the minister responsible for a comprehensive service and transferred municipal and voluntary hospitals into public ownership.
+:8. Yet Parliament could transfer property by statute more quickly than a government could replace buildings, retrain professions, standardize records, or alter what citizens expected from a doctor.
+:9. General practitioners remained self-employed contractors, local authorities retained important community services, and regional boards administered hospitals that came with different traditions and resources.
+:10. The celebrated beginning was therefore also a vast act of assembly.
+:11. A new right to care was joined to an inherited estate, established occupations, local routines, charitable legacies, and administrative boundaries.
+:12. These parts may be called institutional layers because they were created at different times and change at different speeds, although they must work together every day.
+:13. Law specifies authority and entitlement; budgets turn those promises into staffing, equipment, and time.
+:14. Training supplies the skills through which formal policy becomes competent practice, while buildings determine such stubborn particulars as how far a bed can be moved and which services can share a corridor.
+:15. Information systems decide what can be recorded, retrieved, billed, compared, or noticed at all.
+:16. Public expectations complete the arrangement, because people plan their lives around services they believe will remain available and punish reforms that violate understandings no statute fully records.
+:17. None of these layers is merely scenery for the others, because a change in one alters the demands placed on the rest.
+:18. If law grants a new service without money, the promise becomes a queue; if a budget buys new equipment without trained operators or suitable rooms, capital remains idle; if software changes a category, staff must translate between the screen and cases that still arrive in older forms.
+:19. The institution is not a stack of independent sheets but a set of coupled layers whose joints carry much of the load.
+:20. That coupling explains why personal turnover rarely resets an organization.
+:21. A new director inherits contracts, payroll dates, professional jurisdictions, reporting duties, union agreements, databases, maintenance schedules, and buildings whose walls embody earlier ideas about work.
+:22. Veteran employees also hold knowledge that no organization chart can display: whom to call, which exception is harmless, how to keep a failing process from becoming a public failure.
+:23. Replacing everyone would destroy some obsolete habits, but it would also discard the tacit competence that keeps the service functioning.
+:24. Institutional memory is therefore distributed across documents, artifacts, relationships, and practiced bodies rather than stored in a single archive.
+:25. Reformers confront a double bind.
+:26. They are asked to change the system because its present performance is inadequate, yet the capacity needed to change it is partly the same capacity that presently delivers its services.
+:27. A hospital cannot suspend emergency medicine for three years to redesign emergency medicine.
+:28. A benefits agency cannot stop payments while it constructs a cleaner database.
+:29. An abrupt rebuild may appear decisive on an organizational diagram while shifting dangerous transition work onto nurses, clerks, contractors, and citizens.
+:30. Incremental reform is consequently not evidence of timidity by itself.
+:31. It can be a way to protect a function during alteration, much as engineers reinforce a bridge before replacing a load-bearing member, though an institution differs from a bridge because its users argue about its purposes and can resist or reinterpret the plans.
+:32. The useful question is not whether change is bold or cautious, but which dependencies must remain reliable while each component moves.
+:33. Britain’s health service repeatedly answered that question by reorganizing structures without discarding the commitment that treatment should be available according to need rather than ability to pay.
+:34. The 1974 reorganization sought to bring hospital and community services into a more unified administrative structure.
+:35. Reforms around 1990 added a purchaser-provider split, creating an internal market without turning the NHS into an ordinary private market or abolishing tax funding.
+:36. Later governments adjusted organizations, incentives, targets, and lines of responsibility again.
+:37. These were not cosmetic changes merely because the letters NHS endured.
+:38. New layers redirected money, careers, information, and bargaining power, sometimes transforming conduct through additions rather than through wholesale replacement.
+:39. Political scientists call this process layering when new rules or organizations are attached to existing ones and gradually change how the older arrangement works.
+:40. They distinguish it from displacement, in which old rules are removed, and from drift, in which rules stay formally fixed while a changing environment alters their effects.
+:41. Another process, conversion, occurs when actors redirect an existing institution toward a new purpose without replacing its basic form.
+:42. Park Hospital supplies an unusually literal example.
+:43. An institution built through Poor Law administration, then adapted for wartime medicine, became a site of universal civilian health care and is now Trafford General Hospital.
+:44. The old structure did not dictate the new mission, but its wards, location, workforce, and accumulated medical competence made some new uses far easier than starting from bare ground.
+:45. Borrowing a term from evolutionary biology, one might call this institutional exaptation: a capacity developed under one purpose is recruited for another.
+:46. The analogy is helpful only up to a point.
+:47. Biological exaptation is not designed by foresighted committees, whereas institutional repurposing is contested by people who can name goals, negotiate compensation, and modify the object they inherit.
+:48. Nor does an old hospital survive simply because history has selected it.
+:49. It survives when continued use, renovation, professional attachment, legal commitments, and the cost of alternative provision repeatedly make adaptation preferable to abandonment.
+:50. Past investment changes the price and visibility of present options, but it does not make the inherited option sacred.
+:51. This distinction separates path dependence from the ordinary fact that every reform faces constraints.
+:52. A building’s load-bearing wall is a physical constraint; the decision to keep routing work around that wall becomes path dependent when earlier investments, routines, and expectations reinforce one another and raise the cost of alternatives over time.
+:53. Likewise, maintaining a familiar procedure for a week may be simple inertia, while training thousands of employees, coding databases, and writing regulations around it can turn familiarity into a self-reinforcing path.
+:54. The path can be useful.
+:55. Common routines allow strangers to coordinate, stable entitlements make long-term planning possible, and accumulated expertise improves performance that a perpetually reinvented organization would never master.
+:56. Even awkward inheritances may contain spare capacities that reformers can recruit faster than they could build replacements.
+:57. Continuity earns its value precisely because institutional services are promises made across time.
+:58. The same continuity, however, can preserve assumptions that no one would choose if the service were being designed on an empty field.
+:59. Rooms remain in the wrong place, professional boundaries reflect vanished technologies, financial categories divide work that patients experience as one problem, and old data fields become prerequisites for new software.
+:60. At that point, adapting each layer to the others begins to produce a different kind of structure: not a preserved core with useful additions, but an accumulation whose very accommodations demand further accommodation.
+:61. Such accumulation creates its own path because every workaround that reconciles two mismatched layers becomes another dependency that later reformers must understand.
+:62. A nurse may keep a parallel note because two databases cannot exchange a field, a manager may preserve an obsolete reporting category because funding still follows it, and a regional office may retain a committee because no one is certain where its residual authority would go.
+:63. Each response can be sensible at the point where it is made, yet together they can produce an organization whose complexity has no single author and whose functioning depends on exceptions that were meant to be temporary.
+:64. The costs remain partly hidden because experienced staff absorb them through memory, improvisation, and extra work.
+:65. Only when those people leave, demand surges, or a new system removes the space for improvisation does the institution discover what its formal description omitted.
+:66. This is why accumulated layers periodically inspire dreams of a clean slate.
+:67. Displacement can indeed be preferable when an old rule has lost its purpose, when its continued operation causes serious harm, or when maintaining two systems costs more than a controlled transition.
+:68. The mistake lies not in attempting a decisive break but in assuming that declaring the break also dissolves the connections beneath it.
+:69. England’s effort to create integrated digital records for the NHS offers a revealing countertest.
+:70. The National Programme for IT, launched in 2002, pursued national infrastructure and standardized systems on a scale intended to overcome fragmented local purchasing and incompatible records.
+:71. Central contracts promised coordination, bargaining power, common technical requirements, and information that could follow a patient more reliably.
+:72. Those were genuine advantages, not bureaucratic fantasies.
+:73. Yet a clinical record is not merely a container of facts waiting to be poured from one machine into another.
+:74. It is embedded in admission routines, diagnostic codes, appointment systems, professional language, legal duties, equipment, and judgments about who may see or alter an entry.
+:75. Hospitals had acquired different systems and built different practices around them, so replacing software also meant rearranging work in organizations that could not stop treating patients.
+:76. A specification that looked uniform at the center encountered local combinations that had evolved over years.
+:77. When schedules slipped, some trusts needed interim systems, suppliers renegotiated obligations, and confidence weakened before the most difficult care-record functions were widely deployed.
+:78. By March 2011, the National Audit Office reported that the Department of Health and the NHS had spent about £6.4 billion on the program and still faced major uncertainty over costs, delivery, and benefits.
+:79. The government subsequently dismantled the program’s centralized structure rather than completing it as originally conceived.
+:80. Calling the entire undertaking a failure, however, would flatten the evidence into another morality tale.
+:81. National networking, digital imaging, electronic booking, and other components produced usable infrastructure, while the detailed care-record systems generated the deepest delays and disappointment.
+:82. The uneven result matters because it reveals that neither scale nor centralization was the sole mechanism.
+:83. Components succeeded where technical standardization could be joined to work practices with manageable adaptation, and struggled where implementation required many organizations to revise tightly coupled routines at once.
+:84. The lesson is not that incremental projects are safe and comprehensive projects are doomed.
+:85. A patch can preserve a defective process just as easily as a grand design can misunderstand it.
+:86. The more precise lesson is that reform succeeds or fails through the sequencing of dependencies.
+:87. Legal authority can move first, but budgets must finance transition; software can be installed, but personnel need time to learn it; a service can relocate, but transport routes and public expectations must adjust.
+:88. Changing everything simultaneously avoids some incompatibilities between old and new components, yet it multiplies the number of failures that can occur before anyone knows which connection caused them.
+:89. Changing one component at a time limits immediate disruption, yet it may force every new component to imitate the defects of what remains.
+:90. Institutional design therefore requires choosing which mismatches to tolerate temporarily and which connections to rebuild first.
+:91. Modular systems help when they create clear interfaces, allowing one unit to change without requiring every connected unit to change on the same day.
+:92. Pilots can expose local consequences before a rule becomes general, and parallel operation can protect continuity while data or responsibilities move.
+:93. These protections are not free.
+:94. Running two procedures demands extra labor, pilots may favor unusually capable sites, and an interface can harden yesterday’s categories into tomorrow’s technical standard.
+:95. Budgets create a further temporal trap because transition costs arrive before many benefits, while political sponsors often need visible results before an institution can safely deliver them.
+:96. An inexpensive annual patch may therefore defeat a costly five-year replacement repeatedly, even when the replacement would be cheaper over twenty years.
+:97. That outcome can reflect short horizons rather than a rational preference for gradualism.
+:98. Conversely, an expensive rebuild can win approval because its promised finish is visible, while thousands of modest repairs that would preserve service appear politically unimpressive.
+:99. No reform tempo is inherently responsible.
+:100. The proper pace depends on the severity of present failure, the reversibility of each step, the institution’s capacity to learn, and the damage caused if transition interrupts the service.
+:101. Power also shapes what appears to be a technical sequence.
+:102. Layering may let reformers add a new program when defenders can veto abolition of the old one, allowing a modest alternative to acquire users, expertise, and political support.
+:103. Over time, the addition may redirect the institution more thoroughly than a frontal assault could have done.
+:104. The same tactic can shield privileged groups by placing new rights in a poorly funded side program while leaving the well-resourced core untouched.
+:105. Gradualism can protect the public function, or it can protect incumbents from accountability.
+:106. Its moral appearance tells us little about its institutional effect.
+:107. Complexity becomes especially dangerous when overlapping rules allow every participant to block change but leave no participant responsible for the result.
+:108. One office controls personnel, another owns the building, a third sets technical standards, and a fourth releases funds, so agreement must cross several boundaries before action becomes possible.
+:109. What looks like organizational caution may then be a structure of vetoes produced by earlier attempts to distribute authority and prevent abuse.
+:110. Those safeguards may still be valuable, but their benefits must be weighed against the cumulative inability to correct known problems.
+:111. Periodic simplification is thus part of successful incremental reform, not its opposite.
+:112. Obsolete reports can be retired, temporary exceptions reviewed, duplicate databases reconciled, and responsibilities clarified without pretending that the whole institution has returned to year zero.
+:113. Pruning differs from rebuilding because it begins with evidence about which branches carry essential work and which survive only because no one has borne the immediate cost of removal.
+:114. It also preserves the possibility of reversal where knowledge is weak.
+:115. An institution capable of reform needs both memory and a disciplined way to forget.
+:116. Memory retains commitments, competence, and lessons purchased through experience; forgetting releases categories and routines whose original problems have disappeared.
+:117. The balance cannot be calculated from age alone, for an old arrangement may remain useful while a recent addition creates the tightest lock-in.
+:118. Nor can technical efficiency settle the question, because reform redistributes security, workload, access, authority, and risk among people who value them differently.
+:119. When Bevan accepted the keys at Park Hospital, they opened an inherited building rather than an empty future, and the new service endured because a sharp change in public obligation was joined to capacities that could carry it.
+:120. Every later alteration faces the same deeper test: not merely whether a new rule can be announced, but whether the people who must operate, rely on, and submit to it will treat the revised institution as one that may rightfully bind them.

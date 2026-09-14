@@ -1,0 +1,36 @@
+
+## Zu deiner Zwischenfrage: Dateien gezielt begrenzen bei konkreten Aufgabenstellungen im Projekt
+
+Ja, du kannst mir im Prompt sehr konkret sagen:
+
+> Verwende für diese Frage ausschließlich die Dateien X, Y und Z. Öffne oder berücksichtige keine anderen Projektdateien.
+
+Das funktioniert für eine einzelne Aufgabe sehr gut.
+
+Du kannst auch dauerhaft für diesen Chat festlegen:
+
+> Bis auf Widerruf darfst du in diesem gesamten Chat ausschließlich die Dateien U, V und W als Quellen verwenden. Falls eine andere Datei nötig erscheint, frage vorher nach.
+
+Daran kann ich mich innerhalb dieses Chats halten. Noch besser ist die Ergänzung:
+
+> Bereits bekannte Inhalte aus anderen Dateien sollen nicht als Quelle verwendet werden.
+
+Denn eine wichtige Einschränkung bleibt: Wenn andere Dateien in diesem Chat bereits gelesen oder zusammengefasst wurden, verschwinden diese Informationen nicht rückwirkend aus dem Gesprächskontext. Die Anweisung verhindert dann ihre weitere Verwendung, „löscht“ sie aber nicht aus dem bereits entstandenen Kontext.
+
+### Stummschalten oder löschen?
+
+Eine verlässliche Funktion „diese einzelne Projektdatei bleibt vorhanden, darf aber vom Modell nie verwendet werden“ ist mir derzeit nicht als allgemeiner Dateischalter bekannt. Die offiziellen OpenAI-Unterlagen beschreiben zwar Arbeitsabläufe mit ausgewählten Quelldateien, garantieren aber keine harte Ausschlusslogik allein durch den Prompt. [OpenAI Docs: Arbeiten mit Quelldateien](https://learn.chatgpt.com/use-cases?category=data&category=engineering&category=knowledge-work&task_type=analysis&task_type=code&task_type=design&task_type=workflow&team=design-engineering&team=education&team=engineering&team=quality-engineering)
+
+Praktisch gibt es deshalb drei Sicherheitsstufen:
+
+1. **Promptbegrenzung:** bequem und normalerweise ausreichend.
+2. **Neuer Chat im selben Projekt:** weniger Altlasten aus bisherigen Gesprächen, aber weiterhin Zugriffsmöglichkeit auf die Projektdateien.
+3. **Eigenes kleines Projekt beziehungsweise eigener Arbeitsordner:** sauberste Lösung bei Qualitätsproblemen; dort liegen nur die wirklich benötigten Dateien.
+
+Du musst Dateien also nicht endgültig von deinem Computer löschen. Für eine harte Trennung genügt es, sie aus dem jeweiligen Projekt beziehungsweise Arbeitsordner herauszunehmen oder für das Teilthema ein separates, schlankes Projekt anzulegen.
+
+Für unsere weitere Arbeit könntest du beispielsweise einfach schreiben:
+
+> Bis auf Widerruf verwende ausschließlich die Arbeitsgrundlagen sowie die beiden Inhaltsverzeichnisse von pAAA und pBBB. Andere Dateien nur nach ausdrücklicher Erlaubnis.
+
+Das wäre für die weitere Entwicklung der Trilogie eine sehr sinnvolle Begrenzung.

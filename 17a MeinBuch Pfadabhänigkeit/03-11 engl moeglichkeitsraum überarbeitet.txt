@@ -1,0 +1,184 @@
+== 3.11 Die Neuvermessung des Fortschritts ==
+
+:1. In the corner of almost every technology museum there is a glass case with a row of telephones in it.
+:2. At the left end stands a wooden box with a crank on the side and an earpiece hanging from a cord.
+:3. Moving right, the box becomes a candlestick, the candlestick becomes a black desk set, the desk set loses its dial and grows buttons, the buttons shrink, the cord disappears, and at the far end there is a rectangle of glass.
+:4. Nobody needs a label to understand this arrangement.
+:5. Visitors read it in a second, and they read it as a story with a direction.
+:6. The case says: here is where we began, here is how far we have come, and the right-hand end is both the present and the best.
+:7. It is worth pausing on the fact that the row is a decision made by a curator, not a property of telephones.
+:8. Someone chose which objects belonged in the line, in what order, and above all which objects did not belong in it at all.
+:9. Absent from the case is the Picturephone that AT&T displayed at the 1964 New York World's Fair and later offered commercially to very few customers.
+:10. Absent are competing switching systems, technically capable handsets that failed commercially, standards that lost, and products that reached a market before the surrounding network could support them.
+:11. Absent, above all, are the branches: the moments when the industry could plausibly have gone two ways and went one.
+:12. A row has one dimension.
+:13. What actually happened had many.
+:14. Biology owns the most famous version of the same picture.
+:15. A line of figures walks from left to right, stooped and hairy at one end, upright and bare at the other, each one a little taller and a little more like the reader.
+:16. The artist Rudolph Zallinger drew the sequence for the 1965 Time-Life volume ''Early Man'', where it appeared across a foldout under the title “The Road to Homo Sapiens.”
+:17. The original spread included more figures and more qualifying information than most later copies retained.
+:18. That hardly mattered, because the cropped procession was easier to hold in mind than the branching history it came to represent.
+:19. Human evolution did not proceed as a single march toward a destination; several hominin species coexisted, lineages divided, and most branches ended.
+:20. The familiar picture is misleading less because every figure is false than because the arrangement makes succession look like ascent.
+:21. That shape is the subject here, because it is exactly the shape our word for improvement often carries.
+:22. Progress means a going forward, and a going forward implies somewhere to go.
+:23. If there is one destination, then every change either shortens the distance to it or lengthens it, and every device can be scored accordingly.
+:24. This is why the telephones seem to arrange themselves, and why an instrument from 1930 feels not merely different from one made in 2020 but lower.
+:25. It is a comfortable way to think, and in narrow domains it can be correct.
+:26. Along a single measurable axis, improvement is not an illusion at all.
+:27. Modern light-emitting diodes can produce far more light from a unit of electricity than incandescent lamps, even though color, durability, manufacturing cost, and repairability remain separate questions.
+:28. Commercial aviation has also reduced its long-run accident rate, although no annual figure turns safety into a permanently completed achievement.
+:29. Nobody sensible disputes such gains, and the argument here is not that improvement is a myth.
+:30. The trouble begins one step later, when separate axes are quietly added together into a single number.
+:31. That addition is the move that turns a set of measurements into a march.
+:32. It cannot be performed neutrally, because the axes have no natural common unit.
+:33. How many units of efficiency is one unit of repairability worth, and who is entitled to set the exchange rate?
+:34. Consider what happens if we drop the line and put the landscape back.
+:35. At any moment a technology sits somewhere in a space of possible arrangements, almost all of which have never been built and never will be.
+:36. From where it sits, only some of those arrangements are practically reachable, because getting there requires a sequence of affordable and functional transitions.
+:37. A machine that would be superb once finished but useless while half-finished cannot be reached by a firm that must keep producing and selling machines during the change.
+:38. The obstacle is not a law of physics but a historical condition of access.
+:39. Another design may be imaginable and technically possible while remaining unreachable from the installed equipment, skills, contracts, and standards of the present.
+:40. So the space has a local shape, and movement through it is usually a walk rather than a leap.
+:41. This is the difference between asking how far we have come and asking where we can go from here.
+:42. The first question has an answer only once a destination and a measure have been chosen.
+:43. The second has an answer that changes with every step taken, which is the central fact of path dependence.
+:44. Each move alters the set, cost, visibility, or probability of available next moves, sometimes opening a region that was previously out of reach and sometimes making another region prohibitively expensive.
+:45. Progress, on this account, is not distance covered toward a universal goal but movement through a space whose accessible routes change as we travel.
+:46. The word does not become meaningless.
+:47. It becomes local and explicit about its criteria.
+:48. A change is progress relative to a purpose, a setting, a time horizon, and a group of people, and it can improve one of these relations while worsening another.
+:49. This does not make technical judgment a matter of taste, because speed, energy use, reliability, injury rates, and many other properties can be measured.
+:50. It means that measurements do not choose their own weights or distribute their own consequences.
+:51. What can honestly be said about a new arrangement is that it is better in specified respects, worse in others, and reachable at a particular cost.
+:52. Everything else is the museum case talking.
+:53. One object will make the geometry concrete, and it is among the most consequential things ever built, though it is little more than a steel box.
+:54. On April 26, 1956, a converted tanker named the ''Ideal X'' left Newark for Houston carrying fifty-eight truck containers on its deck.
+:55. The trucking entrepreneur Malcolm McLean had not invented the freight container, and earlier railways and shipping companies had used boxes of their own.
+:56. His decisive commercial project was to move a large sealed load between shipper and consignee across several modes of transport without handling the cargo piece by piece at every transfer.
+:57. For that to work at network scale, the box had to fit trucks, railway cars, cranes, ships, terminal equipment, and stacks of other boxes.
+:58. Those parts belonged to different firms, industries, and jurisdictions, so engineering alone could not make them compatible.
+:59. Agreement was the critical technology.
+:60. At first there was no inevitable size waiting to be discovered.
+:61. McLean's company used one length, the Matson shipping line used another, and other operators had reasons rooted in their roads, cargoes, ships, and lifting equipment for preferring still others.
+:62. A technically sensible dimension for one route could be an awkward dimension for a global network.
+:63. American standardization work began through an industry committee in 1958, and the International Organization for Standardization established its freight-container committee in 1961.
+:64. The standards that followed covered more than a few lengths and heights.
+:65. They specified corner fittings, strength, testing, identification, handling, and the interfaces by which a container could become part of a common system.
+:66. Once those interfaces stabilized, ports could buy cranes with confidence, shipbuilders could design cellular holds, railways could order compatible wagons, and manufacturers could build containers for customers they had never met.
+:67. Early adoption therefore generated a positive feedback loop.
+:68. Each compatible investment made the standard more useful, and that usefulness justified the next compatible investment.
+:69. Learning and scale lowered handling costs, while confidence in future compatibility reduced the risk of building yet another terminal or ship.
+:70. The box gained value not from steel alone but from the network accumulating around its edges.
+:71. The gains were substantial, but the clean story that containerization simply made ocean freight cheap hides an important qualification.
+:72. It transformed cargo handling, reduced delay and theft, and made transfers between modes far more predictable, yet fuel prices, port charges, route structure, and other costs did not disappear.
+:73. Its larger effect came through the reorganization of logistics as much as through any single fall in the price of an ocean mile.
+:74. Warehouses moved, inventories changed, ships grew, terminals demanded large tracts of land, and production could be coordinated across longer distances.
+:75. Many mass-produced physical objects within a reader's reach now travel through a system that assumes standardized containers somewhere along the route.
+:76. That is a productive lock-in if anything is.
+:77. The same process also closed or narrowed other paths.
+:78. Ports with shallow water, cramped waterfronts, or insufficient capital could lose traffic to places able to accommodate larger vessels, cranes, rail links, and storage yards.
+:79. Dock work became less labor-intensive, while jobs, bargaining systems, neighborhoods, and local businesses tied to break-bulk cargo faced disruption.
+:80. Cargo that does not fit the box still moves, but it often requires specialized equipment and a thinner network of services.
+:81. Even changes that improve the standard must preserve compatibility with an enormous installed base.
+:82. A better corner fitting that cannot engage existing twist locks is not an improvement for anyone who needs to ship a container tomorrow.
+:83. Standardization did not merely select one box from a menu.
+:84. It changed the menu by making countless container-compatible products and routes cheaper to create while making incompatible ones harder to finance.
+:85. The result is not complete immobility, since containers, ships, tracking systems, and terminals continue to evolve.
+:86. It is constrained evolvability: extensive change above a small set of interfaces that remain unusually difficult to alter.
+:87. That distinction separates a useful lock-in from the caricature of a frozen technology.
+:88. Some lock-ins are the reason a complex system can work at all.
+:89. The value of a coordination standard may depend less on which option was chosen than on the fact that many participants use the same one.
+:90. Which side of the road a country drives on is the classic example.
+:91. Left and right are not identical in every local circumstance, but neither side possesses a general engineering superiority sufficient to outweigh coordination.
+:92. Sharing the rule is the dominant benefit.
+:93. Sweden demonstrated both the arbitrariness of the side and the cost of changing it on Sunday, September 3, 1967.
+:94. At five in the morning, road traffic moved from the left to the right after a national decision made four years earlier.
+:95. The change required rebuilt junctions, altered signs and signals, modified or replaced buses, temporary traffic restrictions, and a vast public-information campaign.
+:96. Reported crashes did not initially rise after the switch, but reduced speeds, traffic controls, and unusual caution make that short result poor evidence that right-hand traffic was inherently safer.
+:97. The operation succeeded because the dependencies could be identified and coordinated, not because only habit had to change.
+:98. It therefore proves neither that switching is easy nor that lock-in is absolute.
+:99. It shows that a convention can be replaced when public authority, time, money, and synchronized action are sufficient to move its complements together.
+:100. Set that beside a standard woven through assets owned by many independent actors, and the reason some paths are harder to leave comes into focus.
+:101. Age matters because dependencies can accumulate with time, but age alone is not the mechanism.
+:102. The mechanism is depth of entanglement.
+:103. A convention that sits underneath other structures cannot be replaced without modifying those structures too, and the bill grows with the number and rigidity of the connections.
+:104. Yet high switching cost does not tell us whether the existing arrangement is good or bad.
+:105. It tells us how strongly history has changed the price of alternatives.
+:106. For a more troubling case, consider a liquid whose advantages were concentrated in engines and balance sheets while its residue dispersed along roads and into human bodies.
+:107. In December 1921, General Motors researchers Charles Kettering, Thomas Midgley, and Thomas Boyd reported that a small dose of tetraethyl lead sharply reduced engine knock.
+:108. Knock limited compression, and suppressing it helped engineers build more powerful, higher-compression engines.
+:109. The discovery was a real technical solution to a real problem.
+:110. It was not the only substance under investigation, since the same laboratory had also worked extensively with ethanol as an antiknock fuel.
+:111. Tetraethyl lead was effective at low concentrations and fitted a business structure in which patents, centralized manufacture, and royalties mattered.
+:112. Ethanol brought different advantages and constraints, including the need to blend it in much larger proportions and the possibility of producing it from many sources.
+:113. Patentability and profit helped shape the contest, but they did not act alone; fuel distribution, oil supply, engine design, corporate alliances, and public policy also affected which path scaled.
+:114. By the mid-1920s, General Motors, Standard Oil of New Jersey, and DuPont possessed complementary capabilities for promoting, manufacturing, and distributing the lead additive.
+:115. Early success then improved the conditions for further success.
+:116. Fuel specifications, refinery practices, engines, service stations, technical knowledge, and consumer expectations developed around high-octane leaded gasoline.
+:117. Later engines designed for leaded fuel could also benefit from the protection that lead deposits gave some exhaust-valve seats, adding another compatibility concern to the transition.
+:118. Fuel and machine increasingly held each other in place.
+:119. Meanwhile the lead left through exhaust pipes, settled in soil and dust, and exposed people who had made no choice in the matter and collected none of the return.
+:120. The danger was not discovered only after mass adoption.
+:121. Workers suffered severe poisoning during early production, and five died after exposure at Standard Oil's Bayway plant in 1924.
+:122. Public-health concern, industry resistance, scientific dispute, and government investigation accompanied the fuel from its first years.
+:123. The history therefore cannot be reduced to innocent invention followed by a late surprise.
+:124. Nor can the eventual phaseout be credited to one device acting alone.
+:125. In the United States, evidence that airborne lead threatened health supported federal regulation in the 1970s, while emission rules drove manufacturers toward catalytic converters.
+:126. Lead damages catalytic converters, so new cars equipped with them required unleaded fuel.
+:127. Regulation changed the technical compatibility of the system: a fuel that had supported the old engine path would disable a component required on the new one.
+:128. Refineries supplied unleaded gasoline, filling stations added pumps, automakers redesigned engines, and turnover of the vehicle fleet enlarged the new network year by year.
+:129. Health rules and catalytic-converter requirements reinforced each other rather than competing as explanations.
+:130. The United States banned the remaining sale of leaded gasoline for on-road vehicles at the start of 1996, although some off-road uses remained outside that ban.
+:131. Other countries followed different timetables, and service stations in Algeria stopped selling leaded gasoline for ordinary road vehicles in July 2021, completing the global phaseout tracked by the United Nations Environment Programme.
+:132. The old path was not escaped by argument alone, and the new path did not appear without costly coordination.
+:133. A change in law altered which technologies had to work together, and cumulative investment then made the replacement path easier to follow.
+:134. The way out was a side door, but it was a side door built through evidence, regulation, engineering, and institutional persistence.
+:135. Set the container and leaded gasoline side by side and a rough test suggests itself, not a formula but a disciplined way to compare arrangements that have settled into place.
+:136. The first question is whether the arrangement continues to produce a coordination benefit.
+:137. A standard that saves many participants from negotiating every interface belongs in a different category from a rule that survives chiefly because each participant expects everyone else to keep it.
+:138. This difference is not always obvious, because coordination and inertia can inhabit the same standard.
+:139. The second question is what the arrangement makes possible as well as what it excludes.
+:140. A stable interface can act like a floor on which many independent designs are built, multiplying variety above it even as it freezes choices below.
+:141. Another standard can act more like a wall if access is controlled, alternatives cannot connect, or improvement requires permission from a single gatekeeper.
+:142. No interface is purely floor or wall, so the useful comparison concerns degree, governance, and the location of constraint.
+:143. The third question is whether the system can be revised in pieces.
+:144. A modular system can replace a failing component without discarding every complementary investment, whereas a tightly integrated system may preserve defects until wholesale replacement becomes worthwhile.
+:145. Modularity has costs of its own and can freeze the boundaries between components, but it often retains more neighboring possibilities.
+:146. The fourth question concerns switching cost rather than mere dissatisfaction.
+:147. Training, contracts, spare parts, data, legal rules, and organizational routines may bind users more strongly than the central artifact does.
+:148. An apparently simple substitute is not a live alternative until those complements can move with it.
+:149. The fifth question is the one often left out of technical comparisons.
+:150. Who receives the benefit, who bears the harm, and who controls the decision to remain or leave?
+:151. The deepest objection to leaded gasoline was never that it failed as an antiknock technology, because it performed that task well.
+:152. The objection was that a bounded performance gain helped impose widely distributed health costs on people with little influence over the fuel system.
+:153. A lock-in that concentrates gains and disperses costs will be easier to defend for beneficiaries than to challenge for any one person bearing a fraction of the harm.
+:154. Distribution therefore belongs in the measurement of progress, even though it cannot be read from a machine's specifications.
+:155. The sixth question is whether the arrangement preserves the ability to change again.
+:156. Present performance and evolvability are not the same property.
+:157. A system optimized for one environment may shed redundant routes, compatible alternatives, and spare capacity that appear wasteful until conditions change.
+:158. A somewhat less efficient standard can sometimes be the better platform if it permits repair, substitution, and adaptation without collapse.
+:159. That possibility does not make openness automatically virtuous or redundancy free.
+:160. It makes the future cost of modification part of an honest present comparison.
+:161. The final question is whether anyone can still see the arrangement as a choice.
+:162. An interface that can be named, examined, and defended is in a healthier condition than one that has become so ordinary that its historical alternatives are no longer legible.
+:163. The most durable lock-ins are not always the ones people fight for.
+:164. They may be the ones nobody notices, because they have stopped looking like technology and become the shape of ordinary action.
+:165. The point of seeing paths is not to escape constraint, which is not on offer, but to keep the mechanisms of constraint visible enough to compare and sometimes alter.
+:166. This returns us to the museum case and to what it would look like if it were built honestly.
+:167. It would not be a row.
+:168. It would be a map, with existing objects marked as points, transitions drawn as lines, dead ends identified, and a large uncertain region labeled: once reachable, not taken.
+:169. Some routes would be bold because standards, skills, and capital made them easy to follow, while others would fade where complementary investments never arrived.
+:170. The map would also show paths reopened by adapters, regulation, modular redesign, or a change in the surrounding environment.
+:171. It would record measurable gains without pretending that efficiency, safety, convenience, repairability, and fairness collapse into one scale.
+:172. It would show at each junction what became easier, what became costly, and for whom.
+:173. It would be a poorer story and a better account.
+:174. The glass rectangle at the right end would no longer appear as the destination toward which the crank telephone had always been traveling.
+:175. It would appear as one successful arrangement supported by towers, cables, protocols, factories, software, energy systems, trained labor, and habits of use.
+:176. That network makes the device extraordinarily capable and also defines which successors can be introduced without rebuilding the world around it.
+:177. Every arrangement in the case took time to harden, but hardening does not occur at the same speed or at the same layer of a system.
+:178. A keyboard layout may spread through training, a power standard through installed machinery, and a freight interface through ships, ports, and international agreements.
+:179. Technologies assembled from data, software, and networked computation can acquire complements across many organizations with unusual speed.
+:180. They can also alter their outputs in use, influence the decisions that generate later data, and become infrastructure for tools not yet designed.
+:181. Such a system does not merely occupy a region of the possibility space; it can change which paths other people see, test, fund, and follow.
+:182. What happens to progress when technology is no longer merely a tool on the map but a learning infrastructure that helps draw the map itself?

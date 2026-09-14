@@ -1,0 +1,182 @@
+== Einleitung zum Buch ==
+
+:1. Somewhere in your body, a nerve takes a long detour to cover a short straight-line distance.
+:2. In most people, fibers that help control the larynx descend from the brainstem within the vagus nerve, travel toward the chest, and turn beneath major arteries before rising toward the throat.
+:3. On the left side, the recurrent laryngeal nerve loops under the arch of the aorta.
+:4. In a giraffe, that inherited route can extend for several meters to reach a destination only a small fraction of that distance from the brain.
+:5. Drawn as a cable on an empty page, the route looks needlessly extravagant.
+:6. In a living body, however, the loop is neither an idle cord nor a joke at evolution's expense, because the nerve carries essential motor and sensory signals and gives off branches along its course.
+:7. Its striking detour is a consequence of how nerves, blood vessels, the heart, and the neck developed in relation to one another.
+:8. Deep in vertebrate ancestry, the corresponding nerve and artery lay close together in the pharyngeal region.
+:9. As later bodies changed, the old topological relationship persisted while the distance between the structures grew.
+:10. Mammalian embryos rebuild that relationship as their arteries and organs take shape, so an adult's anatomy contains developmental history as well as evolutionary history.
+:11. Natural selection can modify inherited development, but it does not suspend an organism in midair and reconnect every part from scratch.
+:12. A shorter adult route is easy to sketch, yet reaching it through viable heritable changes is a different problem.
+:13. Rare nonrecurrent nerves in humans show that another route is anatomically possible, but such variants are usually associated with altered blood-vessel development rather than with a nerve simply jumping across an artery.
+:14. The nerve is therefore not merely old.
+:15. Earlier relationships among its parts have changed which later arrangements are readily reachable.
+:16. That distinction opens the central question of this book.
+:17. How do earlier states, decisions, and sequences change the number, visibility, probability, and cost of later possibilities?
+:18. The name for this family of effects is path dependence.
+:19. The phrase is often weakened until it means little more than the unsurprising claim that the past matters.
+:20. A useful definition must demand more.
+:21. A process is path dependent when the route taken changes what can happen next, how likely it is to happen, or what a transition will cost.
+:22. Sequence matters because steps alter the system that must take the following steps.
+:23. An early choice may create skills, machines, categories, allies, expectations, or physical structures that favor some continuations over others.
+:24. It may also erase evidence that an abandoned continuation was ever plausible.
+:25. History alone is not enough.
+:26. A fair coin has a history of earlier tosses, but if neither the coin nor the procedure has changed, that sequence does not alter the probabilities of the next toss.
+:27. A mountain blocks a road whether travelers arrived from the east or the west, so the mountain is a present physical constraint rather than a path-dependent one.
+:28. Limited fuel creates a trade-off between speed and range even in a vehicle with no meaningful history.
+:29. These cases have pasts, limits, and costs, but they do not yet show a path shaping its own continuation.
+:30. Path dependence begins where the sequence itself changes the later field of action.
+:31. The idea becomes easier to handle if we draw a map, provided we remember that the map is an analytical model rather than a place hidden behind the world.
+:32. Imagine every possible version of a system represented as a point.
+:33. Nearby points differ by changes the system can make without first becoming something else entirely.
+:34. A human body, a railway network, a legal code, and a software platform would each require a different map, because their states and transitions are not comparable in any simple unit.
+:35. Theoretically thinkable possibilities form the widest set, including many arrangements that can be described in words but cannot exist.
+:36. Physical possibility removes whatever violates material laws and resource limits.
+:37. Functional possibility removes states that cannot perform the minimum task required to persist.
+:38. Historical accessibility narrows the set again to states that can be reached from the present one through available transitions.
+:39. A bridge that can support traffic once complete may still be inaccessible if no feasible construction sequence can keep the river crossing usable during the work.
+:40. A biological change that would function in its finished form may remain inaccessible if the necessary intermediate forms cannot survive and reproduce.
+:41. A system does not float above this imagined terrain and select any destination it can name.
+:42. It begins somewhere, and every step must leave it capable of taking another.
+:43. Some regions are close, others require costly passages, and still others have no known route from the present position.
+:44. This is the possibility space.
+:45. What matters is not only how many points the model contains but which points are connected from here.
+:46. Where a system stands depends partly on earlier steps, and those steps may also have changed the connections around it.
+:47. The landscape image has limits, because real possibility spaces are rarely fixed, visible, or measurable in all their dimensions.
+:48. Innovation can create a new bridge, an environmental change can erase an old one, and a new interface can make formerly separate regions adjacent.
+:49. Some possibilities are lost because the capacities needed to reach them disappear, while others are merely hidden because current categories no longer make them easy to imagine.
+:50. Still others become available only after an earlier innovation supplies the missing intermediate step.
+:51. A map of possibilities must therefore include time, because both the traveler and the terrain can change.
+:52. This is where contingency enters the argument.
+:53. Contingency means that events took one possible course without having been compelled to take exactly that course.
+:54. It does not mean that every outcome was equally possible or that outcomes appeared without causes.
+:55. Nor does it make every accident important.
+:56. Most small disturbances are damped, corrected, forgotten, or overwhelmed by stronger forces.
+:57. A contingent event becomes historically powerful only when some mechanism preserves or amplifies its effects.
+:58. Positive feedback provides one such mechanism when an early advantage creates conditions that make further advantage more likely.
+:59. Practice can improve performance, greater scale can lower unit costs, a larger network can attract more users, and shared expectations can direct investment toward the option expected to win.
+:60. These mechanisms are related, but they are not interchangeable.
+:61. A beaver alters a river by building a dam, and later generations encounter a pond partly produced by earlier activity.
+:62. Human systems likewise build parts of their own future environment through roads, standards, curricula, databases, and laws.
+:63. Positive feedback is not positive in the sense of good, and no real reinforcing process grows without limits.
+:64. Congestion, scarcity, competition, regulation, error correction, and changing demand can slow or reverse it.
+:65. When reinforcement persists long enough, it can produce lock-in.
+:66. Lock-in is not a magical seal but a condition in which leaving a path has become expensive because many complementary parts now depend on it.
+:67. The binding force may reside less in the original object than in the training, equipment, contracts, habits, and neighboring systems assembled around it.
+:68. Money already spent cannot be recovered, but the more important burden is often the future cost of replacing what still works.
+:69. Lock-in comes in degrees, and high switching cost is not the same as absolute impossibility.
+:70. The stability it creates may be the main reason a system became valuable.
+:71. A common language, a dependable safety standard, and a compatible payment network allow strangers to coordinate without renegotiating every interaction.
+:72. Their widespread adoption saves time, prevents error, and makes long-term investment possible.
+:73. The same web of benefits can make an improved alternative difficult to introduce.
+:74. A lock-in can therefore be useful and change-inhibiting at the same time.
+:75. Dominance does not prove technical superiority, but persistence does not prove that a system is an absurd historical mistake either.
+:76. Both judgments require comparison across several goals.
+:77. A racing bicycle may be better for speed while a cargo bicycle is better for carrying groceries, and neither difference requires path dependence.
+:78. That is a trade-off, a conflict among objectives that cannot all be maximized with the same limited resources and design.
+:79. A trade-off becomes path dependent when an earlier compromise directs later investment, expertise, and improvement along one architecture rather than another.
+:80. Years spent optimizing speed may remove the spare capacity that would have made later adaptation cheap.
+:81. Present performance and future changeability are different achievements.
+:82. Evolvability is the capacity to keep changing without destroying the system's ability to function.
+:83. It is not identical to high performance, short-term flexibility, robustness against one known shock, or recovery after damage.
+:84. Modular parts, redundant capacities, diverse approaches, open interfaces, and tolerance for small failures can preserve more reachable neighbors in a possibility space.
+:85. Each of those features also carries a present cost, which is why evolvability can look like waste until the environment changes.
+:86. Biology makes this tension unusually vivid because living systems cannot pause reproduction while a new design is installed.
+:87. Evolution resembles the renovation of an occupied building only in this limited respect, because no crew plans the work and no blueprint defines the destination.
+:88. Mutation and recombination generate variation, while selection, drift, development, and changing environments influence which variations persist.
+:89. Every lineage inherits an already integrated organism, and viable descendants arise through modifications of that inheritance.
+:90. The human spine was not simply a fish's horizontal backbone stood on end, but upright locomotion did evolve by remodeling structures inherited through a long vertebrate and primate history.
+:91. Human childbirth likewise reflects several interacting constraints involving fetal size, pelvic form, pelvic-floor support, metabolism, development, ecology, and culture, not one tidy bargain between a large brain and efficient walking.
+:92. The vertebrate retina places neural tissue in front of its photoreceptors and routes the optic nerve through the retinal surface, creating a blind spot.
+:93. Coleoid cephalopods reached a camera-like eye through a different developmental history and have noninverted retinas without the same anatomical blind spot.
+:94. This contrast does not establish a simple ranking of good and bad eyes, because the two systems differ in many other ways and vertebrates can achieve exceptional vision.
+:95. It shows instead that similar functions can be reached through different architectures whose later modifications begin from different places.
+:96. Laboratory evolution lets researchers examine such sequence effects rather than merely infer them from finished bodies.
+:97. Since 1988, twelve populations of Escherichia coli founded from closely related ancestral clones have been propagated by daily transfer under the same basic laboratory regime.
+:98. Samples frozen at regular intervals form an archive from which earlier stages can be revived.
+:99. After more than thirty thousand generations, one population in the original experiment evolved the ability to grow aerobically on citrate that was already present in its medium.
+:100. The innovation did not appear as a finished leap, because an initial weak capacity was later refined into more effective use of the resource.
+:101. Researchers replayed evolution from ancestors isolated at different points in that population's history.
+:102. Some later genetic backgrounds produced citrate-using variants more readily than earlier ones, supporting the conclusion that prior mutations had changed the accessibility of the innovation.
+:103. Those earlier changes did not dictate the final result, but they altered its probability.
+:104. Other experiments have produced citrate use under stronger direct selection, so the original result does not show that only one genetic route could ever reach the trait.
+:105. The twelve populations also evolved many parallel improvements, demonstrating that historical contingency operates alongside repeatable responses to common conditions.
+:106. The experiment's power lies in holding both insights together: evolution is neither arbitrary nor fully predetermined.
+:107. Inherited structures can open possibilities as well as close them.
+:108. A feature shaped under one set of conditions may later be recruited for another function, turning yesterday's constraint into tomorrow's raw material.
+:109. Human intention changes the process but does not abolish this logic.
+:110. Designers can compare alternatives and coordinate large jumps, yet they still begin with existing tools, factories, skills, regulations, and users.
+:111. A keyboard layout can be redesigned in an afternoon, while the trained fingers, labeled keys, shortcuts, teaching materials, and shared expectations around it cannot.
+:112. The popular history of the QWERTY layout is disputed, and evidence does not justify the easy claim that it defeated a clearly superior rival merely by arriving first.
+:113. Its persistence can still involve real switching costs even if its origin was not a simple accident and its alternatives are not unambiguously better.
+:114. This is precisely why a sound account of path dependence cannot rest on a colorful origin story.
+:115. A file format used by one organization gains value when customers, suppliers, archives, and software can read it too.
+:116. That compatibility is a network effect because the value of adoption depends partly on other adopters and complementary products.
+:117. Early use can also generate experience, specialized equipment, lower costs, and a larger pool of trained workers.
+:118. Expectations then add another layer, because people may support the option they believe others will support.
+:119. A modest lead can become self-reinforcing without any participant behaving irrationally.
+:120. Rail gauges, electrical systems, paper formats, and character encodings differ across places partly because coordination occurred along different historical routes rather than around one universal engineering optimum.
+:121. Once established, those standards make enormous systems interoperable.
+:122. Every compatible extension strengthens the installed base and gives a future replacement more connections to rebuild.
+:123. Improving a component within the existing standard may then be far cheaper than replacing the standard itself.
+:124. This makes technical improvement different from system change.
+:125. It also explains why a better destination on paper may not justify the cost and risk of traveling there from here.
+:126. Adapters, parallel operation, backward compatibility, retraining, and staged migration can nevertheless create routes between systems that once seemed separated.
+:127. Deliberate coordination can break a lock-in, although the new arrangement may begin creating its own dependencies immediately.
+:128. Intention is not an escape from history but another force that can redirect it.
+:129. Artificial intelligence compresses many of these dynamics into a faster-moving technical field.
+:130. A successful architecture attracts software libraries, benchmark results, teaching materials, skilled workers, investment, and compatible hardware.
+:131. Those complements make the architecture easier to extend and compare, which can attract still more work.
+:132. Specialized processors and data centers lower the cost of some computations far more than others, making certain research questions practical and leaving others expensive.
+:133. Hardware does not dictate every idea, but it changes which ideas can be tested at useful scale.
+:134. Software ecosystems preserve accumulated knowledge in code, documentation, interfaces, debugging practices, and communities.
+:135. Replacing one model may be quick, while replacing the surrounding workflow is not.
+:136. Rapid innovation therefore does not disprove path dependence, because new systems may turn over quickly while continuing to rely on older chips, formats, metrics, and organizational routines.
+:137. Speed can even deepen a path when investment arrives faster than alternatives can be explored.
+:138. Training data add a second direction of influence.
+:139. Records of past language, transactions, classifications, and decisions contain historical patterns rather than neutral samples from every possible world.
+:140. A model trained on those records may describe or predict parts of that history, but description and prediction do not by themselves justify a normative decision.
+:141. When model output helps select applicants, allocate attention, or trigger investigations, it can influence which new observations enter the next round of data.
+:142. Under some conditions, this feedback can make an inherited pattern appear self-confirming.
+:143. The result is not inevitable, because changed objectives, targeted data collection, audits, competing models, and human review can alter the loop.
+:144. None of these measures is a universal cure, and each begins from the infrastructure already in place.
+:145. Shared models and interfaces can lower entry costs and enable useful applications that smaller organizations could not build alone.
+:146. Once other products and procedures rely on them, however, model changes can propagate errors, break connections, or impose expensive migration.
+:147. The deepest dependencies may arise when organizations redesign roles, records, and controls around systems that perform multistep tasks.
+:148. The tool adapts to the organization, the organization adapts to the tool, and each round makes separation more costly.
+:149. Such systems can do more than occupy a path because they can execute further actions along it.
+:150. Meanwhile, an underfunded alternative may become invisible without ever having been disproved.
+:151. Historical structuring also occurs within individual lives, although not every familiar behavior deserves the label path dependence.
+:152. Repetition matters when it lowers the effort of one action, weakens competing skills, reshapes the environment, or changes which alternatives a person can notice and perform.
+:153. A practiced skill is a productive inheritance, not merely a limitation.
+:154. Its value may justify continuing on the same path even while making retraining costly.
+:155. People can also reflect on routines, seek different environments, and deliberately practice alternatives, so learned history is not a sentence imposed for life.
+:156. Institutions store their past less mysteriously in statutes, files, budgets, job descriptions, professional training, and routine procedures.
+:157. An institution can be understood as an answer preserved after the question that produced it has changed.
+:158. Preservation is often its purpose, because courts, currencies, public records, and safety systems gain value from dependable continuity.
+:159. Formal rules may be amended in a day while databases, buildings, expertise, expectations, and legal relationships take years to adjust.
+:160. Administrative categories do more than describe people and events because eligibility, reporting, and enforcement are organized around them.
+:161. A reform can create beneficiaries, specialists, and investments that later defend or depend on its continuation.
+:162. A measure can also change behavior once rewards or penalties are attached to it, gradually separating the indicator from the quality it was meant to represent.
+:163. Military systems reveal the same integration under conditions where complacency is an inadequate explanation.
+:164. A weapon's usefulness depends on doctrine, training, maintenance, ammunition, communications, transport, and industrial capacity.
+:165. Victory may reinforce the organizations and assumptions associated with it, even when later conditions differ.
+:166. Urgency does not erase switching costs, and high stakes can make an untested transition more dangerous rather than less.
+:167. None of this makes path dependence a theory of fate.
+:168. An inherited starting point limits some moves and favors others without specifying a single unavoidable destination.
+:169. Different histories can converge on similar functions, and similar beginnings can diverge when feedback amplifies small differences.
+:170. Environmental shocks can destroy old advantages, deliberate standards can coordinate a new path, and bridges between systems can reduce transition costs.
+:171. Every opening has conditions, and opening one route may close another.
+:172. The costs of change also fall unevenly, so an option that looks cheap in aggregate may be prohibitive for the people or organizations required to move first.
+:173. The useful question is not simply whether the current arrangement is good or bad.
+:174. It is which features are load-bearing, which are replaceable, what benefits their stability supplies, and what mechanisms make alternatives costly or unseen.
+:175. This avoids two symmetrical mistakes: treating the present as the necessary triumph of the best solution and treating it as a meaningless pile of historical accidents.
+:176. A mature system is usually neither optimal nor arbitrary.
+:177. It is a working settlement among inherited structures, present demands, accumulated investments, and unrealized alternatives.
+:178. Preserving evolvability may require paying for redundancy, modularity, reversible steps, and options that never earn an immediate return.
+:179. Seeing a path does not by itself open a door, but it reveals where the hinges, supports, and obstructions actually are.
+:180. The past is not a verdict on the future, but it is part of the machinery by which a future becomes reachable.

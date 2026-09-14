@@ -1,0 +1,11 @@
+Beachte auch die Anweisungen in „sachbuchautor.txt“. Die konkrete Arbeitsanweisung des ausgewählten Kapitels und meine Angaben in diesem Prompt haben Vorrang vor den allgemeinen Regeln aus „sachbuchautor.txt“.
+
+(das schreibe ich so in den prompt und werfe die datei "sachbuchautor.txt" dazu und das Inhaltsverzeichnis mit den Kapitelarbeitsanweisungen)
+
+
+
+Verwende sachbuchautor/SKILL.md.
+
+aber nur wenn in einer KI gearbeitet wird die nicht auf den Projektordner zugreift - und dazu zusätzlich den Ordner mitgeben
+
+

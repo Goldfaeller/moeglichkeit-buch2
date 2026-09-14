@@ -1,0 +1,182 @@
+== 4.2 Hardware als Schicksal ==
+
+:1. The processors that became indispensable to modern artificial intelligence first reached a mass market by drawing faster shadows, smoother water, and more convincing explosions.
+:2. In the late 1990s, graphics companies were competing over a narrow but lucrative problem: how to cover a screen with colored triangles quickly enough to sustain the illusion of a three-dimensional world.
+:3. Shading a wall or fogging a corridor required similar calculations to be repeated across a great many pixels and vertices.
+:4. That workload favored parallelism, which means doing many comparable pieces of arithmetic at the same time.
+:5. Central processing units also contain parallel machinery, and graphics processors have never been mere crowds of identical calculators.
+:6. The contrast is one of emphasis rather than kind.
+:7. A central processor is designed to perform a wide variety of tasks with low delay, including complicated sequences in which each step may depend on the last.
+:8. A graphics processor devotes more of its silicon to throughput across many pieces of data at once.
+:9. Early graphics chips did not yet contain the thousands of general-purpose arithmetic units found in later devices, but the commercial path toward wider parallel machines had begun.
+:10. Nothing about that path originally required machines to learn language, recognize objects, or generate images.
+:11. It followed from the geometry of a screen, the economics of a large entertainment market, and the willingness of customers to pay for more frames per second.
+:12. Two decades later, descendants of those processors occupied data centers built for scientific computing and machine learning.
+:13. This was neither a scandal nor a pure coincidence.
+:14. It was what happens when a research field discovers that another industry has already financed much of the instrument it needs.
+:15. The fit becomes clear when one looks at what many neural networks do while they learn.
+:16. Their training repeatedly multiplies arrays of numbers, adds the results, measures errors, and adjusts millions or billions of numerical parameters.
+:17. The mathematics is richer than that short description suggests, because models contain different operations, data must move through memory, and later steps depend on earlier results.
+:18. Yet large portions of the work can still be divided into many similar calculations that proceed in parallel.
+:19. A processor built to keep many arithmetic units busy therefore has an advantage on these portions of the workload.
+:20. The advantage is not automatic, because the calculations must be organized, data must arrive on time, and the program must expose enough parallel work.
+:21. Hardware needs software before its theoretical speed becomes useful.
+:22. During the early era of general-purpose computing on graphics processors, researchers often expressed nongraphical problems through graphics programming interfaces.
+:23. They were not literally pretending every equation was a picture, but they did have to translate calculations into forms the graphics pipeline could accept.
+:24. That translation demanded unusual expertise and limited which researchers could exploit the chips.
+:25. Nvidia's release of CUDA in 2006 supplied a programming model and a C-based software environment for using compatible graphics processors more directly.
+:26. Other programming systems and vendors also contributed to general-purpose GPU computing, but CUDA became an especially consequential bridge between hardware and research.
+:27. The bridge mattered because it reduced more than execution time.
+:28. It reduced the time needed to write, debug, teach, and reuse parallel programs.
+:29. Libraries then packaged difficult operations so that later researchers did not have to master the hardware at the same depth.
+:30. Documentation accumulated, examples circulated, and students acquired skills that employers could recognize.
+:31. A chip was becoming an ecosystem.
+:32. The ecosystem did not dissolve every bottleneck in machine learning, and it did not make every neural-network design efficient.
+:33. It made a particular family of computational experiments cheaper, faster, and easier to repeat.
+:34. That change altered which ideas could produce persuasive evidence within a research budget.
+:35. The effect became visible in a famous image-recognition result in 2012.
+:36. The ImageNet competition required systems to classify photographs among one thousand categories.
+:37. Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton entered a deep convolutional network that sharply reduced the competition's top-five classification error.
+:38. Their published system trained on about 1.2 million images for five to six days using two consumer graphics cards.
+:39. The hardware did not create the result by itself.
+:40. The team combined a large labeled data set, an effective model, careful training choices, and code engineered around the memory limits of the two devices.
+:41. Nor did the result spring from mathematical ideas invented in a single year.
+:42. Convolutional networks, multilayer neural models, and gradient-based learning had long research histories, and practical systems had achieved successes before 2012.
+:43. What the graphics processors changed was the scale at which this combination could be tested in an ordinary research setting.
+:44. An approach that had seemed costly and limited could now produce a result conspicuous enough to redirect attention and resources.
+:45. The shift should not be compressed into the claim that neural networks had simply been abandoned until gamers rescued them.
+:46. Research activity had risen and fallen unevenly across countries, institutions, and applications, while algorithms, data sets, and processors all continued to develop.
+:47. Some earlier disappointments reflected genuine technical limits, some reflected inflated expectations, and some reflected experiments that were too expensive to run at useful scale.
+:48. Those causes matter because they imply different lessons.
+:49. A refuted claim has failed an evidential test, whereas an unaffordable experiment may never have received one.
+:50. Scientific memory often records both outcomes with the same quiet absence from the next generation of papers.
+:51. The video-game market did not select the best theory of intelligence.
+:52. It mass-produced a tool that made certain theories of machine learning unusually testable.
+:53. Once those theories yielded strong results, demand from machine learning began reshaping the tool in return.
+:54. This sequence is an instance of what computer scientist Sara Hooker called the hardware lottery.
+:55. The phrase does not mean that research success is random or that technical merit is irrelevant.
+:56. It names a match between an idea and the hardware and software available when that idea must prove itself.
+:57. An approach can be sound yet arrive when its experiments are prohibitively expensive.
+:58. Another can prosper because its operations map neatly onto equipment already manufactured at scale.
+:59. The first approach has not thereby been proved inferior, and the second has not thereby been proved optimal.
+:60. The available substrate has changed the cost of the comparison.
+:61. Cost influences how many trials can be run, how quickly errors can be corrected, and how many researchers can participate.
+:62. It therefore changes the probability that an approach will improve enough to win the next comparison as well.
+:63. This is where a historical circumstance becomes path dependence rather than mere background.
+:64. Existing hardware lowers the cost of one route, success attracts tools and talent, and those complements lower its future cost again.
+:65. A one-time advantage becomes a self-reinforcing sequence.
+:66. The history of computing contains earlier mismatches between an idea and its physical substrate, although none is a perfect copy of the GPU story.
+:67. In 1834, Charles Babbage began designing the Analytical Engine, a programmable mechanical computer with a separate store for numbers and a mill for calculation.
+:68. His plans incorporated punched-card instructions, loops, and conditional branching, features that later readers can recognize without pretending that the machine was a Victorian laptop.
+:69. The Analytical Engine was never completed.
+:70. Its failure cannot be assigned simply to bad logic or simply to workshops incapable of precision.
+:71. His earlier Difference Engine project had already consumed public funds and ended in dispute, while the government declined to finance the newer Analytical Engine.
+:72. Victorian manufacturing could produce impressive precision work, but building and coordinating thousands of mechanical parts at the required cost and reliability posed a formidable systems problem.
+:73. Electronic switches later made general-purpose computation practical on a different physical basis.
+:74. That later success vindicated important features of Babbage's logical design without showing that his proposed machine could have been built economically in his own setting.
+:75. The case distinguishes physical possibility from historical accessibility.
+:76. A machine may be conceivable and even mechanically possible while remaining outside the affordable neighborhood of its time.
+:77. Specialized artificial-intelligence computers of the 1980s offer a different caution.
+:78. Lisp machines combined hardware and software designed for the programming language then widely used in artificial-intelligence research.
+:79. They offered development environments that users valued and that generic machines initially struggled to match.
+:80. Their commercial decline had several causes, including high prices, a limited market, changes in artificial-intelligence funding, improving commodity workstations, and Lisp implementations that migrated to more general hardware.
+:81. It would be too simple to say that specialized machines were technically outclassed in a fair contest.
+:82. Commodity systems drew on larger production volumes and broader software markets, while specialized vendors had to sustain an entire platform with fewer customers.
+:83. Scale changed the contest while the contest was underway.
+:84. The lesson is not that specialized hardware must lose, because later accelerators provide obvious counterexamples.
+:85. The lesson is that a good match between a machine and a task must survive the economics of the surrounding ecosystem.
+:86. Hardware first affects which ideas can be tested, then reaches deeper into the form those ideas take.
+:87. Researchers work under deadlines, budgets, and expectations of publishable results.
+:88. They naturally prefer experiments that can finish while the result still matters.
+:89. When one calculation is far cheaper than another, the difference does not merely accelerate an answer.
+:90. It changes which questions appear feasible enough to ask.
+:91. Dense matrix operations suit modern accelerators because they expose regular parallel work and can reuse data efficiently.
+:92. Irregular computations, frequent branching, and scattered memory access can leave the same hardware underused.
+:93. These are tendencies rather than prohibitions, since compilers, specialized kernels, and newer devices can handle some irregular work well.
+:94. Nevertheless, a method that fights the memory system or leaves arithmetic units idle begins each experiment with a cost penalty.
+:95. Grant proposals, conference deadlines, and product schedules turn that engineering penalty into a selection pressure on ideas.
+:96. A research group may simplify an algorithm, batch examples together, or choose model dimensions that fit efficient hardware operations.
+:97. Such adaptations are usually sensible responses to real constraints.
+:98. Collectively, they mean that models carry traces of the machines on which they were developed.
+:99. The relation resembles the mark that available stone leaves on an old building, although software is more revisable than masonry and computing hardware can be redesigned deliberately.
+:100. The analogy reveals inheritance, not inevitability.
+:101. Biological nervous systems make the contrast vivid but do not settle it.
+:102. Neurons communicate sparsely and in events, whereas much mainstream machine learning is organized around dense numerical arrays processed in synchronized batches.
+:103. A brain and a graphics processor differ in materials, architecture, learning process, and function, so energy comparisons between them cannot identify a winner by themselves.
+:104. Even so, the contrast has motivated serious work on neuromorphic processors that integrate memory and computation more closely and respond to sparse events.
+:105. Research chips have demonstrated advantages on selected sensing, control, optimization, and spiking-network workloads.
+:106. They have not established that a brain-inspired architecture is a general replacement for graphics processors or other accelerators.
+:107. Results depend on the task, the model, the surrounding software, and what is included in the energy and latency accounting.
+:108. Their relative immaturity is also part of the comparison.
+:109. A new processor begins without decades of libraries, debugging tools, trained engineers, production experience, and compatible data-center equipment.
+:110. Weak early results may reveal a poor architecture, an immature ecosystem, or both.
+:111. Distinguishing those explanations requires investment in the very ecosystem whose value remains uncertain.
+:112. This is the hardware lottery's hardest loop.
+:113. Evidence is needed before an alternative attracts resources, but resources are needed before the alternative can produce fair evidence.
+:114. Domain-specific accelerators also show that the loop can open.
+:115. A tensor processing unit deployed in data centers in the mid-2010s used dedicated matrix-multiplication hardware to improve the cost and energy performance of neural-network inference.
+:116. This was a significant departure from relying only on central and graphics processors.
+:117. Yet it largely accelerated workloads already expressed through established neural-network software and numerical operations.
+:118. The new branch changed the hardware path while inheriting much of the computational path above it.
+:119. Path changes are often hybrids of novelty and compatibility rather than clean escapes.
+:120. Once a workload becomes commercially important, chip designers optimize directly for it.
+:121. They add lower-precision arithmetic, faster matrix units, larger or differently arranged memories, and links for connecting many processors.
+:122. Software developers then tune libraries to those features.
+:123. Model designers see that some operations have become cheaper and use more of them.
+:124. Customers generate demand for the next chip based on models designed for the previous one.
+:125. The loop has closed.
+:126. Each turn can improve performance, reduce cost, and make previously impossible experiments routine.
+:127. Those are real benefits rather than symptoms of a mistake.
+:128. The same improvement raises the relative price of approaches that cannot use the optimized stack.
+:129. An alternative need not deteriorate to fall behind.
+:130. It can remain unchanged while processors, libraries, benchmarks, and expertise advance around its rival.
+:131. After several cycles, the resulting performance gap looks like a verdict on the idea even when it partly records unequal investment.
+:132. This does not imply that every neglected idea deserves revival.
+:133. Most untested architectures may be impractical, inefficient, or unnecessary.
+:134. The difficulty is that neglect supplies little evidence about which failures are fundamental and which are temporary.
+:135. The physical production of advanced chips strengthens this asymmetry.
+:136. Leading-edge fabrication plants require investments measured in many billions of dollars, years of planning, and tightly coordinated supplies of lithography equipment, optics, chemicals, materials, packaging, and power.
+:137. Many links in that chain demand knowledge and facilities that cannot be reproduced quickly by a new entrant.
+:138. A processor architecture is therefore embedded in factories, design tools, supplier contracts, testing procedures, and data centers before a researcher writes a line of model code.
+:139. Capital already committed to those complements becomes a reason to improve the established path rather than replace it.
+:140. These are sunk costs, but the stronger binding force is often prospective.
+:141. Switching would require new software, retrained staff, revised facilities, uncertain supply, and a period in which the replacement may perform worse.
+:142. The expected future transition cost, not reverence for past spending, narrows the practical choice.
+:143. Supply concentration adds vulnerability as well as efficiency.
+:144. Specialization lets firms solve extraordinarily difficult manufacturing problems, but disruption at a scarce link can delay every downstream plan that assumes its availability.
+:145. Hardware thus shapes research through both abundance and scarcity.
+:146. Mass-produced accelerators make vast experiments possible, while access to the largest clusters remains uneven.
+:147. Empirical studies of the compute divide have found a pronounced gap between the resources used by leading industrial laboratories and those available to many academic teams.
+:148. That gap is especially important for work whose central claim depends on training or repeatedly evaluating very large models.
+:149. Researchers without comparable resources can still contribute algorithms, theory, audits, smaller-scale experiments, data work, and critical analysis.
+:150. Access to pretrained models can lower some barriers while creating dependence on systems whose construction outsiders could not observe or reproduce.
+:151. A result that is too expensive to rerun is not automatically false.
+:152. It is harder to scrutinize, vary, and refute independently, which weakens one route by which science corrects itself.
+:153. Shared computing facilities, structured access programs, open artifacts, and more efficient experimental designs can provide counterweights.
+:154. None removes the underlying cost, and each allocates scarce access by some rule.
+:155. Astronomy offers a useful comparison because researchers have long built institutions around instruments no single laboratory could own.
+:156. The comparison has limits, since a telescope observes a shared sky while a machine-learning cluster may depend on proprietary data, code, and models.
+:157. Still, both fields show that scarce instruments do not dictate a single social arrangement for verification.
+:158. Institutions can widen or narrow access to the same physical machinery.
+:159. Time creates one final asymmetry among the layers of the system.
+:160. A paper can be revised quickly, software more slowly, a processor design more slowly still, and a fabrication plant or power connection on a longer schedule again.
+:161. The most material choices are often the least reversible within a research generation.
+:162. A decision in a chip roadmap can propagate upward into libraries, model architectures, hiring, and published comparisons for years.
+:163. By the time the physical layer could be replaced, many faster-moving layers have learned to depend on it.
+:164. This is lock-in, but it is not complete immobility.
+:165. New accelerators can enter through compatibility layers, specialized niches, public investment, or demand from an unrelated market.
+:166. Software can hide some hardware differences, and efficient algorithms can make formerly expensive questions affordable.
+:167. A shock in energy prices, supply, regulation, or application demand can also change which characteristics matter.
+:168. The title's word “destiny” is therefore a deliberate exaggeration.
+:169. Hardware does not dictate a theory's truth, forbid all alternatives, or guarantee that today's dominant design will remain dominant.
+:170. It sets prices, delays, performance ceilings, and compatibility requirements that accumulate across repeated choices.
+:171. Applied once, such a constraint is merely a condition.
+:172. Applied through feedback among chips, software, skills, investment, and expectations, it reshapes the reachable possibilities of the field.
+:173. The established path can be extraordinarily productive and constraining at the same time.
+:174. Its productivity explains why people continue to deepen it, and that deepening explains why leaving becomes expensive.
+:175. Somewhere among the possible machines are architectures that would serve no useful purpose.
+:176. Others may answer questions that today's equipment makes awkward to formulate, let alone test.
+:177. Argument alone cannot reliably separate the two groups, because the decisive evidence requires working machines and mature tools.
+:178. The last major opening came from an industry pursuing a different goal, when graphics hardware built for virtual worlds became an instrument for machine learning.
+:179. The next opening may likewise arrive through deliberate research, an adjacent market, or a problem that makes a neglected property valuable.
+:180. The explosions on the old screen did not determine the destination, but they helped pay for the road on which much of artificial intelligence now travels.

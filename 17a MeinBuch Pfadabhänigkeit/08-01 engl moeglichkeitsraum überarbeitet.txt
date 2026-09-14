@@ -1,0 +1,122 @@
+== 8.1 Zwei Wege aus einem Gesetzbuch ==
+
+:1. On September 20, 1945, the four Allied powers issued a law whose first article began by naming the legal pillars of the defeated dictatorship.
+:2. The Enabling Act, the racial laws, the one-party law, and other measures of persecution were expressly repealed.
+:3. Yet Control Council Law No. 1 did not burn the German statute book to the ground.
+:4. Behind the provisions it removed stood older codes governing purchases, leases, inheritance, marriage, property, and countless disputes that had not vanished with the regime.
+:5. Among them was the Bürgerliches Gesetzbuch, or BGB, the civil code that had taken effect across the German Empire on the first day of 1900.
+:6. It had survived a monarchy, a republic, and a dictatorship, and now it survived military defeat and the disappearance of any German central government.
+:7. That continuity was neither accidental nor an endorsement of everything the code contained.
+:8. People still needed to know who owned a damaged house, whether a debt remained due, and what duties followed from a contract, while courts needed rules with which to answer them.
+:9. The first legal problem of the postwar order was therefore double: some inherited law had become intolerable, but the wholesale absence of law would have made ordinary cooperation harder still.
+:10. Selective repeal preserved a working background while marking provisions that could no longer claim authority.
+:11. This is the point at which the history of two German legal orders begins, not with two empty desks but with much of the same crowded desk inherited by both.
+:12. Statutes were only part of what lay on it.
+:13. The BGB came with concepts refined over decades, patterns of interpretation, court routines, university courses, professional examinations, commentaries, forms, and expectations among citizens and businesses.
+:14. A legal rule is a sentence backed by public authority, whereas legal doctrine is the organized vocabulary lawyers use to connect that sentence to thousands of situations the text does not specify.
+:15. An institution supplies the offices, procedures, records, and chains of responsibility through which rules become decisions.
+:16. Personnel carry learned habits and practical knowledge, including habits acquired under compromised institutions.
+:17. Above all these layers stands the political order, which determines who may make law, who may challenge state action, and whether judges can decide against those who govern.
+:18. Two systems may retain the same paragraph yet make it do different work because these surrounding layers have changed.
+:19. They may also enact different paragraphs while preserving surprisingly similar transactions beneath them.
+:20. The German division makes those combinations unusually visible.
+:21. In June 1945 the Allies assumed supreme authority and divided Germany into four occupation zones, each administered by a different victorious power.
+:22. They also created common bodies for matters concerning Germany as a whole, which is why the first measures against Nazi law could apply across zonal borders.
+:23. But occupation was never uniform administration under four interchangeable managers.
+:24. Military governments issued their own measures, selected different priorities, and built or licensed German administrative bodies within their zones.
+:25. Even before two German states existed, legislation, institutions, economic arrangements, and political opportunities had begun to diverge.
+:26. The Soviet Military Administration drove land reform, bank reorganization, and the centralization of justice in its zone, while the western zones developed their own federal and increasingly integrated structures.
+:27. The occupation boundary therefore did not divide two populations randomly assigned to rival legal regimes.
+:28. Regions arrived with different religious patterns, property structures, industries, urban networks, war damage, refugee populations, and local administrative traditions.
+:29. Millions of people were also displaced or moved across those boundaries, so the populations observed later were not fixed samples of the population present in May 1945.
+:30. The emerging states were attached to opposing alliances and economic systems, faced different resource constraints, and subjected their citizens to profoundly different relations of power.
+:31. Calling the division an experiment is consequently useful only if the word is stripped of its laboratory promise.
+:32. No researcher chose the treatment, held other variables constant, or protected the subjects from interference between the cases.
+:33. The comparison is better understood as a historical quasi-experiment: an unplanned divergence from a substantially shared legal inheritance that can sharpen causal questions without delivering automatic causal answers.
+:34. Its special value comes from variation in depth.
+:35. Some rules could be replaced on paper by a legislature acting in a single session.
+:36. Other arrangements depended on trained specialists, interconnected statutes, registries, forms of ownership, institutional authority, and habits of reliance accumulated over decades.
+:37. Earlier choices changed the cost of later choices because every functioning complement made the inherited arrangement more useful and its replacement more demanding.
+:38. This is path dependence in a precise sense, not merely the observation that old laws remained old.
+:39. The mechanism lies in complementary investments: once education, case law, administrative practice, and private planning are fitted to a legal framework, changing one provision may require changes throughout the surrounding system.
+:40. There are also coordination effects, because a familiar rule becomes more valuable when courts, lawyers, officials, firms, and citizens can anticipate how others will use it.
+:41. And there is learning, since repeated application makes difficult doctrine cheaper to operate even when nobody would design it that way from scratch.
+:42. These advantages can preserve bad rules, but they can also preserve predictability, accumulated experience, and peaceful expectations.
+:43. Stability is not evidence of wisdom, just as reform is not evidence of progress.
+:44. The relevant question is what keeps a rule in place, what the rule accomplishes, and which people bear the costs of continuity or change.
+:45. The founding of the Federal Republic in May 1949 and the German Democratic Republic in October made the branching explicit.
+:46. West Germany placed inherited law under the new Basic Law, a federal legislature, constitutionally protected rights, and courts that included an independent Federal Constitutional Court.
+:47. East Germany's 1949 constitution also proclaimed rights and judicial independence in its text, but the developing supremacy of the Socialist Unity Party prevented those promises from operating as limits on political power comparable to those in the West.
+:48. That difference cannot be reduced to a comparison of civil-code paragraphs.
+:49. A tenant and a landlord might still invoke familiar BGB terms in either state, while a political defendant's relation to the judiciary differed at the level of the regime itself.
+:50. The eastern judicial transformation also changed the people who interpreted inherited law.
+:51. Accelerated training opened judicial careers to so-called people's judges outside the traditional university route, promoted a new social and political cadre, and helped displace much of the older professional elite.
+:52. The change answered genuine postwar problems, including the compromising of the legal profession under National Socialism and the severe shortage of politically untainted jurists.
+:53. It also became a means by which the ruling party secured personnel loyal to its program.
+:54. In the West, greater professional continuity preserved expertise but also allowed many jurists burdened by their conduct under the dictatorship to remain or return, a moral and institutional cost that any simple story of superior continuity conceals.
+:55. Personnel replacement and personnel retention thus produced different mixtures of renewal, competence, dependence, and compromised inheritance.
+:56. Neither mixture can be read directly from the title page of a code.
+:57. Nor did a common text freeze private law in a common meaning, because new constitutions, special statutes, judicial interpretation, and changing economic practices could redirect old provisions without formally repealing them.
+:58. By the late 1950s, much of the inherited German codification still operated in the East, though increasingly modified and surrounded by socialist legislation.
+:59. East German leaders had called for a new socialist civil code years earlier, yet drafting and implementing one proved much slower than declaring the bourgeois inheritance obsolete.
+:60. The delay exposes the central puzzle more clearly than a swift repeal would have done.
+:61. Replacing a code requires more than composing a rival set of commands, because a legislature must decide which existing relationships will carry over, how new concepts fit adjacent fields, and what courts should do with cases the drafters failed to imagine.
+:62. The BGB had already absorbed much of that problem-solving effort through doctrine and practice.
+:63. Its abstract language was difficult, but abstraction also made many provisions adaptable to circumstances their nineteenth-century authors had never foreseen.
+:64. East German jurists could reinterpret an inherited concept, restrict it through special legislation, or remove an entire field from the code while work on a comprehensive replacement continued.
+:65. This made continuity a platform for selective change rather than a simple refusal to change.
+:66. The resulting legal order was neither the old BGB untouched nor a socialist system created in one stroke, but a layered combination of inheritance and reconstruction.
+:67. Planning rules governed the state-owned economy, labor law acquired its own institutional setting, and new statutes altered family and property relations, while familiar civil-law techniques continued to settle many ordinary matters.
+:68. Such layering lowered the immediate cost of reconstruction because lawmakers could concentrate on politically urgent domains instead of rebuilding every private transaction at once.
+:69. It also created new dependencies, for each special rule had to connect somehow with the inherited residue around it.
+:70. A replacement code would eventually have to describe not only a different ideal of society but the junctions between homes, consumer goods, enterprises, inheritance, contracts, and administrative allocation.
+:71. Ideological determination could accelerate a decision to depart from the past, yet it could not supply all the operational knowledge needed to make the departure work.
+:72. The East German case therefore contradicts the notion that concentrated political power automatically makes deep legal change easy.
+:73. An authoritarian state can enact a statute rapidly, but it still confronts information costs, trained habits, material arrangements, and the need for millions of people to coordinate their conduct.
+:74. Coercive capacity and institutional capacity are not the same resource.
+:75. West Germany took a different route through the same inheritance.
+:76. It retained the BGB and altered it incrementally through constitutional review, legislation, judicial development, and the growth of specialized fields around the code.
+:77. Continuity there did not mean restoration of the private law of 1900, because the Basic Law's commitment to equality and fundamental rights changed the standards against which inherited provisions could survive.
+:78. Nor did incremental reform guarantee speed, consistency, or justice.
+:79. Rules built around a male breadwinner and a legally subordinate wife lasted in West German family law long after the constitutional proclamation of equal rights had placed them under pressure.
+:80. The contrast reveals two distinct kinds of friction.
+:81. One arises when a political project seeks to replace an old framework but lacks ready substitutes for its many practical connections.
+:82. The other arises when a system possesses established procedures for correction but distributes the power to delay, challenge, and reinterpret change among several institutions.
+:83. Centralization can shorten some legislative paths while destroying independent checks, and constitutional pluralism can protect rights while providing more points at which reform may stall.
+:84. Neither relationship can be captured by ranking one legal text as more modern in every dimension.
+:85. This is why individual East German rules that advanced women's formal equality deserve recognition without converting them into a favorable judgment on the state's legal order as a whole.
+:86. Formal equality could coexist with unequal domestic labor, economic compulsion, political exclusion, and courts that did not stand independently between the citizen and the ruling party.
+:87. Conversely, the West German rule-of-law structure did not make discriminatory private-law provisions harmless while they remained in force.
+:88. The unit of comparison matters because a particular rule may be more egalitarian, a procedure more contestable, an institution more independent, or an entire political order more capable of limiting power, and those findings need not all point in the same direction.
+:89. The quasi-experiment becomes informative only when these levels are kept apart.
+:90. It also needs rival explanations.
+:91. If both German states eventually relaxed a family-law rule, the common cause might be broader changes in employment, household structure, demographics, or European legal thought rather than influence from their shared starting code.
+:92. If they reached different rules, the cause might lie in economic organization or party strategy rather than legal path dependence.
+:93. If similar wording produced different outcomes, enforcement, access to counsel, judicial incentives, or informal social expectations may explain the gap.
+:94. And if a provision endured, its survival alone cannot tell us whether complementary investments protected it, political actors preferred it, alternatives were unknown, or the practical problem simply had no cheap solution.
+:95. Path dependence is strongest as an explanation when the sequence itself changes later costs or probabilities and when a plausible earlier alternative can be identified.
+:96. It is weakest when the label merely renames persistence.
+:97. German legal division offers both kinds of case, which is precisely why it can discipline the theory instead of merely illustrating it.
+:98. The collapse of the East German regime in 1989 and unification in 1990 supplied an unusually severe test.
+:99. The political barrier to wholesale change disappeared, yet the choice between legal orders did not occur between equals meeting on neutral ground.
+:100. The Federal Republic had a much larger population and economy, functioning federal and state institutions, an established constitutional court, a dense legal profession, extensive commentaries and precedents, and obligations embedded in European law.
+:101. East Germany entered the Federal Republic through the accession procedure of the Basic Law rather than founding an entirely new state with a newly negotiated code.
+:102. Article 8 of the Unification Treaty extended federal law into the acceding territory subject to specified exceptions, while Article 9 preserved designated East German law where the treaty allowed it.
+:103. That structure made broad legal transfer possible on October 3, 1990, but even a rapid formal transfer required long annexes, transitional provisions, new jurisdictions, administrative reconstruction, and judgments about existing rights.
+:104. The dominance of western law was therefore partly a constitutional and political choice and partly the result of massive asymmetries in ready-to-use institutional capacity.
+:105. It cannot serve as a controlled verdict proving that every western rule was intrinsically better than every eastern alternative.
+:106. Nor did formal unification instantly unify legal experience.
+:107. Judges, lawyers, officials, property claimants, tenants, families, and firms encountered the transferred rules from different positions and with unequal command of their concepts.
+:108. Old East German decisions and relationships could not simply be treated as though they had never existed, while some institutions and careers were examined, dissolved, or rebuilt.
+:109. The legal map changed in a day, but the knowledge, expectations, biographies, and disputed claims beneath it did not.
+:110. Here the layers separate once more: a rule can be exchanged faster than a professional culture, a court structure faster than public trust, and a constitutional commitment faster than the habits needed to realize it.
+:111. The history between 1945 and 1990 can accordingly be read as a series of depth tests rather than as a race between two codes.
+:112. The continued use of the BGB in an avowedly socialist state tests how deeply a general code is embedded in practice.
+:113. The earlier divergence of family and sexual law tests whether tightly bounded fields can be detached more readily when political goals, social policy, and enforceable categories align.
+:114. Contrasting approaches to marriage, divorce, compensation, and criminal prohibition show that provisions with intimate effects may move at different speeds even within the same political system.
+:115. The East German civil code adopted in 1975 and effective from January 1976 tests how far a comprehensive replacement can break with its predecessor while still performing familiar coordinative tasks.
+:116. The choices made in 1990 then test which innovations survive when power shifts, institutions merge, and the cost of maintaining two complete systems becomes politically decisive.
+:117. Together these comparisons preserve contingency, because neither the division's precise legal consequences nor the form of reunification was fixed in 1945.
+:118. They also reveal constraint, because every later decision arrived in a landscape already furnished with offices, expertise, expectations, and unequal capacities.
+:119. The two paths began with a shared code but not with identical societies, developed under sharply different systems but not without inherited common tools, and reunited through a process that altered law faster than it could erase legal history.
+:120. Before judging where either road led, the harder task is to explain why so much of the old bridge remained in use while the roads themselves were being pulled apart.

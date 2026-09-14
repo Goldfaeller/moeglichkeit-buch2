@@ -1,0 +1,147 @@
+== 1.7 Evolvierbarkeit ==
+
+:1. On a factory floor, an idle machine can look like a management failure.
+:2. It consumes space, requires maintenance, and produces nothing that appears in this month's accounts.
+:3. Yet when an old product must change or a new one must be made, that apparently wasteful capacity may become the only place where the new work can begin.
+:4. A factory stripped of every idle minute and spare tool may achieve remarkable output while its requirements remain stable.
+:5. It may also have optimized away its next move.
+:6. The property at stake has an ungainly name: evolvability.
+:7. It means the capacity to keep changing.
+:8. More precisely, it is the capacity to generate or adopt viable changes when present arrangements no longer suffice.
+:9. It is the property of having somewhere left to go.
+:10. Evolvability is not the same as current performance, because a system can excel at today's task yet be difficult to alter.
+:11. It is not robustness, which is the ability to keep a function working despite disturbance.
+:12. It is not resilience, which usually describes absorbing disruption or recovering from it.
+:13. It is not ordinary flexibility, which may mean handling a known range of tasks with existing resources.
+:14. An evolvable system can produce workable responses that were not completely specified in advance.
+:15. Biologists often use the term more narrowly for a population's capacity to generate heritable variation that selection can use.
+:16. Engineers and organizational scholars extend the idea to designed systems whose changes arise through planning, learning, and replacement rather than genetic inheritance.
+:17. These processes are not identical, and the comparison is useful only at the level of their shared structural question.
+:18. What features of a system make some next steps reachable and others ruinously difficult?
+:19. In the language of possibility space, evolvability concerns the neighborhood around the present state.
+:20. A system is more evolvable in a given context when it has more viable nearby moves, or when valuable moves can be reached at lower cost and risk.
+:21. That qualification matters because there is no single stock of evolvability that can be measured independently of the changes under consideration.
+:22. Begin with the negative case, since it is easier to see.
+:23. Imagine a system optimized as thoroughly as its designers can manage for one stable set of requirements.
+:24. Every component performs exactly one function and performs it superbly.
+:25. Every component is precisely matched to every other, with no slack in any interface.
+:26. Every redundancy has been identified as waste and removed.
+:27. Every resource is fully committed to current production.
+:28. Such a system may outperform a looser competitor for as long as the conditions it was built for persist.
+:29. Trouble begins when the task, environment, or scale changes.
+:30. Nothing can be repurposed easily because everything is already assigned.
+:31. Nothing can be modified locally because each alteration disturbs a precise fit elsewhere.
+:32. There is no spare capacity for a new function because spare capacity was the first thing eliminated.
+:33. Change is not literally impossible, but it now requires coordinated alterations across much of the system.
+:34. Earlier optimization has raised the cost of later options, which is the path-dependent mechanism in this thought experiment.
+:35. Tight coupling, complete resource commitment, and precise fit can convert present gains into future switching costs.
+:36. Optimization and evolvability can therefore conflict, but they are not universal opposites.
+:37. A better component can improve present performance while also freeing space, energy, or attention for later change.
+:38. A well-chosen standard can lower current costs and make alternative compatible components easier to introduce.
+:39. The danger lies less in improvement itself than in improvement that repeatedly removes every route except the one already being used.
+:40. A series of defensible local decisions can narrow the possibility space without any participant choosing fragility as a goal.
+:41. Several structural properties can resist that narrowing, although none is sufficient by itself.
+:42. The first is modularity.
+:43. A modular system has parts that interact through limited, reasonably well-defined connections rather than being entangled everywhere with everything.
+:44. The practical consequence is that one part can sometimes change without forcing simultaneous changes in all the others.
+:45. In biology, developmental and regulatory processes often show partial modularity, so variation in one set of traits need not disturb every other trait to the same degree.
+:46. Biological modules are rarely sealed boxes, however, because genes, tissues, and environments continue to interact across their boundaries.
+:47. In engineering, modules and interfaces can localize repair, replacement, and experimentation.
+:48. In institutions, separately amendable rules can serve a comparable function by preventing every reform from becoming a reconstruction of the whole order.
+:49. These cases share a pattern, not a common origin or a single causal process.
+:50. Modularity also has costs.
+:51. Interfaces require design and maintenance, component boundaries can add weight or delay, and standardized connections may sacrifice some benefits of a tightly integrated design.
+:52. Yet it is too strong to say that a modular system is always less efficient.
+:53. Reuse, specialization, parallel work, and easier repair can improve present performance as well as future adaptability.
+:54. Excessive decomposition can create so many interfaces that coordination becomes harder and failures multiply at the boundaries.
+:55. A poorly chosen module can merely hide tight coupling behind a convenient label.
+:56. Modularity can also move lock-in rather than eliminate it.
+:57. Components may remain replaceable only because the interface between them has become difficult to change.
+:58. This is where open interfaces add a distinct advantage.
+:59. An interface is open in the relevant sense when its rules are accessible and stable enough for more than one supplier or designer to build compatible alternatives.
+:60. Openness does not mean the absence of rules, because compatibility depends on shared constraints.
+:61. A durable standard closes some design choices while opening a wider field of components that can connect through it.
+:62. Such a useful lock-in can increase evolvability within the protected boundary even while making a change to the boundary itself more expensive.
+:63. The second recurring property is redundancy.
+:64. Redundancy means having more capacity or more pathways than the current task minimally requires.
+:65. Two kidneys where one can sustain life, spare capacity in a network, several suppliers for a component, and more than one person who understands a process are different forms of this general pattern.
+:66. Redundancy is an obvious target for an efficiency program because its costs are visible before its future uses are known.
+:67. It can nevertheless provide material that survives while another part changes.
+:68. Gene duplication offers a well-studied biological example.
+:69. One copy may continue contributing to an established function while changes in the other copy become less immediately damaging.
+:70. Many duplicated genes are eventually lost, and surviving copies may divide an old function, alter its regulation, or occasionally acquire a new one.
+:71. Duplication is therefore an important source of evolutionary novelty, but not the source of nearly every new capability.
+:72. A copy is also not automatically free to wander, because gene dosage and interactions with other genes can make additional copies consequential from the start.
+:73. Exact redundancy may be less useful than partial overlap.
+:74. Biologists sometimes call this degeneracy: structurally different components can perform overlapping roles under some conditions but different roles under others.
+:75. Because the components are not identical, a disturbance that defeats one need not defeat all, and one component may be recruited for a new task.
+:76. The same caution applies to several suppliers that rely on the same factory, software library, or transport route.
+:77. They look redundant on an organization chart but share a single point of failure.
+:78. Redundancy improves future options only when the copies or pathways possess enough independence to matter.
+:79. Its value is not confined to insurance against breakdown.
+:80. Uncommitted time, money, machinery, or expertise can become raw material for work that was not foreseeable when the reserve was created.
+:81. The third property is accessible variation.
+:82. Evolvability requires differences from which viable alternatives can arise.
+:83. In biological populations, mutation and recombination help generate genetic variation without anticipating what a future environment will demand.
+:84. In designed systems, variation may come from prototypes, competing suppliers, parallel research programs, or people trained in different methods.
+:85. Variety by itself is not evolvability, because random churn can destroy accumulated knowledge without producing a usable alternative.
+:86. Variants must be testable, retainable, and connected to a path by which a system can adopt them.
+:87. A warehouse of incompatible spare parts does not create meaningful options for a machine that cannot accept any of them.
+:88. Nor does a collection of ideas help an organization that has lost the skills needed to evaluate or implement them.
+:89. Past investments in tools and capabilities can therefore widen the next set of reachable states.
+:90. Past disinvestment can make an option disappear from practice even when it remains imaginable in theory.
+:91. The fourth property is error tolerance.
+:92. A system is error tolerant when a mistake can remain local instead of causing the entire arrangement to fail.
+:93. It is tempting to say that change is indistinguishable from error at the moment it occurs, but that is too broad.
+:94. A planned, reversible modification is different from an uncontrolled fault.
+:95. Both nevertheless depart from the existing configuration, and both become hard to attempt when any deviation has catastrophic consequences.
+:96. Sandboxes, versioning, rollback procedures, and physical containment all create places where a change can be tried without wagering the whole system.
+:97. In biological systems, robustness can allow genetic differences to accumulate while an important function remains intact.
+:98. Under some conditions, populations can then explore a broad network of genetic variants that share a viable phenotype but border on different phenotypes.
+:99. Robustness and evolvability are therefore not simple enemies.
+:100. The ability to withstand small perturbations can preserve the lineage and variation from which later innovations arise.
+:101. Yet buffering can also conceal the effects of variation in the short term, and the relationship depends on population size, recombination, environment, and the structure of the underlying possibilities.
+:102. Tolerance for error is not indifference to failure.
+:103. Its purpose is to limit the consequences of failure so that information can be gained before a change becomes irreversible.
+:104. This reveals a genuine tension at the center of evolvability.
+:105. Evolvability requires continuity.
+:106. A system that changes constantly in every direction is not necessarily adaptable, because it may retain no working structure and learn nothing from the effects of each alteration.
+:107. Adaptation usually requires some features to persist while others vary, so the consequences of variation can be detected and preserved.
+:108. A stable core with changeable edges is one useful architecture for achieving this balance, but it is not a universal recipe.
+:109. The core itself may eventually become the obstacle, and any rule that declares it permanently untouchable exchanges one form of fragility for another.
+:110. Layered systems often cope by allowing frequent changes at the surface, slower changes below, and rare but possible replacement of their foundations.
+:111. The aim is not maximum stability or maximum flexibility but a workable relation between retention and variation.
+:112. Too much stability produces a system that may break rather than bend when its environment moves beyond the range it can absorb.
+:113. Too little produces a system that responds to everything and accumulates little worth preserving.
+:114. This balance also clarifies why performance, robustness, resilience, flexibility, and evolvability must not be treated as synonyms.
+:115. A backup generator can make a hospital more robust without changing the range of services it can develop.
+:116. A recovery plan can make an organization more resilient while restoring precisely the arrangement that existed before the disruption.
+:117. A machine adjustable across ten anticipated settings is flexible, but it may be unable to accept an eleventh kind of task.
+:118. Evolvability concerns the capacity to alter the repertoire itself while remaining viable during the transition.
+:119. Spending on one of these properties may support another, but the benefit cannot be assumed.
+:120. A redundant component with the same hidden weakness as the original buys robustness on paper and little else.
+:121. A modular extension may open new functions while introducing a vulnerable interface.
+:122. The relevant question is always which later changes a feature makes easier, not whether the feature carries an attractive label.
+:123. Evolvability now reconnects to the possibility-space image.
+:124. A highly evolvable system resembles a broad plateau with several walkable directions.
+:125. A narrowly optimized system resembles a sharp peak whose neighboring moves descend before any higher ground can be reached.
+:126. This landscape is an analytical picture, not a physical place or a complete map available to the system itself.
+:127. Real systems pursue several kinds of performance at once, their environments change, and innovations can redraw what counts as a neighboring state.
+:128. A system can also be both high-performing and evolvable when modular improvements expand the plateau instead of sharpening a single peak.
+:129. The image warns against confusing the best visible move from the present position with the best state that could ever be reached.
+:130. Evolvability is difficult to assess because the most important future challenges are partly unknown.
+:131. It is not, however, simply unmeasurable.
+:132. Quantitative geneticists estimate short-term evolvability for specified traits and directions of selection from patterns of heritable variation and covariance.
+:133. Engineers can estimate the cost and reach of specified changes through interface dependencies, replacement time, compatibility, and required retraining.
+:134. Organizations can track supplier independence, unused capacity, recoverability, and the diversity of relevant skills.
+:135. Each measure illuminates a defined neighborhood and leaves unimagined futures outside the frame.
+:136. No honest calculation can count every future that remains available.
+:137. This asymmetry still creates a persistent bias in ordinary decision making.
+:138. Current output, cost, speed, and reliability are easier to defend than an option whose use cannot yet be named.
+:139. As a result, evolvability can be traded away one locally sensible decision at a time.
+:140. It does not follow that every reserve must be protected or every alternative funded indefinitely.
+:141. Slack can become mere waste, old options can lose their value, and maintaining parallel paths consumes resources that could solve present problems.
+:142. The disciplined task is to distinguish costly clutter from capabilities whose loss would make many later moves inaccessible.
+:143. Path dependence is strongest when a discarded capability takes with it the tools, knowledge, suppliers, and interfaces needed to rebuild it.
+:144. A system with room to move is usually one in which someone has paid for options that could not yet justify themselves by current output alone.
+:145. The unused option is not freedom itself, but it is the part of the future that history has not yet closed.

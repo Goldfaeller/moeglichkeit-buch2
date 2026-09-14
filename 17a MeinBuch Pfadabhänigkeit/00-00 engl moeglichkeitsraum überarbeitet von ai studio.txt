@@ -1,0 +1,94 @@
+== 00-00 Einleitung zum Buch ==
+
+:1. Somewhere on your body there is a nerve that takes a detour of several feet to travel a distance of a few inches.
+:2. It leaves your brain, descends into your chest, loops beneath a major blood vessel near your heart, and then climbs all the way back up to your throat.
+:3. No engineer would ever route a cable that way.
+:4. And yet every mammal alive carries this same absurd loop, and in a giraffe it runs for nearly five meters to accomplish almost nothing.
+:5. The explanation is not that the design is clever in some way we have failed to notice.
+:6. The explanation is that hundreds of millions of years ago, in a fish-like ancestor with gills and no neck at all, that route was simply the shortest path.
+:7. As the neck grew and the heart sank into the chest over evolutionary time, the nerve was simply carried along.
+:8. There was never a single generation where the nerve could be unhooked, severed, and re-laid across a shorter route.
+:9. Any mutation attempting that shortcut would have killed the animal in the process, and dead animals do not pass on their genes.
+:10. This book is about that exact kind of explanation.
+:11. It is about all the things in our world whose present shape cannot be understood by asking what would work best today, but only by asking what happened first.
+:12. Scientists call this pattern path dependence, and once you learn to see it, you realize that history is not just a record of the past, but a structural constraint on the present.
+:13. Anything that has a history carries that history inside it, and that accumulated past alters the probability, the cost, and the sheer visibility of what it can become next.
+:14. To see why, it helps to use an analytical model, a way of mapping out options that we can call the possibility space.
+:15. Imagine a vast, multi-dimensional landscape where every point represents one specific, fully realized configuration of a system.
+:16. A system does not float above this terrain like a helicopter, free to drop down onto whichever destination looks most appealing.
+:17. It stands somewhere on the ground, and it can only walk.
+:18. It can take small steps to adjacent points, and every step it takes must leave it standing and functioning.
+:19. To navigate this space accurately, we have to draw sharp distinctions between different kinds of possibilities.
+:20. There is the theoretically imaginable, which includes everything that does not violate the strict laws of logic.
+:21. There is the physically possible, which is constrained by gravity, energy, and absolute material limits.
+:22. There is the functionally viable, meaning the system can actually operate and survive in that state without collapsing.
+:23. But the most important category for this book is the historically accessible.
+:24. A configuration might be physically possible and functionally brilliant, but if there is no continuous, survivable path from where you are currently standing to that new location, it remains forever out of reach.
+:25. The shape of the space you can explore depends entirely on where you are standing, and where you are standing depends on every step you have already taken.
+:26. This is not a physical room, but a map of reachable states, and every time a system changes, the map redraws itself.
+:27. Take one step, and a whole new set of neighbors becomes available, while an old set becomes permanently distant.
+:28. To understand how systems move through this space, we rely on six recurring mechanisms that will appear throughout this book.
+:29. The first is contingency, the recognition that many features of our world could have turned out differently at critical historical junctions.
+:30. Contingency is not the same as randomness, and it is emphatically not the same as insignificance.
+:31. A coin flip is random and forgettable; a coin flip that determines which of two technical standards the entire world adopts is random and permanent.
+:32. It is easy to look backward and assume that the path a system took was the only logical route, simply because it is the one that survived.
+:33. This retrospective illusion hides the moments of genuine fragility, where multiple futures were equally possible and a minor shift permanently altered the trajectory.
+:34. The second mechanism is lock-in, which describes what happens when switching away from a historical path becomes prohibitively expensive.
+:35. Lock-in is rarely caused by the core technology or the original rule itself being immovable.
+:36. It is caused by everything that has grown up around it: the training, the tooling, the legal frameworks, and the neighboring systems that assume it will still be there tomorrow.
+:37. When a technology or an institution becomes the foundation for other processes, replacing it means replacing the entire ecosystem.
+:38. This creates a situation where a clearly inferior standard can survive indefinitely, simply because the coordination required to change it is practically impossible to achieve.
+:39. Lock-in is not inherently evil; the same mechanism that makes a bad system hard to replace also makes a good system stable and reliable.
+:40. The third concept is the trade-off, the reality that improvement along one dimension usually requires a sacrifice along another.
+:41. Speed trades against safety, efficiency against resilience, specialization against flexibility.
+:42. Because there is almost never a solution that is better in every respect, early compromises tend to harden into permanent architectural constraints.
+:43. The fourth mechanism is feedback, specifically the positive kind that amplifies early advantages.
+:44. Negative feedback acts like a thermostat, pushing a system back toward the center whenever it strays too far.
+:45. Positive feedback acts like a microphone placed too close to a speaker, taking a small signal and amplifying it until it dominates everything else.
+:46. When success makes future success easier—through network effects or economies of scale—small initial differences quickly become unbridgeable chasms.
+:47. The fifth idea is that systems do not just passively adapt to a static world; they actively build their own environments.
+:48. A beaver does not merely adapt to a river; it builds a dam to create a pond, and its descendants must then adapt to the pond their ancestors made.
+:49. In human terms, we build infrastructure, write laws, and train algorithms, and these creations become the new environmental conditions to which the next generation must adapt.
+:50. The sixth and final concept is evolvability, the capacity of a system to keep generating viable new configurations.
+:51. Evolvability turns out to be the rarest and most valuable property a system can have, because it is the only thing that keeps the possibility space open.
+:52. Paradoxically, the relentless pursuit of short-term efficiency often destroys evolvability, because it strips away the redundancy and modularity needed for future adaptation.
+:53. These six mechanisms are not metaphors; they are structural realities that appear wherever history is allowed to accumulate.
+:54. Building forward is almost always easier than building backward.
+:55. Adding a new layer requires only that the new addition interface successfully with what is already there.
+:56. Removing an old layer requires that everything built on top of it survive the removal, which is a much harder condition to meet.
+:57. This asymmetry explains why systems accumulate layers, and why early, tentative choices harden into permanent foundations.
+:58. You find this pattern in biology, where evolution acts as a renovation crew that must keep the building occupied throughout the work, producing unavoidable compromises like the human spine or the vertebrate eye.
+:59. You find it in technology, where the winning standard is often not the best one, but the one that was merely adequate at a moment when adequacy was enough to attract a critical mass of users.
+:60. Once a standard becomes the foundation for further innovation, every year that passes makes it harder to reconsider, turning early historical accidents into permanent infrastructure.
+:61. The pattern accelerates dramatically when we build artificial intelligence architectures.
+:62. When models are trained on historical data, they do not merely reflect the world they learned from; they extend that world forward, granting past conventions the practical status of a rigid rule.
+:63. The same mechanism operates in the institutions we build together.
+:64. An institution is often an answer to a specific historical question, preserved long after the question itself has changed.
+:65. We want our courts, our bureaucracies, and our laws to be reliable, and we want that badly enough to accept the cost of their rigidity.
+:66. The cost is that the rules cannot easily be revised, and the categories they create eventually become part of the world they were originally only meant to describe.
+:67. Even in domains where the penalty for error is death, such as military conflict, path dependence does not vanish.
+:68. Cavalry survived for decades after the weapons that made it obsolete were already in general use, because understanding a new weapon requires rebuilding the entire organization around it.
+:69. The deepest constraint is never just the tool itself, but the supply chain, the training pipeline, and the industrial base, none of which can be replaced in a season.
+:70. If path dependence persists under this much pressure, it cannot be dismissed as a defect of lazy systems or foolish individuals.
+:71. It is a fundamental property of complex systems.
+:72. Which brings us finally to the question that runs quietly beneath this entire book.
+:73. If everything from our biology to our software to our laws is shaped by what came before, what exactly is left of human choice?
+:74. Are we simply trapped in a deterministic machine, endlessly repeating the accidents of the past?
+:75. The answer this book arrives at is neither comfortable nor bleak, and it turns on a vital distinction.
+:76. A system with a long history is not trapped in a prison cell.
+:77. It is standing in an enormous room whose walls it has built itself, one decision at a time, mostly without noticing.
+:78. You cannot choose where you are standing today, because that coordinate was determined by everything that happened before you arrived.
+:79. But you can very often choose which way you walk from here, and the range of available directions is usually wider than it feels.
+:80. What makes it feel narrow is that we mistake the shape of the current room for the absolute limit of the world.
+:81. Some of the walls around us are merely temporary partitions that could be knocked down at a reasonable cost.
+:82. Others are deeply load-bearing, and the cost of removing them is the collapse of everything they currently support.
+:83. The most important analytical question you can ask about any system, then, is not simply whether it is good or bad.
+:84. The question is which of its features are load-bearing walls, and which are merely furniture.
+:85. Recognizing this structure does not paralyze us; it is the prerequisite for meaningful change.
+:86. As long as we believe that we can redesign any system from scratch, we will repeatedly fail against the invisible weight of the past.
+:87. Furthermore, since complex systems have no single, stable measure of success, the search for the perfect, optimal arrangement is a category error.
+:88. A perfectly optimized system is usually a brittle one, highly adapted to yesterday's problem but incapable of surviving tomorrow's shock.
+:89. What we can pursue instead is error tolerance: redundancy, modularity, reversibility, and the deliberate expense of keeping options open that we may never use.
+:90. These things always look wasteful in the short term, and they are the only reason any system has ever survived being wrong.
+:91. To be caught in a possibility space is not the same as being locked on a single, unavoidable path.
+:92. Someone who has learned to see the walls has already begun to find the doors.

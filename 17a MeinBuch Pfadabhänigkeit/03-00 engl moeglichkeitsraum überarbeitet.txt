@@ -1,0 +1,187 @@
+== 3. Die Tastatur, die niemand wollte ==
+
+:1. In almost every experienced traveler's bag there is a small pouch of plug adapters.
+:2. It is heavier than it ought to be, it is never complete, and everyone who owns one has at some point stood in a hotel room holding a cable that fits nothing in the wall.
+:3. Consider what that pouch actually contains.
+:4. The molded pieces of plastic and metal are a compact record of decisions accumulated since the early age of electrification.
+:5. Inventors, utilities, manufacturers, safety organizations, and governments made those decisions at different times and for different reasons.
+:6. How many pins should there be, how far apart, round or flat, and what voltage and frequency should the socket supply?
+:7. None of those questions had a single technically correct answer.
+:8. Several answers were reasonable responses to the equipment and safety knowledge available when they were chosen.
+:9. They did not all arrive at once, and they were not all chosen by a handful of people in one decade.
+:10. Yet many of them still govern appliances made on production lines capable of molding almost any plug shape.
+:11. Behind each familiar outlet now stands a much larger inheritance of wiring, generators, appliances, test procedures, building codes, and electricians trained to work with that system.
+:12. The variety in the traveler's pouch is therefore not merely a museum of obsolete engineering.
+:13. It is the visible edge of several functioning systems, each sustained by investments that make local continuity valuable and global uniformity expensive.
+:14. That is precisely what makes the pouch worth pausing over.
+:15. It is a made object, produced by people who could deliberate, compare, and revise, yet it carries the same kind of historical fingerprint that is visible in a bone.
+:16. The comparison is useful only up to a point.
+:17. Nobody drew up the vertebrate eye, and no committee approved the route a nerve takes through the chest.
+:18. Artifacts, by contrast, usually have designers, specifications, budgets, and reasons.
+:19. Somebody chose the width, somebody approved the voltage, and somebody argued for a different connector and lost.
+:20. Human beings can do things no lineage of animals can do.
+:21. They can imagine an object before it exists, test a model, copy a rival's design, and plan for conditions that have not yet arrived.
+:22. They can deliberately retire a working machine, endure a costly transition, and build a replacement from a different starting point.
+:23. A company can support a laboratory for years while its prototypes fail, whereas a biological lineage cannot suspend reproduction for generations while waiting for a superior body plan.
+:24. Designed technology can therefore cross valleys that ordinary biological evolution cannot cross in the same way.
+:25. The language of valleys is still a model rather than a literal map, and planners never see the whole terrain.
+:26. They know only some alternatives, estimate consequences imperfectly, and must build with materials, knowledge, institutions, and budgets inherited from somewhere else.
+:27. Foresight enlarges the field of action without erasing its starting point.
+:28. The expectation almost writes itself nonetheless.
+:29. If a process has memory, imagination, and the freedom to start over, its products should converge on good solutions and shed bad ones.
+:30. Technology, one might think, ought to be the domain in which the best available idea wins.
+:31. It is not, and the pouch of adapters is only the mildest evidence.
+:32. Domestic power systems still combine different socket designs with different nominal voltages, and most grids use one of two common frequencies.
+:33. Rail systems use several gauges, countries drive on different sides of the road, and industries maintain families of threads, pipe fittings, paper sizes, and data formats.
+:34. Some of these arrangements have survived deliberate and well-funded attempts to change them.
+:35. Others have changed, sometimes at great expense, and the size of that expense is itself informative.
+:36. It is tempting to file all of this under human stubbornness.
+:37. That explanation is comforting because it locates the obstacle inside people, who could in principle be persuaded.
+:38. It is also too small.
+:39. Intention did not abolish path dependence.
+:40. It relocated much of the binding force from the object into the system surrounding it.
+:41. In a living body, historical constraints are carried through development, anatomy, and reproduction because the organism must remain viable.
+:42. In technology, the individual object may be comparatively easy to replace.
+:43. A factory can begin molding a differently shaped plug once it has the drawings, tools, materials, and approvals.
+:44. What cannot change on the same schedule is everything the plug must safely connect to.
+:45. The constraint extends outward into standards, infrastructure, specialized knowledge, and coordinated expectations.
+:46. These are not four decorative labels for the same vague influence of the past.
+:47. Each changes the cost or probability of a later choice through a distinct mechanism.
+:48. A standard is a shared specification for making separate components work together.
+:49. It may settle a question that has several defensible answers, but its value comes partly from the fact that many parties use the same answer.
+:50. A system of measurement used by one person is a private code, while one used across an economy supports contracts, tools, education, and trade.
+:51. This produces an arithmetic unlike the one an engineer applies to a device in isolation.
+:52. The question is not simply whether an arrangement performs well, but whether it can work with what everyone else already has.
+:53. A technically attractive standard adopted by almost nobody may deliver less practical value than a merely adequate standard shared by millions.
+:54. Choosing the established system can therefore be individually rational even when a coordinated alternative might produce a better collective result.
+:55. That difference between individual incentives and a coordinated outcome is one source of lock-in.
+:56. Early in adoption, when few parties are committed, modest advantages or accidents can influence which specification spreads.
+:57. Later, the same technical advantage may be outweighed by installed equipment, compatible products, and the risk that others will not move.
+:58. Adoption then becomes self-reinforcing rather than merely habitual.
+:59. More users attract more suppliers, more suppliers lower costs and expand choice, and those improvements attract more users.
+:60. Training, repair services, financing, insurance, and regulation may gather around the growing standard as well.
+:61. An early lead has changed the conditions of later competition.
+:62. This is path dependence in the strict sense: the sequence of adoption has altered the price, visibility, and likelihood of the remaining options.
+:63. The second place the constraint settles is infrastructure.
+:64. Standards live in specifications and practice, while infrastructure also lives in concrete, copper, steel, software, and land.
+:65. A rail network, power grid, water system, harbor, or road can remain in service for generations, although its components are continually repaired and replaced.
+:66. Operators rarely discard the whole system at once.
+:67. They extend it, patch it, reinforce it, and design new components to fit it.
+:68. Each compatible addition increases the value of continuity and enlarges the stock that a future replacement would have to match or abandon.
+:69. A past decision has thereby become a present switching cost.
+:70. Infrastructure can also disappear from ordinary attention when it works well.
+:71. Its users encounter the services it provides, not the accumulated choices embedded under streets, inside walls, or behind software interfaces.
+:72. Invisibility does not cause the lock-in, but it can hide the scale of the transition that an apparently simple proposal would require.
+:73. The third site of inheritance is specialized knowledge.
+:74. Every mature technology needs people who can build it, install it, repair it, inspect it, finance it, and teach it.
+:75. Their knowledge sits in apprenticeships, manuals, licenses, examinations, tools, organizations, and the judgment acquired through years of work.
+:76. That expertise is an enormous asset.
+:77. It makes further improvements along the familiar path faster and safer because practitioners do not begin from zero.
+:78. The same expertise can also raise the cost of departure because a different system may require new equipment, new certification, and time in which beginners make beginner's mistakes.
+:79. Skills often transfer in part, so the anchor is rarely absolute.
+:80. Its strength depends on how much old knowledge remains useful and whether people and organizations can afford the learning period.
+:81. A profession trained on one architecture may also frame new problems in terms that its established tools can solve.
+:82. Alternatives then become harder to see before anyone has formally rejected them.
+:83. Foresight is real, but it is always foresight from somewhere.
+:84. The fourth site is coordinated expectation.
+:85. Buyers, builders, regulators, and investors form beliefs about which systems other people will continue to support.
+:86. Those beliefs matter even when nobody feels emotionally attached to the old arrangement.
+:87. A manufacturer may prefer a new connector and still avoid it because retailers will not stock the accessories, customers may distrust compatibility, and service companies have not trained their technicians.
+:88. Each party waits for the others, and waiting itself preserves the existing standard.
+:89. Users also acquire bodily routines, such as key combinations or the familiar direction of a control, that make one design cheaper to use than another.
+:90. Habit alone is not path dependence, because a habit that can be changed without affecting later options is simply a habit.
+:91. It becomes part of a path-dependent system when training costs, shared layouts, software assumptions, or coordination with other users make the old routine materially easier to retain.
+:92. Standards, infrastructure, knowledge, and expectations therefore reinforce one another.
+:93. This interaction is more important than any item on the list by itself.
+:94. The thing that is stuck is often not the object.
+:95. It is the web in which the object must function.
+:96. Take a manufactured item, pull gently, and watch what comes with it.
+:97. A domestic appliance is attached to a voltage, frequency, plug shape, safety regime, and supply of compatible parts.
+:98. It may also be attached to a manufacturer tooled for its housing, a distributor whose shelves fit its box, and repair shops that stock its components.
+:99. In a kitchen, it must meet cabinet dimensions, plumbing points, ventilation rules, and the expectations of buyers who have owned earlier versions.
+:100. The appliance can be redesigned far faster than this web can be renegotiated.
+:101. No single party owns the entire arrangement or can command all the others to move together.
+:102. Each strand is held by a different actor, and many of them have good reasons not to move first.
+:103. This is why isolated improvements can fail even when they are demonstrably better on one dimension.
+:104. The surrounding system asks a harder question: better at what, for whom, and at what cost of transition?
+:105. Present performance, compatibility, safety, price, and adaptability can point toward different choices.
+:106. That is a trade-off, not automatically path dependence.
+:107. The path-dependent part appears when earlier commitments change which compromise can now be reached and how much it costs to reach it.
+:108. The distinction matters because not every old technology is trapped by its history.
+:109. A hand tool with few complements can be redesigned and replaced without reorganizing an industry.
+:110. Even a deeply embedded system can change when the gains are large, the transition can be staged, or an authority can coordinate the participants.
+:111. Lock-in means high and self-reinforcing switching costs, not literal permanence.
+:112. Nor does an old origin by itself prove path dependence.
+:113. A century-old design that remains because it still performs best under current physical constraints may have history without a historically narrowed option set.
+:114. Conversely, a new design can already be path dependent if rapid adoption has filled its surroundings with complementary investments.
+:115. Age is a poor measure of entanglement.
+:116. The transition from mechanical power to electric motors in factories shows the difference between acquiring a new device and entering its larger possibility space.
+:117. In many steam- and water-powered plants, a central engine turned line shafts that distributed motion through belts to individual machines.
+:118. Early electrification did not always sweep that layout away.
+:119. Some plants used an electric motor to drive existing groups of shafts and belts because the building, machines, and work routines were already organized around them.
+:120. That choice captured part of electricity's value while preserving much of the inherited production system.
+:121. Individual electric motors later allowed machines to be placed according to production flow rather than proximity to a mechanical power train.
+:122. Realizing that advantage could require new machinery, wiring, floors, work sequences, maintenance skills, and management practices.
+:123. The pace and productivity effects varied among industries and plants, so there was no single universal delay between electrification and reorganization.
+:124. The general lesson is narrower and stronger.
+:125. Installing a new component does not instantly rewrite the complementary system that determined how the old component was used.
+:126. The first version of a new technology may therefore resemble what it replaces because compatibility makes adoption possible.
+:127. That resemblance need not arise from timidity or a failure of imagination.
+:128. It can be a bridge across a transition whose costs would otherwise block the new technology altogether.
+:129. Once adopted, however, the bridge may become another part of the destination.
+:130. New suppliers optimize it, workers master it, regulators formalize it, and later designers treat it as a starting condition.
+:131. A temporary compromise can thus become a durable architecture through learning and complementary investment.
+:132. The same process helps explain why technical progress is not simply a climb toward the best possible object.
+:133. Progress is real, because technologies can acquire capabilities, reliability, and efficiency that earlier systems lacked.
+:134. Yet improvement occurs within a space of options whose accessible regions change as systems develop.
+:135. Standardization opens one region by creating compatibility, scale, cumulative learning, and confidence.
+:136. At the same time, it can make unchosen regions harder to finance, build, staff, test, and service.
+:137. Exclusion is not merely the dark side of standardization.
+:138. Some exclusion is what makes coordination possible, because a system in which every component follows a private specification is barely a system at all.
+:139. Shared electrical rules permit appliances to be sold beyond a single workshop and allow inspectors to test them against common safety requirements.
+:140. Common interfaces let manufacturers improve one component without redesigning everything connected to it.
+:141. A lamp can change its light-producing technology while retaining a socket that buildings already provide.
+:142. A stable interface can therefore preserve more possibilities inside the boundary it fixes.
+:143. This is a productive lock-in: it constrains one dimension in order to support variety and improvement in others.
+:144. The same lock-in becomes troublesome when the fixed boundary blocks valuable changes, imposes unequal costs, or makes failure propagate through too many dependent systems.
+:145. Dominance alone reveals neither condition.
+:146. A widespread technology is not proved superior by its success, because timing, compatibility, price, backing, and chance also shape adoption.
+:147. The romantic opposite is equally careless.
+:148. A defeated alternative was not necessarily better merely because its loss makes a satisfying story.
+:149. Most durable standards solve real problems, and many neglected alternatives carried disadvantages that later retellings omit.
+:150. The honest judgment is demanding because it requires reconstructing the options, evidence, and incentives available when commitments were still reversible.
+:151. Hindsight turns contingent outcomes into obvious victories and makes abandoned routes look more coherent than they were.
+:152. Timing creates a deeper difficulty for deliberate design.
+:153. Early in the life of a technology, little has been built, few people are trained, and several architectures may still be affordable.
+:154. That is when choices are easiest to reverse.
+:155. It is also when users and designers know least about how the technology will behave at scale, which failures will matter, and which applications will emerge.
+:156. Much of the missing knowledge comes only from deployment, repair, misuse, and improvement.
+:157. By the time that knowledge arrives, factories, skills, rules, and dependent products may already embody the first choice.
+:158. The question has not closed completely, but the price of asking it again has risen.
+:159. This is not simply a failure of foresight.
+:160. It is a structural tension in learning by doing: commitment produces information, and the same commitment makes later revision more expensive.
+:161. The tension grows with entanglement, but not according to a universal formula.
+:162. A technology connected to few other systems usually leaves more cheap neighboring options than one embedded in transport, energy, communications, or finance.
+:163. Size alone does not determine lock-in, because modular design and well-chosen interfaces can isolate changes.
+:164. A large system may remain evolvable if components can be replaced independently, data can be moved, and transition states can operate safely.
+:165. A small proprietary system may be surprisingly binding if it controls essential records or lacks an exit path.
+:166. Evolvability is therefore not the absence of standards.
+:167. It is the capacity to keep making workable changes without destroying the functions on which people depend.
+:168. Modular components, documented interfaces, spare capacity, and overlapping transition periods can help preserve that capacity.
+:169. They are not free.
+:170. Modularity may sacrifice compactness or performance, compatibility layers need maintenance, and a second option consumes money before anyone knows whether it will be needed.
+:171. Such costs are paid now, while the benefit consists partly of future choices that remain possible.
+:172. Designed systems differ from organisms precisely because people can sometimes accept that bill deliberately.
+:173. They still cannot guarantee which reserve, interface, or alternative a future environment will require.
+:174. Intention makes path changes possible, not omniscient.
+:175. The keyboard under a writer's hands belongs to the same family as the plug in the traveler's pouch.
+:176. Its arrangement is not carried by the plastic keys alone but by learned movements, labels, software mappings, shortcuts, school instruction, workplace equipment, and the need to use other people's machines.
+:177. Replace the keyboard, and most of that web remains in place.
+:178. Keep the interface, and almost everything behind it can change without asking the writer to relearn the alphabet.
+:179. The object is both an anchor and a hinge.
+:180. That double role is the central fact of technical inheritance.
+:181. Coordination binds because it creates value, and the value it creates gives each participant a reason to preserve the arrangement.
+:182. Any single strand may be altered, and a carefully staged transition may alter many of them.
+:183. What cannot be done cheaply is to pretend the strands are not connected.
+:184. The adapter in the pouch is not evidence that engineers stopped thinking a century ago.
+:185. It is evidence that every new design enters a world already wired for something else.

@@ -1,0 +1,147 @@
+== 3.2 QWERTZ und die Macht der Gewöhnung ==
+
+:1. Somewhere near you, probably within arm's reach, is a sheet of glass with letters painted on it.
+:2. It has no moving parts, no levers, no springs, and nothing inside it can jam.
+:3. The letters are arranged in an order that begins, along the top row, with Q, W, E, R, T, and then either Y or Z, depending on the language settings.
+:4. That family of arrangements took shape in the 1870s around machines whose thin metal typebars swung toward paper.
+:5. The arms are gone.
+:6. The jamming problem is gone.
+:7. The pivots, springs, ink ribbon, and most of the physical apparatus surrounding the early arrangement have disappeared as well.
+:8. The arrangement stayed.
+:9. It traveled through mechanical typewriters, electric typewriters, teleprinters, computer terminals, personal computers, laptops, phones, and touchscreens.
+:10. The object under your fingers therefore presents a genuine historical puzzle, although not quite the tidy fable often told about it.
+:11. The story begins with Christopher Latham Sholes, a Wisconsin printer, editor, and inventor who worked with Carlos Glidden, Samuel Soulé, and the promoter James Densmore on an early writing machine.
+:12. A patent issued to Sholes, Glidden, and Soulé in 1868 shows a machine with a circular assembly of typebars and a keyboard unlike the modern one.
+:13. Other surviving evidence indicates that an early keyboard placed letters in a nearly alphabetical order across piano-like rows.
+:14. The inventors did not move from that starting point to QWERTY in one inspired leap.
+:15. They altered the machine repeatedly while struggling with alignment, paper movement, printing visibility, and the coordination of keys with typebars.
+:16. On an upstrike machine, the bars hit the underside of the paper carriage, so the operator could not watch each character appear.
+:17. Typebars could also collide or stick near the printing point when the mechanism was driven too quickly or awkwardly.
+:18. Those facts gave the designers reasons to care about which bars moved in close succession.
+:19. They do not prove the popular claim that Sholes deliberately scrambled the alphabet to make typists slow down.
+:20. A layout intended merely to suppress speed would have been a peculiar selling point for a machine advertised as faster than handwriting.
+:21. More important, the physical arrangement of surviving early machines does not consistently separate all common English letter pairs.
+:22. The familiar claim turns a messy design history into a single-purpose tale that the documentary record cannot support.
+:23. Telegraphy offers a more substantial part of the explanation.
+:24. One early machine went to Edward Payson Porter, who ran a telegraph college in Chicago, and later prototypes were demonstrated to people in the telegraph business.
+:25. Historians Koichi and Motoko Yasuoka have argued from machines, patents, correspondence, and American Morse practice that telegraph receivers helped shape several changes in the keyboard.
+:26. In American Morse, some signals could remain ambiguous until more characters arrived, which made the placement of particular letters practically important to an operator transcribing a message.
+:27. Yet this account should not be promoted into a replacement legend with one clean cause.
+:28. The Yasuokas themselves describe a winding sequence involving inventors, telegraph users, manufacturers, patent constraints, and changing typing methods.
+:29. The precise contribution of each pressure remains debated because the evidence is incomplete and some intermediate layouts must be reconstructed.
+:30. In March 1873, Densmore contracted with E. Remington and Sons to manufacture the substantially revised Sholes and Glidden machine.
+:31. Remington put the first commercial model on the market in 1874, and its capital-letter keyboard was recognizably QWERTY but not yet identical to every later version.
+:32. Further mechanical and keyboard changes followed, including the arrival of a shift mechanism on the Remington No. 2 in 1878.
+:33. A charming detail is often added at this point: the letters in TYPEWRITER can all be found on the top row.
+:34. The observation is true, but the claim that Remington arranged the row so salesmen could perform that trick lacks secure evidence.
+:35. Such stories are appealing because they provide an author, an intention, and a date.
+:36. What the record provides instead is a succession of revisions, each made within a machine and a market that were also changing.
+:37. No participant needed to intend the arrangement to survive for a century and a half.
+:38. Survival became more likely only after the arrangement escaped from the machine that first carried it.
+:39. During the 1880s and 1890s, rival typewriters used different printing mechanisms and offered competing keyboards.
+:40. Some designs avoided typebar collisions altogether, so the original mechanical problem did not dictate the future standard.
+:41. If mechanical necessity had been the only force at work, QWERTY might have vanished with the mechanism that favored it.
+:42. Instead, typing became part of a larger system of work.
+:43. Touch typing emerged in the late 1880s, and schools, manuals, contests, and employers began to organize training around particular finger movements.
+:44. A keyboard that had once been searched visually became one that trained operators could use without looking at the keys.
+:45. That advance stored the layout in human skill.
+:46. Training also created an asymmetry between people and machines.
+:47. A manufacturer could change the letters printed on new keytops more cheaply than an experienced typist could rebuild a practiced sequence of movements.
+:48. Employers therefore preferred machines that trained applicants already knew.
+:49. Students preferred to learn the layout used by prospective employers.
+:50. Schools found it cheaper to teach the layout demanded by both groups, and their graduates enlarged the pool of compatible labor.
+:51. Each choice made the next similar choice a little safer and a competing choice a little riskier.
+:52. This was positive feedback, not merely the passage of time.
+:53. The growing installed base lowered the cost of finding trained operators, buying familiar machines, and providing standardized instruction.
+:54. It also raised the expected cost of choosing a layout that fewer people and firms could use.
+:55. By the mid-1890s, major producers were converging on the four-row arrangement marketed as the Universal keyboard.
+:56. The name described an aspiration before it described a fact, but standardization helped make the aspiration true.
+:57. Economist Paul David later called attention to three interacting forces in this history: compatibility among parts of the system, economies created by widespread use, and investments in learning that could not be recovered simply by switching.
+:58. The combination is more informative than any claim about a deliberately bad design.
+:59. It explains how an early lead could reshape the cost of later choices even after competing hardware became available.
+:60. It also explains why the keyboard's history is not just a story about habit.
+:61. A private habit can disappear when one person decides to change it.
+:62. A standard is distributed across the expectations and investments of many people who must continue to work together.
+:63. The distinction becomes visible in the national variants of the keyboard.
+:64. German-language layouts commonly exchange Y and Z and provide direct access to umlauts and the letter ß, while French-language users commonly encounter AZERTY arrangements.
+:65. These are not fresh designs built from first principles for each language.
+:66. They are local revisions of an inherited family, adjusted where a language community had enough reason and coordination to move together.
+:67. The boundary between QWERTY and QWERTZ is therefore less like a wall than a seam.
+:68. Some changes crossed that seam because key manufacturers, teachers, publishers, employers, and users converged on them within a shared market.
+:69. More radical changes had to compete not with an isolated keyboard but with an entire population of compatible hands and machines.
+:70. Local adaptation remained possible while replacement of the underlying pattern became expensive.
+:71. The best-known attempt at replacement began with August Dvorak and William Dealey, who filed a patent application for their English-language keyboard in 1932 and received the patent in 1936.
+:72. Their design placed heavily used letters on the home row and sought to distribute work efficiently between the hands.
+:73. It was a systematic response to measured letter frequencies and to ideas about the motions involved in skilled typing.
+:74. On a diagram, it looks more deliberate than QWERTY because its organizing principles are easier to state.
+:75. A clear principle, however, does not by itself establish a superior working system.
+:76. Superiority might mean higher maximum speed, faster learning, fewer errors, less finger travel, greater comfort, lower strain, or easier compatibility with existing work.
+:77. Those goals overlap, but they are not identical.
+:78. A layout can reduce calculated finger travel without producing the same proportional gain in real transcription, composition, or editing.
+:79. Skilled typing depends on patterns of movement, anticipation, language, error correction, and the cognitive task that produces the words.
+:80. The keyboard is one constraint in that performance, not the entire explanation of it.
+:81. Dvorak and his supporters reported striking improvements, and wartime work associated with the United States Navy became the most famous evidence for rapid retraining gains.
+:82. Those claims later acquired the authority of experimental fact in popular accounts of QWERTY.
+:83. The evidence is weaker than that reputation suggests.
+:84. The Navy work was conducted under Dvorak's supervision, involved limited groups, and has been criticized for its controls, comparisons, and reporting.
+:85. A 1956 study for the General Services Administration retrained ten experienced QWERTY typists on Dvorak while giving a comparison group further QWERTY training.
+:86. Its results did not show Dvorak retraining outperforming continued training on the established layout during the study period.
+:87. That small government experiment did not settle every question about lifetime performance or comfort either.
+:88. It did show how much the answer depends on whom one trains, for how long, for which task, and against what comparison.
+:89. In 1982, Donald Norman and Diane Fisher reported simulations in which Dvorak improved predicted expert performance by about five percent over QWERTY, far below the dramatic gains often advertised.
+:90. A simulation of keying constraints is useful evidence about a mechanism, but it is not a century-long field experiment.
+:91. Claims about comfort and repetitive strain are even harder to isolate because posture, keyboard geometry, workload, breaks, force, and individual physiology also matter.
+:92. The responsible conclusion is not that Dvorak offers no benefits.
+:93. It is that the size and kind of any advantage remain sensitive to the measure and the evidence.
+:94. This uncertainty produced an unusually revealing argument in economics.
+:95. David's 1985 account made QWERTY a central example of how increasing returns and learning can lock in a technical standard.
+:96. In 1990, Stan Liebowitz and Stephen Margolis challenged both the historical narrative and the evidence that Dvorak was decisively better.
+:97. Their criticism weakened the popular story in which an obviously inferior keyboard defeated an obvious superior.
+:98. It did not make the installed skills, compatibility effects, and coordination costs disappear.
+:99. The two questions must be kept separate.
+:100. One asks whether QWERTY is worse than a specified alternative by a specified measure.
+:101. The other asks whether earlier adoption changed the cost and probability of adopting alternatives later.
+:102. Evidence for the second does not prove the first.
+:103. Conversely, uncertainty about the first does not erase the second.
+:104. A lock-in can be real even when the locked-in standard is adequate and the challenger is only marginally better, better for some users, or not better at all.
+:105. Indeed, a useful common standard may be stable precisely because it provides value every day.
+:106. Modern software makes the distinction sharper.
+:107. On many devices, an individual can change the logical keyboard layout through a setting rather than replacing any machinery.
+:108. The letters on physical keycaps may then disagree with the characters produced, but touch typists can operate without relying on those labels.
+:109. This cheap remapping proves that QWERTY is not a physical constraint and that its lock-in is not absolute.
+:110. People do switch to Dvorak, Colemak, and other layouts, and some become proficient on more than one.
+:111. Their success is a counterexample to the claim that an acquired layout cannot be changed.
+:112. It is not a counterexample to path dependence.
+:113. A person considering a switch must absorb a period of slower work, more errors, deliberate practice, and possible interference between learned patterns.
+:114. The person may also need to use shared computers, labeled shortcuts, workplace support systems, examinations, or colleagues' devices designed around the familiar arrangement.
+:115. An organization faces a larger coordination problem because training, equipment, documentation, help desks, hiring, and temporary losses of output must move together.
+:116. The cost arrives early and visibly.
+:117. Any benefit arrives later, varies by task and user, and remains uncertain in size.
+:118. That distribution can make staying reasonable even for someone who believes another layout is somewhat better.
+:119. It also prevents the simple inference that continued use reveals technical perfection.
+:120. Market persistence shows that users value the whole compatible system more than the uncertain gain from changing one component at current prices.
+:121. It does not tell us how the two systems would have compared if generations had learned them under otherwise similar conditions.
+:122. There is no parallel world in which Dvorak, Colemak, or an unknown layout was taught in every school and installed in every office for a century.
+:123. One historical trajectory is not a controlled comparison.
+:124. This is why the most careful lesson from the keyboard is narrower and stronger than the familiar fable.
+:125. The obscure sequence that produced QWERTY may never be reconstructed with a single agreed explanation.
+:126. The mechanisms that helped preserve its descendants are much easier to see.
+:127. Learned motor patterns made switching personally costly, widespread compatibility made the established layout collectively useful, and expectations about other users reinforced both effects.
+:128. None of those mechanisms requires a villain, a conspiracy, or a foolish consumer.
+:129. Nor do they require the original arrangement to have been the worst one available.
+:130. They require only that adoption today alter the relative cost of adoption tomorrow.
+:131. A brief comparison with other standards confirms the pattern without making every standard another keyboard.
+:132. Railway gauges bind through track, rolling stock, stations, and freight connections, while electrical systems bind through generators, appliances, wiring, and safety rules.
+:133. Keyboard layouts bind far more heavily through acquired human skill and coordination than through immovable capital.
+:134. Because the carriers of the past differ, the cost and method of change differ as well.
+:135. The keyboard's lighter infrastructure leaves room for gradual migration, optional layouts, bilingual users, and new input methods.
+:136. That remaining flexibility matters because lock-in means a raised cost of transition, not an impossibility of movement.
+:137. Return now to the sheet of glass.
+:138. Its software can redraw every key in an instant, yet it usually opens with the arrangement inherited from the mechanical age.
+:139. Keeping that arrangement saves billions of users from relearning a basic interface and lets them move among devices with little preparation.
+:140. The same benefit reduces the reward for developing, teaching, labeling, and supporting alternatives.
+:141. Stability and constraint are produced by the same compatibility.
+:142. The dead typebars do not reach forward and command the touchscreen.
+:143. They helped select a starting arrangement from which training, manufacture, institutions, and expectations accumulated.
+:144. History did not make every later keyboard inevitable, but it changed which keyboards were cheap, familiar, visible, and worth coordinating around.
+:145. The machine forgot its old limitation long ago, while the system built around its solution kept remembering.

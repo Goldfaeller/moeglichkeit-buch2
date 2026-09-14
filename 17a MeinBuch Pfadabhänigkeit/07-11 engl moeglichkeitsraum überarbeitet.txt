@@ -1,0 +1,122 @@
+== 7.11 Recht als Altcode ==
+
+:1. On the first working day of 2024, a German benefits officer could have opened two claims arising from similar acts of violence and found that they belonged to different legal worlds.
+:2. A claim filed before the turn of the year still had to be decided under the old compensation law, even if the office had not yet finished the case.
+:3. A claim filed after midnight generally entered the new Fourteenth Book of the Social Code, although the injuring event itself might have occurred years earlier and the new statute could still require the officer to ask whether the claimant had met the rules in force when the harm occurred.
+:4. Meanwhile, many people whose benefits had already been conclusively established continued to receive them under the law as it stood on December 31, 2023, and although they could choose the new system in defined circumstances, the choice was not a reversible trial run.
+:5. One reform had therefore created several legitimate versions of the past that the administration had to keep running at once.
+:6. This was not an oversight left behind by careless drafters.
+:7. The new code replaced a compensation structure whose central statute dated from 1950 and had originally been designed for war victims and their survivors.
+:8. Over the decades, that structure had been extended or used as a reference point for groups whose injuries and needs differed greatly from those of its first beneficiaries.
+:9. By the twenty-first century, civilian victims of violence, people harmed during civilian service, and people with recognized vaccine injuries were among those connected to rules rooted in the postwar settlement.
+:10. The legislature wanted benefits better suited to this changed population, including quicker assistance and a clearer organization of entitlements.
+:11. Yet simply deleting the old scheme would have endangered claims, medical findings, payment histories, and expectations on which real lives depended.
+:12. The reform thus had to break with an inherited design while preserving selected outputs of that design.
+:13. Software offers a useful language for this predicament.
+:14. Programmers call an old but still operational body of software legacy code, a term that captures both inheritance and burden.
+:15. Such code may look awkward because successive teams added functions that its first designers never anticipated.
+:16. Replacing one component can then disturb another because programs communicate through interfaces and rely on dependencies that are not always visible from inside the component being changed.
+:17. A regression occurs when an alteration that improves or repairs one function unexpectedly causes a previously working function to fail.
+:18. Law also accumulates rules, exceptions, definitions, procedures, and cross-references, and an amendment in one place can change consequences elsewhere.
+:19. The analogy makes legal growth easier to see because it shifts attention from the age of an isolated sentence to the network in which that sentence operates.
+:20. The network, not mere antiquity, creates the path dependence.
+:21. A benefit rule may depend on a definition of income in another statute, a medical classification in a regulation, an application procedure shared across agencies, and a line of judicial decisions explaining ambiguous cases.
+:22. Administrators build forms and routines around those connections, courts develop tests for reviewing them, lawyers learn where disputes recur, and recipients arrange work, care, or housing around the resulting decisions.
+:23. Each adaptation makes the system more usable in its existing form while raising the cost of replacing it with a differently organized one.
+:24. This is an instance of increasing returns: prior use produces knowledge and complementary arrangements that make further use cheaper than a fresh start.
+:25. The rule is not locked in because its words are physically impossible to erase.
+:26. It is difficult to replace because erasure does not remove the functions, expectations, and neighboring rules that have grown around it.
+:27. Germany's attempt to codify social law shows how quickly the dream of a clean rewrite encounters these connections.
+:28. In 1972, the federal government presented a draft for a general part of a unified Social Code.
+:29. The stated goal was to make social law, then scattered across numerous individual statutes, easier for citizens to understand and easier for administrations and courts to apply.
+:30. The same proposal acknowledged that the size and difficulty of the undertaking required a staged process.
+:31. The first book, containing general principles and rights, was enacted in 1975 and entered into force in 1976.
+:32. Further books followed for common insurance rules, administrative procedure, health insurance, pensions, long-term care, employment support, social assistance, and other fields.
+:33. They did not arrive in numerical order, and their numbering records a plan whose pieces matured at different speeds.
+:34. More than four decades after the first book, the Fourteenth Book added the reformed law of social compensation.
+:35. The finished-looking row of Roman numerals is therefore less a monument erected at one moment than a construction site occupied across generations.
+:36. Staging made reform possible because common rules could be installed without waiting for every specialized field to be rebuilt.
+:37. It also meant that new books initially had to connect with statutes outside the code and with institutions designed under older law.
+:38. Some older provisions were absorbed, some were revised, some remained external, and some continued to govern inherited cases after their general repeal, yet the resulting layers are not evidence that the codification failed, since a single framework did improve consistency and accessibility across many areas.
+:39. They reveal instead that consolidation and continuity solve different problems.
+:40. Consolidation asks where rules should be stated and how they should fit conceptually.
+:41. Continuity asks what happens on Monday morning to a pending application, an existing payment, an agency's authority, and a judgment based on yesterday's text.
+:42. A code can become more coherent on the page while the transition needed to reach it becomes more elaborate in practice.
+:43. That transition is the legal counterpart of migrating data and maintaining interfaces during a software replacement.
+:44. The comparison is especially apt when a new benefit system must recognize an old medical finding rather than force a claimant to prove the same injury again.
+:45. It is apt when the new statute directs one agency to exchange specified information with a health insurer or borrows a payment rule from another book of the code.
+:46. It is apt when lawmakers preserve an established monthly amount even though the categories used to calculate future awards have changed.
+:47. In each instance, the interface carries something valuable across the break.
+:48. Removing it might make the statute shorter while making the institution less reliable.
+:49. Yet law is not software, and the differences are more than a polite disclaimer attached to a clever metaphor.
+:50. A computer interface is designed to transmit specified inputs and outputs, whereas a legal category distributes authority, money, protection, and risk among people who may reasonably disagree about the governing values.
+:51. Judges interpreting terms such as hardship or reasonable need are not debugging departures from a single executable intention.
+:52. They are giving public reasons within a system that permits argument, appeal, and sometimes a change in doctrine.
+:53. Nor can legal success be measured simply by whether the machinery continues to run, because a stable rule may administer an injustice with perfect consistency.
+:54. The language of legacy code identifies dependencies, but it cannot decide which inheritances deserve loyalty.
+:55. This limit supplies a useful countercheck against the lazy claim that every complicated statute is merely obsolete programming.
+:56. Some complexity comes from accumulated patches, but some protects distinctions that a simpler rule would flatten.
+:57. Different injuries, family situations, contribution histories, and capacities may require different treatment if equal law is to avoid indiscriminate results.
+:58. Conversely, a thicket of distinctions can become self-reinforcing when only specialists can navigate it and every repair is drafted in the vocabulary of the existing scheme.
+:59. The hard question is therefore not whether to preserve or rewrite the old code in the abstract, but how to discover which connections perform necessary work before cutting them.
+:60. A legal system must test that question while it remains responsible for every live claim moving through the structure.
+:61. That responsibility changes what a successful legal replacement can look like.
+:62. Engineers can sometimes test a duplicate system with copied data before directing real traffic through it, but lawmakers cannot reproduce a society in a sealed environment.
+:63. New provisions begin altering applications, negotiations, budgets, and litigation as soon as people expect them to govern.
+:64. The affected citizens are not sample inputs that can be discarded when a result exposes a flaw.
+:65. For that reason, old and new rules often operate in parallel, divided by dates, case status, age groups, or explicit choices.
+:66. What looks like untidy duplication may be the protective scaffolding of change, holding existing positions steady while new rules acquire an administrative life.
+:67. Transitional clauses function rather like version controls, identifying which rule governs which event without pretending that the past has vanished.
+:68. Their price is a period in which officials and citizens must understand more law, not less, because the boundary between versions becomes another rule that must be learned.
+:69. The 2024 compensation reform displays this architecture in unusually visible form.
+:70. It preserves benefits conclusively recognized under the former scheme, carries forward certain findings about injuries, and specifies how applications already in progress are to be completed.
+:71. For some recipients it converts a collection of older cash benefits into a protected monthly amount.
+:72. It also gives defined groups a choice to enter the new system while making clear that a completed choice cannot simply be withdrawn.
+:73. Elsewhere, the new book borrows procedures and payment standards from health, accident-insurance, rehabilitation, and administrative law.
+:74. It instructs public bodies which information to exchange because a legal entitlement cannot travel between institutions unless the institutions can identify the same person and the same recognized harm.
+:75. These provisions complicate the break precisely because they make the break workable without turning administrative simplification into private disruption.
+:76. The new structure is not independent of the old one; it is a bridge that knows what must cross.
+:77. Even careful bridges can carry defects into new territory or create fresh ones at their joints.
+:78. If lawmakers change a definition of income, the amendment may alter not only the visible benefit but also contribution duties, reporting obligations, reimbursement claims, and the treatment of households near a threshold.
+:79. If they broaden eligibility, the responsible agencies may need new medical expertise, staff, forms, budgets, and channels for sharing records.
+:80. If a new payment replaces several old payments, interactions with other benefits can change even when the replacement looks more generous in isolation.
+:81. A classification that works neatly for the typical case may misroute an unusual one whose protection used to depend on an exception buried elsewhere.
+:82. The statutory text contains no automatic test suite capable of presenting every family arrangement, injury history, procedural posture, and combination of entitlements before enactment.
+:83. Judicial precedents preserve knowledge about past disputes, but they do not amount to a complete catalog of future failures.
+:84. Some legal regressions become visible only after a live claimant reaches the seam.
+:85. A software defect may be rolled back overnight, whereas an unlawful refusal of treatment or income can consume months of a person's life before correction.
+:86. Administrations therefore need time to train staff, adapt information systems, publish guidance, and tell affected people what evidence they must provide.
+:87. Courts need actual disputes before they can clarify language whose ambiguity was invisible on the drafting table.
+:88. None of this grants inherited law a permanent veto, since caution can protect obsolete classifications and unjust exclusions as readily as legitimate expectations.
+:89. The Fourteenth Book itself proves that a deeply rooted scheme can be replaced when its organizing assumptions no longer fit its principal tasks.
+:90. The reform was enacted in 2019 but took full effect in 2024, leaving a substantial implementation interval rather than treating publication as instant transformation.
+:91. It introduced new forms of rapid assistance and case management while preserving selected old entitlements and findings.
+:92. A change of path became possible because political authorization, a developed alternative, administrative preparation, and transition protection arrived together.
+:93. Earlier investments raised the cost of movement and influenced the route taken, but they did not dictate immobility once the supporting conditions for a different route existed.
+:94. This case also exposes the fantasy hidden in the phrase “rewrite from scratch.”
+:95. The new statute still entered a constitutional order, a federal distribution of administrative responsibilities, a network of courts and insurers, and a Social Code whose other books supplied working concepts and procedures.
+:96. It inherited files, personnel, budgets, medical assessments, and claims produced before its own effective date.
+:97. Its drafters could redesign a branch of law, but they could not choose an empty institutional world in which to install it.
+:98. Successful replacement therefore depends less on escaping every inheritance than on choosing inheritances consciously and building interfaces for the rest.
+:99. Not every rule that survives this process is path-dependent, even when its long history makes that diagnosis rhetorically tempting.
+:100. Some provisions endure because the underlying problem remains and the old solution continues to perform well.
+:101. Some complexity reflects the genuine diversity of injuries, households, work histories, and administrative tasks rather than the sequence in which legislation accumulated.
+:102. A stronger claim of path dependence requires a mechanism by which an earlier choice changed the cost, visibility, or practical availability of later alternatives.
+:103. Training tied to existing categories, databases built around inherited definitions, precedents that stabilize expectations, and organizations funded to administer one scheme supply such mechanisms.
+:104. A resource limit or constitutional requirement that would constrain any historical sequence does not, although history may still determine how that constraint is expressed.
+:105. Nor is a familiar rule locked in merely because lawmakers reconsider it and still prefer it.
+:106. The distinction becomes harder because the inherited system shapes the very process of reconsideration.
+:107. Specialists perceive problems through concepts they were trained to use, reform drafts borrow definitions that already have settled interpretations, and political coalitions form around benefits that the current system has made concrete.
+:108. An alternative expressed in entirely different categories may be difficult to compare, cost, or even describe within the available administrative language.
+:109. Here the legal path narrows possibility before any formal vote occurs, partly by determining which alternatives arrive at the legislature already translated into workable provisions.
+:110. It does not eliminate choice, but it makes nearby modifications more legible and radical redesigns more uncertain.
+:111. The legacy-code metaphor is strongest when it prompts reformers to map dependencies, inspect interfaces, preserve necessary records, and search for regressions beyond the provision being amended.
+:112. It is weakest when it suggests that law has one owner, one purpose, and one objectively correct output.
+:113. A program can be judged against a specification, while a statute is also a public settlement among values and interests that no specification can fully reconcile.
+:114. What one group calls a bug may be another group's protection against concentrated power, abrupt loss, or indiscriminate treatment.
+:115. Deleting that protection is a political and legal judgment, not a technical cleanup.
+:116. Still, the discipline behind careful software replacement has a legal counterpart: trace the connections before severing them and observe effects before declaring the migration complete.
+:117. Impact assessments, staged commencement, review clauses, pilot arrangements, judicial scrutiny, and protected transitions can expose different kinds of failure, although none reproduces a laboratory test.
+:118. Every safeguard consumes time and may add another layer to the structure it is meant to improve.
+:119. That is the final paradox of law as legacy code: the means of changing it safely can deepen the history that future reformers must understand.
+:120. A mature legal order therefore approaches a major rewrite not as the demolition of an abandoned building but as the reconstruction of an occupied bridge, where the continuing weight of traffic makes a deliberate pace part of reaching the other side.

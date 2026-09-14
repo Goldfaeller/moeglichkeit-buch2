@@ -1,0 +1,122 @@
+== 8.5 Zwei Wege zum Scheidungsrecht ==
+
+:1. A spouse seeking a divorce in West Germany in the early 1970s entered a courtroom with a peculiar legal task: the marriage had failed in life, but failure alone might not be enough in law.
+:2. The petition had to turn years of intimacy into allegations that fit recognized categories such as adultery, desertion, or serious marital misconduct.
+:3. A lawyer therefore needed dates, witnesses, letters, and episodes that could establish not merely that the spouses no longer wished to live together, but that one of them had violated marital duties.
+:4. Across the inner-German border, a spouse could ask an East German court a different question: had the marriage lost its meaning for the partners, their children, and society?
+:5. Both proceedings examined a broken relationship, yet each legal vocabulary made some facts decisive and pushed others toward the margins.
+:6. That difference is where a rule becomes a path.
+:7. A fault-based system treats divorce principally as a legal response to a proven breach by one spouse, although real statutes have often contained exceptions and mixtures rather than one pure principle.
+:8. A breakdown system asks instead whether the marital community has ceased to exist and is unlikely to be restored, without making moral blame the ordinary gateway to dissolution.
+:9. A state-shaped conception of marriage adds another dimension by judging the union not solely as a private bond but also by the social functions the legal order expects it to perform.
+:10. These three ideas can overlap, and the history of German divorce law makes little sense if they are arranged as simple stages from repression to freedom.
+:11. Fault law did more than preserve a moral doctrine.
+:12. It altered the incentives inside litigation because the finding of guilt could determine whether a divorce was granted and could also affect maintenance and other consequences.
+:13. A petitioner who wanted to leave thus had reason to emphasize the other spouse's worst conduct, while a respondent hoping to preserve financial claims had reason to contest that narrative or redirect blame.
+:14. When both spouses wanted the marriage dissolved, the law could still press them to present an adversarial story in which one appeared legally responsible.
+:15. That pressure did not mean every allegation was fabricated, and surviving case files cannot tell us how candid every household was.
+:16. It did mean that the procedure selected and amplified evidence of wrongdoing even when mutual estrangement was the more accurate description of what had happened.
+:17. The courtroom record could then seem to confirm the premise on which the procedure was built: marriages ended because a culpable spouse had broken them.
+:18. Here the feedback was institutional rather than psychological, for a category shaped pleadings, proof, judgments, and eventually the stock of examples through which lawyers understood later cases.
+:19. The rule also created unequal bargaining power outside court.
+:20. A spouse who could credibly threaten a damaging allegation, resist the divorce, or jeopardize the other's maintenance position possessed leverage that did not arise simply from the couple's emotional conflict.
+:21. Yet replacing fault with breakdown could not make divorce consequence-free, because homes, income, pensions, parental care, and children's daily lives still had to be divided or reorganized.
+:22. The history therefore turns on two questions rather than one: what justified ending the legal bond, and how the costs of ending it were distributed.
+:23. In 1946 the Allied Control Council enacted Marriage Law Number 16 for all four occupation zones, replacing the National Socialist marriage statute while retaining a combination of fault grounds and a route based on deep marital breakdown after prolonged separation.
+:24. The two German states consequently did not begin with opposite codes neatly designed for a future comparison.
+:25. They inherited the same postwar framework amid displaced populations, missing spouses, ruined housing, disrupted livelihoods, and marriages strained by war and separation.
+:26. Those conditions mattered because demand for divorce, economic dependence, and the feasibility of forming separate households were never products of doctrine alone.
+:27. The common starting point also contained more than one possible future.
+:28. Legislators could strengthen fault, expand breakdown, redesign the consequences, or preserve a mixed system, and no result in 1946 made the later divergence inevitable.
+:29. The first decisive eastern move came after the German Democratic Republic declared the Allied legislation no longer applicable in its territory.
+:30. Its Ordinance on the Conclusion and Dissolution of Marriage, issued on November 24, 1955, abandoned enumerated fault grounds as the legal basis for divorce.
+:31. Section 8 directed a court to dissolve a marriage when serious reasons showed that it had lost its meaning for both spouses, their children, and society.
+:32. This was a breakdown principle, but not a declaration that marriage belonged only to the individuals inside it.
+:33. The court was expected to investigate the development of the marriage and evaluate whether reconciliation remained possible, while official doctrine presented stable family relations as a concern of the socialist community.
+:34. Removing fault from the formal threshold therefore widened one route out of marriage while preserving a strong public judgment about what marriage was for.
+:35. The change illustrates why an early no-fault rule is not automatically liberal-individualist.
+:36. It can reduce the need to prove a partner's offense and still authorize institutions to assess the social value of the relationship.
+:37. East German judges were not simply clerks recording private consent, and the state did not treat the spouses' present wishes as the only relevant fact.
+:38. Courts were instructed to examine causes, the interests of children, and the wider meaning of the union, and legal institutions also pursued an educational role in socialist family policy.
+:39. The new route was thus easier in one dimension and more directive in another.
+:40. That combination resists the tempting scoreboard on which whichever Germany abolished fault first must have possessed the more autonomous model of marriage.
+:41. The Family Code adopted on December 20, 1965, and effective on April 1, 1966, consolidated the eastern path rather than initiating it.
+:42. Its Section 24 retained the test of serious reasons showing that the marriage had lost its meaning for the spouses, the children, and thereby society.
+:43. It also required careful inquiry into the marriage's development and special attention to the interests of minor children and possible intolerable hardship to a spouse.
+:44. The code placed this rule inside an explicit vision of the socialist family, gender equality, productive work, collective support, and parental responsibility for raising children as members of society.
+:45. That framework offered women formal equality and was connected to extensive female employment and public childcare, but formal equality did not erase the unequal burden of household labor or the practical strain of combining paid work and care.
+:46. Nor did a judicial finding of breakdown automatically settle who received the home, who raised the children, or how a temporarily dependent former spouse would live.
+:47. The eastern reform changed the gateway to divorce sooner than it changed every dependency surrounding marriage.
+:48. West Germany, meanwhile, continued to use the 1946 Marriage Law, with fault grounds at its center and a breakdown provision that could operate after extended separation.
+:49. This was not a perfectly pure fault regime, and calling it one without qualification hides the escape route already present in the inherited statute.
+:50. But the exception did not neutralize fault, because objections, waiting, the attribution of responsibility, and fault-linked financial consequences could still make the route slower or more costly.
+:51. The mixed structure endured partly because a divorce rule was embedded in a broader marital model rather than standing alone.
+:52. West German law long assumed a gendered division in which the husband was chiefly responsible for economic provision and the wife for the household, an arrangement that made post-divorce support inseparable from arguments about marital duties and blame.
+:53. Changing the ground for divorce without changing maintenance could expose a spouse who had organized a life around unpaid family work, while changing maintenance without changing the ground could leave the accusatory trial intact.
+:54. This was institutional complementarity: adjacent rules supported one another, so replacing one component disturbed the logic of the rest.
+:55. Reform accordingly took years of commission work, political argument, and bargaining rather than following automatically from changing private behavior.
+:56. A federal expert commission was established in 1968 and reported in 1970, and a government bill reached parliament in 1973.
+:57. The First Act to Reform Marriage and Family Law was enacted on June 14, 1976, with its central provisions taking effect on July 1, 1977.
+:58. It moved the ground for divorce into the Civil Code and stated the new core test with deliberate economy: a marriage could be dissolved when it had failed.
+:59. Failure meant that the spouses' marital community no longer existed and could not be expected to be restored.
+:60. By shifting the ordinary inquiry from culpable conduct to the condition of the relationship, the reform changed not only the legal answer but the kind of story the parties needed to tell.
+:61. The new provisions replaced the search for an offender with presumptions built around separation.
+:62. If spouses had lived apart for one year and both sought the divorce, or one consented to the other's petition, breakdown was conclusively presumed.
+:63. After three years apart, the presumption applied even without agreement.
+:64. Before one year had passed, divorce remained possible only when continuation would impose intolerable hardship for reasons connected with the other spouse.
+:65. These rules gave judges observable signs of failure without requiring them to reconstruct the moral history of a household.
+:66. They also made time a legal instrument: waiting protected against an impulsive dissolution, but it could prolong uncertainty for people whose relationship had plainly ended.
+:67. Even after blame left the gateway, conflict could migrate into disputes over money, housing, pensions, and children.
+:68. The western reform therefore attempted to redesign the consequences at the same time as the ground.
+:69. It began from the principle that each former spouse should generally provide for himself or herself, yet it did not pretend that every spouse emerged from marriage with the same earning capacity.
+:70. Statutory grounds for maintenance covered such conditions as caring for a child, age, illness, unemployment, interrupted education, and other serious inequities.
+:71. The relevant question was no longer ordinarily who had ruined the marriage, but whether marital arrangements had left one partner unable to support an independent life.
+:72. The new pension equalization divided retirement entitlements accumulated during the marriage, recognizing that one spouse's unpaid work could have enabled the other's insured employment.
+:73. This mattered because a monthly maintenance order addresses current income, whereas pension credits carry the history of a marriage into old age.
+:74. Fault disappeared from the main architecture of dissolution, but dependency did not disappear with it.
+:75. The reform instead tried to translate a moralized allocation of loss into a needs-based and marriage-related allocation, a change that reduced some strategic accusations while opening difficult arguments about economic responsibility.
+:76. East German law organized the same problem around a different expected life course.
+:77. The Family Code assumed that able adults, women as well as men, would normally earn their own living, an assumption consistent with state policy favoring female employment.
+:78. Section 29 allowed maintenance when a former spouse could not support himself or herself because of illness, child-rearing, or other reasons, ordinarily for a transitional period of no more than two years.
+:79. An indefinite award was possible when the recipient could not be expected to secure an income and continued payment was reasonable in the circumstances.
+:80. The ordinary limit made exit less likely to produce a long private financial bond, but it also transferred more of the risk of divorce to a spouse whose earnings were weak.
+:81. Employment policy and childcare provision were therefore not background scenery; they were functional complements that made the legal expectation of self-support more realistic than the same words would have been in a society organized around a male breadwinner.
+:82. Those supports were substantial, yet they were neither universal solutions nor evidence that care work was equally shared inside homes.
+:83. Moreover, the eastern code allowed the development of the marriage and the circumstances leading to separation to influence maintenance, so conduct did not vanish from every corner of the law.
+:84. The removal of fault from the right to divorce was consequently more complete than its removal from judicial evaluation.
+:85. This is a finer divergence than the familiar contrast between a permissive East and a conservative West suggests.
+:86. Children made the limits of any simple no-fault label still clearer.
+:87. Under Section 25 of the East German Family Code, the divorce court transferred parental educational authority to one parent and decided the child support owed by the other, guided by the child's further upbringing and development.
+:88. Parents were invited to submit proposals, but the court could seek the views of the youth welfare authority when agreement was absent or further inquiry seemed necessary.
+:89. The parent without educational authority retained a right of personal contact, subject to regulation or restriction when the child's development required it.
+:90. The arrangement treated divorce as a reorganization of continuing parental duties, not merely the termination of a contract between adults.
+:91. West Germany's 1977 reform likewise joined divorce and its consequences before newly created family courts, replacing a fragmented allocation of matters among different courts.
+:92. At that time, however, western law still required parental authority after divorce to be assigned to one parent, a categorical rule the Federal Constitutional Court invalidated in 1982 because it excluded joint custody even when parents could responsibly exercise it.
+:93. That later correction reveals another path mechanism: a reform may remove one inherited category while leaving a neighboring assumption in place until a new case makes its cost visible.
+:94. In both states, the movement away from marital fault gradually separated the question of whether the spouses could remain married from the question of what arrangement served their children.
+:95. Yet the same word, breakdown, rested on different judicial roles, welfare institutions, employment patterns, and ideas about the relationship between family and state.
+:96. The distribution of exit costs exposes those differences more reliably than the formal ground for divorce by itself.
+:97. A person with wages, childcare, and access to housing possesses a practical option that a formally identical divorce statute may not give to someone without them.
+:98. In the East, women's employment and an expanding public childcare system reduced some forms of dependence on husbands and made postmarital self-support more plausible.
+:99. They could also create a double burden when paid employment did not bring an equal division of domestic work.
+:100. These conditions could help explain why divorce was more accessible and more common, but they cannot establish that any single statute caused the difference.
+:101. In the West, a spouse who had spent years outside paid employment could face a steeper loss of earnings and pension accumulation, even after the law recognized a right to leave a failed marriage.
+:102. Maintenance grounds and pension equalization were attempts to keep that accumulated specialization from becoming an absolute barrier to exit.
+:103. Law and social organization thus coevolved: family roles created demands on divorce law, while divorce law altered the risks attached to choosing those roles.
+:104. This interaction supplies the strongest rival explanation to a purely doctrinal story.
+:105. Higher East German divorce rates do not prove that the breakdown formula alone liberated couples, just as lower western rates do not prove that fault rules alone held them together.
+:106. Religious affiliation, age at marriage, housing, employment, childcare, income, social expectations, demographic composition, and the possibility of remarriage all affected whether an unhappy union reached a court.
+:107. Legal rules could still matter by changing delay, proof, bargaining power, financial exposure, and the public meaning of the proceeding, even when they did not create the underlying conflict.
+:108. The divided Germany is therefore informative not because it supplies controlled laboratory conditions, but because the common inheritance lets us watch similar legal problems become attached to different institutional packages.
+:109. An earlier choice altered what later reformers had to change at once.
+:110. Fault-based procedure accumulated pleadings, professional habits, financial rules, and expectations about deservingness, while the eastern breakdown model accumulated its own investigative practices and links to employment and welfare policy.
+:111. Once those complements existed, copying a single provision from the other side would not have copied the system that made it work.
+:112. Path strength lay not in the age of a sentence in a statute but in the number and importance of the practices connected to it.
+:113. Some of those connections were valuable, because coordinated rules could protect children, compensate dependence, and make outcomes more predictable.
+:114. Others imposed avoidable costs by encouraging accusation, extending unwanted bonds, or treating one family form as the natural baseline.
+:115. By the late 1970s, both German states allowed divorce principally because a marriage had broken down rather than because one spouse had won a contest over guilt.
+:116. That convergence was real, but it was convergence at the level of one principle, not the merger of two family orders.
+:117. The eastern route had reached breakdown through a socially directive model tied to universal adult work, while the western route reached it through a broad reform that tried to reconcile individual exit with the economic legacy of marital specialization.
+:118. The important historical question is therefore not which state crossed a finish line first, but which earlier commitments made each available route easier, costlier, or invisible.
+:119. At the end of the proceeding, the court no longer needed to declare a moral loser, yet every order concerning time, income, pensions, housing, and children still carried the architecture of the society in which the marriage had been built.
+:120. The harder question was whether an entire civil code could be made to speak a new language without ceasing to perform the old tasks.

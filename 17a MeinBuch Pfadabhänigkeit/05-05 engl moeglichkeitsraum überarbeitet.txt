@@ -1,0 +1,122 @@
+== 5.5 Warum Menschen ihre Umwelt selbst erzeugen ==
+
+:1. When members of a New Zealand birth cohort reached eighteen, researchers asked them to describe enduring patterns in how they felt, acted, and dealt with other people.
+:2. Eight years later, the researchers returned to the same cohort and examined the kinds of work its members had entered.
+:3. For 910 participants with usable work information, the record linked late-adolescent personality to occupational status, responsibility, satisfaction, financial security, autonomy, and stimulation at age twenty-six.
+:4. The associations were not enormous, but they ran in a revealing direction.
+:5. Young people who had reported greater interpersonal warmth and positive engagement tended, on average, to find more satisfying and stimulating work and to attain somewhat higher-status positions.
+:6. Those who had described themselves as forceful, decisive, and achievement-oriented were more likely to acquire authority over resources and other workers.
+:7. The arrow also appeared to point back, because work experiences between eighteen and twenty-six were associated with changes in the very dispositions that had helped predict those experiences.
+:8. Greater responsibility, involvement, security, or status did not transform everyone alike, yet each was linked to particular shifts in confidence, emotional stability, sociability, or industriousness.
+:9. The researchers called the recurring pattern corresponsive: the traits that helped select an experience were often the traits that the experience subsequently reinforced.
+:10. This was not a laboratory experiment in which careers could be assigned at random.
+:11. It relied heavily on self-reports, followed one cohort in one place, and generally found modest effects, so it cannot establish that a certain job caused a certain personality change.
+:12. Family resources, education, health, local labor markets, and unmeasured abilities could have influenced both sides of the association.
+:13. Even with those cautions, the study exposes a mistake hidden in ordinary talk about character and circumstance.
+:14. We often picture personality as something carried into an environment, much as a traveler carries luggage into a hotel room.
+:15. Real environments are less passive than rooms, and people do more than occupy them.
+:16. They choose among situations, elicit responses from others, and gradually help construct the settings that will act upon them next.
+:17. Consider what a personal possibility space contains at the start of a working life.
+:18. It includes jobs a person can actually obtain, jobs that appear worth attempting, skills that can be credibly offered, places within reach, and risks that can be borne.
+:19. None of that menu was created by the individual alone.
+:20. Credentials, money, discrimination, family obligations, health, geography, and chance may remove an option before preference ever enters the calculation.
+:21. Within the remaining menu, however, earlier abilities and expectations alter what attracts attention and what seems plausible.
+:22. Someone practiced at explaining difficult material may notice openings in teaching, sales, management, or public service that another person, equally intelligent but differently practiced, scarcely considers.
+:23. A person who expects social encounters to go badly may pass over work built around strangers, while someone energized by such encounters may treat the same uncertainty as an invitation.
+:24. Neither response has to be conscious, and neither reveals an unchanging essence.
+:25. It is an act of selection shaped by a history.
+:26. Selection becomes path-dependent when choosing an environment changes the terms of later choice.
+:27. The novice who accepts a role involving clients gets repeated practice in reading faces, recovering from awkward exchanges, and speaking without a script.
+:28. Supervisors then possess evidence that this person can handle another client, so they are more likely to offer the next assignment.
+:29. The assignment adds skill, visibility, contacts, and a stronger claim to similar work elsewhere.
+:30. Meanwhile, the alternative path accumulates no comparable evidence because it was not tried.
+:31. After several rounds, the two options no longer have the same expected reward or the same switching cost that they had at the beginning.
+:32. What first looked like preference has become partly competence, reputation, and access.
+:33. That is more than inertia, because the earlier sequence has altered both the person and the opportunity structure confronting that person.
+:34. This feedback can widen a life rather than merely narrow it.
+:35. A well-matched role can supply patient colleagues, useful tools, income, and occasions to practice capacities that had previously lacked a setting.
+:36. Confidence may then rest on accumulated evidence instead of wishful thinking, making adjacent roles genuinely attainable.
+:37. The niche acts as a scaffold: it supports performances that would be harder in isolation until some of them become portable abilities.
+:38. At the same time, every scaffold has a shape.
+:39. Years spent refining one repertoire consume time that cannot also be spent refining every competing repertoire, and recognition in one circle may make departure from it more expensive.
+:40. The result can be depth, trust, and mastery, not a defect.
+:41. It can also make an unexplored ability look like an absent ability.
+:42. Active selection asks where a person goes, but a second process begins once the person arrives.
+:43. Other people observe behavior and respond to it, creating what developmental researchers call an evocative transaction.
+:44. A newcomer who reliably completes difficult tasks may receive more demanding assignments, more discretion, and more useful criticism.
+:45. A hesitant newcomer may receive protection from pressure, but that considerate response can also reduce access to the very practice that would make hesitation less costly.
+:46. These loops are probabilistic, not automatic.
+:47. A thoughtful supervisor can interrupt them, a hostile workplace can punish competence, and stereotypes can determine who is granted the chance to display a skill.
+:48. Power matters because a manager's response can change pay, duties, and credentials, whereas a junior employee's private judgment may change none of them.
+:49. Reputation matters because the same ambiguous act can be read as initiative from a trusted worker and insubordination from a distrusted one.
+:50. Once such interpretations govern assignments and invitations, a social reaction becomes a material difference in future options.
+:51. Calling the outcome personality alone would erase part of its cause, yet a third process is also at work: joint adjustment over repeated encounters.
+:52. Coworkers divide tasks, friends establish expectations about availability, and partners build routines around one another's strengths, limits, and schedules.
+:53. The resulting niche is not simply selected from a shelf, because the participants produce it together.
+:54. Each person changes the local environment, while that altered environment trains, rewards, and constrains each person in return.
+:55. Mutual adjustment does not require two people to become psychologically alike.
+:56. Studies of couples have generally found clearer evidence that similar partners select one another than that their broad personality traits steadily converge with years together.
+:57. Coordination can instead reside in complementary routines, shared expectations, and a division of labor that preserves individual differences.
+:58. This distinction matters because coevolution means reciprocal change in a connected system, not imitation.
+:59. Once the system works reliably, departures become costly precisely because other people have adapted to it.
+:60. The difficult question is where the differences that enter these loops came from in the first place.
+:61. Genes are part of that answer, but they do not arrive as a set of private instructions for choosing an office, a friend, or a spouse.
+:62. Inherited variation can contribute to differences in temperament, ability, physical development, and sensitivity to experience.
+:63. Yet genetic influence reaches the social world through bodies and nervous systems developing in particular homes, schools, neighborhoods, and historical periods.
+:64. It is expressed through behavior, interpreted by other people, and redirected by opportunities that no genome specifies.
+:65. Researchers use the term gene–environment correlation when genetically influenced characteristics become associated with the environments a person encounters.
+:66. In a passive correlation, parents provide children with both genes and an environment, so the two sources arrive already entangled.
+:67. In an evocative correlation, a child's partly heritable behavior draws responses from caregivers, teachers, or peers.
+:68. In an active correlation, a person increasingly seeks or creates settings compatible with interests and dispositions that are themselves partly heritable.
+:69. These labels separate causal possibilities for analysis; they do not divide a life into three sealed compartments.
+:70. The same developmental sequence can contain all three, with a family supplying an opportunity, the child eliciting encouragement, and the adolescent later choosing further practice.
+:71. Nor does observing one of these correlations identify a gene, prove that an environment lacks causal power, or show that a trait cannot change.
+:72. The vocabulary is useful precisely because it replaces the image of nature and nurture as rival substances poured into a person.
+:73. Heritability, the statistic often invoked in these debates, describes variation among people in a particular population under particular conditions.
+:74. It does not measure how much of one individual's quality came from genes, and it is not a durability rating.
+:75. A highly heritable difference can still depend on environmental conditions, while a broad environmental change can alter a population average without changing the rank order from which heritability is estimated.
+:76. The same predisposition may lead to different lives where schools, labor markets, social norms, or family resources offer different routes for expressing it.
+:77. Genes and environments therefore cannot be entered in separate ledgers and totaled at adulthood.
+:78. An experience can amplify an early difference, buffer it, redirect it, or make it irrelevant to the outcome being measured.
+:79. As children gain mobility and authority over their time, active selection may magnify some small differences because preferred activities provide additional practice and preferred companions provide reinforcement.
+:80. The capacity to select is itself unequally distributed, however, since a choice requires access, permission, information, and often money.
+:81. There are no genes for becoming a trial lawyer, a cellist, or the dependable friend whom everyone calls during a crisis.
+:82. There are developmental pathways through which many tiny biological and social differences affect behavior, behavior affects response, and response alters the next environment.
+:83. The history belongs to the coupling.
+:84. Longitudinal evidence seldom permits those arrows to be separated as cleanly as a diagram suggests.
+:85. A large German panel study that repeatedly measured personality and major life events found several selection effects, meaning that prior traits predicted who was more likely to experience particular events.
+:86. Average changes in personality following events appeared less frequently, and individuals varied considerably around those averages.
+:87. Entering paid work or becoming a parent did not uniformly move everyone toward a single profile of psychological maturity.
+:88. A later twelve-year study that linked job titles to a wide range of occupational characteristics likewise found stronger associations with people's characteristic personality levels than with their rates of personality change.
+:89. Its results fit a mixture of sorting and socialization, but they do not tell us how much of each process operated for any one worker.
+:90. Randomly assigning children to families, adults to marriages, or workers to decades-long careers would be neither practical nor ethical, so much of the evidence must come from carefully timed observation rather than decisive experiments.
+:91. A recession can push unlike people into similar work, an expanding industry can recruit across personality types, and illness can close a route that preference would otherwise have kept open.
+:92. Such events are rival explanations for apparent self-selection and, at the same time, new inputs into the subsequent feedback process.
+:93. The defensible conclusion is modest but important: people affect their exposure to environments, environments affect people, and the strength of either direction varies by trait, setting, power, and stage of life.
+:94. A person is neither the sole author of a niche nor its passive product.
+:95. Not every comfortable match between person and setting is path-dependent.
+:96. A quiet reader may immediately work better in a quiet library than beside a construction site, and no history of feedback is needed to explain the difference.
+:97. Likewise, a licensing rule may block an occupation through a present legal constraint, while limited time may impose a trade-off even when no previous choice reinforced it.
+:98. Path dependence begins only when an earlier encounter produces consequences that modify the later menu.
+:99. Practice, credentials, contacts, reputation, specialized equipment, shared routines, and other people's reliance can all carry those consequences forward.
+:100. Their accumulation changes expected rewards, the probability of admission, and the real cost of moving elsewhere.
+:101. A compatible niche may then become a local optimum, a good position relative to nearby alternatives, even though a distant option might have been better had another route been taken earlier.
+:102. Remaining can be entirely reasonable because the competence and coordination created along the path have genuine future value.
+:103. Calling every such case a lock-in would go too far, since many niches have permeable boundaries and many abilities travel across them.
+:104. A hard lock-in requires more than continuity: exits must become prohibitively costly or cease to function as realistic options.
+:105. Most personal paths lie between frictionless choice and captivity, with some doors closed, some merely heavy, and others newly opened by the very specialization that narrowed the route.
+:106. A snapshot cannot reveal which kind of case we are seeing.
+:107. Two adults who now prefer similar work may have arrived there through talent, necessity, imitation, discrimination, chance opportunity, or several of these in sequence.
+:108. The relevant counterfactual—what each would have become after a different early opening—usually remains unobserved.
+:109. Claims of personal path dependence are therefore strongest when evidence records people and environments at several points, identifies an intervening feedback mechanism, and tests plausible alternatives.
+:110. The Dunedin findings come closer to that standard than a one-time survey because personality was measured before the later work outcomes and then measured again, but their authors' cautions still matter.
+:111. Nothing in the data makes an individual's eventual occupation inevitable at eighteen.
+:112. A mentor, a rejection, a regional boom, a caregiving duty, or an accidental vacancy can bend a path whose previous direction looked stable.
+:113. Disruption is not automatically liberation, because the collapse of a workplace or relationship can destroy income, trust, and practical support along with unwanted constraints.
+:114. It can nevertheless interrupt a reinforcing loop by removing the audience, schedule, or reward structure that kept one repertoire dominant.
+:115. A new role may offer low-cost trials of a capacity that the former niche neither needed nor recognized.
+:116. Behaving differently there does not expose the earlier self as false; behavior has always depended partly on which responses a setting invites and sustains.
+:117. A person need not become a wholly different type for a changed network, institution, or division of labor to alter the probability of later choices.
+:118. The possibility space of a life is therefore coauthored, although authorship is never equally shared.
+:119. People inherit a body, a history, a set of relationships, and a world already arranged by others, then modify a limited portion of that world and receive its altered effects in return.
+:120. When a niche is finally woven into competence, reputation, loyalty, and other people's plans, the practical question of where one fits quietly becomes the harder question of who one is.

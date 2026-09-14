@@ -1,0 +1,122 @@
+== 7.12 Trägheit als Tugend ==
+
+:1. In the autumn of 2010, the operators of Germany's nuclear power plants received something that businesses normally prize almost as highly as permission itself: more time.
+:2. Parliament granted the plants additional electricity-generating allowances, extending their operating lives by an average of twelve years, and companies could now make investments against a longer legal horizon.
+:3. Less than four months after Parliament approved the extension, reactors at Fukushima Daiichi melted down following an earthquake and tsunami in Japan.
+:4. By July 2011, a second amendment had withdrawn the additional allowances and assigned fixed shutdown dates to every German plant.
+:5. Few legislative reversals expose the central tension of legal time so starkly.
+:6. A democratic state must remain able to change its mind, especially when its assessment of danger changes, yet citizens and companies cannot plan if every lawful commitment is treated as a wager that government may erase without consequence.
+:7. When the Federal Constitutional Court ruled in 2016, it refused both simple answers.
+:8. The accelerated phaseout was largely constitutional, and the operators had no general right to freeze energy policy at its 2010 setting.
+:9. Some investments made in justified reliance on the newly granted allowances, however, had been devalued by the reversal, while some electricity allowances dating from the 2002 phaseout could no longer be used within the new deadlines.
+:10. For those narrower injuries, the constitutional balance required a remedy.
+:11. The decision did not make policy inert; it made abrupt change account for a portion of the history that the law itself had induced.
+:12. That distinction is the core of legitimate-expectations protection, known in German law as Vertrauensschutz.
+:13. The protected object is not a comforting belief that tomorrow's statute book will look like today's.
+:14. It is reliance that the legal order has given people sufficient reason to translate into conduct, investment, work, or another commitment that cannot be costlessly undone.
+:15. Law therefore acts twice upon the space of future possibilities.
+:16. It directly permits, forbids, taxes, licenses, or promises, and it also elicits adaptations to those signals.
+:17. A factory is built, a qualification is acquired, a benefit is spent, a contract is priced, or a household settles around an entitlement.
+:18. Once those complementary choices accumulate, changing the rule no longer returns the parties to the open field that existed before it.
+:19. The old rule has altered the terrain.
+:20. This is path dependence in a precise sense rather than mere institutional sluggishness: an earlier legal signal changes the cost and feasibility of later options by calling forth investments and expectations that fit it.
+:21. The resulting restraint can be socially useful.
+:22. If a permit, judgment, or pension award could evaporate whenever a new official preferred another answer, formally available choices would lose much of their practical value because prudent people would hesitate to rely on them.
+:23. Stable law lengthens the planning horizon, makes cooperation with strangers less hazardous, and limits the power of the state to surprise those who obeyed its own rules.
+:24. The rule of law consequently protects a peculiar form of freedom, the freedom to organize present conduct around a future that is uncertain but not administratively arbitrary.
+:25. This protection is stronger when the state reaches backward than when it changes the rules for tomorrow.
+:26. German constitutional doctrine calls the clearest case genuine retroactivity: a new statute attaches altered legal consequences to a transaction or period already completed under the old law.
+:27. Such retroactivity is generally prohibited, subject to narrow exceptions, because the affected person no longer has an opportunity to adjust the completed conduct.
+:28. In criminal law, the idea receives an especially explicit form in Article 103 of the Basic Law, under which an act may be punished only if its criminality was legally established before it was committed.
+:29. Outside criminal law, the prohibition is derived chiefly from the rule-of-law commitments to legal certainty and protected reliance embedded in Article 20.
+:30. The boundary is less mechanical than the labels suggest.
+:31. A tax statute enacted in December may govern a tax period that began in January, or a reform may alter the future consequences of a contract signed years earlier.
+:32. German courts classify many such cases as nongenuine retroactivity because the legal relationship is still unfolding rather than fully closed.
+:33. That category is generally permissible, but it is not a blank check.
+:34. Courts weigh the public purpose and urgency of the change against the seriousness of the reliance loss, asking whether those affected could reasonably anticipate reform and whether the law offers a proportionate transition.
+:35. The doctrine thus preserves a crucial asymmetry without converting it into an absolute wall.
+:36. Completed legal consequences receive the strongest shelter, continuing relationships receive conditional protection, and mere hope that favorable law will never change ordinarily receives little.
+:37. These gradations matter because the rival principle is also constitutional government.
+:38. Every electorate inherits statutes enacted by people who voted decades earlier, and an unlimited right to legal continuity would let the dead govern the living through every license, subsidy, and regulatory advantage they created.
+:39. Protection against surprise can then harden into protection against democracy.
+:40. The difficulty is particularly visible when yesterday's rule imposed costs on people who never consented to it or confronts a danger that became apparent only later.
+:41. Reliance by one group is not the only interest on the scales.
+:42. Workers exposed to risk, neighbors affected by land use, taxpayers financing a promise, and competitors excluded by an old privilege also inhabit the legal possibility space.
+:43. Calling an expectation legitimate therefore does more work than observing that somebody expected a benefit to continue.
+:44. The expectation must be assessed against the source and clarity of the rule, the conduct it prompted, the foreseeability of change, and the rights and interests of others.
+:45. The nuclear judgment illustrates this selectivity.
+:46. The court did not treat all anticipated future profits as property, nor did it require the state to preserve the twelve-year extension simply because Parliament had granted it.
+:47. The preexisting regulatory structure already made nuclear operation unusually dependent on public law, and the earlier phaseout had weakened any assumption of indefinite operation.
+:48. Yet the state could not invite specific investment through new statutory allowances and then ignore every loss when it rapidly reversed that invitation.
+:49. The remedy lay between permanence and confiscation.
+:50. Ordinary administrative law applies a related logic on a more human scale.
+:51. Section 48 of the federal Administrative Procedure Act allows an authority to withdraw an unlawful administrative decision, but it restricts recovery when a recipient reasonably trusted a favorable decision and consumed the payment or made a disposition that can be reversed only at an intolerable cost.
+:52. Fraud, materially false information, and knowledge or grossly negligent ignorance of the decision's unlawfulness defeat that claim to reliance.
+:53. Here, too, the passage of time alone does not produce protection.
+:54. What matters is a feedback loop between official action and the recipient's irreversible response.
+:55. A person who spends a granted education payment on tuition stands differently from one who merely hoped the program would continue next year.
+:56. The law is not rewarding optimism; it is recognizing a dependency that its own decision helped create.
+:57. Even justified dependency need not compel the decision to remain untouched.
+:58. Depending on the field and the competing public interest, the response may be continued validity, delayed change, a limited exemption, compensation, or repayment rules calibrated to fault and reliance.
+:59. Each device distributes transition costs differently, which is why the technical language of protection conceals a political and moral choice about who must absorb the loss when law changes direction.
+:60. The next question is how a legal order can make that distribution without allowing every protected foothold to become a permanent private claim on the future.
+:61. One answer is to turn the boundary between old and new law into a designed passage rather than a cliff.
+:62. Transition rules can postpone a new duty, phase it in, preserve a limited category of existing cases, or compensate those whose commitments cannot reasonably be unwound.
+:63. A delayed effective date gives people time to change contracts, training, equipment, and expectations before sanctions or losses arrive.
+:64. A grandfather clause goes further by allowing an existing activity or legal position to continue under the former rule while new entrants face the new one.
+:65. German lawyers often discuss such continuity under the broad idea of Bestandsschutz, or protection of an established legal position, although the term does not create one universal right to keep everything unchanged.
+:66. A lawfully erected building, for example, may often continue to be used after planning rules change, but substantial alterations or an entirely new use can trigger present requirements.
+:67. The protected object is the established use, not a private power to reproduce yesterday's planning law forever.
+:68. Such protection preserves the value of reliance while allowing the new standard gradually to reshape the stock of buildings, businesses, or professional practices.
+:69. Its price is an intentional period of unequal treatment.
+:70. Two otherwise similar actors may face different rules because one organized a life or enterprise under the old regime and the other arrived after change was foreseeable.
+:71. Running parallel regimes also burdens administrators, invites disputes over boundary cases, and can prolong exactly the complexity a reform was meant to remove.
+:72. Legislatures therefore attach expiration dates, transfer restrictions, or conditions to some grandfather clauses, preventing a temporary bridge from becoming an inheritable exemption.
+:73. Other reforms phase in new qualifications or technical duties so that established practitioners can retrain rather than abandon useful experience overnight.
+:74. The Federal Constitutional Court has repeatedly held that an otherwise permissible restriction on occupational freedom may still require a transition when people previously conducted the affected work lawfully.
+:75. At the same time, the legislature generally retains broad discretion to choose among deadlines, staged requirements, limited continuation, and other workable accommodations.
+:76. Constitutional protection shapes the slope of change more often than it prohibits the destination.
+:77. Compensation performs a similar function when continued operation would defeat the reform but immediate termination would place an excessive reliance loss on a narrow group.
+:78. Money cannot restore the abandoned path, yet it can prevent the entire cost of a public redirection from falling on those whom the previous law encouraged to commit first.
+:79. The transition device is best understood as a bridge, not a shrine to the superseded rule.
+:80. That image also clarifies the difference between safeguarding a justified expectation and perpetuating a privilege.
+:81. A protected expectation concerns the claimant's own legally induced commitment; a privilege often concerns continued control over opportunities denied to others.
+:82. Someone licensed into a closed market may have invested in reliance on the license, but that does not automatically create a right to exclude future competitors.
+:83. Courts have accordingly rejected the idea that trust in a state-created monopoly must always outweigh the freedom of those kept outside it.
+:84. Removing the monopoly and cushioning a demonstrable transition loss are logically separate choices.
+:85. If every economic disappointment counted as destroyed trust, nearly every regulatory reform would require incumbents' permission, because almost every rule produces beneficiaries who learn to depend on it.
+:86. The harder inquiry asks what the state specifically induced, how irrevocably the claimant responded, and whether protection would continue imposing serious costs or constraints on third parties.
+:87. Trust is strongest when official language was clear, the commitment was lawful and difficult to reverse, and the change could not reasonably have been anticipated.
+:88. It weakens when the field was visibly unsettled, the authorization was conditional, the advantage rested on harm to others, or the claimant helped produce the defect.
+:89. These distinctions explain why even an unlawful administrative award can sometimes generate protection without making administrative error sovereign.
+:90. Government must be able to correct mistakes, recover misused funds, and respond to fraud, or equal application of law would yield to whoever happened to receive the first erroneous letter.
+:91. Yet correction without attention to reliance would transfer the full cost of official failure to a person who may have acted faultlessly.
+:92. The graduated rules for withdrawal, repayment, and compensation acknowledge both institutional fallibility and the citizen's need for a dependable answer.
+:93. Once multiplied across a legal system, however, these reasonable protections generate a deeper form of inertia.
+:94. Law can settle into a local optimum, a solution that works tolerably well with the rules surrounding it even though another arrangement might look better when considered in isolation.
+:95. The word local matters because the claim is not that the existing solution is best for every society or even best in the abstract.
+:96. Its persistence is evidence of fit with the surrounding system, not proof of intrinsic superiority.
+:97. It means that adjacent doctrines, forms, professions, databases, contracts, and expectations have adjusted to one another until replacing a single element may make the whole package perform worse.
+:98. A property-transfer rule is linked to registration practice, notarial work, credit security, litigation, legal education, and the assumptions built into thousands of private agreements.
+:99. Changing that rule alone can create gaps at its interfaces even if the replacement appears simpler on a clean sheet of paper.
+:100. The more connections a rule has acquired, the less its reform cost is captured by the number of words that must be amended in the statute.
+:101. A foreign model may organize the same field coherently through a different bundle of concepts and institutions.
+:102. Transplanting only its most attractive rule while leaving the recipient system's complementary parts untouched can combine the disadvantages of both bundles.
+:103. Replacing the whole bundle, by contrast, demands retraining, conversion of records and contracts, adjudication of transitional disputes, and a credible account of which old rights survive.
+:104. This is why legal development so often proceeds by reinterpretation, exception, and layered amendment rather than wholesale replacement.
+:105. Incremental reform is not the absence of path dependence; it is a response to dependencies that reformers cannot suspend while courts, payments, ownership, and administration continue operating.
+:106. By preserving familiar interfaces, a narrow amendment can reduce errors and make political agreement possible.
+:107. Repeated often enough, though, the same method creates cross-references, special cases, and different rules for neighboring cohorts.
+:108. Today's careful transition becomes tomorrow's inherited complexity.
+:109. The choice is therefore not between perfectly clean change and cowardly delay, but among different distributions of error, disruption, inequality, and adaptation time.
+:110. Speed has no constant legal value.
+:111. A slow transition can protect planning and prevent avoidable hardship, but it can also extend an injustice, preserve an unsafe practice, or force outsiders to finance insiders' adjustment.
+:112. Immediate change can be warranted when delay threatens life, fundamental rights, or the integrity of the legal order, even though urgency does not make every reliance loss disappear.
+:113. The temporal design of a statute is consequently part of its substance, not housekeeping placed after the real policy has been chosen.
+:114. Legislators can reduce destructive reliance costs by announcing future rules clearly, staging thresholds, making permissions conditional where uncertainty is genuine, and reserving abrupt intervention for reasons weighty enough to justify it.
+:115. Those methods preserve the credibility of law without pretending that the future can be legislated once and for all.
+:116. The nuclear sequence that began with more time and ended with fixed shutdown dates reveals what legal inertia can accomplish at its best.
+:117. The law's promise was not that the policy would never move, but that movement would distinguish speculative hope from commitments the state had concretely invited.
+:118. That disciplined reluctance to erase the past makes future cooperation possible even as it keeps reform within reach.
+:119. Yet national legislators and courts no longer control all the signals on which such cooperation rests.
+:120. When rules made in one country interact with shared markets, supranational legislation, and courts speaking from another legal level, yesterday's protected national path becomes only one layer in a larger structure.

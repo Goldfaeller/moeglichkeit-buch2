@@ -1,0 +1,122 @@
+== 7.5 Bismarcks langer Schatten ==
+
+:1. In 1891, a German worker could carry the new welfare state folded inside a pocket: a paper contribution card on which insurance stamps recorded paid weeks.
+:2. The stamps, sold through post offices and canceled on the card, turned an abstract promise into a visible chain linking wages earned today to a possible pension decades later.
+:3. Missing marks meant more than an untidy document, because entitlement depended on a documented contribution history.
+:4. That modest card embodied a legal architecture whose basic choices would outlive the empire that created it.
+:5. The architecture is commonly attached to one face, Otto von Bismarck's, yet portraits conceal the very mechanism that made his reforms durable.
+:6. A chancellor can open a political window, but he cannot personally manufacture thousands of funds, contribution records, medical contracts, occupational classifications, administrative routines, and expectations of future payment.
+:7. Those connected parts, once built, made the system easier to extend than to replace.
+:8. Bismarck did not begin on an empty field.
+:9. Long before national legislation, miners' funds, guild arrangements, factory funds, municipal schemes, and voluntary mutual-aid societies had pooled some of the risks of sickness, injury, and death.
+:10. Their coverage was uneven, their benefits varied, and many workers remained outside them, but they supplied organizational habits and a practical vocabulary for collective insurance.
+:11. The national sickness law of 1883 therefore standardized and compelled more than it invented from nothing.
+:12. This distinction matters because institutions often become possible by recruiting older practices that already have offices, participants, and a measure of legitimacy.
+:13. Germany's rapid industrialization made the gaps in those practices harder to ignore.
+:14. For a wage earner, illness could stop income at the same moment that medical costs began, while a machine accident could turn a household's principal provider into a dependent.
+:15. Traditional poor relief might keep destitution at bay, family members could share losses, and private charity could help, but none offered a uniform, enforceable claim attached to employment.
+:16. The policy problem was thus not simply poverty but the distribution of recurrent risks in an economy increasingly organized around wages.
+:17. In November 1881, an imperial message urged legislation for workers facing illness, accidents, disability, and old age, presenting material security as a guarantee of internal peace.
+:18. The message explicitly paired positive welfare measures with the repression already directed against Social Democracy.
+:19. Bismarck hoped social protection would strengthen workers' attachment to the state and weaken a movement that the Anti-Socialist Law of 1878 had failed to extinguish.
+:20. Yet political containment was not the only force in the room.
+:21. Concern about industrial hardship, traditions of paternal obligation, demands from workers, calculations by employers, ideas developed inside the civil service, and conflicts among parliamentary parties all shaped the resulting laws.
+:22. Theodor Lohmann, a senior official who drafted early proposals, was one important architect, and his disagreements with Bismarck show that even the government did not possess a single settled design.
+:23. The Reichstag also altered proposals rather than merely registering the chancellor's will.
+:24. Bismarck's preferred forms of centralized administration and state subsidy repeatedly encountered liberal resistance, federal interests, fiscal objections, and competing ideas about self-help.
+:25. What emerged between 1883 and 1889 was therefore a sequence of bargains, not the execution of a blueprint held complete in one man's mind.
+:26. The first enacted branch, compulsory sickness insurance for specified groups of workers, began with the law of June 1883.
+:27. Workers initially paid two-thirds of the contribution and employers one-third, while multiple kinds of sickness funds administered legally defined minimum benefits.
+:28. These included medical treatment and cash support during a limited period of incapacity, making the fund both a purchaser of care and a temporary substitute for lost wages.
+:29. Only about a tenth of the population was initially covered, so the founding law was a major institutional innovation without being universal health insurance in the modern sense.
+:30. Its plurality of funds was not administrative clutter added centuries later; it was present near the beginning because lawmakers built upon occupational, local, company, and mutual-aid arrangements.
+:31. Contributions gave workers and employers a material stake in how these bodies were governed, helping to establish the principle of self-administration under public law rather than direct management by a single ministry.
+:32. That arrangement distributed authority in a way Bismarck did not fully control.
+:33. A system intended partly to integrate workers into the state also gave their representatives experience in administering collective institutions.
+:34. Institutional effects can thus diverge from a founder's political purpose even while the institution itself survives.
+:35. The accident insurance law of July 1884 chose a different configuration for a different risk.
+:36. Workplace accidents posed difficult questions of proof and liability, since an injured worker seeking damages might have to establish an employer's fault while lacking income and legal leverage.
+:37. Compulsory insurance shifted much of that contest from individual litigation to collective risk pooling.
+:38. Employers alone financed the new branch and were organized into trade-based accident associations, the Berufsgenossenschaften.
+:39. In return, the insurance arrangement largely replaced employers' civil liability for covered accidents.
+:40. Contributions could be related to the danger of an industry or enterprise, so prevention affected not only human welfare but the collective's costs.
+:41. The associations soon gained rule-making roles in accident prevention, joining compensation after harm to efforts aimed at reducing harm beforehand.
+:42. Here the institutional bargain was unusually tight: financing, liability relief, occupational organization, claims administration, and prevention reinforced one another.
+:43. Removing any single element would therefore disturb the incentives and expectations attached to the others.
+:44. Old-age and disability insurance, enacted in June 1889 and effective from 1891, added a third design.
+:45. It covered workers from age sixteen, financed benefits through wage-class contributions shared by workers and employers, and added a subsidy from the Reich.
+:46. An old-age pension generally required thirty contribution years and began at seventy, while disability protection addressed the more immediate risk of losing earning capacity before that age.
+:47. The early pensions were modest, and the high pension age made the disability side of the law at least as important as the image of retirement now associated with it.
+:48. Regional insurance institutions collected contributions, granted pensions, and also developed rehabilitation measures intended to restore earning capacity when possible.
+:49. The contribution card made a person's work history legible to this new apparatus, but it also defined which work counted.
+:50. Dependent industrial employment fit the system readily because wages, employers, and payroll periods supplied identifiable points for collecting money and recording claims.
+:51. Unpaid care, irregular livelihoods, much self-employment, and people beyond the original occupational boundaries fitted less easily.
+:52. Coverage could be expanded later, but expansion began from categories already embedded in forms, funds, law, and professional practice.
+:53. This is the central path-dependent mechanism: the first laws did not dictate every future benefit, but they changed the relative cost of later choices.
+:54. Once contributions flowed through established carriers, extending membership or improving benefits within those carriers used capacities that already existed.
+:55. Replacing contribution finance with general taxation, dissolving occupational distinctions, or transferring administration to a unified state agency would require new revenue channels, new assignments of authority, and rules for honoring accumulated claims.
+:56. People had also begun to interpret paid contributions as the basis of an earned right rather than a discretionary grant.
+:57. That expectation made social insurance politically different from poor relief, even when both could prevent deprivation.
+:58. It also created defenders of the arrangement: insured workers, employers, doctors, administrators, and organizations each acquired knowledge, claims, obligations, or influence tied to its continuation.
+:59. None of this froze the laws of the 1880s, which were too narrow and too meager to serve a later mass democracy unchanged.
+:60. It did mean that every expansion would begin with a practical question inherited from the contribution card: how could new people and new risks be attached to promises already being recorded?
+:61. One answer was to add rather than restart, drawing further groups and risks into structures whose language of contribution, insurance, and legally earned entitlement had become familiar.
+:62. The Imperial Insurance Code of 1911 consolidated major bodies of social insurance law, making the system more coherent while preserving its division into distinct branches and carriers.
+:63. A separate insurance scheme for salaried employees took effect in 1913, extending protection while also reinforcing the idea that occupational status could justify a different institutional track.
+:64. National unemployment insurance followed in 1927 as another branch rather than as a simple enlargement of a sickness fund or pension office.
+:65. Later additions and expansions repeatedly widened protection beyond the industrial workers whom the first statutes had addressed.
+:66. This was genuine change, not decorative renovation.
+:67. Yet it usually proceeded by assigning a new group to a carrier, defining a contribution base, specifying an insured risk, and adding an entitlement to the growing body of social law.
+:68. The old design functioned like a grammar: lawmakers could compose policies Bismarck would not have recognized while still using inherited rules about how a social claim should be formed.
+:69. Occupational divisions also reproduced themselves because each category developed its own records, administrators, representative bodies, financing arrangements, and expectations.
+:70. A boundary that began as a political compromise could thereby acquire a practical constituency and become expensive to erase.
+:71. Benefits changed at least as dramatically as coverage.
+:72. Health insurance grew from limited treatment and short-term wage replacement into the central financing structure for extensive medical care, while pension insurance became a main institution for income in old age rather than a small supplement available at seventy.
+:73. The postwar linking of pensions more closely to wages strengthened the promise that retirement income should reflect a worker's previous standard of living.
+:74. That move departed sharply from the meager pensions of the 1890s, yet it deepened the contribution-based logic by tying benefits more visibly to an earnings record.
+:75. Pension finance also shifted toward a pay-as-you-go arrangement in which current contributions largely fund current benefits, rather than each generation simply drawing down a pot accumulated for itself.
+:76. This created a new intergenerational dependency inside an older institutional shell.
+:77. Employment, wage growth, demographic structure, retirement rules, and federal subsidies now affected one another, so changing a pension parameter redistributed costs across groups and time.
+:78. An institution can therefore remain on the same broad path while its internal feedbacks are extensively rebuilt.
+:79. The political purpose changed even more completely.
+:80. Bismarck's effort to draw workers away from Social Democracy did not achieve its immediate partisan aim, for the movement continued to grow despite repression and insurance legislation.
+:81. Nor did later beneficiaries receive medical care or pensions as tokens of loyalty to an imperial government.
+:82. They used them as legal claims whose public justification came to rest on social citizenship, protection against predictable risks, and participation in a productive economy.
+:83. The founding motive explains why a window opened and why certain workers were addressed first, but it cannot by itself explain the institution's later legitimacy.
+:84. Functions can migrate while organizational forms persist.
+:85. That is one reason the phrase "Bismarck's system" can mislead: it suggests personal ownership of arrangements repeatedly remade by workers, employers, courts, doctors, administrators, parties, and legislatures after Bismarck left office.
+:86. The system's survival across monarchy, democracy, dictatorship, war, division, and reunification must likewise not be mistaken for unchanged rules or equivalent political meanings.
+:87. Regimes altered participation, benefits, inclusion, and control, sometimes in ways that violated the solidaristic language attached to insurance.
+:88. What endured more consistently was a family resemblance among compulsory membership, wage-related contributions, plural public-law carriers, occupational categories, and claims tied to insured status.
+:89. Even that resemblance has never made German social protection a pure specimen sealed off from other principles.
+:90. Tax revenue supports major parts of the system, noncontributory benefits address needs that employment records cannot capture, private provision remains relevant, and rules of family coverage or credited periods soften the equation between paid work and entitlement.
+:91. Such hybrids reveal adaptation rather than conceptual failure.
+:92. A society organized solely around nineteenth-century payroll categories could not insure childhood, unpaid care, interrupted careers, or poverty outside formal employment without leaving large holes.
+:93. Each attempt to close a hole, however, must decide whether to route support through an existing insurance account, finance it from general revenue, create a new legal claim, or test need separately.
+:94. Those routes are not interchangeable because they distribute costs, administrative authority, and social meaning differently.
+:95. A payroll contribution appears on the relationship between work and wages, whereas a tax-financed program draws from a broader and politically adjustable revenue base.
+:96. A contribution record supports the language of an earned claim, whereas a residence-based entitlement can include people without asking them to reconstruct a continuous employment history.
+:97. The distinction is never absolute, but it shapes which reform seems like a modest extension and which feels like a change of system.
+:98. A real comparison became visible in the twentieth century through arrangements commonly associated with the British reformer William Beveridge.
+:99. In the ideal-type contrast used by researchers, a Bismarckian model emphasizes social insurance financed by contributions, while a Beveridgean model emphasizes tax finance and protection based more broadly on need, citizenship, or residence.
+:100. Britain's postwar National Health Service made the contrast especially tangible by financing health care primarily through taxation rather than a collection of employment-linked sickness funds.
+:101. Nordic systems developed other combinations of universal tax-financed provision, earnings-related insurance, and local administration.
+:102. Before and alongside these public designs, mutual societies, employer plans, private insurance, family support, and means-tested relief offered still other ways to allocate risk.
+:103. These alternatives prove that industrialization did not mechanically require Germany's precise institutional answer.
+:104. They do not prove that one model dominates every other on all dimensions.
+:105. Contribution systems can sustain visible reciprocity and autonomous carriers, yet they may burden labor income and fit fragmented careers poorly.
+:106. Tax-financed systems can pool resources across a wider base and detach protection from a particular job, yet annual budgets may expose services and benefits to a different form of political competition.
+:107. Occupational differentiation can tailor representation and expertise, yet it can also preserve status boundaries that no longer match social risks.
+:108. Unified provision can reduce some boundaries while concentrating authority and increasing the scale of any administrative error.
+:109. The relevant comparison is therefore not tradition against a frictionless optimum, but one working bundle of advantages, liabilities, and transition costs against another.
+:110. This comparison supplies an important countercheck on claims of path dependence.
+:111. Persistence alone proves little, because a long-lived arrangement may survive mainly because it continues to perform valued tasks reasonably well.
+:112. German social insurance has pooled risks, made claims enforceable, supported medical care and rehabilitation, and provided administrative continuity on a scale the original statutes could scarcely anticipate.
+:113. Those achievements are functional reasons for retention, not merely historical residues.
+:114. Path dependence becomes visible only when the inherited configuration alters the relative feasibility of alternatives, as existing contribution channels, legal entitlements, organizations, and expectations make some reforms cheaper and others disruptive.
+:115. Nor is the result a lock-in without exits, since financing mixes have changed, coverage boundaries have moved, carriers have merged, benefits have been redesigned, and entirely new branches have been created.
+:116. The shadow is long because change must negotiate an installed system, not because an imperial chancellor still commands it.
+:117. Seen this way, the contribution card from 1891 was neither a blueprint for the present nor a historical curiosity.
+:118. It was an early interface between employment, administration, and a state-backed promise, and every later generation could revise the promise more readily than it could abolish the need for an interface.
+:119. One major group, however, had long been connected to the state through a different bargain, built less around worker insurance than around appointment, duty, career, and lifelong provision.
+:120. The persistence of that parallel status reveals another way in which public obligations can harden into a durable legal path.

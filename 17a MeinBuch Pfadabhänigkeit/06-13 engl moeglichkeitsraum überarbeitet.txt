@@ -1,0 +1,122 @@
+== 6.13 Warum Revolutionen alte Muster wiederholen ==
+
+:1. During the night of August 4, 1789, deputies in France's National Assembly renounced a dense collection of privileges that had organized social and political life under the old regime.
+:2. The decrees that followed announced an unmistakable break: inherited rank and corporate right would no longer define the public order in the same way.
+:3. Yet when officials returned to the practical business of governing, the country still had taxes to assess, grain to move, disputes to record, roads to maintain, and orders to carry from Paris to distant towns.
+:4. A revolution can abolish an office in an afternoon, but it cannot manufacture the officeholder's knowledge at the same speed.
+:5. Ledgers outlive loyalties, as do territorial maps, filing habits, chains of command, and the quiet expertise required to make a decision travel through an organization and become an action.
+:6. This is the central paradox of revolutionary change: the people most determined to escape an inherited order often need parts of that order to build its successor.
+:7. The paradox does not make revolution an illusion.
+:8. It shows that political authority and administrative capacity can move at different speeds.
+:9. A regime may lose legitimacy almost at once when enough people cease to obey it, defend it, or imagine that others will defend it.
+:10. The routines that register a birth, provision an army, or collect revenue do not disappear merely because their justification has collapsed.
+:11. They are stored in people, documents, buildings, jurisdictions, professional languages, and expectations about who is supposed to do what next.
+:12. Destroying those stores may clear space for invention, but it can also leave the new rulers unable to carry out the decisions that define their victory.
+:13. Preserving them keeps the machinery moving, but it imports assumptions formed for another purpose.
+:14. Revolutionaries therefore confront a choice that is less like selecting a constitution from a shelf than rebuilding a ship whose pumps must continue working.
+:15. The image has limits, because institutions contain conflict and meaning rather than inert parts, yet it captures the pressure of changing a system while depending on its output.
+:16. That pressure makes available models unusually powerful.
+:17. When time is short and consequences are immediate, a known procedure has an advantage over an untested design even if the design looks better on paper.
+:18. Officials already understand the known procedure, records already fit its categories, and other organizations already know how to respond to it.
+:19. Reusing it need not express admiration for the past.
+:20. It may simply be the least dangerous way to prevent salaries, supplies, or commands from vanishing between a decree and its intended recipients.
+:21. Availability then becomes a path mechanism rather than a mere historical resemblance.
+:22. An inherited arrangement is visible, staffed, and connected, while its alternatives must first be specified, taught, financed, and coordinated.
+:23. Every episode of successful reuse gives the old form another advantage.
+:24. People gain practice inside it, complementary rules accumulate around it, and outsiders invest in learning how to navigate it.
+:25. What began as an emergency expedient can thus become the normal route because each trip makes departure more expensive.
+:26. Sudden mobilization follows a different logic.
+:27. In a political cascade, one person's public defection changes what others believe about the strength, safety, or popularity of opposition.
+:28. Individuals who would not move alone may join after observing enough earlier participants, causing a demonstration, strike, or mutiny to grow with startling speed.
+:29. Such threshold effects help explain why apparently stable regimes can fall after small events and why contemporaries often fail to predict the timing.
+:30. They do not explain how the victors will organize a treasury, a court system, or a national administration the following month.
+:31. The network that transmits courage or information through a crowd is not the same network that transmits standardized instructions through offices.
+:32. Confusing the two produces a familiar retrospective error: because the uprising moved quickly, the institutional landscape afterward appears equally open.
+:33. In reality, a wide political opening may coexist with a narrow inventory of workable administrative choices.
+:34. Nor does every repeated form prove path dependence.
+:35. Some tasks impose stubborn functional demands regardless of history: large territories need ways to aggregate information, armies need supply systems, and governments that levy taxes need records.
+:36. Different regimes may therefore converge on hierarchy or paperwork because they face similar problems, not because one copied the other.
+:37. The historical claim becomes stronger only when an earlier arrangement changes the relative cost, visibility, or feasibility of later alternatives.
+:38. Revolutionary France displays both forces at once.
+:39. Before 1789, royal government had already pursued centralization through territorial districts known as généralités and through intendants who represented the crown in the provinces.
+:40. The old administration remained fragmented by privileges and overlapping jurisdictions, so centralization was a tendency rather than a finished system.
+:41. Alexis de Tocqueville later argued that the Revolution inherited this centralizing movement instead of creating it from nothing.
+:42. His thesis remains valuable precisely because it is incomplete.
+:43. In 1790 the revolutionaries abolished the old provinces as administrative units and divided France into eighty-three departments, a genuine redesign rather than a change of labels.
+:44. The new map aimed to make territorial government more uniform and administration more accessible, although debates over local ties and practical geography prevented pure geometrical regularity.
+:45. Some old provincial contours survived in the settlement, while many old corporate jurisdictions did not.
+:46. New departmental and municipal offices also opened political roles to elections on a scale the monarchy had never permitted.
+:47. Even here, innovation borrowed a usable procedure: the indirect route to higher office resembled the successive electoral stages used for the Estates General in 1789.
+:48. Beneath the redesigned map, continuity was stronger among the lower personnel whose accumulated knowledge formed the working backbone of administration.
+:49. Their survival did not secretly restore noble privilege, but it did carry techniques, habits, and conceptions of orderly government across the break.
+:50. After the revolutionary decade exposed the weaknesses of frequently changing and locally uneven arrangements, the law of February 17, 1800, created prefects appointed to administer the departments for the central government.
+:51. The prefect was a new office embedded in revolutionary territorial units.
+:52. Its position nevertheless echoed the old intendant's role as an agent of the center in the locality.
+:53. Napoleonic administration therefore neither resurrected the old regime nor invented a centralized state on untouched ground.
+:54. It locked new principles of legal equality and territorial uniformity into a governing structure assembled partly from older capacities.
+:55. The result was not predetermined in 1789, for federalist possibilities, elected local administration, and competing constitutional designs were all real.
+:56. War, fiscal strain, factional conflict, and the demand for reliable execution altered their chances over the following decade.
+:57. The eventual structure endured not simply because centralization was culturally French, but because repeated crises rewarded arrangements that could gather information and project decisions through an existing administrative network.
+:58. A century later, revolutionaries in Russia would meet the same problem under even harsher pressure.
+:59. The Bolsheviks had denounced the imperial state and watched its army disintegrate, yet civil war demanded trained commanders, staff work, transport, accounting, and local recruitment almost immediately.
+:60. They had captured a state they meant to replace, and now had to decide how much of its capacity could survive its purpose.
+:61. The Bolsheviks answered by recruiting expertise from the very military tradition they had repudiated.
+:62. As improvised Red Guard formations gave way to a mass army, the new government employed former imperial officers as military specialists and drew on former noncommissioned officers to train and organize recruits.
+:63. Tens of thousands of men with service under the tsar eventually worked in the Red Army, although estimates vary with dates and with definitions of rank and service.
+:64. They arrived by different routes, including ideological choice, professional calculation, conscription, and coercion, so their presence cannot be reduced to collective conversion.
+:65. What united their cases was the scarcity of substitutes for knowledge that war made urgently valuable.
+:66. The imperial army had not survived intact as a loyal organization, but mapping, artillery, engineering, logistics, and staff planning still required skills accumulated inside it.
+:67. The Bolsheviks combined that expertise with structures designed to subordinate it to a new political authority.
+:68. Political commissars and party supervision did more than decorate an old command system with revolutionary symbols; they altered who could authorize decisions, monitor commanders, and define the army's purposes.
+:69. The resulting force was a hybrid: inherited professional capacity operated within new institutions of political control and mass mobilization.
+:70. That solution preserved knowledge while adding the costs of surveillance, divided authority, and recurrent suspicion.
+:71. Distrust did not eliminate dependence on the specialists; it became institutionalized alongside that dependence.
+:72. Here an old capability generated a new complementary structure.
+:73. Local recruitment revealed the same difficulty below the level of command.
+:74. In 1918 the weakness of military administration outside the center obstructed efforts to count eligible men, summon them, equip them, and send them onward.
+:75. The regime built local military commissariats to perform these tasks, but a decree creating an office could not instantly supply accurate lists, practiced clerks, transport links, or cooperation from villages.
+:76. Mobilization depended on relations among central authorities, local agents, and the population, not on orders alone.
+:77. State capacity was therefore something the revolutionaries had to assemble through interaction, often by attaching new political organs to inherited techniques and fragments of older administration.
+:78. Those fragments were not neutral tools waiting on a table.
+:79. Officials could withhold effort, reinterpret commands, conceal information, or carry assumptions from the old service into the new one.
+:80. The government could dismiss, threaten, monitor, retrain, or replace them, but each response consumed time and organizational resources.
+:81. Using old personnel consequently demonstrated neither their consent to Bolshevik goals nor the inability of those goals to change the state.
+:82. It demonstrated a narrower and more defensible proposition: specialized capacity can survive a collapse of legitimacy because rebuilding it has immediate costs.
+:83. Continuity of function also did not make the imperial and Soviet orders equivalent.
+:84. Former officers served under a party that reorganized political authority, property, social status, and military command on principles profoundly different from those of the monarchy.
+:85. The Russian case contains severe rupture and consequential inheritance in the same frame.
+:86. That coexistence is obscured when symbolic and functional change are treated as a single scale.
+:87. Names, flags, titles, and declarations can sometimes be replaced before the institutions that gather information and execute decisions.
+:88. At other times an old name covers a transformed distribution of power, as familiar offices acquire new constituencies, rules, and purposes.
+:89. The useful question is not whether the old survived, but which component survived, through what carrier, and with what effect on later options.
+:90. Four kinds of evidence make the answer more than an exercise in spotting resemblance.
+:91. First, a plausible alternative must have been available, because persistence without choice may reflect necessity rather than path dependence.
+:92. Second, the inherited arrangement should possess specific advantages created by earlier investment, such as trained personnel, records, buildings, or established channels of compliance.
+:93. Third, reuse should strengthen those advantages by generating practice, complementary rules, and expectations that raise subsequent switching costs.
+:94. Fourth, later actors should retain some capacity to modify or abandon the arrangement, even if doing so is difficult, because an unchangeable physical constraint is not an institutional lock-in.
+:95. France satisfies these tests unevenly, which is exactly why it is instructive.
+:96. The departments, elected local bodies, equal civil status, and abolition of corporate privilege were not disguised continuations of the old regime.
+:97. Yet the drive toward uniform territorial administration could draw on earlier centralizing practices, and repeated crises increased the appeal of agents answerable to the center.
+:98. The revolution changed the units and principles of government while narrowing later choices around a strengthened administrative axis.
+:99. Russia presents another uneven combination.
+:100. Soviets, party organs, political commissars, and new property relations created capacities and conflicts that an imperial administrator would not have recognized as routine government.
+:101. At the same time, professional knowledge and already connected centers made some old techniques and territorial ambitions easier to use than entirely novel alternatives.
+:102. This is not history moving in a circle.
+:103. It is institutional recombination under unequal costs, in which pieces from different eras acquire new functions by being joined together.
+:104. A rival explanation must nevertheless remain in view.
+:105. Every government that controls a large territory needs information, revenue, coordination, and some method of enforcing decisions, so revolutions may independently invent similar hierarchies even after destroying their predecessors.
+:106. Functional pressure can explain the general resemblance without explaining the particular map, profession, procedure, or chain of command selected.
+:107. Path dependence earns its explanatory role at that more specific level, where inherited capabilities make one workable solution available sooner and more cheaply than others.
+:108. Territorial outcomes expose the limit with unusual clarity.
+:109. The Soviet state recovered much of the former empire's central space, aided in part by inherited transport networks, administrative centers, and strategic knowledge.
+:110. It did not simply refill the imperial outline, since Finland, Poland, and the Baltic states followed separate paths amid war, diplomacy, national organization, and foreign intervention.
+:111. The old map shaped the contest without dictating its result.
+:112. It supplied routes, centers, claims, and habits of strategic thought, while organized alternatives and external power made some departures durable.
+:113. Revolutionary rhetoric can create an additional trap when every acknowledged continuity looks like betrayal.
+:114. If inherited expertise must be used but cannot be discussed honestly, temporary compromises become harder to evaluate, revise, or replace.
+:115. A durable break requires more than an open political moment; it requires alternative capacities capable of carrying the new order after the crowd disperses.
+:116. Training new cadres, designing records that fit new categories, establishing dependable procedures, and allowing routines to survive their founders are slow forms of revolutionary work.
+:117. Stability is not the enemy of controlled transformation, because people can alter a system deliberately only when enough of it remains predictable while they act.
+:118. The decisive change occurs when new routines cease to depend on exceptional mobilization and begin to organize ordinary expectations.
+:119. At that point the revolution is no longer only an event remembered in speeches; it has entered forms, offices, rights, and obligations that will constrain even those who inherit its victory.
+:120. The fresh order becomes durable when its principles can travel through trained hands and settled procedures, and those procedures become the historical material from which later law must build.

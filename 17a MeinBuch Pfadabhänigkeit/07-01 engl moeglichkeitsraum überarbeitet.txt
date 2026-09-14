@@ -1,0 +1,122 @@
+== 7.1 Kodifikation als Fessel ==
+
+:1. On November 26, 1848, amid revolution and constitutional argument, Germany's provisional central authority promulgated a common law for one of commerce's least romantic objects: the bill of exchange.
+:2. A bill of exchange was a written order to pay a specified sum, often used to move credit across distance without moving coins.
+:3. Its value depended not only on the solvency of the people who signed it but also on whether courts in different places recognized the same duties, deadlines, and defenses.
+:4. A document drawn in Leipzig might be presented in Hamburg, passed through several hands, and become less useful if every border changed the legal assumptions attached to it.
+:5. The new General German Exchange Code addressed that practical friction by giving participating territories a shared set of rules.
+:6. The instrument mattered precisely because trade formed a network: each additional jurisdiction applying compatible law made the same piece of paper easier to accept elsewhere.
+:7. This was codification in miniature, born from a mobile commercial practice rather than from an abstract love of tidy books.
+:8. It also exposed a larger problem that no exchange code could solve.
+:9. People living in the German lands still married, inherited, bought property, incurred debts, and formed businesses under a remarkable patchwork of laws.
+:10. Some of those rules appeared in territorial statutes, some in comprehensive regional codes, some in municipal privileges, and some in customs transmitted through courts and legal practice.
+:11. Where no local rule displaced it, jurists might draw on the learned ius commune, a body of Roman and canon law developed through centuries of scholarship and adjudication.
+:12. That arrangement was dispersed, but dispersed did not mean lawless.
+:13. Judges, advocates, notaries, universities, and local communities carried knowledge that made the system work, even when an outsider found its sources difficult to locate.
+:14. Law can grow in this fashion as a language grows, through accumulated use, borrowed forms, local variations, and arguments about what inherited expressions now mean.
+:15. A systematic code makes a different promise.
+:16. It gathers rules for a broad field, arranges them according to an explicit structure, and presents the resulting text as an authoritative point of departure.
+:17. The crucial difference is therefore not simply that codified law is written, because uncodified systems also contain statutes, judgments, deeds, and treatises in writing.
+:18. Nor does a code eliminate custom, interpretation, or judicial creativity merely by declaring itself comprehensive.
+:19. Its distinctive force lies in concentrating legal authority and organizing many questions within one designed framework.
+:20. That concentration changes who can see the law and how legal actors reason about it.
+:21. A merchant can order a current volume, a student can learn its sequence, a lawyer can cite a numbered provision, and a court can relate a disputed rule to neighboring provisions in the same scheme.
+:22. Publication does not make legal advice unnecessary, especially when the text uses technical concepts, but it gives citizens and professionals a common object about which to disagree.
+:23. Codification can also replace personal or territorial status with rules framed to apply across a wider political community.
+:24. That possibility made codes attractive to reformers who associated legal unity with civic equality and predictable government.
+:25. Yet a uniform sentence can preserve inequality as efficiently as it abolishes privilege.
+:26. The content of a code, the institutions enforcing it, and the people able to use it remain as important as the elegance of its arrangement.
+:27. Calling codification progress before examining those elements merely turns typography into political virtue.
+:28. The metaphor of a code as a fetter is therefore accurate only if we ask what is being bound.
+:29. Citizens bind public power by demanding announced rules rather than improvised commands, while lawmakers bind future decisions to categories chosen in the present.
+:30. Parties can plan a loan, sale, marriage settlement, or inheritance because they expect tomorrow's court to begin from the same legal map.
+:31. At the same time, an official map makes some routes broad and familiar while reducing other claims to exceptions, analogies, or blank spaces.
+:32. Once contracts, forms, examinations, commentaries, and judicial opinions refer to the same numbered provisions, they become complementary investments.
+:33. Each investment raises the practical value of knowing the code and increases the cost of replacing its vocabulary.
+:34. This is the path-dependent mechanism: an initial act of legislation attracts skills and expectations that were not contained in the enacted words but later help those words endure.
+:35. The result is stronger than ordinary inertia because changing the text may require changes throughout an ecosystem built around it.
+:36. It is weaker than immutability because legislatures can amend provisions, courts can reinterpret concepts, and practitioners can devise new transactions within the inherited structure.
+:37. Codification can even make reform easier when a clearly located provision reveals where intervention is needed and applies the change across an entire jurisdiction.
+:38. The same architecture may thus obstruct one change and transmit another.
+:39. Long before a national German civil code became politically possible, several governments had already tested different versions of that bargain.
+:40. Bavaria's Codex Maximilianeus Bavaricus Civilis took effect in 1756, Prussia's General State Laws followed in 1794, and Austria's General Civil Code in 1811.
+:41. French rule and influence brought the Code civil of 1804 to territories west of the Rhine and to other German states, where some of its legal legacy survived Napoleon's defeat.
+:42. Baden adapted the French code in its Landrecht, while Saxony enacted its own civil code in the 1860s.
+:43. Alongside these codified territories remained large areas governed substantially by the learned common law, supplemented by particular local rules.
+:44. The legal landscape was consequently not a simple contest between modern written law and ancient oral custom but an overlapping field of codes, statutes, scholarship, and practice.
+:45. Political borders did not perfectly contain these traditions, and legal ideas traveled through universities, books, officials, and commerce.
+:46. The variety allowed comparison and local adaptation, yet it imposed information costs and made equal treatment across territories harder to secure.
+:47. It also meant that national codification required choices among functioning systems, not the filling of an empty page.
+:48. That difficulty stood at the center of a famous dispute in 1814, after Napoleon's defeat reopened the political future of the German lands.
+:49. The Heidelberg professor Anton Friedrich Justus Thibaut argued for a general civil law for Germany, presenting legal unity as a practical and national necessity.
+:50. Friedrich Carl von Savigny answered that law was historically formed within a people and that German legal scholarship was not ready to compress the living inheritance into a legislated system.
+:51. The disagreement is often reduced to Thibaut for legislation and Savigny against it, but both positions were more demanding than those labels suggest.
+:52. Thibaut did not possess a nation-state capable of simply issuing his desired code, and Savigny did not propose that jurists stop developing law.
+:53. Savigny's alternative invested authority in historically trained legal science, whose scholars would reconstruct concepts and relationships before a legislator tried to fix them in statutory form.
+:54. This program delayed national codification while strengthening the university learning and systematic private-law doctrine from which a later code would draw.
+:55. The supposed enemy of codification therefore helped cultivate some of its most important intellectual infrastructure.
+:56. Meanwhile, trade supplied a narrower arena in which the immediate gains from uniformity could outweigh disagreement over a complete civil code.
+:57. German governments and legal experts coordinated exchange law in 1848 and a general commercial code in 1861, demonstrating that legal unification did not have to wait for a unified empire.
+:58. The Frankfurt National Assembly went further in the constitution it adopted in March 1849, assigning the projected national authority responsibility for general codes of civil law, commercial and exchange law, criminal law, and judicial procedure.
+:59. That provision made a common civil code part of a constitutional design rather than an isolated technical project.
+:60. The design never acquired the durable political authority needed to carry it out, although the exchange rules proved more portable than the failed constitutional order that had sponsored them.
+:61. That divergence between political failure and legal survival reveals why some codifications take root while others remain paper designs.
+:62. The exchange rules could be adopted and maintained by individual states because merchants, banks, and courts gained immediate value from compatibility, even after the central institutions in Frankfurt disappeared.
+:63. The constitutional project, by contrast, required a continuing national government able to legislate across fields in which territorial rulers guarded their authority and communities lived under deeply embedded arrangements.
+:64. A code therefore needs more than intellectual coherence at the moment of enactment.
+:65. It needs a jurisdiction, institutions that apply it, and groups willing to reorganize their conduct around it.
+:66. The legal text and its environment then begin to reinforce each other.
+:67. Universities redesign courses around the code's architecture, examinations reward command of its concepts, and newly trained lawyers carry the same mental sequence into courts, ministries, and firms.
+:68. Publishers invest in editions, manuals, and commentaries because a national readership now confronts identical provisions.
+:69. Judges accumulate interpretations that make terse language usable in recurring disputes, while lawyers draft documents in light of those interpretations.
+:70. Administrative forms, land registers, corporate routines, and insurance practices settle around the statutory categories.
+:71. Citizens may never read the code, yet their transactions pass through professionals and organizations whose work has been shaped by it.
+:72. These are increasing returns in legal form: the more a code is used, taught, explained, and built into routine, the more valuable fluency in that code becomes.
+:73. No legislator has to command this entire process from the center, because thousands of decentralized adaptations deepen the chosen path.
+:74. The mechanism also explains why repealing a sentence is easier than replacing a legal system.
+:75. An amendment can exploit the existing network of courts, teachers, books, and forms, whereas a new code forces each part of that network to translate between old and new classifications.
+:76. Translation is not merely a temporary clerical burden when earlier contracts, property titles, family relationships, and judicial decisions must remain intelligible.
+:77. Transition rules have to decide which law governs events that began under one regime and produced consequences under another.
+:78. Uncertainty during that passage is a real social cost because people use private law to make commitments whose value depends on future enforcement.
+:79. For that reason, attachment to an established code can reflect rational protection of reliance rather than reverence for age.
+:80. The benefits are uneven, however, because those already trained in the inherited system possess an asset whose value may fall under reform.
+:81. Professional resistance can therefore combine concern for legal continuity with an interest in preserving scarce expertise.
+:82. Path dependence does not tell us in advance which motive dominates, and it should not be used to dismiss every defense of continuity as self-serving.
+:83. Nor can the survival of a code be attributed entirely to switching costs.
+:84. A durable code may persist because its rules work tolerably well, its abstract concepts admit new applications, or its amendment procedures permit correction without destroying useful coordination.
+:85. Functional quality, political legitimacy, and historical reinforcement can operate together, and evidence of one does not disprove the others.
+:86. The comparison with uncodified legal systems provides an important check on any stronger claim.
+:87. England developed extensive commerce, stable property rights, and sophisticated courts without placing all private law in one comprehensive civil code.
+:88. Precedent, professional training, procedural rules, and standard documents can coordinate expectations around decisions and practices rather than around numbered provisions.
+:89. Codification is thus one way to stabilize law, not a necessary stage through which every modern legal order must pass.
+:90. Even within codified systems, the book never contains the whole working law.
+:91. General language acquires meaning through cases, scholarly disputes, administrative implementation, and changing social practices.
+:92. A code that tried to specify every possible situation would grow unwieldy and still encounter facts its authors had not imagined.
+:93. A code written at a higher level of abstraction leaves more room for adaptation but also gives interpreters greater power.
+:94. The choice between detail and generality is a trade-off, not a contest between complete certainty and judicial freedom.
+:95. Prussia's vast General State Laws and the more compact French Code civil embodied different answers, yet neither could eliminate interpretation or later legislation.
+:96. Their coexistence in the German lands also supplied living alternatives rather than merely theoretical models for eventual unification.
+:97. Rhenish lawyers accustomed to French-derived civil law had reasons to distrust replacement by a system fashioned elsewhere, just as governments feared surrendering their own legislative and judicial authority.
+:98. Uniformity promised lower cross-border costs, but it also meant that some regions would lose familiar doctrines and control over their further development.
+:99. The distributive question lay beneath the technical one: whose law would become common law, and whose expertise would define its meaning?
+:100. No neutral procedure could derive a single answer from the existing diversity.
+:101. Codification required political selection among rules shaped by different histories, followed by legal work that could present the selection as a coherent whole.
+:102. The commercial statutes showed that such selection could proceed field by field when mutual gains were conspicuous.
+:103. The General German Commercial Code of 1861 emerged through cooperation among governments of the German Confederation and entered force through territorial enactments.
+:104. Its reach was broad, but its legal foundation still reflected a federation of sovereign states rather than a national legislature with general authority over private law.
+:105. This arrangement was modular: governments could share rules for mobile commerce while retaining different laws for property, family, and inheritance.
+:106. Modularity reduced the political price of coordination, though it left boundaries at which judges had to decide whether a dispute belonged to unified commercial law or divergent civil law.
+:107. Partial codification could consequently reduce one kind of friction while making the interfaces between legal fields more important.
+:108. The achievement of 1848 and 1861 was real, but it did not place Germany on an automatic track toward a single civil code.
+:109. Economic integration increased the appeal of common rules, scholarly system building made a comprehensive design more conceivable, and national movements supplied a language of legal unity.
+:110. Against those forces stood territorial sovereignty, established regional codes, professional investments, and substantive disagreement over the rules a national code should contain.
+:111. Several futures remained plausible because the pressures favored unification without dictating its institutional form or its content.
+:112. A federation might have continued harmonizing selected fields by agreement, states might have preserved separate civil codes beneath common commercial law, or a national authority might eventually have claimed a broader competence.
+:113. The founding of the German Empire in 1871 altered the balance among those possibilities, but it did not instantly resolve them.
+:114. The new imperial constitution granted national legislative authority over commercial and exchange law, criminal law, judicial procedure, and the law of obligations, not yet over the entire domain of civil law.
+:115. That allocation itself recorded a compromise between the demand for unity and the continuing power of the constituent states.
+:116. National unification therefore arrived before full private-law unification, a sequence that is easy to miss when the later Civil Code is projected backward as the empire's natural legal expression.
+:117. Reichstag majorities pressed repeatedly for broader authority, while resistance in the Federal Council showed that jurisdiction over law remained a question of federal power as well as legal efficiency.
+:118. Only the constitutional amendment of December 1873 extended imperial competence across civil law and made official preparation of a comprehensive code possible.
+:119. By then the future code would be built not on cleared ground but upon regional laws, commercial harmonization, historical scholarship, political bargains, and the expectations generated by each.
+:120. The decisive break of 1871 was therefore less a clean replacement of the legal past than the creation of an institution capable of gathering its rival layers into a new and binding path.

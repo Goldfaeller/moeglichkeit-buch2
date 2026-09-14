@@ -1,0 +1,142 @@
+== 8. Das Experiment der Teilung ==
+
+:1. At midnight on October 3, 1990, millions of people acquired a new legal framework without moving a meter.
+:2. The clocks did not pause while one body of statutes, institutions, and official authority yielded to another across the territory of the former German Democratic Republic.
+:3. The Basic Law took effect there, most federal law followed, and a dense treaty specified which rules would change immediately, which would survive temporarily, and which would require exceptions.
+:4. Nothing about this transformation resembled a clean sheet.
+:5. Homes had owners and occupants, marriages carried accumulated rights, businesses owed money, courts held files, and officials had made decisions whose consequences could not simply be deleted at midnight.
+:6. German unification therefore created an unusually revealing test of legal path dependence: not whether lawmakers possessed the formal power to replace rules, but which layers of a legal order could actually be exchanged, at what speed, and at whose cost.
+:7. The test had begun forty-five years earlier under circumstances that make the word experiment both useful and dangerous.
+:8. After Nazi Germany's defeat in 1945, people in all four occupation zones inherited much of the same statutory vocabulary, including the Civil Code known by its German abbreviation, BGB, which had entered into force in 1900.
+:9. They also inherited courts, legal concepts, property records, professional habits, and personnel marked by the dictatorship and the war.
+:10. Yet the zones were governed by different occupying powers, exposed to different policies, and soon incorporated into antagonistic political and economic systems.
+:11. When the Federal Republic of Germany and the German Democratic Republic were founded in 1949, they did not begin as identical twins placed in controlled rooms.
+:12. Population movements, reparations, economic structures, political coercion, international alliances, and the division of Berlin already made their conditions profoundly unequal.
+:13. Calling the division a quasi-experiment can still sharpen the inquiry because a partially shared inheritance developed under two sets of institutions, but it cannot isolate a single cause as a laboratory experiment might.
+:14. The most visible divergence concerned the source and limits of public power.
+:15. West Germany constructed a federal constitutional democracy in which basic rights bound state authority and independent courts could review legislation and administration.
+:16. East Germany built a socialist state under the leadership of the Socialist Unity Party, and its courts did not possess comparable independence from political direction.
+:17. That difference changed far more than constitutional prose.
+:18. It altered who could challenge an official decision, which arguments counted in court, how judges and lawyers were trained, and whether a favorable rule on paper could be enforced against the state.
+:19. At the same time, daily life in both countries continued to require mundane legal answers about rent, defective goods, inheritance, divorce, and the ownership of a house.
+:20. Even a revolutionary government cannot make those coordination problems disappear by declaring the old social order obsolete.
+:21. This is why the BGB survived in the East much longer than a simple story of ideological rupture would predict.
+:22. East German jurists and political leaders criticized its roots in bourgeois private property, yet replacing a civil code meant more than printing a new volume.
+:23. Every general concept connected to narrower provisions, judicial routines, forms, land records, university courses, and expectations learned through repeated transactions.
+:24. A code is therefore not merely a list of commands but a junction through which many specialized practices coordinate.
+:25. Pulling out the junction before alternatives are ready can increase uncertainty even for a government determined to redesign society.
+:26. The GDR instead detached fields in stages, developed socialist interpretations and institutions, and allowed parts of the inherited private law to retain formal or practical relevance while their surrounding economy changed radically.
+:27. The sequence matters because different legal layers had different degrees of entanglement.
+:28. Family law could be separated from the BGB with fewer consequences for commercial contracting or land registration than a simultaneous reconstruction of all private law.
+:29. The East German Family Code, adopted in December 1965 and effective in 1966, displaced the BGB's fourth book in the GDR and expressed a social model centered on formal equality, women's employment, and public responsibility for families.
+:30. Its language was not politically neutral, for it linked intimate relations to the purposes of socialist society.
+:31. Nevertheless, some of its changes answered real inequities embedded in older law, and their significance cannot be dismissed merely because an authoritarian state enacted them.
+:32. The Federal Republic also transformed inherited family law, but on another timetable and through a constitutional, parliamentary, and judicial process that generated its own delays and compromises.
+:33. Divorce makes the contrast concrete.
+:34. Older German law encouraged spouses seeking dissolution to establish blame, which could turn private breakdown into a strategic contest over legally useful misconduct.
+:35. East German law moved earlier toward judging whether a marriage had lost its meaning for the spouses, children, and society, while West Germany's major divorce reform did not take effect until 1977.
+:36. The apparent convergence toward breakdown rather than fault concealed different ideas about autonomy, family obligation, economic support, and the state's role.
+:37. It also warns against arranging the two systems on a single line from backward to modern.
+:38. A rule can be less punitive in one dimension while the institutions applying it remain less independent in another.
+:39. Women's legal position reveals the same need for several scales of comparison.
+:40. The GDR constitution proclaimed equality in 1949, policy promoted female employment, and childcare provision made paid work possible for many mothers on terms uncommon in the early Federal Republic.
+:41. They did not divide unpaid domestic labor equally, eliminate occupational segregation, or grant women an independent judiciary through which every formal promise could be vindicated.
+:42. Many women carried both a full job and the larger share of household work.
+:43. West German law, meanwhile, retained elements of the male-breadwinner order well after the Basic Law had declared men and women equal, partly because constitutional commitments had to work their way through legislation, adjudication, employment structures, and family expectations.
+:44. Formal text, institutional capacity, and lived practice moved at different speeds on both sides.
+:45. This unevenness is precisely what makes legal history informative about possibility.
+:46. An isolated provision with few dependencies can sometimes be repealed by a short statute, whereas a body of doctrine tied to thousands of transactions cannot be replaced without transition rules and trained interpreters.
+:47. Political priority also matters: legislators spend scarce attention on contested or urgent problems, so an archaic rule may persist because few actors invest the effort needed to remove it.
+:48. Conversely, a government may announce a dramatic break while quietly retaining old techniques that still solve necessary problems.
+:49. The strength of a legal path is thus not measured by the moral importance or public visibility of the rule alone.
+:50. It depends on connections, users, complementary institutions, accumulated knowledge, and the availability of a workable bridge.
+:51. The East German Civil Code illustrates both deliberate departure and functional continuity.
+:52. Adopted in June 1975 and effective on January 1, 1976, it finally replaced the remaining core of the BGB in the GDR.
+:53. The new code used more accessible language, emphasized citizens' material and cultural needs, and fitted contracts and property into a socialist economic order dominated by state and collective ownership.
+:54. It was a genuine legal project, not simply a temporary footnote awaiting reunification.
+:55. Yet citizens still bought household goods, rented apartments, inherited belongings, caused damage, and needed rules for promises and responsibility.
+:56. These recurring problems forced the new system to preserve functional counterparts even when its categories, priorities, and rhetoric changed.
+:57. Continuity of function should not be mistaken for continuity of law.
+:58. A sales contract in a planned economy operates within different supply conditions, enterprise incentives, and opportunities for private choice than a similar-looking contract in a market economy.
+:59. Nor does a shared word such as property guarantee a shared bundle of powers when land, buildings, and rights of use are organized differently.
+:60. The comparison must therefore separate at least five layers: statutory wording, legal concepts, institutions, professional practice, and the political-economic setting in which people act.
+:61. Change at one layer can leave another largely intact, while an apparently stable provision can acquire a different meaning from its new surroundings.
+:62. Path dependence appears when an earlier arrangement changes the cost or plausibility of later alternatives through these connections, not whenever something old happens to remain.
+:63. That definition also leaves room for choice.
+:64. East German lawmakers repeatedly selected among alternatives, and West German lawmakers revised inherited rules rather than merely preserving them.
+:65. Some continuities supplied predictability and spared ordinary people the damage of administrative improvisation; others protected assumptions that had lost their justification.
+:66. At several moments a different sequence was possible, although no actor could choose from every imaginable legal order at once.
+:67. Available models, trained personnel, geopolitical constraints, and the need to keep daily transactions working bounded the menu before any vote was taken.
+:68. The division widened that menu by producing two bodies of experience, but it also made their eventual combination harder because each body had accumulated its own dependencies.
+:69. A comparison limited to dates of enactment would miss how much authority, access, and implementation determined the value of each rule.
+:70. The next difficulty is therefore to ask what happened when a provision that looked progressive was enforced inside a state that denied independent legal control, and when a provision that looked obsolete survived inside a democracy capable of criticizing and eventually repealing it.
+:71. Neither half of Germany supplies a clean moral ledger in which every advanced rule appears on one side.
+:72. West Germany's BGB, for example, retained the notorious Section 1300, the so-called wreath-money provision inherited from 1900.
+:73. It allowed an "unblemished" fiancée, under specified conditions, to claim money after intercourse if the engagement ended, encoding assumptions about female chastity and marriage that grew increasingly alien to ordinary life.
+:74. Its practical importance dwindled, courts questioned its place, and legislators considered deletion, yet the words remained in the federal code until 1998.
+:75. Persistence here did not arise from a vast supporting infrastructure so much as low salience, fragmented reform, and the ease of leaving a fading provision untouched.
+:76. East German family legislation did not preserve that claim in its new system.
+:77. Because the rule was only lightly connected to indispensable transactions, removing it required far less reconstruction than replacing the concepts governing land, contracts, or procedure.
+:78. The episode demonstrates that an embarrassing legal survival can be a weak residue rather than a powerful lock-in.
+:79. The history of laws against homosexual conduct produces an even sharper reversal of any simple ranking.
+:80. Both postwar states inherited a criminal provision that the Nazi regime had drastically broadened in 1935.
+:81. The Federal Republic continued to use that harsher version until a 1969 reform decriminalized consensual acts between adult men while retaining unequal age rules.
+:82. In the East, courts had earlier returned to the narrower pre-1935 wording, although persecution did not simply cease.
+:83. The GDR's new criminal code omitted Section 175 in 1968 but introduced Section 151, which imposed a discriminatory age threshold for same-sex conduct and was not repealed until 1988.
+:84. After unification, differing rules still had to be reconciled, and the remaining federal Section 175 disappeared only in 1994.
+:85. Thus the state whose legal order dominated in 1990 had, on this question, remained longer on part of the older path.
+:86. That fact neither redeems the East German political system nor condemns every feature of West German law.
+:87. It shows why institutional labels cannot substitute for tracing a particular rule, its enforcement, and the people exposed to it.
+:88. The qualification is decisive because progressive wording cannot compensate for the absence of independent legal control.
+:89. East German courts operated within a party state in which political and security priorities could direct investigations, careers, verdicts, and punishment.
+:90. Political criminal law and the Ministry for State Security created forms of coercion that a comparison of civil codes would not reveal.
+:91. A citizen might possess a formally favorable family right yet lack an impartial route for challenging the state on an unrelated matter that governed work, travel, or personal security.
+:92. Enforceability therefore belongs inside the legal mechanism rather than outside it as a secondary question.
+:93. Still, reducing all East German law to arbitrary commands would also conceal how routine disputes required regular procedures and how citizens learned to navigate them.
+:94. Even an unfree state needs enough predictability for leases, purchases, inheritances, workplaces, and administration to function.
+:95. The GDR combined ordinary legal regularity in many matters with political supremacy over law where the regime considered its interests engaged.
+:96. That mixture is harder to describe than either a celebration of progressive statutes or a picture of uninterrupted lawlessness, but it is closer to the historical structure.
+:97. The quasi-experiment therefore demands comparisons at matched levels: rule with rule, institution with institution, practice with practice, and power with power.
+:98. No single date of reform can carry the weight of a verdict on two societies.
+:99. When mass protest broke the SED's political monopoly in 1989, the legal possibility space opened with unusual speed.
+:100. For a brief period, proposals included a democratized GDR, looser forms of association, a newly negotiated constitutional settlement, and accession to the Federal Republic under the Basic Law.
+:101. These were not equally organized options waiting on a neutral table.
+:102. The first free Volkskammer election in March 1990, collapsing economic confidence, migration, international negotiations, and the monetary, economic, and social union that began in July all strengthened the demand for rapid unity.
+:103. Accession under the then Article 23 of the Basic Law offered an existing constitutional route rather than the slower construction of an entirely new state.
+:104. On August 23, the Volkskammer voted for accession to take effect on October 3.
+:105. The two governments signed the Unification Treaty on August 31, and both parliaments approved it in September.
+:106. The sequence compressed the time available for designing a hybrid legal order and raised the cost of delay with every institutional commitment made along the way.
+:107. By autumn, alternatives that had been politically imaginable months earlier were no longer equally reachable.
+:108. That narrowing was produced by decisions and feedback, not by a timeless national necessity.
+:109. The legal form of unity made the asymmetry explicit.
+:110. The GDR did not merge with the Federal Republic as an equal coauthor of an entirely new code but acceded to the constitutional order already operating in the West.
+:111. The Basic Law entered into force in the five reestablished eastern states and the eastern part of Berlin, subject to treaty provisions.
+:112. Article 8 of the treaty extended federal law to the accession territory, while Article 9 preserved qualifying East German law in defined circumstances and the annexes supplied extensive exceptions and transitional rules.
+:113. This architecture combined a decisive default with a multitude of carefully engineered bridges.
+:114. West Germany could supply an operating parliament, ministries, federal courts, professional associations, university curricula, legal databases, precedents, and commentaries at once.
+:115. Its much larger population and economy had generated more practitioners, documentation, and administrative capacity around its rules.
+:116. Eastern judges, lawyers, officials, firms, and citizens needed usable answers immediately, not after a decade-long comparative codification project.
+:117. A rule already interpreted by courts and explained in standard works was cheaper to deploy than an elegant compromise that nobody had yet learned to administer.
+:118. Each additional user of the established system increased the value of training and materials built for that same system, a legal version of network returns.
+:119. Democratic legitimacy mattered too, because the freely elected Volkskammer chose accession amid strong public demand for unity and the protections associated with the Basic Law.
+:120. Yet neither legitimacy nor administrative readiness proves that every imported West German provision was intrinsically better than every abandoned East German alternative.
+:121. The outcome reflected political preference, institutional capacity, unequal resources, and severe time pressure acting together.
+:122. Even then, the change was not a deletion command issued to an empty territory.
+:123. The treaty's immense annexes sorted federal rules that would not yet apply, federal rules that required modification, and East German provisions that would continue fully, partly, or temporarily.
+:124. Property posed especially difficult questions because socialist ownership, rights to use land, expropriations, later purchases, and claims by former owners could not all be translated into BGB categories without conflict.
+:125. Existing marriages, contracts, judgments, pensions, qualifications, and administrative acts likewise required rules about continuity and trust.
+:126. Legal professionals had to be evaluated and retrained, new institutions had to be staffed, and records had to remain intelligible during the transfer.
+:127. Some East German law survived as state law or transitional law, and some legal effects remain relevant decades later because completed acts cannot be made historically unmade.
+:128. The exceptions were not blemishes on unification but part of the engineering that allowed it to occur without suspending ordinary life.
+:129. Many distinct East German solutions nevertheless vanished because the default system arrived with stronger institutional complements.
+:130. Others survived indirectly as experiences, expectations, or unresolved demands, although later all-German reforms cannot automatically be credited to an East German origin merely because they resemble an earlier eastern rule.
+:131. The 1994 repeal of Section 175 illustrates convergence after unity, but it resulted from a new legislative decision rather than the automatic victory of either prior path.
+:132. A more balanced synthesis might have preserved additional ideas, yet it would also have required prolonged bargaining over every dependency and produced a body of law with no settled interpretive community.
+:133. That was a real alternative, not a costless one.
+:134. Accession, in turn, concentrated the burdens of adaptation in the East, where credentials lost value, familiar institutions disappeared, and citizens had to learn rules largely developed without them.
+:135. Changing a path redistributes authority and knowledge as well as benefits and expenses.
+:136. Germany's division shows that law can diverge quickly where a rule is politically salient and lightly coupled, while codes, property systems, professions, and procedures resist exchange because their parts work together.
+:137. Its reunification shows the converse: a deep system can be replaced rapidly when a larger prepared system, democratic authorization, extraordinary resources, and elaborate transition devices coincide.
+:138. Neither result is determinism, because alternatives existed and actors chose among them, but neither is unconstrained choice, because history had priced those alternatives before the choice arrived.
+:139. The archive of unity is therefore not just a stack of discarded East German laws beside surviving West German ones; it is a map of which connections could be cut, which had to be bridged, and which transferred their costs into the future.
+:140. Under the greater time pressure of military conflict, the same dependence on trained people, compatible equipment, doctrine, production, and logistics becomes harder still to escape.

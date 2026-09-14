@@ -1,0 +1,183 @@
+== 3.1 Technik erbt ihre Vergangenheit ==
+
+:1. In January 1774, the English ironmaster John Wilkinson patented a new method for casting and boring iron cannon.
+:2. His patent centered on casting the gun solid and rotating it against the boring tool, a method intended to produce a more regular bore.
+:3. Wilkinson then adapted large-scale boring machinery to engine cylinders, supporting the boring bar so that it could cut with unusual steadiness and precision.
+:4. The military demand for better cannon had financed a manufacturing capability that steam-engine builders urgently needed for a different purpose.
+:5. James Watt had patented his separate condenser in 1769, but a thermodynamically promising design was not yet a reliable full-size machine.
+:6. The obstacle was the cylinder.
+:7. If its interior was too irregular, steam leaked around the piston and consumed part of the efficiency that Watt's design was meant to gain.
+:8. In 1775, Wilkinson supplied Boulton and Watt with a cylinder whose accuracy impressed them, and commercial engines followed in 1776.
+:9. The boring mill did not create Watt's idea, provide his capital, secure his patent, or organize the skilled labor needed to erect an engine.
+:10. It removed one material bottleneck from a much larger enterprise.
+:11. The engine that helped drive industrial expansion did not suddenly become thinkable; it became more reliably manufacturable.
+:12. It is tempting to tell this as a story about two clever men.
+:13. It is more useful to tell it as a story about inheritance.
+:14. Watt did not conjure his engine out of pure reasoning about heat.
+:15. He inherited Newcomen engines, instrument-making skills, iron foundries, investors, mining customers, patent law, and a cannon industry that had already paid for advances in precision.
+:16. None of those inheritances dictated the final machine, yet together they changed which design could leave the drawing board.
+:17. Had accurate large cylinders remained prohibitively difficult, Watt's path would have been slower, costlier, or redirected toward another arrangement.
+:18. An invention can be physically possible long before a society has assembled the means to make it dependable.
+:19. Technology never starts on empty ground.
+:20. This sounds obvious, and it is routinely forgotten because of the way technical stories are told.
+:21. In the usual version, someone has a vision, the vision is doubted, the vision is built, and the world changes.
+:22. In practice, the world first offers a particular set of materials, machines, measurements, trained hands, suppliers, rules, and customers.
+:23. The vision most likely to be built is usually one that can connect to enough of them.
+:24. A new device is designed by people who already know certain things, made on equipment that already exists, and placed among systems already arranged.
+:25. The designer's freedom is real, but it is bounded by questions outside the drawing itself.
+:26. Can anyone make the device with what is at hand, can inspectors approve it, can repairers service it, and will buyers know what to do with it?
+:27. And what is at hand is a fact about the past.
+:28. That fact alone does not establish path dependence.
+:29. A history becomes path-dependent when earlier steps alter the number, cost, visibility, or probability of later options.
+:30. The sequence matters because each adopted tool, rule, and skill changes the starting position for the next decision.
+:31. Past choices do not merely explain where a technology came from; they reshape where it can go without losing function along the way.
+:32. Manufacturing capability is one form of that inheritance.
+:33. Machine tools are the least glamorous objects in industrial history and among the most consequential, because machine tools are the machines that make machines.
+:34. Their accuracy is stored not only in metal frames and guideways but also in gauges, calibration routines, cutting practices, and the judgment of machinists.
+:35. A workshop that improves one of those elements can pass the gain forward into the equipment it builds.
+:36. The process is cumulative, but it is not a simple staircase in which every machine must be less accurate than its parent.
+:37. Skilled workers can scrape, lap, measure, compare, and correct errors, using patient methods to produce a surface more exact than any single guiding part.
+:38. Better instruments and statistical quality control can reveal deviations that earlier workshops could not even see.
+:39. Precision is therefore a developing system of machines, measurements, procedures, and people rather than a property of an era.
+:40. Wilkinson's achievement mattered because several parts of that system had become good enough at the same time.
+:41. Once established, a manufacturing capability can travel into products for which it was not originally created.
+:42. During the nineteenth century, federal and private armories in the United States developed specialized machine tools, gauges, and work routines in pursuit of interchangeable weapon parts.
+:43. Full interchangeability arrived gradually and unevenly, not through a single demonstration or a lone inventor.
+:44. In places such as Hartford and the Connecticut River Valley, machinists and firms later applied related precision-manufacturing methods to sewing machines, bicycles, typewriters, and automobiles.
+:45. The products differed, but part of the productive vocabulary could be reused.
+:46. A region that has learned to make one difficult thing may therefore find some neighboring difficulties cheaper to solve.
+:47. Suppliers know which alloys and components are trustworthy, workers know how to hold tolerances, and lenders can recognize a familiar production plan.
+:48. A rival region can buy machines, yet still lack the tacit knowledge needed to make them work together consistently.
+:49. Industrial capability behaves less like a pile of factories than like a language: slow to acquire, vulnerable to disuse, and difficult to recreate from drawings alone.
+:50. When it is lost, some products quietly become difficult to make again even while their blueprints remain in the cabinet.
+:51. The next inheritance is measurement and specification.
+:52. Every screw in a complex machine has a thread whose angle, pitch, and diameter belong to some agreed family.
+:53. Before broadly shared thread systems, a bolt made in one workshop had no particular reason to fit a nut made in another.
+:54. A broken fastener could therefore become a custom manufacturing problem rather than a routine replacement.
+:55. In 1841, the British machine-tool maker Joseph Whitworth proposed a systematic relation among screw diameters, pitches, and a thread profile with a fifty-five-degree angle.
+:56. His proposal did not reveal a unique geometry hidden in nature.
+:57. It made a defensible set of choices consistent enough for many producers to coordinate around it.
+:58. As the Whitworth system spread, manufacturers invested in matching taps, dies, gauges, drawings, inventories, and instruction.
+:59. Each investment made compatible parts cheaper and made an incompatible system more expensive to introduce.
+:60. Other thread forms, including later sixty-degree systems, could offer advantages in particular manufacturing settings.
+:61. That did not make the installed base disappear.
+:62. Improving a bolt within an established family was a different task from moving an entire network to another family.
+:63. The first could preserve tools, suppliers, and repair practices, whereas the second had to replace or bridge them.
+:64. This is the difference between technical improvement and system change.
+:65. A component may be superior on a test bench yet inferior as a replacement if it cannot connect to the equipment around it.
+:66. Standards are usually described as technical documents, which badly understates them.
+:67. A standard is a promise that certain things will fit together, and the value of that promise grows with the number of things already keeping it.
+:68. The resulting lock-in can be beneficial because compatibility saves time, reduces uncertainty, and permits strangers to cooperate.
+:69. The same benefit creates switching costs because every participant must compare the uncertain gain from change with the certain loss of connection.
+:70. Training carries another portion of the past.
+:71. When motorcars first appeared, there were no mature motorcar trades waiting to build them.
+:72. Early producers recruited from carriage building, bicycle making, metalworking, and other existing crafts, and they borrowed techniques from more than one of them.
+:73. Some early automobiles retained carriage-like bodies, separate frames, familiar upholstery, and words such as dashboard.
+:74. These continuities were not evidence that designers could imagine nothing new.
+:75. They were ways of reducing the number of unfamiliar problems that had to be solved at once.
+:76. A borrowed form could reach customers sooner because workers could build it, suppliers could quote it, and buyers could recognize it.
+:77. Once production expanded, specialized automobile skills and suppliers accumulated around the new product and opened paths that carriage makers had not possessed.
+:78. Inheritance constrains, but it also equips.
+:79. The Wright brothers provide an especially clear example of equipment and experience crossing from one field into another.
+:80. They sold, repaired, and built bicycles before their aircraft experiments, and their shop helped finance and fabricate those experiments.
+:81. Bicycle chains and sprockets offered a practical way to transmit power from their engine to two propellers.
+:82. Their experience with a vehicle that a rider actively balances also contributed to their emphasis on pilot control rather than complete inherent stability.
+:83. Yet the 1903 Flyer was not simply a bicycle persuaded to leave the ground.
+:84. Its decisive three-axis control system, wind-tunnel measurements, wings, propellers, and engine required years of aeronautical experiment and engagement with the work of other researchers.
+:85. The bicycle trade supplied tools and a useful way of framing one problem; it did not contain the solution to flight in miniature.
+:86. Skills arrive bundled with habits of attention, but those habits can be tested, combined, and revised.
+:87. Infrastructure makes the inheritance larger than any workshop.
+:88. A nineteenth-century mill often received mechanical power from a steam engine or waterwheel that turned line shafts through the building.
+:89. Belts carried rotation from those shafts to individual machines.
+:90. The arrangement influenced floor strength, machine placement, lighting, maintenance, and the movement of material.
+:91. When electric motors became commercially useful, many factory owners initially connected a large motor to the old shafts.
+:92. This electric line-shaft drive was not foolish imitation.
+:93. It allowed firms to adopt a new power source while preserving expensive buildings and usable machinery.
+:94. It also retained friction losses, dangerous belts, collective shutdowns, and layouts organized around power transmission.
+:95. Individual motors eventually made it practical to drive machines separately and place them with fewer constraints from overhead shafts.
+:96. That change could improve control, ventilation, illumination, maintenance, and the flow of work through a plant.
+:97. The motor alone did not deliver all those gains.
+:98. Firms also needed wiring, motor controls, suitable machines, new layouts, managerial knowledge, dependable electric supply, and capital for replacement.
+:99. Electrification therefore altered the possibility space most fully when complementary investments changed with it.
+:100. Historians once used this case mainly to illustrate a long delay between a general-purpose invention and visible productivity growth.
+:101. More recent quantitative research has challenged the strongest version of that story and found that productivity gains could arrive rapidly where electricity became available.
+:102. The disagreement is instructive because no single timetable describes every industry, factory, or measure of performance.
+:103. Old capital delayed some reorganizations, while other firms changed equipment and organization sooner than the classic account allowed.
+:104. Nor did the individual motor mechanically cause the assembly line.
+:105. Flow production had its own precedents, incentives, experiments, and labor consequences.
+:106. Electrification made a wider range of layouts feasible, but managers, engineers, workers, and markets determined which of them were attempted.
+:107. This is what a path-dependent explanation should look like when evidence complicates the neat story.
+:108. Earlier investment changed the cost of transition without making transition impossible, and the strength of that effect varied across cases.
+:109. The new technology first entered many factories through the shape of the old system, then helped make other shapes reachable.
+:110. Sometimes an inheritance arrives from a neighboring field and expands into an entire regulated industry.
+:111. Commercial nuclear power offers such a case, although its history is less singular than the usual account suggests.
+:112. In the late 1940s and early 1950s, the United States Navy and Atomic Energy Commission backed the development of pressurized-water reactors for submarine propulsion.
+:113. Ordinary water served as both coolant and neutron moderator, while a compact reactor promised long submerged operation without combustion air.
+:114. The naval program paid for laboratories, prototypes, component testing, operator training, and relationships with major engineering firms.
+:115. The prototype plant reached criticality in 1953, and the nuclear-powered submarine Nautilus went to sea in 1955.
+:116. Shippingport, connected to the grid in 1957, adapted pressurized-water technology to civilian electricity generation.
+:117. That sequence gave one reactor family accumulated experience just as utilities and governments were trying to decide what commercial nuclear power would be.
+:118. Alternatives using gas, heavy water, liquid metals, graphite, or molten salts also existed at different levels of maturity.
+:119. They did not form a single clearly superior rival waiting on equal terms.
+:120. Each combined different fuel requirements, operating characteristics, engineering uncertainties, safety questions, and political sponsors.
+:121. Light-water reactors nevertheless entered civilian competition with laboratories, trained engineers, tested components, established contractors, and a visible demonstration behind them.
+:122. As more plants were built, suppliers specialized, regulators accumulated experience, universities trained personnel, and operators wrote procedures around related designs.
+:123. Financiers and utilities could estimate a familiar project's risks more readily than those of an unfamiliar reactor family.
+:124. Familiarity did not prove technical perfection, but it changed which uncertainties institutions were prepared to carry.
+:125. Light-water designs became the most prevalent family among operating nuclear power plants worldwide.
+:126. Naval investment was an important cause of their early lead, but it was not the only cause of their eventual dominance.
+:127. Civilian policy, licensing, corporate strategy, uranium infrastructure, export relationships, construction experience, and the performance of competing programs also mattered.
+:128. Saying that a navy chose the world's power reactors would therefore compress a network of later decisions into one dramatic origin story.
+:129. Saying that history was irrelevant would miss the compounding advantage that the naval program created.
+:130. The careful conclusion lies between those claims.
+:131. Early investment changed the relative maturity of the options, later decisions reinforced that difference, and the resulting ecosystem made departure increasingly expensive.
+:132. That ecosystem also preserved valuable knowledge about operation and safety, so replacing it would sacrifice real benefits as well as escape real constraints.
+:133. A useful lock-in can still narrow exploration.
+:134. Whether another path would have performed better cannot be settled by comparing mature light-water systems with alternative prototypes that received different amounts and kinds of development.
+:135. Historical inheritance can also be stored in an interface so ordinary that users stop seeing it.
+:136. In the early 1890s, William Kennedy Laurie Dickson used transparent photographic film supplied in rolls about seventy millimeters wide for work on Edison's moving-picture system.
+:137. The film was slit in half to make strips thirty-five millimeters wide and perforated so that a mechanism could advance it reliably.
+:138. The chosen width was convenient because a suitable material already existed, not because optics demanded exactly that number.
+:139. Once cameras, projectors, laboratories, film stock, and theater practices accumulated around the gauge, compatibility gave it staying power.
+:140. The format became more than a strip of material because many complementary devices expected that strip.
+:141. Yet even this durable standard did not freeze every feature of the image.
+:142. Filmmakers changed frame dimensions, sound arrangements, lenses, and screen proportions while continuing to use thirty-five-millimeter stock.
+:143. The stable interface supported substantial innovation inside its boundaries.
+:144. That qualification matters because inheritance is often mistaken for rigidity.
+:145. A standard can close some routes, leave others open, and make entirely new combinations economical.
+:146. Its history changes the neighborhood of feasible moves rather than writing a single future in advance.
+:147. Chains like this can be pushed too far, and they often are.
+:148. The popular tale that traces the width of a modern rocket component through railway gauges to Roman chariot axles is memorable because it turns contingency into destiny.
+:149. Its links do not withstand close historical inspection.
+:150. Real technical inheritance is usually shorter, more local, and less poetic: this workshop owned those machines, that firm trained these people, and this product had to fit that socket.
+:151. Being unglamorous, it is also much easier to overlook.
+:152. Not every limitation with a past is path-dependent.
+:153. A bridge cannot carry an arbitrarily large load because its present materials and geometry have physical limits, regardless of how its design was selected.
+:154. A product's serial number records history but does not by itself alter what the product can do next.
+:155. A trade-off between mass and strength may confront two designers even if neither inherits an installed base.
+:156. History becomes causally relevant when previous choices change the available materials, knowledge, connections, expectations, or switching costs confronting those designers.
+:157. Even then, inherited conditions are starting conditions rather than commands.
+:158. People can plan, simulate, negotiate standards, subsidize alternatives, regulate hazards, and deliberately replace systems.
+:159. Markets can reward compatibility, but they do not reproduce the mechanism of biological natural selection and should not be described as if they did.
+:160. Regulators can preserve a proven design for defensible safety reasons, while buyers can demand backward compatibility because their older equipment still works.
+:161. Intent, market exchange, and law are forces within technical history, not exits from it.
+:162. A planned change can break one lock-in and create another around the infrastructure it builds.
+:163. All of this unsettles a habit of mind carried by many accounts of invention.
+:164. Technical history is often drawn as a ladder, each rung an improvement on the one below and the present standing naturally at the top.
+:165. The picture is comforting and misleading.
+:166. It is misleading first because it is drawn largely from survivors.
+:167. The record preserves machines that spread more readily than machines that worked but vanished with an undercapitalized firm, a missing supplier, or an ill-timed market.
+:168. What got made in quantity is not a controlled experiment proving what was best.
+:169. Better is not a single quantity.
+:170. A machine can be faster, cheaper, safer, more repairable, more durable, easier to teach, or more compatible, and gains along one dimension may carry costs along another.
+:171. Finally, the ladder conceals how every adopted rung changes the price of reaching the next one.
+:172. Tooling, standards, trained workers, suppliers, infrastructure, regulation, and customer expectations gather around the path already in use.
+:173. They do not forbid every alternative; they load the dice by making some next steps cheaper, more visible, and easier to trust.
+:174. A technical history that lists only improvements is like a biography that lists only promotions.
+:175. It records the outcome while concealing everything that made the outcome likely.
+:176. There is a particular pleasure in looking at any manufactured object once this has sunk in.
+:177. The thing in front of you is not simply a solution to the problem it solves.
+:178. It is a cast of the workshop that made it, a fossil of the skills that were available, a set of compromises with whatever materials were cheap that year, and a negotiated peace with a dozen other objects it has to live beside.
+:179. Its designer had considerably less freedom than the word design suggests, and rather more than the word inevitable allows.
+:180. What looks like a decision about the future turns out, again and again, to be a settlement with the past, made by people who could see only part of what they were inheriting.
+:181. Even the keyboard beneath a designer's hands is therefore not merely a tool for choosing the next arrangement; it is an old arrangement helping to decide which choices feel cheap, familiar, and possible.

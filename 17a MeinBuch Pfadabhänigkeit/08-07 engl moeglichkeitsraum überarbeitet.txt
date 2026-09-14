@@ -1,0 +1,122 @@
+== 8.7 Der Paragraph 175 und die Umkehr des Pfades ==
+
+:1. When Germany became one country on October 3, 1990, it acquired an internal border that no road sign marked.
+:2. A consensual sexual relationship between a nineteen-year-old man and a seventeen-year-old man could still be prosecuted in Cologne solely because both partners were male, while the same relationship in Leipzig was not subject to that special prohibition.
+:3. The line separating the two legal outcomes followed the vanished frontier between the Federal Republic and the German Democratic Republic.
+:4. Most West German criminal law had just been extended eastward, yet Paragraph 175 was deliberately excluded from that transfer.
+:5. For nearly four years, the larger state therefore preserved in its western territory a restriction that the smaller state had already discarded.
+:6. This legal geography reverses the easy story in which reunification simply carried newer and freer law from West to East.
+:7. It also poses a sharper question about paths: how could two states inherit the same prohibition, change it at different speeds, and then hesitate over which branch should become common law?
+:8. The shared starting point lay in the criminal code of the German Empire, which entered into force in 1872 after being enacted in 1871.
+:9. Its Paragraph 175 threatened imprisonment for what its language called “unnatural indecency” between males, while sexual acts between women were not included.
+:10. Courts generally construed that formula narrowly, requiring conduct they regarded as resembling intercourse.
+:11. That interpretation did not make the law harmless, but it limited the range of acts that prosecutors could turn into cases.
+:12. During the Weimar Republic, organized campaigns and political parties sought repeal, and decriminalization was a real possibility rather than an idea invented after the fact.
+:13. The attempt failed amid political deadlock before the republic itself collapsed.
+:14. Continuity up to 1933 was thus contingent: an available reform path had closed without proving that the surviving rule was functionally necessary.
+:15. The Nazi government did much more than enforce the inherited paragraph with greater zeal.
+:16. On June 28, 1935, it rewrote the provision, and the new version took effect on September 1.
+:17. By deleting the limiting word “unnatural,” the revision allowed courts to punish a far broader range of conduct, no longer confined to acts resembling intercourse.
+:18. A new Paragraph 175a created aggravated offenses, including coercion, relations with male youths, abuse of dependence, and male prostitution, with much heavier penalties.
+:19. The altered text worked together with policing, denunciation, records, prisons, and concentration-camp terror.
+:20. Researchers estimate roughly 100,000 arrests under Paragraph 175 during Nazi rule and about 53,400 convictions, although repeated arrests mean those totals do not equal the number of individual men.
+:21. The statute’s path became stronger because a brief provision had accumulated an apparatus of interpretation and enforcement around it.
+:22. Words on a page were only one component of the machinery.
+:23. Defeat in 1945 destroyed the dictatorship but did not automatically remove every rule it had made.
+:24. The occupation zones inherited the same criminal code, the same paragraph numbers, trained legal personnel, files, precedents, and widespread hostility toward male homosexuality.
+:25. That continuity must not be mistaken for equivalence between the Nazi regime and the two states founded in 1949, since political authority, constitutional limits, courts, and the severity and purposes of persecution differed profoundly.
+:26. Yet a democratic founding or a socialist founding could both leave a specific inherited rule standing when legislators, judges, and administrators continued to treat it as usable.
+:27. This is the first mechanism of the case: a political rupture changes the highest source of authority faster than it replaces the legal routines nested below.
+:28. In the Federal Republic, the 1935 versions of Paragraphs 175 and 175a remained in force after the Basic Law took effect.
+:29. Police and prosecutors could rely on an established offense, while repeal required an affirmative legislative majority willing to spend political attention on an unpopular minority.
+:30. In 1957, the Federal Constitutional Court upheld the unequal criminal treatment of male and female homosexuality and refused to classify the 1935 provisions as characteristically National Socialist law that had lapsed.
+:31. The decision did not mechanically prevent Parliament from reforming the statute, but it removed one possible route to rapid invalidation.
+:32. It also gave continuity the authority of a new constitutional judgment rather than leaving it as a mere relic.
+:33. Between 1949 and the 1969 reform, West German courts delivered approximately 50,000 convictions under the provisions.
+:34. Each prosecution could carry consequences beyond the sentence, including exposure, damaged employment, broken relationships, and a criminal record.
+:35. Enforcement therefore shaped what people could safely disclose, contest, or organize, even when no trial followed.
+:36. East Germany initially retained the same Nazi-era wording, but its courts soon took a different turn.
+:37. In 1950, the East Berlin Court of Appeal directed courts to apply the narrower pre-1935 version of Paragraph 175, although the Nazi-created aggravated Paragraph 175a remained.
+:38. The change reduced the conduct reachable under the basic offense without abolishing criminalization.
+:39. In 1957, a general amendment allowed authorities to refrain from punishment when an act posed no harmful consequences for the socialist order, a device that sharply reduced prosecutions of consensual acts between adult men.
+:40. Discretion, however, is not repeal, because a rule that officials choose not to apply can still produce uncertainty, selective enforcement, and silence.
+:41. The divergence became statutory on July 1, 1968, when the GDR’s new criminal code took effect.
+:42. It omitted both Paragraph 175 and Paragraph 175a, ending the special criminal prohibition on consensual sex between adult men.
+:43. The new code nevertheless introduced Paragraph 151, which punished an adult who performed sexual acts with a youth of the same sex.
+:44. Because that wording covered women as well as men, it placed some lesbian conduct under an explicitly homosexual offense for the first time in German criminal law.
+:45. East German reform had therefore opened one part of the possibility space while preserving unequal protection ages in another.
+:46. Nor did decriminalization create an open civic world by legislative command.
+:47. Gay men and lesbians still faced social stigma, restricted publication and association, police attention, and surveillance by state-security organs.
+:48. The GDR also lacked the independent judiciary and political competition through which citizens might reliably enforce liberal language against the state.
+:49. A progressive rule on one subject cannot serve as a balance sheet for an entire political system.
+:50. West Germany’s path began to bend a year later, but it did not immediately meet the eastern one.
+:51. The First Criminal Law Reform Act, effective September 1, 1969, ended punishment for consensual acts between adult men while retaining special offenses, including sex involving a male under twenty-one.
+:52. That threshold preserved a distinction that did not govern comparable heterosexual conduct.
+:53. The reform shows why “abolition” can be a misleading date when a legal category is narrowed in stages rather than removed at once.
+:54. It also reveals a second mechanism of persistence: once lawmakers frame a minority through a special category, reform often adjusts the category’s boundaries before questioning its existence.
+:55. Such incremental change may protect people sooner than waiting for perfect consensus, yet it can also grant the remaining distinction a renewed appearance of moderation.
+:56. By the end of the 1960s, then, the two German states no longer occupied the positions that a simple Cold War map might assign them.
+:57. The socialist dictatorship had ceased punishing consensual sex between adult men before the liberal democracy did, even as it denied freedoms indispensable to public advocacy and legal accountability.
+:58. The democracy had stronger institutions for contesting state power, yet those institutions had also absorbed and validated the older prohibition.
+:59. Ideology matters here, but it cannot by itself explain either timetable, for the path ran through statutory wording, judicial interpretation, prosecutorial discretion, constitutional review, social prejudice, and the unequal political power of those exposed to the law.
+:60. What followed would turn this divergence into an even more revealing test: whether later reforms erased the inherited category or merely moved the age at which it applied.
+:61. In 1973, the Federal Republic lowered the special threshold from twenty-one to eighteen and removed further parts of the 1969 scheme, but Paragraph 175 survived.
+:62. A man over eighteen could still be punished for sexual conduct with a male under eighteen under a rule that had no direct heterosexual equivalent.
+:63. From the 1969 liberalization until final repeal in 1994, courts recorded 3,545 further convictions under the paragraph.
+:64. That figure spans changing versions and practices, so it cannot be read as evidence of constant enforcement intensity.
+:65. It does show that a residual category was not merely symbolic, because the law continued to expose a narrower group of men to investigation and judgment after public language had begun describing adult homosexuality as private conduct.
+:66. The age line was often defended as protection of youth, a legitimate purpose that every criminal code must address in some form.
+:67. Yet protection does not logically require different rules according to whether a young person’s partner is male or female.
+:68. General offenses covering coercion, abuse of authority, and sexual conduct with children offered other legal tools, while the special paragraph rested on assumptions about homosexual “seduction” that were increasingly contested.
+:69. Comparisons with countries that had adopted equal rules supplied a practical counterexample to the claim that the distinction was indispensable.
+:70. The remaining provision was therefore not simply an unavoidable functional constraint.
+:71. It was an inherited classification whose continued existence made another round of limited amendment easier to imagine than a clean, gender-neutral reconstruction.
+:72. East German law moved through a different sequence.
+:73. During the 1970s and 1980s, medical and legal discussion increasingly treated homosexuality as a variation of sexuality rather than an offense or curable defect, while gay men and lesbians pressed for social space under restrictive political conditions.
+:74. Some groups found shelter in Protestant churches, one of the few institutional settings capable of offering meeting rooms and a limited degree of protection.
+:75. The state alternated among obstruction, surveillance, tightly controlled tolerance, and modest accommodation.
+:76. This pressure from below mattered, as did changing expert opinion and the authorities’ wish to manage a social reality they could not abolish.
+:77. No single decision explains the shift.
+:78. An East German Supreme Court decision in 1987 further weakened the rationale for treating same-sex relations with youths as categorically different.
+:79. The Volkskammer then removed Paragraph 151 through the Fifth Criminal Law Amendment Act adopted in 1988, with the repeal taking effect on July 1, 1989.
+:80. From that date, the criminal code no longer assigned homosexual relations a separate protection age.
+:81. The change came before the fall of the Berlin Wall and before the collapse of one-party rule, so it cannot be credited to reunification.
+:82. It also did not confer equal marriage, free association, an uncensored press, or reliable protection from official discrimination.
+:83. Criminal-law equality was real within its limited field, and its limits were equally real.
+:84. When unification negotiations began in 1990, the normal gravitational pull favored West German law.
+:85. The Federal Republic had the larger population, the surviving constitutional institutions, established professional networks, and the body of statutes that would govern most of the united country.
+:86. Paragraph 175 presented an awkward exception because extending it eastward would have recriminalized conduct that East German law had ceased to single out.
+:87. The Unification Treaty consequently withheld Paragraphs 175 and 182 of the West German criminal code from the accession territory.
+:88. Lawmakers accepted a temporary territorial split rather than reverse the eastern reform or settle the larger controversy under the deadline of union.
+:89. That compromise demonstrates that dominance at the level of an entire legal system does not dictate the direction of every component.
+:90. A weaker system can leave a durable mark when one of its rules has moved farther along a reform path and reversal has become politically conspicuous.
+:91. The resulting map was peculiar but intelligible.
+:92. West of the former border, Paragraph 175 still applied; east of it, the special offense did not.
+:93. This was not a competition in which two codes were compared from scratch and the better text selected under neutral conditions.
+:94. It was a transition bargain shaped by time pressure, unequal institutional weight, public criticism, and the practical danger of creating new criminal liability overnight.
+:95. The exception preserved an eastern legal outcome inside a state whose law otherwise came overwhelmingly from the West.
+:96. In this narrow domain, path reversal occurred not by deleting history but by using one branch of German history against another.
+:97. The territorial difference could not remain credible as a permanent arrangement.
+:98. A government bill introduced in the early 1990s described the coexistence of different youth-protection rules within Germany as legally and politically unsatisfactory.
+:99. Debate nevertheless had to resolve more than the fate of a notorious number, because repeal interacted with the rules protecting young people from sexual exploitation.
+:100. The Twenty-Ninth Criminal Law Amendment Act finally entered into force on June 11, 1994.
+:101. It deleted Paragraph 175 and established a common framework that no longer made the sex of the participants the basis of a separate homosexual offense.
+:102. The old category had traveled from empire through republic, dictatorship, occupation, division, and union before disappearing from the code.
+:103. Its longevity was not proof that it had served an enduring need.
+:104. Calling this history path dependent does not mean that legal machinery acted alone.
+:105. Religious morality, medical concepts, generational change, international comparison, party politics, constitutional argument, and activism all altered the costs of defending or repealing the law.
+:106. Without those forces, inherited wording might have persisted longer; with different coalitions, it might have vanished earlier.
+:107. Path dependence explains why change confronted a particular inherited structure and why partial reform repeatedly followed its contours, not why every participant held a given belief.
+:108. The case also resists the opposite exaggeration, because statutes do not remain for decades merely because legislators forget to lift a pen.
+:109. The paragraph was sustained by institutions with authority, by social approval or indifference, and by the weakness imposed on people who bore its risks.
+:110. Repeal in 1994 ended the offense but could not restore jobs, relationships, health, years in prison, or lives organized around concealment.
+:111. It also left judgments standing until later legislation addressed the difference between changing law for the future and acknowledging injustice in the past.
+:112. Germany annulled Nazi-era convictions under Paragraph 175 through federal legislation in 2002, and in 2017 it enacted a law rehabilitating people convicted after May 8, 1945, for consensual homosexual acts covered by the specified West and East German provisions.
+:113. The latter law also provided a route to compensation, while excluding conduct that would remain criminal under contemporary protections for minors or against abuse.
+:114. These measures could change legal status and public recognition, but they could not make repeal retroactive in human experience.
+:115. History persisted after the statute had gone.
+:116. There is a productive kind of legal stability: people need rules that do not change with every election, and courts need categories they can apply consistently.
+:117. Paragraph 175 shows the darker counterpart, in which continuity lends familiarity and professional support to a distinction whose justification has eroded.
+:118. Its eastern and western trajectories also defeat any automatic equation of political system with progress on every question.
+:119. The GDR changed this field sooner without becoming a state governed by enforceable individual liberty, while the Federal Republic retained the discriminatory category longer despite constitutional democracy and independent courts.
+:120. A date of repeal can therefore establish an important fact without measuring the full freedom of the people who lived under the surrounding system, and the invisible border of 1990 is best understood not as a verdict on two states, but as a warning about what one apparently progressive rule can and cannot prove.

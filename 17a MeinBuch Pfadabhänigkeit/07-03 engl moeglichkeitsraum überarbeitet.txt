@@ -1,0 +1,122 @@
+== 7.3 Das Bürgerliche Gesetzbuch von 1900 ==
+
+:1. On January 1, 1900, a new legal map settled over the German Empire.
+:2. A shopkeeper in Cologne, a landowner in East Prussia, and a family in Saxony now entered contracts, transferred property, married, and inherited under the same civil code, even though the legal landscapes beneath them had long been different.
+:3. The Bürgerliches Gesetzbuch, usually shortened to BGB, did not erase every local rule, but it replaced a remarkable patchwork of private-law traditions with one common framework.
+:4. That achievement began with an act of compression, as centuries of statutes, Roman-law learning, regional codes, judicial practice, and scholarly argument had to be sorted into a finite sequence of concepts and paragraphs.
+:5. The resulting book was therefore more than a warehouse of commands.
+:6. It told lawyers where to begin, which distinctions to make, and in what order one legal question should lead to another.
+:7. The code had been enacted on August 18, 1896, after preparatory work that began in the 1870s and passed through two major drafting commissions.
+:8. Its delayed commencement gave courts, administrations, universities, publishers, notaries, and businesses time to prepare for a coordinated switch.
+:9. That interval reveals an important fact about codification: a law becomes usable only when a surrounding world learns how to use it.
+:10. Forms had to be revised, textbooks written, officials trained, and existing transactions connected to the new rules through transitional provisions.
+:11. The calendar changed in one night, but legal competence could not.
+:12. The drafters pursued a systematic ambition characteristic of nineteenth-century German legal scholarship.
+:13. Instead of arranging the code mainly around familiar episodes of daily life, they built it from general concepts toward more specific relationships.
+:14. Book One, the General Part, supplies concepts meant to operate across the rest of private law, including persons, objects, legal transactions, time limits, and representation.
+:15. Book Two governs obligations, the legal bonds through which one party owes performance to another, whether because of a contract, damage, or some other recognized source.
+:16. Book Three deals with rights in property, including possession, ownership, land, security interests, and the transfer of rights in things.
+:17. Book Four regulates family law, while Book Five governs succession after death.
+:18. The sequence matters because later books repeatedly draw on the vocabulary introduced earlier.
+:19. A rule about a sales contract may depend on the general rules for declarations of intent, while the delivery of the purchased object raises a distinct question under property law.
+:20. For a lay reader, this architecture can feel like entering a building through the service corridor.
+:21. Before reaching the disputed bicycle, apartment, inheritance, or unpaid bill, one may have to pass through abstract categories that lawyers learned years earlier.
+:22. Yet abstraction performs real work.
+:23. One general rule about capacity, representation, or deadlines can apply to thousands of situations that the drafters could never list individually.
+:24. It also makes the law more consistent by requiring comparable cases to pass through comparable concepts.
+:25. The price is that a classification made near the entrance can channel every argument that follows.
+:26. Consider the modest question of what counts as a thing.
+:27. Section 90 of the modern BGB defines things as corporeal objects, a category that fits a chair more readily than downloaded software or a stream of data.
+:28. The definition does not make digital commerce impossible, because contracts can concern performances and rights that are not physical objects.
+:29. It does, however, determine which ready-made rules become available and which legal route must be constructed elsewhere.
+:30. When lawmakers later added provisions for digital products, they placed much of the new material inside the existing Book Two on obligations rather than rebuilding private law from its foundations.
+:31. Old architecture shaped the address of the new rules.
+:32. This is one mechanism of path dependence: an early classification changes the cost and convenience of later choices.
+:33. Once judges have interpreted a term, professors have taught it, publishers have annotated it, and businesses have drafted contracts around it, keeping the term preserves a large stock of coordinated knowledge.
+:34. Replacing it may promise conceptual elegance, but the replacement must also reproduce countless connections that the old word already carries.
+:35. The relevant past investment is not merely the ink spent on old books.
+:36. It resides in professional memory, standard documents, software fields, examination requirements, precedents, and expectations about how disputes will be resolved, so each successful use makes the system easier to use again.
+:37. Economists call that pattern increasing returns, meaning that adoption itself raises the value of further adoption.
+:38. The phrase does not imply that every old doctrine grows wiser with age.
+:39. It means that a shared legal language becomes more useful as more people and institutions coordinate through it, much as a common map becomes useful because travelers and signposts use the same names.
+:40. Unlike a physical map, however, legal categories help create the terrain they describe.
+:41. A contract form written around BGB concepts influences bargains, a judicial decision guides later claims, and an examination syllabus determines what the next generation of lawyers can recognize quickly.
+:42. The code is reproduced through practice, not merely preserved on a shelf.
+:43. Commentaries became especially important parts of this infrastructure.
+:44. A statutory sentence can remain short while generations of cases, distinctions, and disputed interpretations accumulate around it.
+:45. For a practitioner, the operative rule is therefore often the paragraph together with the network of decisions and explanations that has grown beside it.
+:46. This network can support adaptation because a court may connect an old provision to a circumstance its authors never foresaw.
+:47. It can also raise switching costs because abolishing the provision risks stranding knowledge that solved many unglamorous but recurring problems.
+:48. Persistence here is not proof of superior design, yet neither is it mere laziness.
+:49. The BGB's authority also rested on benefits that a path-dependent account must not explain away.
+:50. A common code made private law more visible across internal borders, increased predictability, and gave citizens and businesses a shared reference point.
+:51. Its systematic vocabulary enabled lawyers to reason across apparently different disputes instead of treating every transaction as an isolated event.
+:52. Some continuity is therefore functional: people retain a framework because coordination and legal security are valuable in their own right.
+:53. Path dependence begins where the framework's inherited connections alter which reforms are affordable, intelligible, or even readily imaginable.
+:54. The two explanations often operate together, and separating them requires a counterfactual question about whether the same rule would still be chosen if the surrounding investments did not already exist.
+:55. The answer becomes harder when the code's technical durability is confused with the society imagined by its original provisions.
+:56. The private-law subject of the General Part was presented in broad and formally equal categories, but the family law that took effect in 1900 assigned husbands, wives, legitimate children, and children born outside marriage sharply unequal positions.
+:57. Marriage carried a patriarchal allocation of decision-making and property powers that reflected neither a timeless family nor every household in imperial Germany.
+:58. These were substantive political choices embedded within the same code that supplied portable concepts for contracts and ownership.
+:59. Their presence warns against treating systematic coherence as social neutrality.
+:60. Their later removal, however, would test whether the old conceptual frame could admit new relationships without ceasing to be the BGB.
+:61. It could, although never by interpretation alone, because legislators and courts could alter the code's contents while preserving enough of its structure for millions of existing legal relationships to remain intelligible.
+:62. That combination of continuity and revision is easier to see in family law than anywhere else in the BGB.
+:63. The equality guarantee of the Basic Law placed the inherited hierarchy between husbands and wives under a constitutional standard that the imperial drafters had not shared.
+:64. Reform in the 1950s removed central elements of the husband's legal predominance, though equality in the statutory text emerged through conflict, delay, and further adjudication rather than through one clean legislative stroke.
+:65. The 1969 legislation on children born outside marriage, which took effect in 1970, dismantled another inherited status order without discarding the entire law of kinship.
+:66. The marriage and family reform enacted in the 1970s replaced prescribed marital roles and fault-centered divorce rules with a different understanding of partnership and marital breakdown.
+:67. In 2017, lawmakers changed the code again so that marriage could be entered by two persons of different or the same sex.
+:68. These changes did not merely pour new words into an untouched vessel, for they altered rights, duties, procedures, and the legal identities available to people whose lives the older categories had ranked or excluded.
+:69. Yet reformers usually worked by revising sections, relocating rules, and reconnecting adjacent provisions rather than by replacing all five books at once.
+:70. The existing architecture supplied both the target and the toolkit of change.
+:71. A concept such as marriage could be transformed because thousands of other rules already referred to it, but those same references made a casual redefinition impossible.
+:72. Every alteration had to account for consequences in property, maintenance, parenthood, inheritance, taxation, procedure, and administrative practice, many of them outside the BGB itself.
+:73. The category was therefore neither frozen nor free-floating.
+:74. Constitutional interpretation created another route for adaptation.
+:75. The BGB contains broad clauses, including the requirement in Section 242 that a debtor perform according to good faith while taking customary practice into account.
+:76. Such language leaves courts room to respond when literal enforcement would conflict with standards developed through later law and experience.
+:77. After the Federal Constitutional Court's Lüth decision in 1958, the values expressed in fundamental rights increasingly influenced private law through the interpretation of provisions such as these general clauses.
+:78. An old paragraph could thus become a point of entry for a constitutional order born more than half a century after the code was enacted.
+:79. This flexibility was not automatic moral progress.
+:80. Open language had also been interpreted under earlier political regimes, and judicial discretion can transmit the prejudices of an age as readily as its corrective insights.
+:81. A durable code depends not only on pliable words but on the institutions, methods, and public standards governing those who apply them.
+:82. The legal treatment of animals offers a compact example of layered change.
+:83. The General Part still defines a thing as a corporeal object, but Section 90a now states that animals are not things and are protected by special laws.
+:84. The same section then directs courts to apply the rules governing things correspondingly unless another rule provides otherwise.
+:85. To a logician, that may look like an awkward compromise.
+:86. To a legal system, it preserves the practical machinery for ownership, sale, possession, and liability while marking a changed normative judgment about living creatures.
+:87. The amendment opened one boundary without leaving every connected question unanswered.
+:88. It also shows the cost of layering, because the new principle must coexist with a borrowed body of rules whose vocabulary it explicitly rejects.
+:89. Digital products reveal a similar but not identical maneuver, because software, streaming access, and data-dependent services do not become corporeal objects merely because consumers pay for them.
+:90. Rather than force them into property law, lawmakers have added detailed obligations for digital products within the code's law of contractual relationships.
+:91. The old distinction between a physical thing and a promised performance remains operative, while new provisions specify updates, defects, remedies, and connected goods.
+:92. This is not evidence that the nineteenth-century drafters secretly anticipated cloud services.
+:93. It is evidence that a sufficiently general framework can host unforeseen transactions when legislation supplies new joints and supports.
+:94. Sometimes the alteration reaches deeper than an added room.
+:95. The modernization of the law of obligations that took effect in 2002 reorganized major portions of Book Two, integrated consumer protections, changed limitation periods, and recast remedies for defective performance.
+:96. Lawyers had to relearn familiar routes, publishers replaced volumes, and contracts changed, yet the reform remained recognizably inside the BGB.
+:97. Political authority, European obligations, sustained scholarship, and a defined commencement date concentrated enough resources to overcome switching costs.
+:98. Path change became possible because coordination occurred around a new package rather than through isolated departures by individual courts or contracting parties.
+:99. The episode demonstrates that increasing returns raise the threshold for reform but do not make the threshold infinite.
+:100. A rival explanation deserves equal attention.
+:101. Perhaps the BGB persists chiefly because many of its general distinctions remain useful, not because lawyers are trapped by what they learned.
+:102. The fact that other legal systems organize reliable contracts, property transfers, families, and estates through different conceptual arrangements proves that the German sequence is not functionally inevitable.
+:103. At the same time, repeated amendment rather than wholesale replacement may reflect rational caution toward a framework whose interactions are known.
+:104. Good design, political compromise, constitutional constraint, professional investment, and path dependence can all support the same surviving rule.
+:105. Longevity by itself cannot tell us which force dominates.
+:106. The sharper test asks what happens when credible alternatives appear.
+:107. If an inherited arrangement remains after its substantive advantages weaken because changing it would disrupt doctrine, training, forms, databases, and adjoining rules, the case for path dependence becomes stronger.
+:108. If lawmakers can replace it without substantial disruption once political preferences change, ordinary legislative inertia may be the better description.
+:109. If every feasible alternative sacrifices a valued function, the issue may be a present trade-off rather than a historical lock-in.
+:110. These distinctions prevent the age of the BGB from doing explanatory work that only a mechanism can perform.
+:111. The code's most consequential legacy may therefore be less visible than its surviving nineteenth-century phrases.
+:112. Generations of German lawyers have learned to divide everyday events into the BGB's ordered categories before arguing about outcomes.
+:113. That shared discipline reduces uncertainty, permits dense cooperation, and makes accumulated decisions usable across time.
+:114. It also makes alternatives harder to formulate, because a proposal expressed outside the familiar system can seem incomplete before its advantages are fairly tested.
+:115. Even radical amendments usually arrive translated into the inherited grammar.
+:116. Return to the simplest purchase, in which money passes one way and a bicycle the other.
+:117. For ordinary purposes, the exchange looks like a single event, but the BGB's architecture directs a lawyer to separate the promise to sell from the act that transfers ownership.
+:118. The distinction has consequences when one part of the transaction is defective, unauthorized, or later undone.
+:119. Around it stand doctrines, judgments, examinations, contract routines, and property records that make the separation workable and costly to replace.
+:120. The code's deepest path may therefore lie not in an antique sentence but in the learned reflex that turns one ordinary purchase into two legally separate acts.

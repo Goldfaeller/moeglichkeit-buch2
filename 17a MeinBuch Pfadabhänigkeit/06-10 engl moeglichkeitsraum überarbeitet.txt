@@ -1,0 +1,122 @@
+== 6.10 Föderalismus als Experimentierfeld ==
+
+:1. In the summer of 1943, a dirty haze settled over Los Angeles so densely that people could see only a few blocks down the street.
+:2. Eyes burned, lungs hurt, and one suspected industrial plant shut down, yet the haze remained.
+:3. The city had encountered a problem that its existing categories of smoke and factory pollution could not quite explain.
+:4. California's response would eventually turn a local emergency into a revealing test of what federalism can and cannot do.
+:5. In the early 1950s, the chemist Arie Haagen-Smit showed that sunlight transformed hydrocarbons and nitrogen oxides, including compounds emitted by automobiles, into photochemical smog.
+:6. That finding changed the target of policy from a handful of visible smokestacks to millions of moving engines sold by national manufacturers.
+:7. California had a peculiar combination of strong sunlight, confining topography, rapid population growth, and heavy automobile use, so a rule calibrated to average national conditions promised little relief.
+:8. It also had something less visible but equally important: agencies, laboratories, measurement routines, and political attention already assembled around air pollution.
+:9. Those accumulated capacities made a regulatory step feasible in California that might have remained merely imaginable elsewhere.
+:10. In 1966, California established the first tailpipe emission standards in the United States.
+:11. The federal government followed with national regulation, but Congress did not simply erase the earlier state path.
+:12. The Air Quality Act of 1967 preserved room for California to seek permission to enforce its own, more stringent vehicle standards, and the first waiver was granted in 1968.
+:13. The arrangement created a deliberate asymmetry inside a federation: one state could keep developing a distinct regulatory path, while the others generally could not invent their own vehicle standards.
+:14. This was neither pure decentralization nor straightforward central command.
+:15. It was a controlled experiment in institutional variety.
+:16. Federalism is often praised because several governments can search in parallel rather than forcing an entire country to bet on one answer.
+:17. Different regions can adapt rules to different climates, industries, populations, and preferences, while a failure in one jurisdiction need not become a nationwide failure.
+:18. Local officials may also see problems sooner because they are closer to the people, firms, and landscapes affected by them.
+:19. These advantages are real, but the laboratory metaphor can make them sound easier than they are.
+:20. A government is not a sealed workbench, its residents are not interchangeable test subjects, and its policies spill across borders through markets, migration, pollution, and imitation.
+:21. Nor does decentralized authority automatically produce experimentation, because local governments can copy convention, lack money and expertise, or avoid an uncertain reform whose benefits others may later appropriate.
+:22. The California case worked partly because a severe local problem supplied pressure, scientific work supplied a causal account, and earlier institutions supplied the ability to measure and enforce a response.
+:23. The sequence mattered.
+:24. Had national law preempted California before those capacities matured, the country might have gained uniformity at the price of closing a productive line of search.
+:25. Had every state been free to prescribe a different engine and testing regime, however, manufacturers could have faced dozens of incompatible markets.
+:26. For a product designed, certified, and distributed nationally, variety itself carries costs.
+:27. Each additional standard can require separate engineering, paperwork, inventories, service knowledge, and compliance tests, even when its public purpose is defensible.
+:28. The relevant choice was therefore not between freedom and control, but among different architectures for deciding how much variation the larger system could bear.
+:29. Congress altered that architecture again in the Clean Air Act Amendments of 1977.
+:30. Section 177 allowed qualifying states to adopt California vehicle standards for which a federal waiver had been granted, provided the standards were identical to California's rather than a new third version.
+:31. This provision turned one state's regulatory path into an option that other states could select without splintering the automobile market into fifty technical systems.
+:32. California became a pioneer, the federal standard remained a common baseline, and other states acquired a choice between two compatible packages.
+:33. The design resembles a well-chosen interface in engineering, although the resemblance has limits because laws allocate power and burdens rather than merely connecting components.
+:34. Its significance lies in the mechanism: bounded variety made experimentation visible and transferable while restraining the compatibility costs of unlimited variety.
+:35. Transfer, however, is not the same thing as learning.
+:36. A neighboring government may adopt a policy because the evidence is persuasive, because its voters and interest groups resemble those next door, because officials share professional networks, or because political competition makes imitation attractive.
+:37. The observed spread alone cannot tell us which mechanism operated.
+:38. A large study of more than seven hundred policies across American states found that geographic proximity best predicted diffusion from 1950 through 2000, whereas political alignment became a stronger predictor after 2000.
+:39. That pattern is consistent with information traveling through networks, but it is also consistent with jurisdictions choosing policies that suit similar constituencies.
+:40. Policies do not carry labels identifying the portion of their success caused by the rule itself.
+:41. California's cleaner vehicles, for example, entered a changing economy shaped by federal standards, fuel rules, technological improvements, enforcement, and shifts in the vehicle fleet.
+:42. Other states could observe the package and its technical feasibility, yet separating its contribution from those surrounding changes required data, comparison, and time.
+:43. This is why parallel government is best understood as a search system, not as an automatic truth machine.
+:44. For one jurisdiction to learn from another, it must know what was implemented, measure outcomes on terms that can be compared, and distinguish a policy's effects from the conditions that led to its adoption.
+:45. The last requirement is especially difficult because governments usually change policy in response to trouble, pressure, or opportunity rather than by random assignment.
+:46. Comparing an adopting state with a nonadopting state may then confuse the reason for the reform with the result of the reform.
+:47. The variation federalism creates can help researchers, but variation by itself is not an experiment in the scientific sense.
+:48. Sometimes a formal trial comes closer and still disappoints.
+:49. American Medicaid demonstration waivers have allowed states to test new approaches within a federal program, yet a federal audit found that many state evaluations were incomplete or too delayed to yield firm lessons when decisions were being made.
+:50. In fiscal year 2015, roughly one third of federal Medicaid spending flowed through demonstrations, so the weakness of the evidence was not a marginal problem.
+:51. Permission to vary had generated activity without reliably generating usable knowledge.
+:52. Credible learning therefore depends on institutions that experimentation alone does not supply: agreed outcome measures, timely reporting, independent evaluation, access to results, and forums in which officials can interpret them together.
+:53. It also depends on relevance, because a policy that succeeds in a wealthy urban jurisdiction may fail where administrative capacity, geography, or the affected population differs.
+:54. Research on policy experimentation predicts precisely this limit: governments learn most readily from places they regard as similar, which means experiments valuable to one cluster of regions may teach little to another.
+:55. Parallel search widens the set of attempted solutions, but it can also divide the map into separate circles of imitation.
+:56. Within each circle, early adoption builds trained personnel, legal precedents, databases, suppliers, and public expectations around the regional solution.
+:57. Those investments improve performance and make continuation sensible, while simultaneously raising the cost of joining a different standard later.
+:58. A temporary local variation can thus harden into a regional path even without any rule forbidding change.
+:59. When people, qualifications, goods, or services cross the boundary, the internal benefits of adaptation meet the external costs of difference.
+:60. The decisive question then becomes not whether diversity is good or uniformity is efficient, but which differences produce information and fit, which merely export costs, and who has the authority to decide when a successful experiment should become a common rule.
+:61. No formula can answer that question in advance, because the value of variation depends on the scale of the problem and the way its consequences travel.
+:62. Municipal zoning can respond to local terrain and housing patterns, while a contagious disease, a river, or an electricity grid crosses the lines drawn on an administrative map.
+:63. If one government keeps the benefit of lenient regulation while its neighbors absorb the pollution, decentralization has not discovered a better solution; it has displaced part of the bill.
+:64. Economists call such displaced effects externalities, costs or benefits imposed on people who did not choose the action producing them.
+:65. The wider the spillover, the stronger the case for rules or bargaining at a wider level.
+:66. Yet scale alone does not settle jurisdiction, because a national government may set a common floor while leaving room for stricter or locally adapted measures above it.
+:67. The architecture can assign different parts of the same problem to different levels.
+:68. Air quality makes this layering unusually visible: national health goals, state implementation, a special Californian vehicle pathway, and local monitoring can coexist without performing the same task.
+:69. Their overlap sometimes creates delay and litigation, but it can also prevent one mistaken decision from controlling every lever at once.
+:70. Overlap is therefore not merely an untidy residue of constitutional history.
+:71. It can serve as a form of error containment, provided responsibilities remain clear enough that governments cannot endlessly shift blame.
+:72. Decentralization also changes who can act when the center is unwilling or slow.
+:73. A regional government may open a route for policy entrepreneurs, affected communities, scientists, or industries whose proposals have no national majority.
+:74. Success can then change the larger political landscape by proving that administration is possible, revealing costs, and creating a constituency with experience of the new rule.
+:75. Failure can be informative too, although officials have stronger incentives to advertise triumphs than to preserve embarrassing evidence.
+:76. For that reason, a federation may systematically remember its apparent successes and quietly forget experiments that ended, producing an archive biased toward adoption.
+:77. Even honest learning confronts the problem of unequal starting points.
+:78. A rich jurisdiction can hire analysts, absorb early mistakes, subsidize new infrastructure, and wait for benefits that arrive slowly.
+:79. A poorer one may face the same problem but lack the fiscal room to test a risky response.
+:80. Calling their different policies expressions of local preference can therefore conceal a difference in capacity.
+:81. It can also conceal inequality among residents, since access to schooling, health care, legal protection, or clean air may depend on which side of an internal border a person happens to live.
+:82. Mobility offers only a partial remedy.
+:83. Moving is expensive, relationships and jobs are place-bound, and the people most burdened by a weak regional system are often least able to leave it.
+:84. Competition among jurisdictions can discipline officials when residents and firms have meaningful choices, but it can also reward governments for attracting mobile taxpayers while limiting services for people with costly needs.
+:85. The same movement can look like useful comparison from the system's center and like compulsory exit from the household packing the boxes.
+:86. National floors, fiscal transfers, and mutual recognition rules are ways of limiting these inequalities without eliminating all regional discretion.
+:87. Each remedy creates its own feedback.
+:88. A shared funding formula generates recipients, contributors, administrative routines, and expectations that make later revisions politically consequential.
+:89. Mutual recognition makes movement easier, yet it pressures jurisdictions to align training and licensing around whatever qualifications were recognized first.
+:90. A minimum standard protects residents, yet it may become a ceiling if local governments lose the authority or incentive to go further.
+:91. The institutions that keep experimentation fair and compatible thus become paths of their own.
+:92. Germany offers a quieter version of the same tension.
+:93. Its Länder possess extensive authority in education, and their ministries maintain distinct laws, administrative practices, school structures, and professional communities.
+:94. This division permits adaptation and sometimes allows one Land to try an approach before others do.
+:95. At the same time, families cross Land borders, teachers seek jobs elsewhere, universities compare credentials, and employers need school-leaving qualifications they can interpret.
+:96. Regional autonomy consequently produces a recurring demand for comparability.
+:97. The Standing Conference of the Ministers of Education and Cultural Affairs, created by the Länder themselves, coordinates agreements intended to preserve mobility and a common foundation without turning education into a single centrally administered system.
+:98. Its existence demonstrates that decentralization does not mean institutional solitude.
+:99. It requires horizontal organizations that translate, compare, negotiate, and sometimes standardize the results of regional decisions.
+:100. Such coordination can spread a useful practice, but consensus procedures may also slow adoption or reduce a bold experiment to the portion acceptable everywhere.
+:101. Once curricula, teacher training, examinations, timetables, buildings, and digital systems have developed together inside a Land, changing one element without the others becomes difficult.
+:102. Regional difference then persists not because anyone chose difference as an abstract value, but because complementary investments make each local package work.
+:103. Unification must confront those packages rather than merely replace a paragraph in a statute.
+:104. The deeper the surrounding training and infrastructure, the less plausible a rapid switch becomes, even when officials agree on the destination.
+:105. This is genuine path dependence: an earlier allocation of authority encouraged distinct capabilities, and those capabilities now alter the price and practicality of later convergence.
+:106. It is not proof that regional arrangements are permanently locked.
+:107. Common examinations, interstate agreements, federal funding bargains, court decisions, and gradual alignment can construct bridges between paths.
+:108. People working within one system can also borrow a component from another and adapt it rather than importing the entire package.
+:109. The possibility of borrowing distinguishes institutional evolution from a set of isolated tracks.
+:110. Still, borrowing works best when components are modular, effects are documented, and the receiving system has enough compatible knowledge to use them.
+:111. An admired policy without its trained staff, data systems, financing, or legal supports may be a label detached from its mechanism.
+:112. Conversely, a reform that fails in one region may be sound under conditions found elsewhere.
+:113. The lesson of diversity is therefore rarely that one jurisdiction has discovered the answer for all.
+:114. Its more defensible contribution is to reveal several combinations of rule and context, narrowing some uncertainties while exposing others.
+:115. Centralization can then harvest that knowledge, set protections, and reduce incompatibility, but centralization can also close the channels through which different answers would be generated.
+:116. Decentralization can preserve those channels, but only by accepting duplicated effort, uneven performance, and the continuing work of coordination.
+:117. The two principles are not endpoints on a line where moving toward one simply means moving away from the other.
+:118. Durable federations repeatedly recombine them, centralizing one function, leaving another local, and building interfaces for the space between.
+:119. That continual rearrangement is why federalism is better described as a method for managing diversity than as a guarantee of innovation.
+:120. Its parallel institutions resemble reserves kept for futures that cannot be specified, costly and sometimes frustrating in ordinary times, yet capable of containing a mistake or preserving an alternative when a single optimized system has nowhere else to turn.

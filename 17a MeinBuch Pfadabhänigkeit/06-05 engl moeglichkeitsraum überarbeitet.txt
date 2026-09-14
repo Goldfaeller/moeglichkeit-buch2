@@ -1,0 +1,122 @@
+== 6.5 Wenn Verwaltung ihre eigene Wirklichkeit schafft ==
+
+:1. In data from English emergency departments, the smooth passage of minutes once acquired a peculiar cliff.
+:2. During 2008 and 2009, almost a third of the patients who were admitted to a hospital ward left the emergency department in the final twenty minutes before their stay reached four hours.
+:3. Discharged patients also clustered near the deadline, though less dramatically.
+:4. Their illnesses had not synchronized themselves to a government timetable.
+:5. The clock had become part of the treatment system.
+:6. The timetable began with a genuine public failure rather than an abstract enthusiasm for measurement.
+:7. English emergency departments had become associated with prolonged waits, crowded corridors, and patients left on trolleys, and the National Health Service Plan of 2000 promised that by 2004 no patient would spend more than four hours between arrival and admission, transfer, or discharge.
+:8. The final standard allowed a small margin: from January 2005, hospitals were expected to complete that journey within four hours for 98 percent of patients.
+:9. Performance was published, hospital leadership was held responsible, and the number offered officials something that complaints and impressions could not provide—a common, comparable signal.
+:10. Hospitals responded.
+:11. An analysis of all 155 English hospital trusts found dramatic improvements in recorded waiting-time performance between 2003 and 2006.
+:12. Later comparisons within the United Kingdom likewise found that forceful waiting-time targets could reduce waits without detectable deterioration in the other patient outcomes those studies examined.
+:13. The case therefore resists the easy morality play in which a foolish number corrupts an otherwise wise institution.
+:14. Many patients spent less time waiting because a number made delay visible, comparable, and consequential.
+:15. Yet the striking pileup before the deadline revealed a second effect operating at the same time.
+:16. A measure intended to describe the world had begun to organize it.
+:17. That transformation is the administrative version of the problem commonly associated with Goodhart's law: once a measure carries important consequences, people adapt to the measure, so its relationship to the underlying goal can change.
+:18. The crucial point is not that workers suddenly become dishonest.
+:19. A numerical target redirects attention before anyone falsifies a record.
+:20. Emergency staff facing several urgent patients must continually decide whose scan, consultation, bed request, transport, or discharge paperwork moves next.
+:21. When one patient is nearing a highly consequential threshold, the deadline supplies an additional reason to move that case ahead.
+:22. The response may be clinically harmless, beneficial, or costly depending on what is displaced, but it is already a change in the reality supposedly being observed.
+:23. Public services are especially exposed to this problem because their purposes are multiple and their most important results are often difficult to compress.
+:24. A hospital seeks speed, accurate diagnosis, safety, humane treatment, appropriate admission, and responsible use of scarce beds, while a single waiting-time indicator sees only elapsed time and final disposition.
+:25. A school may value durable understanding, curiosity, fairness, and preparation for adult life, while a test records answers to a selected set of questions on a selected day.
+:26. A police service may seek safety, legitimacy, prevention, and accurate reporting, while a clearance rate counts only a particular relation between recorded cases and recorded outcomes.
+:27. None of these indicators is meaningless.
+:28. The danger begins when the visible part is allowed to stand for the whole and rewards become strong enough to pull effort away from valuable work that remains hard to see.
+:29. Economists call this a multitask problem: strengthening incentives for the measurable task changes not only how hard people work but also how they divide attention among their duties.
+:30. That division produces several distinct failures that are often blurred together.
+:31. Tunnel vision means concentrating on measured dimensions while neglecting unmeasured ones, even when every recorded figure is accurate.
+:32. Goal displacement occurs when reaching the stated threshold gradually becomes the practical purpose of the organization rather than evidence about whether the public purpose is being served.
+:33. Gaming goes further by improving the reported indicator without an equivalent improvement in the underlying service, perhaps through classification, timing, or selective inclusion.
+:34. Outright fabrication is the extreme case, not the definition of the entire problem.
+:35. The distinction matters because a manager who treats every response as cheating will miss how rational adaptation to a narrow rule can distort work without violating it.
+:36. The four-hour standard created a sharp threshold rather than a steady reward for every minute saved.
+:37. Moving a patient's departure from four hours and one minute to three hours and fifty-nine minutes protected the target, whereas moving it from three hours to two hours and fifty-eight minutes added nothing to the headline score.
+:38. Such a design makes the final minutes unusually valuable in administrative terms even when they are medically ordinary.
+:39. The resulting spike does not by itself prove harmful care, because concentrated effort near a deadline can accelerate decisions that should have been made earlier.
+:40. Nor does it prove that the recorded gains were fictitious, since independent studies found large reductions in waiting and no clear evidence of several feared substitutions or worse health at discharge.
+:41. It does show that the measured distribution was partly produced by the rule used to evaluate it.
+:42. That feedback changes what the data can mean.
+:43. Before the target, waiting time could function mainly as an imperfect indicator of congestion and process quality; after careers, ratings, and organizational attention depended on it, waiting time also recorded the hospital's strategy for managing the target.
+:44. The same number now mixed service performance with adaptation to surveillance.
+:45. Administrators could not recover the old meaning merely by collecting more observations, because the act of consequential measurement had altered the process generating them.
+:46. This is how an institution can create part of the reality it later presents as neutral evidence.
+:47. The effect reaches beyond moment-to-moment triage.
+:48. Once a metric matters, managers build dashboards to follow it, information systems acquire fields to record it, meetings adopt its categories, and staff learn routines for preventing breaches.
+:49. Budgets may fund coordinators, extra shifts, observation units, or redesigned patient flows whose value is explained through the target.
+:50. Inspectors learn where to look, journalists learn which league tables to quote, and political leaders learn which improvement can be expressed in a single sentence.
+:51. Each adaptation can make the service better, yet each also increases the institutional weight of the measure.
+:52. Resources and skills become complementary to it, meaning that they are more useful together than apart.
+:53. A tracking system is worth more when managers know how to read it, managers' expertise is worth more when reports continue in the same form, and long time series are worth more when definitions remain stable.
+:54. The measure is no longer a label attached to an organization from outside.
+:55. It has become a small infrastructure inside the organization.
+:56. That infrastructure creates a path-dependent mechanism: an initially revisable choice about what to count attracts investments, routines, expectations, and constituencies that raise the cost of counting differently later.
+:57. Changing the indicator then threatens more than a column in a spreadsheet.
+:58. It can interrupt comparisons, devalue expertise, redistribute prestige, expose earlier success claims, and force departments to rebuild the procedures by which they explain themselves.
+:59. Even people who recognize the indicator's defects may therefore defend continuity for reasons that are not reducible to vanity or deception.
+:60. The harder question begins when an imperfect measure has become woven into the institution that would have to revise it.
+:61. Simply abolishing the measure would not restore an untouched world, because the earlier world included the delays and opacity that made intervention attractive.
+:62. Abolition could discard useful coordination along with the distortions.
+:63. Path dependence here does not mean that the four-hour rule, or any other indicator, must survive forever.
+:64. It means that reform begins from a landscape the indicator has already reshaped.
+:65. The first step toward a better design is to separate three functions that are easily fused: using a measure to learn, turning it into a target, and attaching rewards or penalties to its attainment.
+:66. A hospital can monitor waiting times to discover bottlenecks without treating one threshold as a complete judgment on performance.
+:67. Once reputation, money, or managerial tenure rides on that threshold, the same information exerts a much stronger directional pull.
+:68. The appropriate strength of an incentive therefore depends partly on how completely the indicator represents the work.
+:69. Where the work has many dimensions and the measure catches only one, modest incentives may reveal more than forceful ones.
+:70. A gradual scale that values improvement across the distribution does not create the same last-minute cliff as a pass-or-fail deadline.
+:71. Tracking the median wait, the longest waits, time to initial clinical assessment, readmission, and patient outcomes can expose different parts of the service rather than allowing one percentage to speak for all of them.
+:72. A basket of measures also makes it harder to improve the headline by moving effort across a single boundary.
+:73. Yet adding indicators is not a free cure.
+:74. Dozens of targets can produce conflicting commands, reporting burdens, and a new kind of tunnel vision in which staff attend to the entire dashboard but still lose sight of the patient.
+:75. Several numbers derived from the same narrow data may share the same blind spot while creating an illusion of breadth.
+:76. Measures must therefore be combined with forms of judgment that can notice context, explanation, and consequences that were not encoded in advance.
+:77. Case review, inspection, professional discussion, and accounts from service users can test whether numerical improvement corresponds to better work.
+:78. These qualitative checks carry their own risks, including inconsistency, favoritism, professional self-protection, and judgments that outsiders cannot readily compare.
+:79. The choice is not between corrupt numbers and pure human wisdom.
+:80. It is between different combinations of partial sight.
+:81. Triangulation—asking whether several independent kinds of evidence point in the same direction—can reduce dependence on any one weakness without pretending that uncertainty disappears.
+:82. Auditors can also examine definitions, source records, sudden discontinuities, and suspicious concentrations around a threshold rather than checking only whether the reported total meets the rule.
+:83. But an audit regime can itself become another target system, teaching organizations how to produce auditable compliance while leaving harder questions untouched.
+:84. Every safeguard is capable of generating its own routines and specialists.
+:85. Revision must consequently be designed as an ordinary institutional capacity rather than reserved for moments of scandal.
+:86. Scheduled reviews, explicit opportunities to challenge definitions, and permission to retire a measure can prevent provisional choices from acquiring the aura of natural facts.
+:87. Even then, frequent change has costs.
+:88. If definitions shift every year, managers cannot distinguish improvement from altered counting, researchers lose comparable time series, and front-line workers cannot learn stable procedures.
+:89. A useful revision process must preserve enough continuity to learn from the past while preventing continuity from becoming an automatic veto.
+:90. One practical response is to run old and new measures in parallel for a limited period.
+:91. The overlap reveals how much apparent change comes from the new definition, gives staff time to adapt, and retains a bridge between historical series.
+:92. It also costs money and attention, and temporary duplication has a habit of becoming permanent when different groups prefer different measures.
+:93. Another response is to treat conspicuous patterns as questions rather than immediate proof of misconduct.
+:94. The cluster of emergency-department departures before four hours was evidence of target-sensitive behavior, but the pattern alone could not reveal whether staff had accelerated sound decisions, moved patients prematurely, changed recording practices, or combined all three responses.
+:95. Punishment based solely on the pattern would create an incentive to conceal the pattern rather than understand it.
+:96. Careful inquiry asks what action produced the number, which other tasks changed, and whether patients were better or worse off.
+:97. That approach restores the indicator to its proper role as evidence in an argument rather than a verdict that ends one.
+:98. It also recognizes that front-line adaptation contains information.
+:99. When workers repeatedly bend a rule to handle cases the designers did not anticipate, their behavior may reveal opportunism, but it may also reveal a poor fit between the official category and the work.
+:100. The challenge is to distinguish evasions that merely protect scores from local adjustments that protect the institution's purpose.
+:101. No formula can make that distinction without knowledge of the cases, yet leaving it entirely to local discretion would sacrifice comparability and accountability.
+:102. The tension is permanent because administrative equality requires some common categories while responsible service requires attention to differences those categories suppress.
+:103. Performance information is most valuable when it keeps that tension visible.
+:104. It becomes dangerous when precision in counting is mistaken for completeness in judgment.
+:105. The emergency standard illustrated both sides at once: a simple time limit forced a neglected problem onto hospital agendas, and its simplicity also concentrated effort at an administratively privileged minute.
+:106. Holding hospital leaders responsible encouraged coordination beyond the emergency department, because delays often depended on beds, diagnostics, transport, and discharge elsewhere in the organization.
+:107. The same pressure could encourage a hospital to relocate a patient, alter a classification, or choose an admission partly because the clock was nearing its limit.
+:108. In one response, the target reorganized care; in the other, care was reorganized around the target.
+:109. Real institutions often contain both responses, intertwined too closely for a league table to separate them.
+:110. Their reported reality is not therefore imaginary.
+:111. It is selected, sharpened, and partly produced through rules of observation that have consequences for the people being observed.
+:112. Once budgets, software, occupational roles, and public promises accumulate around those rules, changing them becomes a distributive decision as well as a technical correction.
+:113. Some units will gain visibility, others will lose status, and past claims of success may be reinterpreted under the new lens.
+:114. Reformers need not only a better measure but also authority, organizational knowledge, and a coalition able to bear the transition costs.
+:115. A crisis, a conspicuous anomaly, new data, or a change in public priorities can open a window for revision, but none automatically supplies the capacity to use it.
+:116. The replacement usually enters beside surviving reports, procedures, and legal obligations rather than sweeping them away.
+:117. Staff must translate between old and new categories while continuing to treat patients, teach children, process claims, or investigate crimes.
+:118. Contradictions and redundancies accumulate, yet the overlap may be what keeps the service functioning during change.
+:119. What looks from outside like timid incrementalism can be the price of altering a measuring instrument that has become part of the machine it measures.
+:120. The institution cannot be taken offline, cleared of history, and rebuilt on an empty bench; the next gauge must be fitted while the machinery is still running.

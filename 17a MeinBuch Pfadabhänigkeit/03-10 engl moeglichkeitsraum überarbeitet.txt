@@ -1,0 +1,167 @@
+== 3.10 Wenn Dominanz mit Qualität verwechselt wird ==
+
+:1. Almost everyone who has an opinion about videotape has the same one.
+:2. The story runs like this: in the 1970s, two rival cassette formats appeared, one of them technically better, and the better one lost.
+:3. It is told as a small tragedy, proof that markets reward marketing rather than merit, and it is trotted out whenever someone wants to argue that the world we have is not the world we deserve.
+:4. The trouble with the story is that almost nobody who tells it has compared the machines as buyers encountered them at the time.
+:5. Sony introduced its Betamax system in Japan in 1975, and JVC introduced the first VHS recorder the following year.
+:6. The first Betamax could record one hour, while the first VHS machine could record two.
+:7. That difference mattered because one of the new machine's central uses was time-shifting, the recording of a broadcast for later viewing.
+:8. One hour excluded many movies and sporting events, while two hours covered far more ordinary television schedules.
+:9. Picture quality mattered too, and Beta acquired a reputation for an advantage on that dimension.
+:10. Yet the size and practical visibility of the advantage varied across models, recording speeds, television sets, and viewers, while neither format held every technical lead for long.
+:11. The familiar verdict that Beta was simply superior compresses a moving contest into a single frozen score.
+:12. Even the apparent knockout blow of recording time needs qualification.
+:13. Sony offered a two-hour Beta machine only months after JVC entered the market, and both camps continued extending recording times by slowing the tape and narrowing the recorded tracks.
+:14. Longer play could therefore improve convenience while reducing picture quality, which was a trade-off between present features, not yet a mechanism of path dependence.
+:15. Quality was never one quantity.
+:16. It included picture and sound, but also recording time, price, reliability, ease of manufacture, model variety, service, availability, and the chance of finding a desired prerecorded cassette.
+:17. A machine could be better on the engineer's bench and worse in the living room without either judgment being dishonest.
+:18. The contest also involved more than two machines.
+:19. It involved alliances among electronics companies, production lines capable of assembling complicated tape mechanisms, distributors able to place recorders in stores, and program suppliers deciding which cassettes to duplicate.
+:20. Sony did not simply keep Betamax locked inside its own factories, as the popular story sometimes claims.
+:21. It sought partners and eventually built a Beta group that included other manufacturers.
+:22. The more consequential difference was that JVC and its allies assembled a broader manufacturing and distribution coalition at a crucial stage of market growth.
+:23. JVC designed VHS with manufacturability and service in mind, while Matsushita brought formidable experience in mass production, a wide sales network, and a willingness to supply machines that other companies could sell under their own names.
+:24. RCA's demand for a recorder long enough to capture an American football game then pushed Matsushita to develop a four-hour VHS model.
+:25. The resulting alliance joined recording time to manufacturing capacity and distribution rather than allowing any one feature to fight alone.
+:26. By 1978, the VHS group could produce substantially more machines than the Beta group.
+:27. More brands meant more combinations of price and features, more shelf space, and more opportunities for a buyer to enter the VHS system.
+:28. Sony and its Beta partners remained capable innovators, and Sony introduced several features before its rivals.
+:29. The VHS firms, however, often matched those advances quickly, preventing Beta from sustaining a distinctive performance niche.
+:30. Prerecorded movies did not decide the earliest round because most early owners mainly recorded broadcasts and many bought no prerecorded tapes at all.
+:31. Their importance grew when rental stores and home-video sales expanded in the early 1980s.
+:32. By then, VHS already had the larger coalition in many markets, so duplicators and rental stores had reason to stock more VHS titles.
+:33. The larger catalog made VHS machines more attractive, which enlarged the installed base, which made an even larger catalog worth supplying.
+:34. This was an indirect network effect: one owner's machine did not become better because a neighbor bought the same format, but the surrounding supply of compatible goods could improve for both.
+:35. Expectations added another turn to the spiral because buyers, retailers, and producers preferred the format they believed others would choose.
+:36. That is where the case becomes an example of path dependence rather than a mere sequence of corporate decisions.
+:37. Early choices changed the conditions under which later choices were made.
+:38. A factory tooled for one mechanism, a store stocked with one cassette, and a household library recorded in one format each made the next move along the same path cheaper than a move across it.
+:39. Scale could lower production costs, experience could improve manufacturing, and a larger installed base could attract complementary products.
+:40. Those gains were not memories or habits floating above the machines; they were changes in costs, skills, inventories, expectations, and compatibility.
+:41. Once accumulated, they altered which later options were affordable, visible, and likely to succeed.
+:42. The mechanism does not imply that an arbitrary coin toss selected VHS.
+:43. Recording time, manufacturability, alliances, distribution, and timely investment supplied substantive early advantages.
+:44. Nor does it imply that those early advantages alone mechanically determined the end.
+:45. Betamax entered first, which shows that being early is not enough when a rival can build a stronger coalition and redirect the feedback.
+:46. Path dependence lies in the interaction between an initial difference and the processes that enlarge, preserve, or sometimes reverse it.
+:47. Without reinforcement, a small lead can disappear.
+:48. With reinforcement, a modest lead can change the landscape on which all later comparisons occur.
+:49. The videotape contest therefore resists both of the morals usually extracted from it.
+:50. VHS did not win merely because it was the best technology in some timeless and comprehensive sense.
+:51. Beta did not lose merely because history accidentally imprisoned consumers in an obviously inferior system.
+:52. The first error is the older and more respectable one.
+:53. It says that a technology is dominant and therefore must be the best available, because anything better would have won.
+:54. Stated that baldly, few people would defend it, yet it operates constantly in a softer form.
+:55. It appears whenever a long-established practice is defended on the ground that it has stood the test of time without anyone asking what the test actually tested.
+:56. Survival is a test of survivability, which is a different property from excellence even when the two are related.
+:57. Technologies persist because they perform well, but also because they arrived at a favorable moment, became cheap to reproduce, won a powerful adopter, or turned into a condition for using other things.
+:58. These are real advantages, although they are not all measurements of intrinsic technical merit.
+:59. Historical memory deepens the mistake by preserving the winner in workshops, catalogs, and museums while scattering the losers' unfinished prototypes and abandoned supply chains.
+:60. Knowing the outcome, we reconstruct the past as a corridor that could only have led here.
+:61. The survivor then appears to have faced no serious rival, which is precisely the impression that survival produces whether or not it is true.
+:62. A tidier version defines quality as whatever prevailed.
+:63. If the best is by definition the thing that won, the claim that the best won is not a finding about the world but a fact about the vocabulary.
+:64. The opposite error begins with the discovery that history contains accidents and ends by treating every dominant design as a hostage situation.
+:65. It says that a technology is dominant and therefore probably mediocre, while a superior alternative must have been strangled at birth.
+:66. This inference can sound discerning because path dependence is an unusually satisfying explanation to deploy.
+:67. Used carelessly, it accounts for any outcome, requires no evidence about the alternatives, and places its user among the people who see through appearances.
+:68. An explanation that fits every case equally well is not doing any work.
+:69. Many dominant technologies are dominant partly because they are excellent at tasks that users value.
+:70. Their achievements can become invisible precisely because reliable infrastructure attracts attention mainly when it fails.
+:71. A standard pallet, a ball bearing, or a well-designed electrical connector may spread through compatibility and still deserve to spread on performance grounds.
+:72. The existence of reinforcement does not prove the absence of merit, just as the existence of merit does not prove the absence of reinforcement.
+:73. Both errors assume that quality is one thing, that every contender can be ranked on a single scale, and that history either respected or violated that ranking.
+:74. Once that assumption is dropped, the question changes shape.
+:75. The first useful move is to name the performance dimension and the people for whom it matters.
+:76. Audio engineers may rank a device by fidelity, travelers by weight, repair technicians by serviceability, and organizations by the availability of trained workers.
+:77. None of those rankings is illegitimate, but a comparison that quietly substitutes one for all the others is an advertisement rather than an analysis.
+:78. Goals also change across the life of a technology.
+:79. Early VCR buyers mainly wanted to record television, while later users increasingly cared about renting prerecorded movies.
+:80. A feature that barely influenced the opening contest could become decisive after a new market grew around it.
+:81. The relevant comparison must therefore be dated as well as measured.
+:82. It must ask what alternatives genuinely existed at that moment in a usable form and at a price buyers could pay.
+:83. Many heroic counterfactuals collapse under that question because the supposed rival was a prototype, a partial system, or a design made convincing by decades of later work.
+:84. Comparing a mature incumbent with an imagined mature version of its abandoned rival gives the rival improvements for which nobody had yet paid.
+:85. Comparing the mature incumbent only with the rival's neglected historical remains commits the opposite error.
+:86. It credits the winner with every refinement produced by scale and learning while treating the loser's arrested development as an inherent defect.
+:87. Adoption can create quality through practice, investment, and complementary invention, so later superiority may be an effect of victory as well as a cause.
+:88. This endogeneity makes the clean experiment people want almost impossible to recover from a single historical sequence.
+:89. The size of a performance margin must also be compared with the cost of switching.
+:90. A challenger that is slightly better on one dimension need not displace an incumbent if its benefit cannot repay retraining, replacement, conversion, and coordination.
+:91. Those costs are not excuses smuggled into the comparison because compatibility is part of what users receive.
+:92. Yet the mere presence of switching costs does not prove that staying is efficient, since a large enough continuing loss can eventually exceed a large one-time transition cost.
+:93. Greenfield choices offer a valuable, though imperfect, countercheck.
+:94. New users building without an installed base face fewer legacy costs, so their choices reveal more about current performance than the choices of deeply committed users do.
+:95. They do not create a controlled experiment because new users may also face different prices, regulations, infrastructure, needs, and information.
+:96. Still, an incumbent that repeatedly loses where its legacy provides little protection is more plausibly being held up by accumulated commitments.
+:97. An incumbent that continues to win under varied greenfield conditions has stronger evidence of present fitness.
+:98. Users who can switch cheaply provide another natural comparison.
+:99. If specialists with portable skills and small equipment remain with the standard, their behavior counts in its favor.
+:100. If they defect while organizations with interdependent equipment remain, the contrast points toward switching costs rather than toward a universal judgment of quality.
+:101. Even this comparison needs care because specialists may value features that ordinary users do not.
+:102. Evidence about superiority also has a history of its own.
+:103. Tests are often run by the people motivated to challenge an incumbent or defend it, and their chosen tasks, samples, and training periods can embody that interest without involving fraud.
+:104. A claim repeated thousands of times without independent verification remains one claim with a large echo.
+:105. The proper question is not whether the sponsor had a stake, but whether the method allows the result to survive outside the sponsor's preferred conditions.
+:106. Actual conversions reveal what hypothetical comparisons hide.
+:107. On September 3, 1967, Sweden shifted road traffic from the left side to the right after years of planning, public instruction, and alterations to roads, signs, buses, and signals.
+:108. The change cost hundreds of millions of Swedish kronor and required nationwide coordination, yet it succeeded.
+:109. Reported road deaths fell in 1967 and then rose again, so the episode does not prove that changing sides made driving permanently safer, especially amid temporary caution and other safety measures.
+:110. It demonstrates a narrower point: even a deeply coordinated standard can be changed when enough complementary parts move together.
+:111. The expense reveals the strength of the lock, while the completed transition reveals that lock-in is not the same as physical impossibility.
+:112. Cases in which dominance strongly tracks technical performance exist as well.
+:113. In the late nineteenth century, alternating-current systems gained a major advantage in supplying electricity over distance because transformers could raise voltage for transmission and lower it near users.
+:114. At the time, low-voltage direct-current networks could not perform that conversion comparably easily and therefore required generating stations close to their loads.
+:115. The growth of alternating-current grids consequently reflected a powerful functional advantage, not merely a self-fulfilling expectation.
+:116. Even this example refuses a victory parade with only one winner.
+:117. Direct current continued in particular applications, and later power electronics made high-voltage direct current attractive for some long lines, submarine cables, and connections between unsynchronized grids.
+:118. The surroundings changed, reopening a region of the technical possibility space that the earlier balance of equipment and costs had kept narrow.
+:119. A technology can thus deserve its dominance in one setting without being universally best or permanently secure.
+:120. Clear cases of historically protected inferiority are harder to establish than anecdotes suggest because the required alternative is often missing.
+:121. One would need to compare the incumbent after decades of refinement with a rival granted equivalent investment, learning, suppliers, and complementary products.
+:122. History usually ran only one of those experiments.
+:123. Regulation that mandates a sponsor's design, contractual control of an indispensable interface, or a replacement cost spread across thousands of complementary components can reveal a binding mechanism.
+:124. Even then, identifying the mechanism does not by itself prove that the alternative's total benefits exceed the cost of transition.
+:125. Path dependence answers how an arrangement persists; it does not automatically answer whether persistence is bad.
+:126. Betamax and VHS belong in the large and important middle between obvious merit and obvious mistake.
+:127. VHS offered early advantages that buyers and manufacturing partners valued, especially longer recording time and a production alliance capable of supplying mass markets.
+:128. Beta offered genuine strengths, continued to innovate, and might have followed a different trajectory under different alliances or earlier responses.
+:129. Quantitative studies of the later United States market find that network size and expectations became important to the widening VHS lead.
+:130. Historical studies likewise emphasize production capacity, distribution, strategic partnerships, and the growth of prerecorded video rather than one magical feature.
+:131. These findings do not allow a precise percentage of victory to be assigned to quality, strategy, or feedback because the causes altered one another.
+:132. A longer-playing machine attracted a distributor, the distributor justified a larger production run, the larger run supported lower prices, and the installed base encouraged a larger cassette catalog.
+:133. What began as a performance difference became an organizational difference and then a compatibility advantage.
+:134. That sequence is the mechanism, not decorative background.
+:135. It also shows why the quality of a technology cannot be separated completely from the world around it.
+:136. A recorder is useful in relation to tapes, broadcasts, repair services, household routines, and the catalog of material that can be played on it.
+:137. An option that is worse in isolation can be better in place because it fits what already exists.
+:138. The fit is not a corruption of the comparison, although it may be a product of history rather than of the device's original design.
+:139. Standardization can create enormous value by ending uncertainty and allowing many producers to coordinate.
+:140. Once VHS became common, consumers benefited from readily available machines and cassettes, retailers could manage fewer inventories, and program suppliers could duplicate at larger scale.
+:141. Those benefits were real even if the route to them was contingent.
+:142. A useful lock-in is still a lock-in because the same compatibility that coordinates activity also raises the cost of leaving.
+:143. The balance can shift when the environment changes.
+:144. A design may be genuinely well suited for decades and genuinely obsolete later, not because its past success was fraudulent but because the conditions that made it sensible have dissolved.
+:145. Much of what looks like stubborn inferiority is a formerly excellent solution still occupying the position it earned under an older set of surroundings.
+:146. The reverse also occurs when an arrangement once sustained mainly by coordination accumulates improvements until it becomes difficult to call it inferior on present performance.
+:147. History can preserve quality, create quality, conceal poor performance, or do all three on different dimensions at once.
+:148. That is why dominance is evidence but never a certificate.
+:149. A surviving rival can make the evidence sharper by preserving skills, components, and a visible counterfactual.
+:150. When every alternative disappears, comparison becomes harder because the incumbent is the only system still receiving investment and the only one available for testing.
+:151. Absence of rivals does not prove failure, but it reduces what anyone can know about roads not taken.
+:152. The same uncertainty affects historical judgment.
+:153. We can observe the costs that the victorious path actually paid, while the costs of an abandoned path remain partly imaginary and are easily edited to suit the storyteller.
+:154. Nostalgia gives the loser flawless maturity, and triumphalism gives it no future at all.
+:155. A disciplined account grants neither side that privilege.
+:156. It names the relevant dimensions, reconstructs the alternatives available at the time, identifies the reinforcing mechanism, and distinguishes benefits created by coordination from barriers created by switching costs.
+:157. Sometimes that inquiry shows that the dominant technology repeatedly earned its place.
+:158. Sometimes it shows that a lead hardened into protection after the conditions that once justified it had vanished.
+:159. Often it yields a mixed verdict in which performance helped choose a path and the path then magnified performance, availability, and belief in future availability.
+:160. The videotape case earns its place in technological history not because the better machine lost, but because the contest makes that mixed causation unusually visible.
+:161. On a museum shelf, a Betamax cassette and a VHS cassette now look like two completed answers awaiting a fair comparison.
+:162. In their own time, they were entrances to different networks of factories, retailers, repair skills, recording lengths, alliances, and expectations.
+:163. As one network expanded, it changed what the next buyer could buy and what the next producer could profitably make.
+:164. The winner's ubiquity was therefore neither a pure measure of engineering quality nor a meaningless accident.
+:165. It was the accumulated result of qualities that mattered, choices that arrived in a consequential order, and a world that each choice helped build for the next one.

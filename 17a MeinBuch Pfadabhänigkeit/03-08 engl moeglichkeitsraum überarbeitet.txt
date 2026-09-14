@@ -1,0 +1,157 @@
+== 3.8 Modularität als Gegengift ==
+
+:1. Somewhere in a cupboard in your house, or in your parents' house, there may be a plastic brick molded before the moon landing.
+:2. If you find it and press it onto a brick bought last week, it will probably still click.
+:3. The two pieces may differ in color, age, and purpose, yet the studs and tubes still meet according to the same geometry.
+:4. This is a stranger achievement than it looks.
+:5. On January 28, 1958, the LEGO company filed a Danish patent application for the stud-and-tube principle that gave its hollow bricks a firmer, repeatable grip.
+:6. Bricks made to that system in 1958 can still connect with bricks produced nearly seven decades later, even though materials, molds, and the range of elements have continued to change.
+:7. Maintaining that fit requires molding dimensions within tiny fractions of a millimeter, because a brick that grips too weakly will collapse and one that grips too tightly will not come apart easily.
+:8. What all that precision bought was not simply a better brick.
+:9. It bought the freedom to invent other bricks.
+:10. Because the basic connection remained stable, the pieces attached to it could become wheels, hinges, motors, figures, curved panels, transparent windows, and shapes unforeseen in 1958.
+:11. Thousands of elements could be introduced or retired without requiring every existing element to be redesigned.
+:12. The system is not the shapes.
+:13. The system is the connection.
+:14. A children's toy therefore states a central bargain of long-lived design in miniature.
+:15. Parts can change with considerable freedom if the rules governing their meeting points remain stable.
+:16. The technical name for this arrangement is modularity.
+:17. A module is a part that performs a relatively distinct job and can be worked on with limited disturbance to the rest of the system.
+:18. An interface is the set of physical, electrical, informational, or procedural rules through which modules interact.
+:19. A standard is a shared specification that allows more than one participant to build, test, or use an interface consistently.
+:20. These terms are related, but they are not interchangeable.
+:21. A machine can be divided into modules joined by a proprietary interface, and a public standard can specify a connection without dictating what happens inside the connected parts.
+:22. Modularity works by limiting what one component needs to know about another.
+:23. If the limitation is well chosen, someone can redesign the inside of a component using materials and methods that did not exist when the interface was defined, while the rest of the system continues to accept it.
+:24. If the limitation is badly chosen, every local change ripples outward until the cost of improving one part approaches the cost of redesigning the whole.
+:25. The art lies less in drawing boxes around components than in deciding what may cross the lines between them.
+:26. In 1962, the American scholar Herbert Simon explained the power of stable subassemblies with a parable about two imaginary watchmakers, Hora and Tempus.
+:27. Each made watches containing about a thousand parts, and each was frequently interrupted by customers calling on the telephone.
+:28. Tempus assembled a watch as one long sequence, so an interruption caused the unfinished mechanism to fall back into its individual pieces.
+:29. Hora first assembled stable groups of roughly ten parts, combined ten of those into larger groups, and then combined those groups into a watch.
+:30. When Hora answered the telephone, he lost only the small subassembly currently in his hands.
+:31. The two watches were equally complex, but their routes to completion were radically different.
+:32. Simon's arithmetic made the contrast dramatic, yet the durable insight does not depend on his chosen numbers.
+:33. Stable intermediate states prevent a disturbance in one place from destroying all the work already completed elsewhere.
+:34. A modular design creates such resting places not only during assembly but also during change over time.
+:35. The parts that are separable are the parts that can be revisited.
+:36. Parts fused to their neighbors can be revisited only by revisiting those neighbors too, and perhaps their neighbors in turn.
+:37. Modularity therefore changes the size of the disturbance produced by a modification.
+:38. That is its path-dependent mechanism: an earlier decision about boundaries alters the cost, probability, and reach of later changes.
+:39. The first advantage is partly independent improvement.
+:40. Several teams can work on different components at the same time when their mutual obligations are narrow and explicit.
+:41. The entire system does not necessarily improve at the speed of its fastest component, because integration, testing, and bottlenecks still matter.
+:42. It does, however, avoid forcing every component to move in lockstep whenever one of them advances.
+:43. The second advantage is repair.
+:44. A failure in a separable unit can sometimes be treated as a broken part rather than as the death of the whole object.
+:45. Aircraft maintenance, for example, relies heavily on replaceable units that can be removed for diagnosis while a serviceable unit takes their place.
+:46. The boundary does not prevent failure, but it can confine the work required to recover from it.
+:47. The third advantage is recombination.
+:48. Once components have defined connections, they can be assembled in configurations their original designers did not anticipate.
+:49. A modest catalog of compatible parts can therefore support a much larger range of complete products.
+:50. The fourth advantage is specialization across organizations.
+:51. If an interface is precise and implementable by several suppliers, each supplier can concentrate on one component while relying on the others to perform their agreed roles.
+:52. That arrangement can create a market around a product instead of leaving every improvement to a single manufacturer.
+:53. Publication alone does not guarantee competition, because licensing, certification, access to complementary tools, and control over revisions may still restrict who can participate.
+:54. The economic effect of an interface depends not only on its geometry but also on the rules governing it.
+:55. Long before electronic systems made interfaces invisible, manufacturers struggled with the more tangible problem of interchangeable metal parts.
+:56. A gunsmith could make a musket work by filing and adjusting each component until it fitted the particular components beside it.
+:57. Repairing that weapon later might require another round of individual fitting.
+:58. In an August 1785 letter, Thomas Jefferson described visiting the French gunsmith Honoré Blanc and seeing the separated components of fifty musket locks arranged in compartments.
+:59. Jefferson reported that he selected pieces at random and assembled several working locks from them.
+:60. He also noted that Blanc had achieved interchangeability in the lock, not yet in every part of the musket.
+:61. That qualification matters because interchangeable manufacture did not arrive as a single completed invention.
+:62. Extending it across products and producing it reliably at scale required gauges, specialized machine tools, disciplined measurement, skilled workers, and institutions willing to bear years of expense.
+:63. Local fitting can solve one immediate assembly problem, whereas interchangeability demands that parts made at different times and places fit partners they have never met.
+:64. Modularity, in other words, is not free and never has been.
+:65. Much of its cost must be paid in advance, before the repair, recombination, or future innovation that might justify it.
+:66. An organization must invest in more changeable architecture while a tightly integrated design may look cheaper or better in the present comparison.
+:67. That is often a difficult argument to win because the future users who receive the benefit are absent from the meeting that approves the cost.
+:68. The first cost is performance.
+:69. Connections occupy space, add weight, introduce tolerances, and create places where material, signals, heat, or force must cross a boundary.
+:70. A component designed for a general interface may carry features that one particular product does not need.
+:71. A sealed device can sometimes be thinner, lighter, stiffer, quieter, or more resistant to water than a version designed for easy disassembly.
+:72. Integration is not therefore a design error, and modularity is not a universal measure of quality.
+:73. The same system can also be integrated at one scale and modular at another.
+:74. A computer chip contains densely interdependent structures that a user cannot replace separately, yet the packaged chip may itself be a module in a larger machine.
+:75. What matters is where change can be localized, not whether every visible piece comes loose under a screwdriver.
+:76. The second cost is premature commitment.
+:77. When a system is divided into modules, someone must decide where the cuts go and what information, energy, material, or authority passes across them.
+:78. That decision is often made when knowledge about future uses is still weak.
+:79. If the seams are placed well, the system may absorb decades of change with little disturbance.
+:80. If a valuable improvement crosses a boundary that the architecture treats as fixed, the system may accumulate adapters, duplicate functions, and elaborate workarounds.
+:81. A seam that once isolated problems can then become the source of them.
+:82. The third cost is coordination.
+:83. Teams working on separate modules still need common definitions, versioning rules, testing procedures, and a way to resolve incompatible changes.
+:84. Their work is partly independent, not magically independent.
+:85. A component may satisfy the written interface and still violate an unstated expectation about timing, temperature, load, or user behavior.
+:86. Formal boundaries reduce some forms of complexity while moving others into integration and governance.
+:87. The fourth cost is the deepest because it turns the proposed antidote into another carrier of history.
+:88. Modularity does not abolish the grip of the past.
+:89. It moves that grip from the parts to the joints and often tightens it there.
+:90. The dimensions of the basic brick remain stable precisely so that old and new pieces continue to connect.
+:91. Manufacturers invest in molds, users build collections, and designers form expectations around those dimensions.
+:92. Each successful use makes continuity more valuable and a rival geometry more expensive to adopt.
+:93. The interface gains strength from complementary investment, learned skill, compatibility, and the expectation that others will continue to honor it.
+:94. Changing the joint would not merely alter one new part; it would reduce the usefulness of everything already built around the old joint.
+:95. The freedom purchased inside the modules is paid for with relative rigidity at the seams.
+:96. Modularity is therefore an antidote in the way a splint is a remedy.
+:97. It does not undo the past or make a system infinitely changeable.
+:98. It chooses where rigidity will sit and confines some of it there so that other parts can move.
+:99. This is a useful lock-in because the stability that restricts one kind of change enables many others.
+:100. Calling every integrated object path-dependent would nevertheless confuse history with a current trade-off.
+:101. A sealed battery may be difficult to replace because its enclosure was optimized for size, strength, price, or water resistance under present constraints.
+:102. That difficulty becomes strongly path-dependent only when earlier choices have also accumulated factories, tools, supplier contracts, software, repair practices, and customer expectations that make an alternative architecture progressively more costly.
+:103. The present compromise and the historical reinforcement may coexist, but they are not the same mechanism.
+:104. Nor does modular automatically mean open.
+:105. A manufacturer can provide replaceable components while reserving the specifications, tools, or legal permission needed to make them.
+:106. Conversely, an openly documented interface still requires maintenance, testing, and decisions about future revisions.
+:107. Open interfaces can widen participation and reduce dependence on one supplier, but they can also slow coordinated change when many implementers must be protected from breakage.
+:108. Closed interfaces can permit rapid, coherent revision inside one organization, but their users must trust that organization's access rules and migration choices.
+:109. The important question is therefore not simply whether a seam exists, but who can use it, who may change it, and who must absorb the cost when it changes.
+:110. Computers make this double effect especially clear.
+:111. Replaceable memory, storage, processors, and peripheral devices allow individual capabilities to improve without discarding every other component.
+:112. The new component must still speak the electrical and logical language expected at the socket, bus, or port.
+:113. Compatibility supports incremental upgrades, specialist suppliers, and a large stock of shared knowledge.
+:114. The same compatibility can make a radically different architecture harder to introduce because the new design begins without the surrounding devices, software, tools, and trained technicians.
+:115. Adapters, emulation, dual support, and versioned interfaces can bridge such transitions.
+:116. These bridges show that interface lock-in is costly to escape, not metaphysically permanent.
+:117. They also impose a period in which old and new arrangements must be supported together, so the cost of migration arrives before its benefits are secure.
+:118. Where an interface has only one user and no complementary investment, changing it may be easy.
+:119. In that case the earlier design still has a history, but it may create little meaningful path dependence.
+:120. The binding mechanism appears when many other choices have come to depend on the boundary.
+:121. Vehicle platforms reveal a related pattern at a different scale.
+:122. Sharing mounting points, electronic protocols, and manufacturing processes across several models can lower development costs and let components improve across a family of products.
+:123. The shared architecture may also constrain dimensions or functions that would be easy to change in a vehicle designed alone.
+:124. Early success attracts suppliers, tooling, training, and service capacity, and those investments then make continued use of the platform more attractive.
+:125. The architecture need not be inferior for this feedback to exist.
+:126. Indeed, a technically useful beginning often produces the strongest binding because it gives so many participants good reasons to build on it.
+:127. Living systems offer a comparison, though not a literal engineering blueprint.
+:128. Organisms have no architect who decides where a module should begin, and biological boundaries are often partial, overlapping, and dependent on context.
+:129. Even so, repeated body units, regulatory circuits, and reusable protein domains can allow evolutionary changes to affect some traits more than others.
+:130. Arthropod appendages, for example, have been modified into walking legs, mouthparts, antennae, paddles, and grasping structures while retaining elements of a shared developmental organization.
+:131. That organization is one contributor to their capacity for variation, not a single explanation for the immense diversity of arthropods.
+:132. Proteins also contain domains that recur in different molecular combinations, although the boundaries between domains do not always correspond to independent genetic modules.
+:133. Small rings of DNA called plasmids can transfer packages of genes between bacteria, sometimes moving a capability such as antibiotic resistance without requiring each recipient lineage to evolve it from scratch.
+:134. Gene duplication can likewise create an additional copy on which changes may accumulate while the original continues to perform an important function.
+:135. The copy is not automatically free to innovate because dosage effects, regulation, and interactions with other genes may constrain both copies.
+:136. Biology therefore complicates any slogan that equates modularity with evolvability, the capacity to produce viable variation.
+:137. Strong integration can improve current performance, and the relation between biological modularity and future variation depends on the trait, environment, and level being examined.
+:138. Overlapping genes in compact viral genomes illustrate the opposite architecture because one stretch of genetic material can contribute to more than one product.
+:139. A mutation in an overlapping region may then affect several functions at once, reducing the number of tolerable routes available to change.
+:140. Yet even this is not an absolute cage, since overlapping genes evolve and can sometimes create useful new coding possibilities.
+:141. The genetic code is a deeper and nearly universal biological interface linking nucleotide triplets to the components of proteins.
+:142. It is not literally identical in all life, because variant codes have evolved in mitochondria and in several lineages of microbes and other organisms.
+:143. Large-scale reassignment is nevertheless difficult because the meaning of a codon is embedded across many genes and in the molecular machinery that translates them.
+:144. The shared code supports communication among countless cellular processes while making a wholesale switch extraordinarily disruptive.
+:145. Modularity thus changes the shape of the reachable future rather than simply enlarging it.
+:146. It makes some nearby changes cheaper by reducing their blast radius, while making changes to the organizing interfaces comparatively expensive.
+:147. It can preserve repairability, recombination, and parallel innovation without guaranteeing that the chosen boundaries will remain wise.
+:148. A system may be stable without being rigid, and constrained without being permanently fixed.
+:149. The design goal is not the largest possible number of modules, because every boundary carries performance and coordination costs.
+:150. It is to place boundaries where future variation can be absorbed and to leave enough slack, versioning room, or bridging capacity for boundaries that may one day need to move.
+:151. No designer can know those locations with certainty because an interface is a wager made in the present about which differences will matter in the future.
+:152. A well-placed seam is a gift to strangers who discover that the thing they need to change happens to come apart in their hands.
+:153. A badly placed seam is a wall they may spend decades climbing without quite being able to say why the obvious improvement is so difficult.
+:154. Both can look identical on the day they are drawn.
+:155. Time reveals the difference by turning one early line into many later possibilities, and the other into the boundary of a room no one can cheaply enter.

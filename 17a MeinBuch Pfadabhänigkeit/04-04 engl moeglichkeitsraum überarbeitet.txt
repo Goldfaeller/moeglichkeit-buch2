@@ -1,0 +1,172 @@
+== 4.4 Der Datenvorsprung ==
+
+:1. Picture two women standing in a kitchen beside a small speaker on the counter.
+:2. One asks for the weather, and the device answers within a second.
+:3. The other asks the same question in the same language, and the device says that it did not understand.
+:4. A person in the room follows both speakers without effort.
+:5. The contrast is plausible, but the kitchen alone cannot reveal its cause.
+:6. Microphone position, background noise, pronunciation, software design, and training data could all matter.
+:7. Controlled evidence gives the scene a firmer foundation.
+:8. In 2020, researchers tested five commercial speech-recognition services on interview recordings from 42 white speakers and 73 Black speakers in five American cities.
+:9. They matched audio excerpts by speaker age, gender, and clip duration, producing a comparison that covered 19.8 hours of speech.
+:10. Averaged across the five services, the word error rate was 35 percent for Black participants and 19 percent for white participants.
+:11. The gap appeared in every service they tested, although its size varied.
+:12. The researchers traced much of the disparity to acoustic processing rather than vocabulary or grammar and identified insufficiently varied training audio as a likely cause.
+:13. Because the companies' training sets were proprietary, however, the study could not reconstruct exactly which voices each system had learned from.
+:14. Nor does one American comparison prove that every accent, age group, language, device, or later system follows the same pattern.
+:15. It does demonstrate a harder point: aggregate performance can conceal sharply uneven performance within the population a tool is meant to serve.
+:16. No engineer needs to decide that one kind of voice should be misunderstood for such a difference to arise.
+:17. History can enter through who was recorded, which recordings were retained, how speech was labeled, and which errors were treated as worth correcting.
+:18. Once a system is deployed, that history may begin to reinforce itself.
+:19. The familiar version of the mechanism has three moving parts.
+:20. First, use can produce a record of use.
+:21. Depending on what a service logs and what its users have agreed to, that record may include questions, corrections, abandoned answers, reported failures, and information about the conditions in which an error occurred.
+:22. Second, selected parts of the record can help engineers improve later versions of the system.
+:23. Third, a system that works better for a task may attract more use, producing more opportunities to observe that task.
+:24. More use can then yield more relevant examples, better performance can attract still more use, and an early lead can widen.
+:25. This is a positive feedback loop, with positive describing the direction of the feedback rather than its social value.
+:26. Yet none of the three links is automatic.
+:27. An interaction that is never stored cannot become training material.
+:28. A stored interaction without a trustworthy label may show that something happened without showing what the correct response should have been.
+:29. A useful example still has to be selected, cleaned, secured, interpreted, combined with other examples, and incorporated into a model that passes evaluation.
+:30. Retraining and deployment consume labor, computing power, time, and organizational attention.
+:31. The by-product may become an asset, but it does not become one merely by accumulating on a server.
+:32. This distinction matters because calling data the new oil makes collection sound like extraction, when much of the value is created only after collection.
+:33. The loop becomes path-dependent when earlier performance changes the later flow of usable data and thereby changes the cost or probability of subsequent improvements.
+:34. Mere chronological order is not enough.
+:35. A system does not acquire a data advantage simply because it arrived first; it must convert its early position into information that helps it perform better.
+:36. The shape of the process is easier to see in water.
+:37. A stream crossing a gently sloping meadow may begin in several shallow channels.
+:38. Wherever water happens to run a little faster, it can lift more soil.
+:39. Where more soil is removed, a channel deepens, and the deeper channel captures more of the next rainfall.
+:40. Repeated rains can turn a small initial difference into a bed with banks.
+:41. The channel did not contain a plan for the river, yet its own effects helped determine where later water could travel cheaply.
+:42. That is the useful correspondence between erosion and a data advantage.
+:43. The limit of the analogy is equally important: water follows gravity without consent forms, annotation budgets, privacy constraints, or a decision about when to rebuild the riverbed.
+:44. Data feedback passes through institutions at every turn.
+:45. Its strength therefore depends on the task and on the kind of trace the task leaves behind.
+:46. A spelling tool can learn quickly from an accepted correction because the signal is immediate and closely tied to the error.
+:47. A medical prediction may not receive a reliable outcome label for months or years, and treatment itself may change that outcome.
+:48. A conversational system may collect millions of exchanges while learning little about whether its answers were true.
+:49. Clicking an answer can mean satisfaction, curiosity, confusion, or an attempt to inspect a mistake.
+:50. Behavior is evidence, but it is not self-interpreting evidence.
+:51. The first entrant's advantage is strongest when interactions are frequent, outcomes are observable, feedback arrives quickly, and the resulting data can legally and technically be reused.
+:52. If those conditions fail, a large user base may produce more noise than instruction.
+:53. Even when the loop works, the second system does not have to reproduce the first system's history one interaction at a time.
+:54. It may start with public data, licensed material, a pretrained model, knowledge transferred from another task, or a deliberately recruited group of testers.
+:55. A new architecture may also learn more from fewer examples.
+:56. Better microphones, a different objective, or careful error analysis can sometimes beat another increment of scale.
+:57. Early use is therefore an opportunity for self-reinforcement, not a guarantee of permanent dominance.
+:58. The cold-start problem remains real.
+:59. A newcomer may need users in order to learn how to serve them and need adequate service in order to attract those users.
+:60. That trap has the shape of the young worker who is asked for experience by every employer who might have provided it.
+:61. An incumbent can also possess records that no newcomer is permitted to inspect or reproduce.
+:62. Exclusive access then turns past transactions into a barrier to entry.
+:63. The barrier is rarely the database alone.
+:64. It includes collection pipelines, permissions, data formats, labeling practices, computing infrastructure, evaluation routines, and employees who know what the fields actually mean.
+:65. These complementary investments are where a data advantage hardens into an organizational path.
+:66. They are also why a pile of files is easier to copy than the capacity to learn from it.
+:67. Quantity still matters, especially when a model has not yet encountered the ordinary range of a task.
+:68. The hundredth useful example may correct a broad ignorance that the millionth near-duplicate barely touches.
+:69. Marginal value often falls as common cases repeat.
+:70. The millionth clear photograph of a common object may add less than the first well-documented example of a rare failure.
+:71. What remains scarce is often not the average case but the edge: an accent absent from the corpus, a sensor condition never tested, or a failure that occurs once in a hundred thousand attempts.
+:72. Coverage can therefore matter more than volume.
+:73. Coverage is always relative to a purpose.
+:74. A dataset representative of casual American interviews may be unsuitable for emergency calls, children's speech, courtroom audio, or another language.
+:75. There is no dataset that represents the world in general.
+:76. There are only datasets whose composition is more or less adequate for a specified population, setting, time, and task.
+:77. Data quality is just as conditional.
+:78. A noisy photograph may be poor material for identifying fine visual details and excellent material for teaching a system to handle noise.
+:79. A transcription can be accurate at the level of words while omitting pauses, overlapping speech, or uncertainty needed for another purpose.
+:80. The label is not a transparent window onto reality but an answer to a question chosen in advance.
+:81. Annotation makes this especially visible.
+:82. People decide where one category ends and another begins, how ambiguous cases are resolved, and whether disagreement is preserved or averaged away.
+:83. Their decisions can make an unruly world learnable, which is useful, while also narrowing what the resulting model can distinguish.
+:84. Rights create another boundary around the usable record.
+:85. Personal information, copyrighted material, confidential business records, and sensitive speech cannot be treated as free raw material merely because copying them is technically easy.
+:86. Consent, licenses, retention rules, security, and contractual restrictions affect which combinations of data are actually available.
+:87. Two organizations may observe similar events yet inhabit different practical possibility spaces because only one can lawfully join its records together.
+:88. Data are cheap to duplicate but not necessarily cheap to collect, document, protect, or use.
+:89. A valuable corpus is thus defined by at least four relationships: what it contains, what it leaves out, what its labels mean, and what may be done with it.
+:90. Size alone answers none of them.
+:91. Synthetic data can open a route when real examples are rare, costly, or dangerous to collect.
+:92. Simulations can generate unusual road conditions, and speech synthesis can vary controlled features without recruiting a new speaker for every case.
+:93. The generated examples are most useful when the simulation captures the relevant structure and real observations remain available for validation.
+:94. Synthetic data made from an existing model can also reproduce that model's blind spots.
+:95. Experiments on recursively trained generative models have shown a further danger: indiscriminate reuse of model-generated material can progressively erase rare parts of the original distribution.
+:96. A manufactured example is therefore a supplement under stated assumptions, not evidence that history has been escaped.
+:97. Data sharing can weaken an incumbent's advantage by enlarging the pool available to others.
+:98. Shared corpora have helped research communities compare methods and build on one another's work.
+:99. Sharing, however, requires compatible formats, credible documentation, permission, and continuing maintenance.
+:100. It may also create a different lock-in if an entire field organizes its tools and questions around one convenient corpus.
+:101. Transfer learning offers another counterforce.
+:102. A model trained on a broad source can be adapted with a smaller task-specific collection, reducing the amount of local data needed to begin.
+:103. Transfer succeeds only when the learned features travel well enough to the new task and population.
+:104. A shortcut across one path can carry the old path's omissions with it.
+:105. The data advantage is a current, then, and not a wall.
+:106. It forbids no direction by itself, but it can make some directions cheap, visible, and fundable while making others expensive and obscure.
+:107. Over enough rounds, differences in cost become differences in what researchers and firms seriously attempt.
+:108. Problems with large, orderly datasets invite benchmarks, papers, hiring, and investment because progress can be demonstrated on a schedule.
+:109. Problems with scattered records or disputed labels are harder to turn into a graph of improvement.
+:110. They may be socially important and scientifically tractable yet appear immature beside a task that already comes with a leaderboard.
+:111. The map of solved problems in machine learning is therefore partly a map of the records that institutions chose and managed to assemble.
+:112. This does not mean that data availability alone determines research.
+:113. Theory, hardware, funding, scientific taste, and the stubborn structure of the problem also direct attention.
+:114. Data matter because they join these forces by making some questions easier to formulate, finance, test, and repeat.
+:115. Whatever else a record may be, it is old.
+:116. Even its freshest entry describes a moment that has already passed.
+:117. A jar of preserves is honest about this in a way that a dataset is not.
+:118. The label carries a date, the contents taste of the season in which they were picked, and nobody opening the jar in winter mistakes it for something still growing in the garden.
+:119. A model built from records can answer in the present tense without announcing which years supplied its picture of the world.
+:120. Age does not automatically make a record worthless.
+:121. The spelling of a stable word may outlast a rapidly changing pattern of prices, slang, disease, or behavior.
+:122. The relevant question is how quickly the relationship being modeled changes and whether the operating environment still resembles the one recorded.
+:123. When that resemblance weakens, engineers call the change drift.
+:124. More data from yesterday do not necessarily repair a model facing a different today.
+:125. A record is also not a neutral portrait of its own time.
+:126. It is a portrait of what someone had reason, means, and permission to record.
+:127. Traffic is counted where instruments are installed, often on roads already considered important.
+:128. Surviving texts from earlier centuries disproportionately reflect people who had literacy, materials, institutional access, and a reason for their words to be preserved.
+:129. Some medical baselines were built from participants who were easier to recruit than the population to which the result was later applied.
+:130. Speech corpora reflect choices about region, setting, microphone, transcription convention, and who was available or paid to speak.
+:131. There is an old joke about a man searching for his keys under a streetlamp, not because he dropped them there, but because that is where the light is.
+:132. The joke captures a durable temptation in measurement: study what can be seen, then forget the boundary of the light.
+:133. An unrecorded event does not disappear from the world, but a learning system may have no basis for treating it as anything other than absent.
+:134. Documentation can make that blindness visible.
+:135. A dataset record that states why the material was collected, who and what it contains, how it was processed, what uses were intended, and how it will be maintained gives later users a history of the evidence.
+:136. Such a datasheet cannot restore a missing voice, but it can prevent silence from masquerading as universality.
+:137. The distinction between reflecting a historical pattern and amplifying it is crucial.
+:138. A model may reproduce an uneven pattern in old data without changing the world that produced the pattern.
+:139. Amplification begins when the model's output affects who is seen, selected, offered an opportunity, or recorded next.
+:140. Recommendation systems show the mechanism in a compact form.
+:141. A platform displays some items and withholds others, so the next click log records not only users' preferences but also the platform's previous choices about what they were allowed to see.
+:142. If the system retrains on those clicks without accounting for exposure, it can mistake its own influence for independent demand.
+:143. Simulation research has shown that such algorithmic confounding can homogenize behavior without improving users' underlying benefit, although the size of the effect in any real platform must be measured rather than assumed.
+:144. A photograph of a room does not hold the furniture in place.
+:145. A stencil can guide where the next coat of paint lands.
+:146. When yesterday's regularities are used to rank, recommend, price, or select, a description can become a template for the observations collected tomorrow.
+:147. The next dataset may then confirm the old one partly because decisions based on the old one helped produce it.
+:148. Lending illustrates a related problem of selective labels.
+:149. A lender observes repayment for approved applicants but usually cannot observe how rejected applicants would have repaid a loan they never received.
+:150. If later training uses only those observed outcomes, the model inherits both past behavior and past selection.
+:151. That is a stronger form of path dependence than mere historical bias because the decision process changes the evidence available for revising itself.
+:152. Not every feedback loop is harmful.
+:153. Reports of a dangerous error can direct testing toward a neglected case, and improved performance for a previously underserved group can attract the use needed to uncover its remaining failures.
+:154. Shared standards can make records comparable, and stable categories can support learning over time.
+:155. The same continuity that creates knowledge can make a mistaken category expensive to replace.
+:156. Useful lock-in and obstructive lock-in can inhabit the same dataset.
+:157. Several forces can redirect the channel without pretending that it never existed.
+:158. Targeted collection can seek cases that ordinary use rarely supplies.
+:159. Disaggregated evaluation can reveal a failure hidden by an excellent average.
+:160. Carefully governed data sharing can give newcomers evidence they could not gather alone.
+:161. Transfer learning can lower the entry cost, and validated synthetic data can explore rare conditions.
+:162. Fresh, independently collected test sets can reveal drift or a feedback loop that recycled data would conceal.
+:163. None of these measures is an all-purpose cure because each depends on definitions, access, expertise, and continued inspection.
+:164. Their significance lies in showing that a data path is reinforced rather than fated.
+:165. The deepest advantage belongs not to whoever stores the most bytes, but to whoever can repeatedly turn relevant observations into reliable improvement.
+:166. That capacity can expand the possibility space by making previously difficult tasks workable.
+:167. It can also narrow the space when collection, investment, and evaluation gather around the cases an existing system already handles well.
+:168. Alternatives seldom vanish in a dramatic decision; they more often become too poorly documented, too costly to test, or too unfamiliar to fund.
+:169. The channel deepens quietly, yet it can still silt up, be joined by another stream, or be deliberately rerouted.
+:170. What the machine learns next depends partly on what the world does next, but also on whose traces the existing channel makes easiest to hear.

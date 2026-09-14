@@ -1,0 +1,142 @@
+== 6. Geronnene Geschichte ==
+
+:1. A Social Security statement turns a working life into rows of taxable earnings and an estimate of future benefits.
+:2. The paper or screen looks administrative and impersonal, yet every line depends on decisions made before most current workers were born.
+:3. Congress created the federal old-age insurance program in 1935, amid a depression that had exhausted families, charities, and local relief systems.
+:4. The original law did not arrive as a finished monument.
+:5. It excluded many workers, delayed monthly benefits, divided responsibilities between federal and state governments, and left basic questions to later legislation and administration.
+:6. Those imperfections mattered, but so did the machinery the law set in motion.
+:7. Employers learned to report wages, workers acquired records and expectations, officials built files and procedures, and politicians began arguing over a program that now had identifiable contributors and beneficiaries.
+:8. In 1939, before monthly payments had fully begun, Congress added benefits for dependents and survivors, shifting the program from individual old-age insurance toward family protection.
+:9. Later amendments widened coverage, added disability insurance, indexed benefits to prices, and altered financing.
+:10. The institution endured by changing.
+:11. That is the first puzzle of institutional path dependence: durability often belongs not to the rule that refuses revision, but to the arrangement capable of absorbing revision without losing its identity.
+:12. An institution is sometimes described as a rule, but a rule alone is too thin to remember much.
+:13. Durable institutions also reside in offices, records, budgets, job descriptions, professional training, software, buildings, informal expectations, and the practiced judgment of people who know how to make the formal scheme work.
+:14. Replacing a director therefore does not return an agency to an empty state, just as changing a law does not instantly erase the habits that grew around it.
+:15. The written command may change overnight while forms, skills, court interpretations, and public assumptions continue to carry yesterday into tomorrow.
+:16. This persistence is not automatically path dependence.
+:17. A practice may survive simply because the original problem remains, because it is still efficient, or because nobody has yet bothered to replace it.
+:18. Path dependence begins when earlier steps alter the relative attraction or accessibility of later choices.
+:19. The past then does more than precede the present: it changes what actors can see, what they know how to do, what they expect others to do, and what departure will cost.
+:20. Several mechanisms can produce that change, and they should not be collapsed into the vague claim that institutions are inert.
+:21. An organization may gain increasing returns when each additional use of a procedure makes the same procedure more valuable through learning, coordination, or scale.
+:22. A shared filing standard, for example, becomes easier to use as employees are trained in it and neighboring offices design their work around it.
+:23. Complementarity deepens the effect because one rule may function well only in the presence of several others.
+:24. A pension formula connects to payroll collection, employment records, tax law, actuarial practice, and household planning, so changing one element can create failures elsewhere.
+:25. Political feedback adds another layer.
+:26. A policy can create groups that organize around it, careers devoted to administering it, businesses adapted to its requirements, and citizens who treat its promised benefits as part of a legitimate life plan.
+:27. None of those groups need to be cynical defenders of waste.
+:28. They may be protecting income, competence, predictability, or a fair reliance on promises made under the old arrangement.
+:29. Institutional stability is often the accumulated result of reasonable conduct by people standing in different parts of the same system.
+:30. The choice made in 1935 was not inevitable.
+:31. American reformers debated contributory social insurance, means-tested assistance, private provision, state administration, and other combinations, while existing railroad pensions and state programs supplied models and constraints.
+:32. The enacted program reflected economic emergency, political bargaining, constitutional concerns, and the administrative limits of the period rather than discovery of a timeless optimum.
+:33. Once payroll contributions and earnings records linked work to future benefits, however, the contributory design helped generate its own public meaning.
+:34. Benefits could be understood not merely as aid from a government but as an earned claim connected to a worker's recorded participation.
+:35. That interpretation was never the whole legal or fiscal reality, yet it changed the politics of later reform.
+:36. The institution had begun to manufacture the expectations by which proposals to change it would be judged.
+:37. This is why a critical juncture cannot simply mean an important date circled by a historian after the outcome is known.
+:38. It is a period in which more than one consequential option is genuinely available to actors who possess some capacity to choose among them.
+:39. Contingency is essential: if only one workable course exists, the moment may be dramatic without being an open fork.
+:40. Nor does a crisis automatically clear the institutional ground.
+:41. Emergencies can increase pressure for change while simultaneously making officials rely more heavily on familiar organizations, existing legal authority, and plans prepared in advance.
+:42. The alternatives visible during an opening therefore depend on work done before the opening arrived.
+:43. A blueprint without a coalition may remain paper, while a coalition without trained administrators may win a vote and still fail to build a new routine.
+:44. What looks like sudden creation is often the rapid assembly of capacities accumulated along several older paths.
+:45. After a choice, the window does not close by magic.
+:46. It narrows as money is appropriated, personnel are hired, categories enter forms, courts interpret ambiguous provisions, and families or firms plan around the new rules.
+:47. Each step raises the cost of reversal or makes some alternatives harder even to describe in operational terms.
+:48. The resulting path can provide enormous benefits.
+:49. People can cooperate with strangers because they expect records to persist, contracts to be enforced, qualifications to be recognized, and payments to arrive without renegotiation each month.
+:50. A society forced to reopen every basic settlement every morning would possess formal freedom and very little practical agency.
+:51. Reliability converts innumerable theoretical choices into a smaller set of dependable ones, and that contraction can enlarge rather than diminish what people are able to accomplish.
+:52. The danger appears when the same coordination protects assumptions that no longer fit the world around them.
+:53. An obsolete category may determine eligibility because databases, statutes, budgets, and professional jurisdictions all use it.
+:54. A performance measure adopted as a rough signal may become a target for careers and funding, encouraging organizations to improve the number rather than the underlying result.
+:55. A reserve capacity may look wasteful during calm years, inviting repeated cuts until the institution becomes efficient under ordinary conditions and brittle under stress.
+:56. These outcomes differ from simple stubbornness because changing individual minds does not disconnect the surrounding parts.
+:57. Even unanimous recognition of a problem may leave actors unable to reform one component without disrupting services that must continue tomorrow.
+:58. Constitutions make the trade-off unusually explicit.
+:59. They do not merely authorize collective action; they also make some future actions harder by dividing power, protecting rights, and imposing demanding amendment procedures.
+:60. The United States Constitution, for instance, requires supermajorities for formal amendment, a design that values broad agreement over easy revision.
+:61. Such self-binding can protect minorities, stabilize expectations, and make promises more credible because a temporary majority cannot casually erase them.
+:62. The same devices can preserve exclusions or arrangements that later generations have strong reasons to reject.
+:63. Legal amendability and political reachability are therefore different things: a route may exist in the text while coalitions, veto points, and unequal stakes make it nearly impassable in practice.
+:64. Friction is not a defect accidentally left in the machine.
+:65. It is part of the protection, and sometimes part of the problem.
+:66. By the early 1980s, Social Security faced an immediate financing crisis severe enough to force action, but the resulting reform did not discard the contributory system built since 1935.
+:67. A national commission and Congress assembled a package that accelerated some revenues, expanded mandatory coverage, subjected part of some benefits to income taxation, and scheduled a gradual increase in the age for full retirement benefits.
+:68. The 1983 amendments demonstrate that a strongly embedded institution can move when fiscal pressure, negotiated burden sharing, administrative capacity, and cross-party agreement briefly align.
+:69. They also show why successful reform so often changes a path by layering new provisions onto inherited ones rather than exchanging an operating system for a clean design.
+:70. What remained unresolved was not whether history could be escaped, but how institutions could use their stored competence without mistaking every inherited connection for a necessity, a question that becomes sharper once their categories, measurements, and routines begin shaping the reality they were built merely to record.
+:71. Every administrative category begins as a simplification, a decision to treat unlike cases as alike for a particular purpose.
+:72. Without such simplification, officials could neither compare claims nor deliver benefits at scale.
+:73. Yet the line on a form soon becomes a line in life, determining who qualifies, which office is responsible, and what evidence counts as relevant.
+:74. People then learn to present themselves in the institution's language, while organizations adjust services and records to the categories that release money or authority.
+:75. Classification has become a feedback mechanism: the map helps reorganize the territory it was meant to describe.
+:76. Measurements acquire similar force when they are tied to budgets, promotion, or public reputation.
+:77. A school evaluated by a narrow test score, or a hospital judged by a single waiting-time threshold, receives a strong reason to direct effort toward the measured boundary.
+:78. Sometimes the number improves because performance improves, and sometimes attention shifts from the underlying purpose to the visible indicator.
+:79. The difference cannot be inferred merely from the presence of targets, since useful accountability and destructive tunnel vision can grow from the same instrument.
+:80. Multiple measures, qualitative review, and periodic revision can reduce distortion, although each remedy adds cost and creates new judgments that must themselves be organized.
+:81. An institution cannot avoid categories and metrics; it can only decide how corrigible they will remain.
+:82. Rules also depend on a less tangible resource: the expectation that other people will generally follow them.
+:83. When citizens anticipate regular treatment and officials expect ordinary compliance, fewer encounters require threats, surveillance, or litigation.
+:84. Fair experience can reinforce that expectation because voluntary compliance makes administration cheaper, which in turn leaves more capacity for competent and evenhanded service.
+:85. Arbitrary experience can reverse the loop as avoidance prompts tighter control, tighter control produces delay and suspicion, and each side finds evidence for distrusting the other.
+:86. Institutional trust is therefore not a single national substance that rises or falls everywhere at once.
+:87. A person may trust courts, distrust a tax office, and cooperate with a local school because legitimacy is built through different histories, performances, and relationships.
+:88. Nor is legitimacy the same as enthusiastic approval, for people may accept an institution's right to decide while disliking a particular decision.
+:89. This stabilizing achievement carries its own risk when familiarity makes criticism seem disloyal or renders alternatives unserious before debate begins.
+:90. Professional training contributes to that field of the self-evident by teaching not only skills but also the recognized shape of a proper problem.
+:91. Shared language lets specialists coordinate with speed and precision, yet it can screen out proposals that do not arrive in an established vocabulary.
+:92. Power enters here without requiring a secret plan, because those who define categories, credentials, and admissible arguments influence which possibilities become institutionally visible.
+:93. It would be a mistake, however, to conclude that every common assumption is merely disguised domination.
+:94. Many conventions survive because they solve recurring problems, and some institutions deliberately create rival offices able to expose one another's assumptions.
+:95. The analogy between separated powers and modular engineering is useful to a point: dividing authority can limit the spread of an error and preserve an avenue of correction.
+:96. State organs are not interchangeable components, however, because their members interpret mandates, pursue interests, and claim democratic legitimacy.
+:97. The resulting delay and conflict may be the intended price of preventing concentrated power rather than evidence that the design has failed.
+:98. The same veto point can protect a minority in one dispute and block a broadly desired repair in another.
+:99. Federal arrangements distribute this wager across territory.
+:100. Local governments can adapt rules to different conditions and try approaches in parallel, limiting the damage if one experiment goes badly.
+:101. Learning follows only when results can be compared, information travels, and successful practices can be transferred without losing the conditions that made them work.
+:102. Regional systems may instead acquire their own professional networks, databases, expectations, and beneficiaries, making later harmonization expensive.
+:103. Central coordination can reduce duplication and inequality while spreading a single mistake more widely.
+:104. No level is intrinsically the home of wisdom, because the appropriate scale depends on the problem, the spillovers, and the value placed on variation.
+:105. The same ambiguity surrounds efficiency.
+:106. Redundant staff, spare capacity, diverse suppliers, and overlapping channels look costly when the expected task arrives on schedule.
+:107. Robustness is the ability to withstand a known range of shocks, resilience is the capacity to recover after disruption, and evolvability is the capacity to develop workable responses that were not specified beforehand.
+:108. These qualities overlap, but none is free, and an institution that preserves every reserve may consume resources needed for its present mission.
+:109. Repeated pressure to remove apparent slack can nevertheless establish a path in which budgets, contracts, and expertise all assume uninterrupted normal conditions.
+:110. Rebuilding capacity after a shock then requires more than buying equipment, because experienced teams, trusted relationships, and practiced routines cannot be ordered for immediate delivery.
+:111. What appeared to be idle duplication may have been a second route through the possibility space.
+:112. Institutional change therefore seldom resembles replacing a finished machine with a better one.
+:113. Reformers add a new layer, redirect an old office, reinterpret a rule, or allow a provision to retain its words while its environment changes its effect.
+:114. Layering can preserve continuity while gradually altering the balance among old and new elements.
+:115. Conversion occurs when actors turn an inherited institution toward a purpose it was not originally designed to serve.
+:116. Drift occurs when formal rules remain stable although social or economic change transforms what those rules actually do.
+:117. These are not polite names for inaction, since their consequences can be as substantial as a dramatic statute and sometimes harder to reverse.
+:118. They also distribute gains and losses unevenly, which means that the abstract merits of a proposal never exhaust its politics.
+:119. A diffuse future benefit may struggle against a concentrated immediate loss borne by people who possess organizations, expertise, and a clear reason to resist.
+:120. Policy feedback explains how the institution assembled those defenders, but it does not prove that their claims are illegitimate or their influence unlimited.
+:121. Resistance may also reveal local knowledge about dependencies that a cleaner reform proposal has overlooked, so opposition is evidence to investigate rather than a diagnosis in itself.
+:122. Successful reform becomes possible when coalitions can divide transition costs, preserve essential functions, and connect new rules to capacities that already exist or can credibly be built.
+:123. The Social Security settlement of 1983 worked in this fashion, altering revenue, coverage, taxation, and future eligibility while maintaining recognizable claims and administrative continuity.
+:124. Its compromises imposed real burdens, and its survival does not establish that every provision was optimal.
+:125. It shows instead that a hard path may contain movable joints, especially when delay makes the costs of nonagreement visible to actors who can authorize a package rather than a solitary repair.
+:126. Sometimes modular interfaces permit one component to change without rebuilding the whole, while temporary parallel systems allow people to cross before the old route closes.
+:127. At other times a genuine shift requires new training, new organizations, and a protected interval in which unfamiliar routines can become reliable enough to earn trust.
+:128. Even revolutions confront this dependence on available capability.
+:129. A government may replace symbols, leaders, and constitutional language while continuing to use inherited boundaries, archives, tax practices, buildings, and personnel who know where the records are kept.
+:130. Formal rupture can therefore coexist with functional continuity, and neither fact by itself reveals whether the new order is shallow or secure.
+:131. Reusing an old office may betray a promised break, but it may also be the only way to pay salaries, distribute food, or keep courts operating during the transition.
+:132. Sudden mobilization and durable institution building are different achievements: crowds can overturn authority faster than administrators can learn a new procedure.
+:133. Radical change remains possible, but an open moment lasts only if alternative rules acquire people who can enact them, organizations that can defend them, and routines that make them credible in daily life.
+:134. Institutional freedom is consequently neither the absence of inherited structure nor a choice among designs imagined on clean paper.
+:135. It is the uneven capacity to identify which connections preserve valuable cooperation, which merely survive, and which can be loosened without causing failures elsewhere.
+:136. That capacity depends on records honest enough to reveal performance, criticism legitimate enough to challenge habit, and reserves sufficient to attempt a transition.
+:137. It also depends on acknowledging that someone bears the cost while a new path is uncertain and an old promise is being revised.
+:138. Law is the most explicit form of this social memory because it turns expectations about property, obligation, authority, and procedure into claims meant to outlast the people who made them.
+:139. Its written rules invite deliberate amendment, yet its concepts accumulate interpretations, professions, and connected practices that make a legal order far more than words on a page.
+:140. The Social Security statement is therefore not simply a receipt from the past; it is a small surface of a vast institutional structure that remembers earlier bargains while calculating what the future may still owe.

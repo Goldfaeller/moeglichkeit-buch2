@@ -1,0 +1,122 @@
+== 7.9 Karlsruhe als Fehlerkorrektur ==
+
+:1. In September 1950, Erich Lüth stood before film distributors and directors in Hamburg and urged them not to support a new movie by Veit Harlan.
+:2. Harlan had directed the virulently antisemitic propaganda film Jud Süss under the Nazi regime, and Lüth argued that his return would damage the moral standing of the young Federal Republic.
+:3. The production and distribution companies behind Harlan's new film, Immortal Lover, responded in the ordinary civil courts.
+:4. The Hamburg Regional Court ordered Lüth to stop calling for a boycott, on pain of a fine or imprisonment.
+:5. Its legal tool was not a censorship statute written for the new democracy but section 826 of the Civil Code, a broad provision imposing liability for intentionally causing harm in a manner contrary to public policy.
+:6. That provision belonged to a code that had entered into force in 1900.
+:7. The dispute therefore placed two legal layers in direct contact: an imperial-era civil rule and the Basic Law's postwar guarantee of freedom of expression.
+:8. The question was not simply which layer was newer, but how the newer one could alter the operation of the older without replacing the entire structure around it.
+:9. Lüth took an unusual route that had become available only with the Federal Constitutional Court Act of 1951.
+:10. He filed a constitutional complaint, claiming that the civil judgment violated his freedom of expression.
+:11. His complaint did not ask the court in Karlsruhe to decide the civil dispute again from the beginning.
+:12. It asked whether a judgment made by public authority had respected the constitutional right while applying private law.
+:13. In January 1958, the Federal Constitutional Court set aside the Hamburg judgment.
+:14. The decision became one of the clearest demonstrations that a constitution can change inherited law through interpretation rather than wholesale repeal.
+:15. It also revealed a deeper complication, because the institution built to correct old paths would inevitably begin laying paths of its own.
+:16. Karlsruhe had not existed as a functioning court when the Basic Law took effect on May 24, 1949.
+:17. The constitution created the office and assigned it unusually broad responsibilities, but legislation still had to supply the organization and procedure.
+:18. The Federal Constitutional Court Act entered into force on April 17, 1951; Karlsruhe was chosen as the seat in May; and the judges began work that September.
+:19. This sequence mattered because constitutional promises do not enforce themselves.
+:20. A catalog of rights becomes a practical constraint only when people can invoke it, judges can translate it into decisions, and other institutions expect those decisions to be followed.
+:21. The new court supplied a focal point for those expectations.
+:22. Its judgments bind federal and state constitutional organs, courts, and public authorities, while specified rulings on legislation carry the force of law.
+:23. Authority on paper thus became an organized practice of filing, selecting, reasoning, publishing, and complying.
+:24. Each successful cycle made the next appeal to Karlsruhe more intelligible and the next act of compliance more likely.
+:25. The constitutional complaint is the most personal of the court's correction mechanisms.
+:26. Anyone who claims that German public authority has violated one of the protected rights may lodge one, but the complaint is an extraordinary remedy, not another routine level of appeal.
+:27. Ordinarily, the complainant must first exhaust the available remedies in the specialized courts.
+:28. The complaint must also be accepted for decision under statutory criteria, including general constitutional significance or the need to enforce the protected right.
+:29. These gates preserve a division of labor: ordinary courts determine facts and ordinary law, while the constitutional court addresses specifically constitutional error.
+:30. Karlsruhe therefore does not correct every mistaken contract judgment, criminal sentence, or administrative ruling.
+:31. It intervenes when the mistake crosses the constitutional boundary, although identifying that boundary itself requires interpretation.
+:32. The mechanism widens the individual's possibilities by turning a constitutional objection into a legally recognized course of action, yet it keeps that course narrow enough for the rest of the judiciary to continue operating.
+:33. Review of legislation follows different routes.
+:34. In an abstract judicial review, a limited set of political institutions can ask whether a federal or state rule is compatible with the Basic Law without waiting for one person's lawsuit to supply the occasion.
+:35. The Federal Government, a state government, or one quarter of the members of the Bundestag may initiate the principal form of this review.
+:36. The procedure can remove uncertainty across many cases at once, but ordinary citizens cannot trigger it on their own.
+:37. Concrete judicial review begins inside an actual lawsuit.
+:38. If a court is convinced that a statute decisive to its case is unconstitutional, it does not simply discard that statute but refers the question to the Federal Constitutional Court.
+:39. This centralizes the power to invalidate parliamentary statutes while enlisting every ordinary court in noticing constitutional defects.
+:40. Abstract review treats a rule as the direct object of examination, whereas concrete review carries a constitutional question upward from a dispute already moving through the legal system.
+:41. A constitutional complaint, by contrast, follows an alleged injury to a protected right and may challenge legislation, administration, or a judicial decision.
+:42. Together, the procedures create several feedback channels rather than a single constitutional alarm bell.
+:43. The Lüth case showed why the channel through an individual judgment could reach farther than the immediate litigants.
+:44. The Basic Law says that fundamental rights bind the legislature, the executive, and the judiciary as directly applicable law.
+:45. The film companies themselves were private actors, so Lüth's freedom of expression did not simply erase their private rights or settle the case by direct command.
+:46. The constitutional issue arose because a civil court, which is part of public authority, had interpreted and applied the open-ended language of section 826.
+:47. The Federal Constitutional Court held that fundamental rights are not merely defensive claims against government but also express an objective order of values that influences the whole legal system.
+:48. In private law, that influence travels through the provisions already governing relations among private parties, especially broad clauses that require judgments about public policy or good faith.
+:49. The old civil code remained the medium, but its permissible meanings were realigned by the constitution.
+:50. This approach is commonly called the indirect horizontal effect of fundamental rights because constitutional values shape a dispute between private parties through the interpretation of private law.
+:51. The word indirect is essential, since the method preserves private-law categories and the work of civil courts rather than converting every private disagreement into a constitutional lawsuit.
+:52. The Federal Constitutional Court carefully denied that it was a super-court of civil appeals.
+:53. It would not inspect the Hamburg judgment for every possible error under ordinary law.
+:54. Its task was to determine whether the civil court had correctly understood the reach and force of freedom of expression when using section 826.
+:55. That limit protected the autonomy and expertise of the ordinary judiciary, at least in principle.
+:56. At the same time, the court's reasoning gave every civil judge a continuing duty to consider how constitutional rights radiate into inherited doctrine.
+:57. One correction in one boycott dispute had therefore altered the expected method of decision in innumerable later disputes.
+:58. The result was not the deletion of an obsolete rule but a controlled change in the network of meanings around it.
+:59. Lawyers then began to teach, cite, refine, and rely on that method.
+:60. Constitutional correction had acquired a memory of its own.
+:61. That memory is carried not in a single archive but through published opinions, casebooks, commentaries, examination problems, and the habits of judges and advocates.
+:62. German courts do not treat every earlier judgment as a precedent in precisely the common-law sense, and written legislation remains their declared point of departure.
+:63. Yet decisions of the Federal Constitutional Court possess formal binding effects, and its leading opinions exert additional practical authority through the reasons that lawyers repeatedly use.
+:64. A ruling can therefore reach beyond the dispute it resolves even when its exact legal force varies with the type of proceeding and the part of the decision under discussion.
+:65. Leading decisions supply tests, distinctions, and sequences of questions that organize later argument across otherwise dissimilar disputes.
+:66. An open phrase such as freedom of expression or equal protection becomes connected to a body of worked examples that marks concrete boundaries.
+:67. A doctrinal test turns a broad promise into a repeatable path through a case: identify the protected interest, identify the interference, examine its justification, and compare the competing claims.
+:68. This structure reduces the cost of deciding the next dispute because participants need not rebuild constitutional reasoning from first principles.
+:69. Universities teach it, specialist courts anticipate it, and legislators draft against it.
+:70. Lawyers select facts and frame claims in the language that past decisions have made legally visible.
+:71. Repeated use then produces more decisions, explanations, and professional investment along the same conceptual route.
+:72. The corrective system is strengthened by positive feedback.
+:73. What began as correction becomes standard infrastructure for future reasoning throughout the legal profession.
+:74. Much of that feedback is useful rather than pathological.
+:75. Stable doctrine allows people and institutions to predict which reasons will count, protects similar cases from being treated as wholly unrelated, and makes departures easier to detect.
+:76. It also permits old statutes to remain serviceable while their application changes with constitutional understandings and newly recognized conflicts.
+:77. Instead of choosing between frozen inheritance and continual legislative demolition, the legal order can revise the meaning of inherited provisions case by case.
+:78. This is evolvability in a legal sense: the capacity for controlled variation without loss of the framework that makes decisions recognizable as law.
+:79. The comparison to an evolving system has limits, because judges reason intentionally, parties present arguments, and legislatures can rewrite rules.
+:80. Change is neither blind nor automatic, because institutional actors can compare alternatives, justify choices, and respond to criticism.
+:81. It nevertheless occurs from a starting structure whose vocabulary and accumulated decisions make some adaptations cheaper and more plausible than others.
+:82. The constitution does not operate like a repair manual that gives one mechanical answer whenever a defect appears.
+:83. Rights can conflict with other rights, public purposes can be legitimate but costly, and constitutional language often remains deliberately broad.
+:84. Judges must decide the level of generality at which to describe a right, the evidence relevant to a restriction, and the weight owed to competing interests.
+:85. Established tests discipline those choices, but they do not eliminate judgment.
+:86. The court's institutional design responds to this problem without dissolving it: its members are chosen in equal parts by the Bundestag and Bundesrat, serve fixed nonrenewable terms, and exercise judicial independence.
+:87. That arrangement supplies an indirect democratic connection, federal participation, continuity, and insulation from the immediate need to win reelection.
+:88. It does not give judges the same mandate as a parliament elected to make policy.
+:89. When a constitutional court invalidates legislation or narrows its application, it therefore exercises power that requires public justification, not merely technical expertise.
+:90. Its legitimacy depends partly on reasoned opinions, stable procedure, jurisdictional restraint, and the willingness of other institutions to treat its decisions as authoritative.
+:91. None of those supports can be taken for granted simply because the court is named in the Basic Law.
+:92. Karlsruhe also corrects only what reaches it through an authorized procedure in a form suitable for judicial decision.
+:93. It cannot roam through the statute book on its own initiative, repairing every doubtful provision it finds.
+:94. Potential cases depend on injuries, litigants, ordinary proceedings, political applicants, and judges willing and able to formulate a constitutional question.
+:95. Rules on standing, time limits, exhaustion of remedies, and acceptance keep the caseload governable but also leave many grievances outside a decision on the merits.
+:96. People with greater knowledge, organization, and resources may be better placed to turn a diffuse burden into a legally precise claim.
+:97. The visibility of constitutional error is thus partly produced by the access routes designed to correct it.
+:98. Even a successful judgment does not by itself revise administrative routines, train officials, fund a replacement program, or settle every related conflict.
+:99. Legislatures, agencies, specialized courts, and affected organizations must translate doctrine into practice, and their capacities can accelerate, redirect, or blunt the result.
+:100. These limits matter because persistence after a judgment is not necessarily evidence of legal lock-in.
+:101. A rule may endure because its purpose remains convincing, because alternatives create worse trade-offs, or because constitutional text leaves the choice to elected lawmakers.
+:102. Path dependence is the narrower claim that earlier decisions have changed the cost, visibility, or probability of later choices through accumulated doctrine, reliance, and institutional investment.
+:103. Consistency alone is not enough to show that inherited doctrine has narrowed the available options.
+:104. The countercheck is whether a different earlier interpretation would have left today's actors with materially different arguments, expectations, or transition costs.
+:105. Constitutional doctrine can also preserve alternatives through distinctions, exceptions, and explicit reservations for cases not yet decided.
+:106. Published dissenting opinions expose rival reasoning that a later court or legislature may reconsider.
+:107. Lawmakers remain able to revise ordinary statutes within constitutional boundaries, while later judgments can narrow, extend, or sometimes abandon earlier doctrine.
+:108. The judicial path is firm, but it is not a rail from which departure is physically impossible.
+:109. Departure still carries costs even when formal rules leave it legally permissible.
+:110. Courts that reverse an established test risk unsettling reliance, treating temporally adjacent cases differently, and weakening the expectation that constitutional reasons remain stable across changes in personnel.
+:111. They therefore often alter doctrine through careful distinctions or incremental reformulation rather than an announced clean break.
+:112. That caution protects legal continuity, yet it can also leave behind overlapping formulas whose relationship demands further explanation.
+:113. Correction by interpretation thus tends to add a layer instead of removing every trace of what came before.
+:114. Correction of legislation can produce a similar pattern, since invalidating one rule may expose dependencies that the original dispute did not settle.
+:115. If a statute is constitutionally defective, immediate nullity is not always the only response; the court may declare a provision incompatible with the Basic Law and leave constitutionally acceptable redesign to the legislature.
+:116. Transitional arrangements may be needed to prevent a legal vacuum or to protect justified reliance while new rules are prepared.
+:117. The legislature must then fit the remedy to existing institutions, neighboring provisions, administrative capacities, and the boundaries articulated by the judgment.
+:118. When proportionality or equality requires finer treatment of unlike situations, a once-simple rule may acquire thresholds, exceptions, procedures, and safeguards.
+:119. Each addition can be defensible on its own terms while increasing the knowledge required to understand the whole.
+:120. The same constitutional machinery that keeps an old civil clause usable can therefore make the surrounding statute book grow by controlled accretion.

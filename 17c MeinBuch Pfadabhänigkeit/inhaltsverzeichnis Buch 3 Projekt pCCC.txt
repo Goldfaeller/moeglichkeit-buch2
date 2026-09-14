@@ -1,0 +1,164 @@
+
+
+Projekt: pCCC
+Titel:
+Das Mögliche und wir – Zukunft entscheiden
+(Untertitel: Die offenen Wege - Wie wir unter Unsicherheit handeln, Verantwortung verteilen und Zukunft offenhalten)
+
+
+Inhaltsverzeichnis
+ 
+
+
+1. Handeln im Ungewissen
+
+    1.1 Warum Nichtentscheiden auch entscheidet
+    1.2 Risiko, Unsicherheit und Unwissen
+    1.3 Prognosen sind keine Zukunft
+    1.4 Was Wahrscheinlichkeiten sagen können
+    1.5 Die unbekannten Unbekannten
+    1.6 Vorsicht und die Kosten des Zögerns
+    1.7 Der Wert zusätzlicher Information
+    1.8 Wann genug Wissen genug ist
+    1.9 Entscheiden ohne Gewissheit
+
+
+2. Wählen heißt bewerten
+
+    2.1 Ziele, Mittel und Nebenfolgen
+    2.2 Werte, die sich nicht verrechnen lassen
+    2.3 Der Preis der nicht gewählten Möglichkeit
+    2.4 Gegenwart gegen Zukunft
+    2.5 Einzelner Nutzen und gemeinsamer Schaden
+    2.6 Effizienz, Sicherheit und Gerechtigkeit
+    2.7 Schwellen, Grenzen und rote Linien
+    2.8 Wer die Maßstäbe bestimmt
+    2.9 Der unvermeidliche Rest des Urteils
+
+
+3. Entscheiden mit begrenztem Überblick
+
+    3.1 Die Grenzen rationaler Entscheidung
+    3.2 Heuristiken zwischen Abkürzung und Irrtum
+    3.3 Was Zahlen sichtbar machen
+    3.4 Was Modelle ausblenden
+    3.5 Szenarien statt Vorhersagen
+    3.6 Der Streit der Fachleute
+    3.7 Gruppenwissen und Gruppendenken
+    3.8 Entscheidungen unter Zeitdruck
+    3.9 Gute Verfahren für unvollständiges Wissen
+
+
+4. Die Kunst des Rückwegs
+
+    4.1 Reversible und irreversible Entscheidungen
+    4.2 Kleine Schritte und große Sprünge
+    4.3 Der Wert offener Optionen
+    4.4 Modularität und begrenzte Abhängigkeit
+    4.5 Redundanz als Handlungsspielraum
+    4.6 Stop-Regeln vor dem Start
+    4.7 Ausstiegskosten sichtbar machen
+    4.8 Warum Kurswechsel als Niederlage gelten
+    4.9 Rückkehr, Umweg und geordneter Abbruch
+
+
+5. Lernen, bevor man festlegt
+
+    5.1 Erkundung und Nutzung
+    5.2 Das Experiment als Entscheidung
+    5.3 Pilotprojekte und begrenzte Versuche
+    5.4 Sicher scheitern statt Scheitern verhindern
+    5.5 Rückmeldung, die rechtzeitig ankommt
+    5.6 Skalieren ohne Blindflug
+    5.7 Vielfalt als Erkenntnisquelle
+    5.8 Wann Experimente unvertretbar sind
+    5.9 Vom Versuch zur gemeinsamen Praxis
+
+
+6. Verantwortung in verflochtenen Systemen
+
+    6.1 Ursache, Schuld und Verantwortung
+    6.2 Das Problem der vielen Hände
+    6.3 Verantwortung ohne vollständige Kontrolle
+    6.4 Auftrag, Ausführung und Aufsicht
+    6.5 Expertise und Entscheidungsmacht
+    6.6 Organisationen als verantwortliche Akteure
+    6.7 Haftung, Rechenschaft und Wiedergutmachung
+    6.8 Die Verantwortung des Unterlassens
+    6.9 Zuständigkeit, die nicht verschwinden darf
+
+
+7. Wer gewinnt, wer trägt das Risiko?
+
+    7.1 Nutzen und Schaden sind ungleich verteilt
+    7.2 Freiwilliges und aufgezwungenes Risiko
+    7.3 Verwundbarkeit und Schutz
+    7.4 Externalitäten: Folgen für Unbeteiligte
+    7.5 Zustimmung unter ungleichen Bedingungen
+    7.6 Die Interessen künftiger Generationen
+    7.7 Entschädigung und ihre Grenzen
+    7.8 Gerechte Verfahren bei ungewissen Folgen
+    7.9 Wer vom Zweifel profitiert
+
+
+8. Gemeinsam über Zukunft entscheiden
+
+    8.1 Das Wissen der Vielen
+    8.2 Das Koordinationsproblem
+    8.3 Vertrauen als gemeinsame Ressource
+    8.4 Fachwissen und demokratische Legitimität
+    8.5 Beteiligung zwischen Mitsprache und Überforderung
+    8.6 Mehrheiten, Minderheiten und Vetorechte
+    8.7 Polarisierung und strategischer Zweifel
+    8.8 Kompromisse, die handlungsfähig bleiben
+    8.9 Entscheidungen, die Widerspruch aushalten
+
+
+9. Regeln, die mitlernen
+
+    9.1 Vorsorgeprinzip und Innovationsfreiheit
+    9.2 Anpassungsfähige Regulierung
+    9.3 Befristete Regeln und Überprüfungspflichten
+    9.4 Standards als gemeinsame Leitplanken
+    9.5 Genehmigung, Beobachtung und Nachsteuerung
+    9.6 Reallabore und regulatorische Experimente
+    9.7 Transparenz, Audit und unabhängige Kontrolle
+    9.8 Frühwarnsysteme ohne Alarmismus
+    9.9 Institutionen mit eingebauter Korrekturfähigkeit
+
+
+10. Wenn Maschinen mitentscheiden
+
+    10.1 Von der Entscheidungshilfe zur Entscheidung
+    10.2 Ziele, Daten und verborgene Wertungen
+    10.3 Automatisierungsvertrauen und Automatisierungsskepsis
+    10.4 Der Mensch in der Entscheidungsschleife
+    10.5 Erklärbarkeit und ihre Grenzen
+    10.6 Das Recht auf Widerspruch
+    10.7 Verantwortung für lernende Systeme
+    10.8 Agenten und delegierte Handlungsmacht
+    10.9 Welche Entscheidungen nicht verschwinden dürfen
+
+
+11. Die großen Zukunftsproben
+
+    11.1 Klimapolitik zwischen Verzögerung und Festlegung
+    11.2 Energieversorgung zwischen Skalierung und Vielfalt
+    11.3 Pandemievorsorge zwischen Fehlalarm und Versäumnis
+    11.4 Biotechnologie zwischen Heilung und Eingriff
+    11.5 Künstliche Intelligenz zwischen Beschleunigung und Kontrolle
+    11.6 Infrastrukturentscheidungen für Generationen
+    11.7 Sicherheitspolitik und das Dilemma der Vorsorge
+    11.8 Was sich aus den Fällen verallgemeinern lässt
+
+
+12. Die offenen Wege
+
+    12.1 Freiheit ohne vollständige Wahlfreiheit
+    12.2 Offenheit ist kein Aufschub
+    12.3 Robustheit statt perfekter Planung
+    12.4 Die Fähigkeit zur Korrektur
+    12.5 Zukünftige Möglichkeiten als gemeinsames Gut
+    12.6 Verantwortung für den nächsten Schritt
+    12.7 Mut zur vorläufigen Entscheidung
+    12.8 Die Zukunft offenhalten

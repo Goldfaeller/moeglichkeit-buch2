@@ -1,0 +1,122 @@
+== 6.11 Effizienz gegen Widerstandsfähigkeit ==
+
+:1. At 2:46 on the afternoon of March 11, 2011, the ground off northeastern Japan ruptured, and within hours assembly lines far from the inundated coast began to lose the parts that kept them moving.
+:2. Toyota temporarily halted vehicle production in Japan, although most of its own factories had not been swept away.
+:3. The disabling damage lay deeper in a supply network whose lower tiers were largely invisible from the assembly plant.
+:4. Toyota's subsequent survey identified 659 damaged supplier sites and 1,260 affected items, with the disrupted items touching as much as 80 percent of its vehicle production worldwide.
+:5. A production system celebrated for making waste visible had discovered that it could make dependence hard to see.
+:6. The obvious lesson seemed to be that just-in-time manufacturing, with its small inventories and tightly synchronized deliveries, had traded safety for speed.
+:7. That verdict contains a truth, but as an explanation it is too neat.
+:8. Just-in-time is not simply a decision to empty warehouses; it is a coordinated way of exposing problems, shortening delays, sharing information, and avoiding the cost of producing or storing what is not needed.
+:9. In ordinary conditions, those disciplines can improve quality as well as efficiency.
+:10. They can also leave less time to improvise when an earthquake, flood, strike, epidemic, or fire interrupts a critical flow.
+:11. The same arrangement can therefore be efficient in its use of materials, robust against familiar production defects, and vulnerable to a rare regional shock.
+:12. There is no single dial marked efficiency on one side and safety on the other.
+:13. Every institution chooses what to keep available, what to duplicate, what to standardize, and which failures it is prepared to absorb.
+:14. Redundancy means maintaining more than one component, route, supplier, office, or team capable of performing an essential function.
+:15. Reserves are resources deliberately left unused in normal times so that they remain available when demand rises or supply falls.
+:16. Diversity provides alternatives that do not all fail for the same reason, while loose coupling prevents a disturbance in one part of a system from instantly commanding every other part.
+:17. Each protection looks costly on a quiet day.
+:18. An idle generator consumes capital, a second supplier complicates purchasing, cross-trained employees require time away from their usual work, and spare hospital beds look inefficient when occupancy is the only measure that matters.
+:19. Repeated pressure to remove such slack can do more than produce a one-time compromise.
+:20. It can start a self-reinforcing institutional path.
+:21. Managers learn to operate at high utilization, budgets come to assume it, careers reward it, and reporting systems treat unused capacity as evidence of poor control.
+:22. As reserves shrink, the people who maintained them disperse, the routines for activating them fade, and suppliers that depended on occasional orders may leave the market.
+:23. Restoring the buffer later then costs more than preserving it would have cost, because the missing stock was only the visible part of a dismantled capability.
+:24. This is where an ordinary trade-off becomes path dependence.
+:25. A trade-off exists whenever gaining more of one valued property requires accepting less of another under current conditions.
+:26. Path dependence begins when earlier choices alter those conditions, making some later options cheaper, more credible, and easier to imagine while making others progressively harder to recover.
+:27. The first leaner budget may save money without closing any door, but a decade of lean budgets can reshape contracts, buildings, skills, expectations, and law until rapid expansion is no longer an option that can simply be purchased.
+:28. Past efficiency measures have become part of the present production function.
+:29. To see what has been gained or lost, three commonly blurred capacities need to be separated.
+:30. A robust system continues performing an essential function when it is disturbed, much as a bridge remains usable under loads within its design range.
+:31. A resilient system may lose performance, yet it can contain the damage, recover in time, and learn enough to handle a related disturbance better.
+:32. An evolvable system can do something more demanding: it can rearrange its components, relationships, or rules when the old configuration no longer fits the environment.
+:33. These are working distinctions rather than universal scientific definitions, because engineering, ecology, public administration, and business use the terms differently.
+:34. They nevertheless prevent a useful reserve from being mistaken for a complete strategy.
+:35. A stockpile can keep a factory robust for the number of days the stock lasts, but it does not by itself repair a supplier or qualify a substitute.
+:36. A practiced recovery team may provide resilience without keeping normal output unchanged during the shock.
+:37. A modular product design can aid evolvability by allowing one component to be replaced without redesigning the entire product.
+:38. Nor are redundancy and diversity identical.
+:39. Two machines of the same model protect against the random failure of one machine, but both may share the same defective part or dependence on electricity.
+:40. Two suppliers offer little protection if their factories stand on the same floodplain or rely on the same specialized producer farther upstream.
+:41. Effective diversity requires failures that are not perfectly correlated, a condition that is often difficult to establish before the failure arrives.
+:42. Loose coupling addresses a related problem by slowing the spread of disruption.
+:43. Standard interfaces, local discretion, and the ability to isolate a damaged unit can let the rest of a network continue, whether the units are software services, administrative offices, electrical regions, or military supply commands.
+:44. Yet looseness also carries costs, because tightly coupled systems can coordinate faster, eliminate duplication, and exploit specialized equipment more fully.
+:45. The relevant question is therefore not whether coupling is good, but which connections must remain tight and where a seam should permit separation.
+:46. Toyota's network before the earthquake embodied this ambiguity.
+:47. Close, long-term relationships with suppliers supported learning, quality control, and rapid problem solving across organizational boundaries.
+:48. At the same time, Toyota often knew its immediate suppliers better than the small firms several tiers upstream on which many of those suppliers converged.
+:49. The earthquake made that convergence consequential, especially for automotive microcontrollers whose production depended on specialized plants and whose substitution required technical approval rather than a phone call to an ordinary vendor.
+:50. Delegating detailed oversight to each successive supplier had been economical during normal production, but it left the assembler without a complete map when several tiers failed together.
+:51. Institutional efficiency had reduced the everyday cost of central information while increasing the emergency value of information that had never been assembled.
+:52. Toyota's response was not merely to wait for deliveries.
+:53. Purchasing, engineering, and production teams gathered data on inventories and damaged facilities, sent assistance to affected sites, helped restore production, and prepared alternative parts where restoration was impractical.
+:54. Of the 1,260 disrupted items it initially identified, about 500 required immediate countermeasures.
+:55. Japanese production returned to nearly normal levels in early July, and production sites including those overseas were almost fully normalized by September, earlier than Toyota's first public projection of November or December.
+:56. Inventory alone cannot explain that recovery.
+:57. It also depended on relationships, technical knowledge, authority to move people, the ability to verify conditions on site, and suppliers willing to cooperate beyond the wording of a contract.
+:58. The case is therefore a warning against the easy claim that a lean institution has necessarily stripped away all resilience.
+:59. Toyota's routines for joint problem solving helped it recover, even as the shock revealed missing visibility and dangerous concentrations that those routines had not prevented.
+:60. Once an institution can see where its fragility lies, the harder decision is which protections to add without allowing the protection itself to harden into the next costly path.
+:61. Toyota did not answer that decision with a warehouse large enough to contain every possible interruption.
+:62. It began mapping suppliers beyond the first tier, created the RESCUE database to make critical dependencies visible, sought geographically separate sources for vulnerable parts, and encouraged more generalized designs where substitution was feasible.
+:63. The map converted a hidden dependency into information that could guide selective protection.
+:64. Because suppliers, products, and production sites keep changing, however, the map also created a permanent obligation to update data that had once been dispersed across the network.
+:65. Information became a reserve of its own, useful only if maintained, trusted, and connected to authority before a crisis.
+:66. Generalized designs attacked the problem from another direction.
+:67. If several qualified producers can make a component to a shared specification, losing one plant need not force engineers to redesign the systems around it.
+:68. This is sometimes called virtual dual sourcing: instead of paying continuously for two identical production lines, an organization makes designs, tools, approvals, and knowledge portable enough for production to move when necessary.
+:69. The alternative line is not costless, and transfer may still take precious time, but portability preserves an option that extreme specialization would erase.
+:70. Selective inventories can then protect the long lead time required for transfer rather than pretending to insure every part against every event.
+:71. Together, visibility, portability, and limited buffers alter the path created by extreme concentration without discarding all the gains of coordinated production.
+:72. They also generate new feedback.
+:73. Once products use more interchangeable components, additional suppliers can enter more easily, procurement staff gain experience comparing them, and future designs face pressure to retain compatibility.
+:74. Conversely, once an organization builds an elaborate risk database, reporting categories and compliance routines can begin serving the database rather than the decisions for which it was created.
+:75. A protection against yesterday's opacity may become tomorrow's administrative burden.
+:76. Standardization can suppress useful variation, dual sourcing can dilute the close relationships that support quality, and inventories can deteriorate or conceal recurring defects.
+:77. Even geographic diversification can fail when nominally separate suppliers depend on one port, one software service, one material, or one legal authorization.
+:78. Resilience measures must therefore be tested against the mechanism of failure, not counted as reassuring objects.
+:79. This is the serious case for efficiency.
+:80. Resources devoted to every conceivable reserve cannot also provide today's treatment, transport, education, maintenance, or income, and scarcity does not disappear merely because the future is uncertain.
+:81. Excess stock can waste material, duplicated facilities can consume energy, and too many parallel procedures can make ordinary coordination dangerously slow.
+:82. Efficiency can itself support resilience when lower costs leave more resources for recovery, simpler processes expose errors early, and reliable daily operation preserves public confidence.
+:83. The institutional choice is not between prudent redundancy and reckless economy, but among protections with different costs, failure patterns, and time horizons.
+:84. That choice cannot be settled by the average day alone.
+:85. High utilization is easy to record, while the option value of an unused route remains hypothetical until the primary route closes.
+:86. A manager who pays for preparedness every year and never uses it produces visible costs and invisible avoided losses.
+:87. A successor can cancel the reserve, claim an immediate saving, and pass the increased risk to an unknown future officeholder.
+:88. Short budgeting cycles and performance targets thus favor benefits that appear now over capabilities whose success may consist in nothing happening later.
+:89. The asymmetry helps efficiency pressure become cumulative even when no participant consciously chooses fragility.
+:90. It also explains why a crisis often changes institutions more than another forecast does.
+:91. A disruption supplies a vivid price for dependencies that ordinary accounts had treated as free, creates constituencies for preparedness, and gives previously marginal proposals a claim on money and attention.
+:92. Yet crisis learning is selective.
+:93. Organizations may prepare precisely for the event they just survived, although the next shock arrives through a different supplier, jurisdiction, technology, or demand surge.
+:94. Robustness against a known hazard can therefore coexist with declining evolvability.
+:95. A flood wall protects a settled boundary, but a modular service, a cross-trained workforce, or a legally authorized emergency procedure may help across several kinds of disruption.
+:96. The broader protections are harder to justify because their future uses cannot be specified in advance.
+:97. They preserve a range of action rather than guaranteeing a particular result.
+:98. In public administration, that range may reside in regional offices able to act locally when central communication fails, provided their records, authority, and procedures remain compatible enough to reunite afterward.
+:99. Too little local discretion turns one central mistake into a system-wide command, while too much can fragment equal treatment and make mutual aid impossible.
+:100. Loose coupling works only when the loose parts can still recognize and support one another.
+:101. Infrastructure presents the same architecture in steel, concrete, cables, and control rooms.
+:102. An additional transmission route, water main, data center, or bridge may carry little traffic until another component fails, yet its value depends on capacity, location, maintenance, and the absence of a shared point of failure.
+:103. Merely duplicating equipment beside the original protects against some breakdowns but not against the fire, flood, or power loss that reaches both.
+:104. The physical network also needs trained crews, tested switching procedures, spare parts, communications, and rules identifying who may interrupt normal service.
+:105. What appears to be engineering redundancy is therefore sustained by an institutional web.
+:106. Law can provide a different kind of redundancy by distributing authority among legislatures, courts, executives, and territorial governments.
+:107. Multiple review points slow decisions and sometimes block useful action, but they can also contain error and preserve an avenue of correction when one institution fails.
+:108. The analogy to backup machinery has limits, because public bodies represent competing values and legitimate interests rather than interchangeable copies.
+:109. Their friction is partly a cost of ensuring that efficiency is not defined by the actor whose power would grow under the fastest procedure.
+:110. Military logistics makes the material stakes especially plain: standardized supplies and concentrated production can deliver scale, while dispersed stocks, repair skills, alternate routes, and compatible allies preserve operations after disruption.
+:111. No army can maximize speed, economy, autonomy, redundancy, and adaptability at once, and preparations optimized for one campaign can narrow the options available in another.
+:112. Across factories, agencies, infrastructure, courts, and armed forces, the resemblance lies not in a poetic metaphor but in a sequence of investments that changes what can be done next.
+:113. A spare route that is never exercised gradually ceases to be a route.
+:114. A reserve unit without training, a legal power without a usable procedure, and a supplier without current specifications offer nominal redundancy but little real capability.
+:115. Preserving possibility is therefore an activity, not the possession of an object.
+:116. It requires recurring orders, rehearsals, inspections, shared standards, updated records, and people whose careers give them reason to sustain knowledge that ordinary operations rarely call upon.
+:117. Those commitments make resilience durable, but they also give it a payroll, a professional language, contractual partners, and beneficiaries.
+:118. The capacity to resist one shock can then resist reform as well, especially when its guardians treat every proposed change as a threat to preparedness.
+:119. There is no design that escapes history, only arrangements that leave different kinds of room for correction.
+:120. The unused loading bay, the alternate line, and the second review are costly precisely because they keep an unchosen future from becoming unreachable, yet they survive only when rules, interests, and expectations grow around the empty space.

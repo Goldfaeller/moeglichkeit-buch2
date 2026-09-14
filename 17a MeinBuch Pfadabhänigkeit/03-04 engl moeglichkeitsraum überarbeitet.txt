@@ -1,0 +1,177 @@
+== 3.4 Steigende Erträge ==
+
+:1. In November 1942, workers at a shipyard in Richmond, California, laid the keel of a cargo ship and launched it four days and fifteen and a half hours later.
+:2. The vessel was the SS Robert E. Peary, one of the standardized Liberty ships built to carry wartime supplies across oceans stalked by submarines.
+:3. The record was a carefully prepared publicity feat, not a normal construction schedule.
+:4. Much of the ship had been prefabricated before the clock started, and fitting it out continued after the launch.
+:5. Yet the ordinary figures surrounding the stunt are more revealing than the stunt itself.
+:6. Across all Liberty shipyards, average construction time fell to 122 days by June 1942, to 55 days six months later, and to 39.2 days by December 1943.
+:7. That improvement cannot be credited to a single inspired invention.
+:8. It emerged from a standardized design, prefabricated sections, welding, specialized equipment, coordinated deliveries, expanding yards, and thousands of revisions to the sequence of work.
+:9. Workers learned where a hull section could be assembled most safely, which parts should arrive before a crane was needed, and which delays would spread through the schedule.
+:10. Jigs made repeated placements faster and more consistent, while better jigs made later repetitions faster still.
+:11. Managers reorganized space, suppliers adjusted their production, and experienced crews turned scattered observations into routines that newcomers could follow.
+:12. Wartime investment supplied capital and labor on a scale that ordinary commercial demand would not have supported.
+:13. The result was therefore neither pure learning nor mere mass production.
+:14. It was a production system becoming better at producing because earlier production had changed the system itself.
+:15. More than 2,700 Liberty ships were eventually built, so repetition had room to accumulate.
+:16. Each completed hull left behind more than a ship.
+:17. It also left tools, schedules, trained hands, supplier relationships, error reports, and a clearer map of the next hull's construction.
+:18. The Peary's four-day record sat on top of that invisible inheritance.
+:19. An engineer named Theodore Wright had described a related pattern in aircraft manufacturing six years earlier.
+:20. In a 1936 paper, he examined how the labor cost of producing airframes varied with production quantity.
+:21. For the aircraft data he discussed, an 80 percent progress curve served as a useful rule of thumb.
+:22. In plain language, each doubling of cumulative output was associated with the labor input for the next unit falling to about four fifths of its previous level.
+:23. The clock did not trigger the reduction, and neither did a doubling of factory size.
+:24. The relevant measure was the total production experience accumulated up to that point.
+:25. This difference matters because annual output and cumulative output answer different questions.
+:26. Annual output tells us how intensively a factory is operating now.
+:27. Cumulative output records how many opportunities the organization has had to discover, preserve, and apply improvements.
+:28. A curve relating unit cost to cumulative output is often called a learning curve, an experience curve, or a progress curve.
+:29. Those names can imply more causal knowledge than the graph itself contains.
+:30. Wright documented a cost-quantity relationship, but cumulative quantity can rise alongside many other changes.
+:31. Factories may install better machines, redesign products, enlarge plants, improve quality control, or benefit from outside research while output accumulates.
+:32. A falling curve therefore does not prove that repetition alone caused the fall.
+:33. It is an empirical pattern that demands a mechanism, not a mechanism disguised as a graph.
+:34. Learning by doing is one such mechanism.
+:35. A welder becomes more consistent, a team discovers a better sequence, and an organization learns which warning signal predicts a costly defect.
+:36. Some knowledge stays in people's hands and judgment.
+:37. Some is stored in fixtures, software, checklists, drawings, tolerances, and the arrangement of the factory floor.
+:38. This distinction becomes visible when skilled workers leave or production stops for years.
+:39. Personal knowledge may depart, organizational routines may decay, suppliers may close, and a restarted line may move backward up the curve.
+:40. Experience can be accumulated, but it can also be forgotten.
+:41. Economies of scale form a second mechanism, and they should not be folded casually into learning.
+:42. A factory bears costs that do not increase in proportion to each additional unit, including design work, tooling, buildings, certification, and some administrative systems.
+:43. Spreading those fixed costs over a larger current output lowers the average cost per unit even if nobody learns anything new.
+:44. High volume can also justify equipment that performs one operation quickly and precisely but would be wasteful on a short production run.
+:45. It can support a dedicated supplier, a specialized testing laboratory, or a production line designed around a narrow task.
+:46. Learning concerns what past repetition has changed, whereas scale concerns what present volume makes economical.
+:47. The two often rise together because a busy factory both spreads fixed costs and accumulates experience rapidly.
+:48. That companionship makes them difficult to separate in historical data.
+:49. Engineering research supplies a third source of improvement.
+:50. A new material, process, or design can reduce cost without being the accidental by-product of production.
+:51. Deliberate experiments on a manufacturing line may count as learning in an ordinary sense, but they differ from passive improvement through repetition.
+:52. Product changes create another complication because a cheaper unit may not be the same unit as before.
+:53. A curve that ignores changes in durability, performance, safety, or features can confuse lower cost with lower quality or a different product.
+:54. These cautions do not make experience curves useless.
+:55. They tell us what must be examined before a curve becomes an explanation.
+:56. A widely adopted technology also attracts a surrounding ecology of specialized capabilities.
+:57. Training programs teach it, graduates seek jobs using it, repair firms stock its parts, and insurers accumulate records of its failures.
+:58. Banks become more comfortable valuing it, regulators learn how to inspect it, and secondhand markets make its resale value easier to estimate.
+:59. Textbooks, design tools, technical vocabulary, and informal advice grow around the installed base.
+:60. None of these complements is identical to the technology itself.
+:61. Together they make the technology cheaper, safer, more predictable, or simply easier to choose.
+:62. A challenger must then offer more than a different object.
+:63. It may need substitute courses, parts, service networks, certification procedures, financing practices, and evidence of reliability.
+:64. Specialized suppliers deepen the effect because their own investments depend on expected demand from the dominant production path.
+:65. Once those suppliers improve their components, the incumbent system benefits from knowledge created outside any single factory.
+:66. This ecosystem effect resembles a network effect, but the mechanisms are not identical.
+:67. In a direct network effect, another user's adoption immediately makes the same network more valuable to existing users.
+:68. In an experience effect, additional production changes costs or capabilities through accumulated practice and investment.
+:69. Both can reinforce adoption, but identifying which loop operates matters when we ask what might break it.
+:70. Put learning, scale, and complementary investment together, and a positive feedback loop appears.
+:71. Production expands, experience accumulates, and unit costs may fall.
+:72. Lower costs can support lower prices or better performance, which attracts additional buyers and expands production again.
+:73. A larger market justifies specialized suppliers and training, which can improve reliability and reduce the burdens of ownership.
+:74. Those gains attract still more users, and their demand finances another round of improvement.
+:75. Early adoption has now changed the conditions of later adoption.
+:76. This is the core of increasing returns to adoption.
+:77. The phrase does not mean that every additional unit produces a larger physical output than the one before it.
+:78. It means that adoption can generate advantages that make further adoption more likely.
+:79. The process can improve quality and produce lock-in at the same time.
+:80. A mature technology may be genuinely better than it once was precisely because early success gave it more chances to improve.
+:81. Its present superiority can therefore be real without proving that it was inherently superior at the beginning.
+:82. That is why comparing a mature incumbent with an immature challenger is difficult.
+:83. One is judged after decades of debugging and investment, while the other is judged before equivalent experience exists.
+:84. Giving both technologies equal attention today cannot give them equal histories.
+:85. Positive feedback does not abolish diminishing returns.
+:86. The richest ore may be mined first, the easiest defect may be corrected first, and the most eager customers may adopt first.
+:87. Congestion, scarce materials, managerial complexity, and environmental costs can rise as production expands.
+:88. Learning itself may slow when a process matures and the remaining problems resist cheap solutions.
+:89. Real industries combine reinforcing and balancing forces rather than obeying a single curve forever.
+:90. Nor does increasing returns guarantee that several stable outcomes exist in every market.
+:91. A technology with a large and persistent performance advantage may win despite starting late.
+:92. A common standard may also be coordinated deliberately rather than selected by small random events.
+:93. Path dependence becomes most powerful when early alternatives are close enough that modest events affect adoption and adoption then changes their later attractiveness.
+:94. Economist W. Brian Arthur formalized this logic in models of competing technologies during the 1980s.
+:95. His work showed how increasing returns could make several outcomes possible, render early events consequential, and eventually lock adoption onto one path.
+:96. The result challenged models in which diminishing returns push a system back toward a single predictable equilibrium.
+:97. A small urn makes the reinforcement easier to see.
+:98. Imagine that it contains one black ball and one white ball.
+:99. Draw one at random, return it, add another ball of the same color, and repeat.
+:100. Each draw changes the odds facing the next draw.
+:101. An early run of black balls increases the probability of more black balls, while an early run of white balls does the reverse.
+:102. Over many repetitions, the proportion tends to settle toward a random limit rather than one value dictated by the identical starting mixture.
+:103. Early draws matter greatly, but no single early draw alone determines the outcome.
+:104. The urn contains reinforcement without quality, strategy, prices, invention, or resistance.
+:105. Technologies contain all of those things, so the urn is a model of one relation rather than a miniature market.
+:106. Its useful lesson is narrower: when past selections alter future selection probabilities, identical beginnings need not yield identical endpoints.
+:107. Solar photovoltaic modules provide a prominent real-world progress curve.
+:108. In 1976, the inflation-adjusted price of a module was roughly one hundred dollars per watt of rated capacity.
+:109. By the early 2020s, module prices had fallen well below one dollar per watt.
+:110. Across the long series, prices declined by about 20 percent for each doubling of cumulative installed capacity, although the rate varied across periods and datasets.
+:111. Silicon remained central, but almost everything about turning silicon into reliable modules changed.
+:112. Wafers became thinner, factories grew larger, conversion efficiency improved, material use fell, supply chains specialized, and manufacturing yields rose.
+:113. Research, policy, international trade, and investment helped drive those changes alongside accumulated production.
+:114. The curve summarizes their combined history but does not assign each cause its share.
+:115. Deployment can nevertheless participate in a reinforcing loop.
+:116. More installations enlarge markets, larger markets support investment and experience, and lower prices make more installations viable.
+:117. This logic provides one rationale for supporting an expensive young technology.
+:118. Such support may purchase not only current output but also experience, scale, and infrastructure that can alter future costs.
+:119. That possibility does not prove that every subsidy is wise or every favored technology will learn quickly.
+:120. A government may back a design whose costs fall slowly, while better alternatives lose attention.
+:121. Experience curves are therefore useful for describing conditional development, not for guaranteeing a forecast.
+:122. Nuclear power supplies a serious counterexample to simple versions of the learning story.
+:123. Construction costs rose across substantial periods in the United States and France even as more reactors were built.
+:124. Evidence from other countries and periods is more varied, so there is no universal nuclear curve.
+:125. Large reactors are complex site-specific projects rather than identical objects rolling from a continuous assembly line.
+:126. Designs changed, safety requirements evolved, construction schedules lengthened, and supply chains sometimes lost continuity.
+:127. These factors can overwhelm learning, and a one-factor curve cannot tell us how much each contributed.
+:128. Standardization and repeated construction may still create gains within a stable program, but cumulative megawatts alone do not compel those gains to appear.
+:129. The case separates a correlation from the practices required to produce it.
+:130. Nuclear history also shows how increasing returns can attach to a particular design family.
+:131. Light-water reactors gained an early lead through the United States Navy's submarine program before the civilian market became large.
+:132. That program created operating experience, engineering knowledge, suppliers, and institutional confidence around light-water technology.
+:133. When utilities sought commercial reactors, the established family began with a maturity advantage over alternatives that had received less development.
+:134. Economist Robin Cowan used this history to argue that civilian reactor choice displayed technological lock-in.
+:135. The claim does not require the dominant reactor to be defective.
+:136. It requires only that prior investment made one route easier to extend and rival routes more expensive to test.
+:137. Later comparisons then placed operating plants with licensing histories against alternatives that often remained experimental.
+:138. That asymmetry was partly the consequence of earlier selection, not independent proof that the earlier selection had been inevitable.
+:139. Even so, civilian requirements, regulation, fuel policy, and national institutions differed from place to place.
+:140. The submarine origin is therefore one causal strand, not a complete global explanation.
+:141. Increasing returns also attach to places.
+:142. Cutlery clustered in Sheffield, watchmaking in Swiss regions, filmmaking around Los Angeles, and semiconductor firms in what became Silicon Valley.
+:143. Geography, transport, institutions, and historical demand helped shape each cluster, so imitation alone cannot explain them.
+:144. Once a cluster exists, however, it can reproduce some of its own advantages.
+:145. Firms find workers who already possess relevant skills, while workers find several employers without leaving the region.
+:146. Suppliers can specialize because many nearby customers need related components and services.
+:147. Employees carry techniques between firms, and face-to-face contact can spread practical knowledge that is hard to write down.
+:148. Alfred Marshall described this kind of industrial atmosphere in the nineteenth century, observing that trade knowledge in a district could become widely absorbed rather than formally taught.
+:149. A new firm entering such a place inherits benefits that no founder created alone.
+:150. Its arrival then enlarges the labor pool and customer base available to the next firm.
+:151. Cheap land elsewhere may not compensate for the missing web of skills, suppliers, finance, and reputation.
+:152. Yet clusters can decline when transport changes, demand shifts, key institutions weaken, or knowledge becomes easier to move.
+:153. Location is a reinforced advantage, not a permanent spell.
+:154. Increasing returns must also be distinguished from tradition, though the boundary is less clean than a simple test suggests.
+:155. A practice may persist because people value continuity, identify with it, or repeat what training made familiar.
+:156. It may also persist because earlier use built present-day tools, credentials, contracts, and complementary services around it.
+:157. These motives can coexist in the same choice.
+:158. A newcomer with no nostalgia may still choose the incumbent for entirely practical reasons because the inherited ecosystem makes it cheaper or safer today.
+:159. That choice is evidence of a material reinforcement mechanism, though it is not proof that the incumbent remains best under every relevant criterion.
+:160. Conversely, the disappearance of a custom among newcomers does not show that history was irrelevant.
+:161. It shows that the mechanism carrying the past was too weak to survive the change in participants.
+:162. The decisive question is not whether people know the origin story.
+:163. It is whether previous adoption changed the costs, capabilities, expectations, or available complements confronting them now.
+:164. When it has, each locally sensible choice can reinforce a collective path without deception, conspiracy, or irrationality.
+:165. Such reinforcement narrows possibilities, but it does not eliminate counterforces.
+:166. Markets can saturate, resources can become scarce, regulations can change, and an external shock can erase an incumbent's advantage.
+:167. A rival may also compete on a new dimension rather than trying to reproduce the incumbent's mature performance immediately.
+:168. Solid-state electronics displaced vacuum tubes in many uses because they changed the package of size, power consumption, reliability, and manufacturability.
+:169. Tube-making expertise did not become worthless everywhere, but much of it no longer answered the problem customers were trying to solve.
+:170. Incumbents sometimes adapt, acquire the challenger, or transfer parts of their supply chains and knowledge into the new path.
+:171. Disruption is therefore neither guaranteed nor necessarily total.
+:172. Increasing returns protect a path most strongly while competition remains inside the dimensions that past investment has already improved.
+:173. The deeper asymmetry is between a traveled road and an untraveled one.
+:174. The untraveled road need not be blocked, yet every tool, skill, supplier, and expectation accumulated elsewhere makes its first steps relatively more expensive.
+:175. The Robert E. Peary left the slipway in four days only because hundreds of earlier decisions, experiments, and hulls had already arrived before its keel.

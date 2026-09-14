@@ -1,0 +1,122 @@
+== 7.7 Weimar und die Rückkopplung der Institutionen ==
+
+:1. On January 19, 1919, German women entered a national polling booth for the first time, joining men over twenty in choosing a constituent assembly while armed clashes still unsettled Berlin.
+:2. The ballot was not the ceremonial confirmation of a settled order, because the monarchy had collapsed only weeks earlier and the authority to replace it remained contested.
+:3. Workers' and soldiers' councils had appeared across the country, old ministries continued to function, parties demanded an elected parliament, and revolutionary socialists sought a council republic.
+:4. Even among those who favored parliamentary government, the future balance among president, cabinet, legislature, popular vote, and federal states was still open.
+:5. The delegates elected that day therefore faced more than the task of writing rules for an already existing republic.
+:6. They had to turn a volatile distribution of power into institutions that millions of people with incompatible expectations might nevertheless treat as legitimate.
+:7. It is tempting to read this scene backward from January 1933 and regard every choice made in 1919 as a fuse already burning toward dictatorship.
+:8. That interpretation mistakes a later catastrophe for an original plan.
+:9. The elections produced a clear majority for the Social Democrats, the Catholic Center Party, and the left-liberal German Democratic Party, the coalition that would frame the new order.
+:10. At the same time, the socialist left opposed preserving much of the existing social structure, while conservative and nationalist forces resisted the revolution's democratic claims.
+:11. The national congress of workers' and soldiers' councils had already voted decisively in December 1918 for elections to a national assembly rather than permanent rule by councils.
+:12. Yet that decision did not eliminate other choices concerning property, the military, administration, federal boundaries, or the degree of direct popular rule.
+:13. Nor did it erase the practical advantage held by institutions that already possessed offices, records, trained personnel, and chains of command.
+:14. The new republic began in an open space, but not on an empty field.
+:15. One of its most consequential innovations was a genuinely broad electorate.
+:16. Article 22 of the constitution made Reichstag elections universal, equal, direct, and secret for women and men over twenty, using proportional representation.
+:17. Proportional representation converts shares of votes into roughly corresponding shares of seats, rather than awarding an entire district to the candidate who comes first.
+:18. This rule allowed political and social minorities to see themselves in parliament and reduced the mass of votes that had counted for nothing under the imperial system.
+:19. The later election law allotted seats with no threshold comparable to the five-percent barrier used in the Federal Republic, so small parties could gain representation.
+:20. That arrangement is often accused of having shattered the Reichstag into helpless fragments.
+:21. It did contribute to a crowded party system and made coalition building more demanding, especially as established parties splintered and voters moved toward hostile extremes.
+:22. But the electoral formula did not create the country's religious, class, regional, and ideological divisions, many of which had already organized politics under the empire.
+:23. A more exclusionary rule might have hidden some of those divisions without reconciling them, and proportional systems elsewhere have supported durable democracies.
+:24. The institutional effect depended on the parties that used the rule, the conflicts they represented, and the willingness of their leaders to accept compromise as legitimate.
+:25. The constitution also placed two different forms of democratic authority side by side.
+:26. The Reichstag made laws, approved budgets, and could withdraw confidence from the chancellor or any minister.
+:27. The Reich president, however, was elected by the entire people for seven years, a term longer than the Reichstag's four, and possessed an independent claim to speak for the nation.
+:28. He appointed and dismissed the chancellor, could dissolve the Reichstag, commanded the armed forces, and under Article 48 could take emergency measures when public security and order were seriously disturbed or endangered.
+:29. Those measures could temporarily suspend specified fundamental rights and employ armed force, although the president had to inform the Reichstag and the Reichstag could demand their repeal.
+:30. Presidential orders also required the countersignature of the chancellor or a responsible minister, so the office was powerful but not designed as an unchecked personal command.
+:31. The architects expected these authorities to balance one another: parliament would represent organized plurality, while the president could preserve continuity when parliamentary government faltered.
+:32. It was a coupled system whose behavior would depend on what each institution expected the others to do.
+:33. Article 54 made ministers dependent on parliamentary confidence, yet it allowed a majority to force a government out without first agreeing on a successor.
+:34. That feature gave opponents a means to unite negatively even when they could not govern together positively.
+:35. Conversely, because the president chose the chancellor, a cabinet might enter office without a secure parliamentary coalition and then test whether the Reichstag would tolerate it.
+:36. The right of dissolution added another strategic move: conflict could be returned to the electorate, but repeated elections could also punish compromise and reward parties that treated every campaign as a struggle against the system.
+:37. Direct election gave the presidency democratic legitimacy, but it also encouraged the hope that one national figure might rise above bargaining among parties.
+:38. When the celebrated field marshal Paul von Hindenburg won the presidency in 1925 with 48.3 percent in the second round, voters placed an emblem of the imperial past inside the republic's strongest elected office.
+:39. His victory did not immediately terminate parliamentary government, and he formally swore to uphold the constitution.
+:40. It did, however, alter the human agent who would interpret presidential discretion when a severe crisis arrived.
+:41. Federalism added another set of interacting parts.
+:42. The constitution preserved the German states and created the Reichsrat, in which members of state governments participated in national legislation and administration.
+:43. Unlike the imperial Bundesrat, this body generally possessed only a suspensive veto, meaning that it could delay a Reichstag decision but not simply kill it.
+:44. No single state could hold more than two fifths of its votes, a rule aimed chiefly at preventing enormous Prussia from dominating the federation.
+:45. At the same time, the republic shifted important legislative and financial power toward the national level, so federal continuity came with substantial centralization.
+:46. Prussia remained crucial for another reason: its government and police were for much of the republic controlled by parties committed to the democratic order.
+:47. Federal structure therefore created friction, but that friction could serve as a second base of democratic power rather than merely an obstacle to efficient rule.
+:48. The meaning of the same arrangement changed when national officials later learned how Article 48 could be used against a state government.
+:49. This is where constitutional rules became a path rather than a static diagram.
+:50. An emergency decree that restores order once may seem an exceptional bridge back to ordinary legislation.
+:51. Repeated use teaches presidents, ministers, civil servants, judges, parties, and citizens that the bridge is also a route around parliament.
+:52. Each successful use supplies precedents, legal arguments, administrative routines, and revised expectations about what government can do when majorities are hard to assemble.
+:53. During Friedrich Ebert's presidency, Article 48 was invoked amid insurrection, political violence, and economic emergency, often in an effort to defend the republic rather than abolish it.
+:54. Parliament itself also granted broad temporary powers during the crisis years, showing that exceptional government was not simply imposed by an alien executive upon an unwilling legislature.
+:55. These measures helped a fragile state survive immediate dangers, which is precisely why the resulting path cannot be dismissed as an obvious sequence of mistakes.
+:56. Successful emergency action carried a delayed cost: it made the next resort to exceptional authority more imaginable, more administratively feasible, and easier to present as constitutional.
+:57. The enabling law promised in Article 48 to regulate the details of presidential emergency power was never enacted, leaving practice and interpretation to fill a consequential gap.
+:58. By the late 1920s, Germany thus possessed both working parliamentary experience and an accumulated repertoire for governing when parliamentary agreement failed.
+:59. Which repertoire political actors selected would depend not on constitutional text alone, but on economic shocks, electoral changes, inherited loyalties, and decisions that had not yet been made.
+:60. The decisive feedback began when those pressures ceased to be temporary disturbances and officials started treating the emergency route as the normal road to power.
+:61. That turn became visible after the Great Depression struck Germany and transformed difficult distributional disputes into contests over who would bear mass unemployment, falling revenues, and collapsing security.
+:62. The last broad parliamentary coalition, led by Social Democrat Hermann Müller, broke apart in March 1930 over financing unemployment insurance.
+:63. This disagreement was substantive rather than a mere procedural accident, because workers, employers, taxpayers, and benefit recipients faced losses that no constitutional formula could make painless.
+:64. Hindenburg then appointed the Center Party politician Heinrich Brüning as chancellor without first assembling a stable majority coalition.
+:65. The new cabinet could seek parliamentary tolerance, but its ultimate support came from the president and the emergency powers attached to his office.
+:66. When the Reichstag rejected part of the government's financial program in July, Brüning had the measures issued as a presidential emergency decree under Article 48.
+:67. The Reichstag exercised its constitutional right to revoke that decree, formally demonstrating that the parliamentary safeguard still worked as the framers had intended.
+:68. Hindenburg responded by dissolving the Reichstag, after which the contested measures were reissued while the country prepared to vote.
+:69. Every move could be connected to a constitutional provision, yet their sequence changed how the system worked by converting defensive safeguards into instruments for defeating rival institutions.
+:70. Powers conceived as checks upon one another had become moves in an escalating contest whose immediate winners gained leverage over the rules of the next round.
+:71. The election of September 1930 delivered the most dramatic feedback.
+:72. The National Socialist share rose to 18.3 percent, and its Reichstag delegation leaped from 12 seats to 107.
+:73. The dissolution did not manufacture those votes, which also reflected depression, nationalist resentment, effective organization, political violence, and the erosion of established parties.
+:74. It nevertheless gave a rapidly expanding antidemocratic movement an immediate national opportunity and enlarged the very parliamentary obstruction invoked to justify presidential government.
+:75. As governing majorities became harder to construct, cabinets relied more heavily on decrees.
+:76. As decrees displaced parliamentary legislation, parties had fewer rewards for accepting the compromises on which governing majorities depend.
+:77. Citizens repeatedly summoned to elections could see the Reichstag as both intensely contested and increasingly bypassed.
+:78. Antisystem parties could condemn parliamentary impotence while helping to produce it, then use their expanded representation to deepen the impasse.
+:79. Institutional practice was altering expectations, and those expectations were altering strategic behavior.
+:80. The emergency route was becoming easier to take precisely because earlier journeys along it had weakened the ordinary route, both as a practical procedure and as a credible source of public decisions.
+:81. The presidential cabinets of Brüning, Franz von Papen, and Kurt von Schleicher were therefore not identical dictatorships installed at a single moment.
+:82. Brüning initially survived because the Social Democrats tolerated his government, judging it less dangerous than the alternatives and declining to join motions that would overturn emergency decrees.
+:83. That defensive choice preserved a residue of parliamentary control, but it also allowed policies to be made through a procedure the party regarded as damaging.
+:84. This distinction matters because institutions never feed back by themselves; officeholders, parties, organized interests, and voters reproduce a path through choices made under pressure.
+:85. Different choices remained conceivable, including broader coalitions and renewed parliamentary bargaining, although their political costs and probabilities changed after each round of unsuccessful conflict.
+:86. The constitution did not instruct Hindenburg to prefer an antiparliamentary cabinet, exclude the Social Democrats, or listen to advisers seeking authoritarian revision.
+:87. Nor did it compel party leaders to reject every possible coalition, conservative elites to bargain with Hitler, or millions of voters to support enemies of the republic.
+:88. Germany had experienced cabinets, legislative bargains, and periods of comparative stabilization under the same constitutional text during the middle years of the 1920s.
+:89. That counterperiod rules out the claim that the document adopted in 1919 functioned as a timed device set to destroy democracy.
+:90. It does not rule out the more precise claim that particular clauses made destructive strategies cheaper when economic collapse and political hostility converged.
+:91. Proportional representation illustrates the difference between a rule that transmits political division and a mechanism that independently produces it.
+:92. It faithfully carried the electorate's radicalization into the Reichstag, and the absence of a substantial threshold helped smaller parties survive.
+:93. By July 1932, the National Socialists and Communists together held a majority of seats, although they shared no program for governing and were bitter enemies.
+:94. This was a negative majority: sufficient to obstruct governments, insufficient to create a democratic replacement.
+:95. Yet changing the electoral formula would not necessarily have turned antidemocratic voters into democrats, and a winner-take-all system might instead have magnified the largest extremist party.
+:96. The presidency offered conservative elites a more direct lever because a chancellor did not need to emerge from a prior affirmative vote in parliament.
+:97. Hindenburg dismissed Brüning in May 1932 even though no parliamentary successor stood ready.
+:98. He installed Papen, whose cabinet had negligible support in the Reichstag and depended openly on presidential authority, the bureaucracy, and the army.
+:99. The shift was a choice by identifiable actors using inherited offices and established administrative loyalties, not an impersonal malfunction generated automatically by constitutional machinery.
+:100. The offices mattered because they allowed that choice to take effect without an immediate democratic majority and gave a narrow circle control over the timing of subsequent decisions.
+:101. Federalism then revealed its capacity to resist and its vulnerability to the same presidential machinery.
+:102. In July 1932, after violent clashes and amid claims that Prussia could no longer maintain order, Hindenburg used Article 48 to appoint Papen Reich commissioner for the state.
+:103. The maneuver known as the Prussian coup displaced the democratically supported Prussian government and transferred control of its powerful administrative and police apparatus.
+:104. Prussia's ministers challenged the action before the State Court, which rejected their complete removal from office but permitted the commissioner's exercise of important governmental powers.
+:105. The partial legal victory did not reverse the administrative fact already created.
+:106. A federal counterweight had been weakened by combining emergency law, national executive power, and control over existing chains of command.
+:107. This was institutional complementarity in destructive form: Article 48 supplied exceptional authority, Article 25 supplied dissolution, Article 53 supplied appointment, and the bureaucracy supplied execution.
+:108. None of those elements alone made the outcome inevitable.
+:109. Together, in the hands of officials who preferred presidential rule, they opened a path on which each step reduced the force of the remaining checks.
+:110. Even this interaction cannot bear the full explanatory weight of Weimar's destruction, because rules become politically decisive only under historical conditions that activate their possibilities.
+:111. The Depression impoverished and frightened millions, while the burdens of war, the Versailles settlement, hyperinflation, and earlier political killings had already damaged trust and legitimacy.
+:112. Powerful parts of the military, administration, judiciary, business, and landed elite never developed firm loyalty to parliamentary democracy, although none of these groups acted as a single bloc.
+:113. National Socialists and Communists built mass organizations that opposed the constitutional order from incompatible directions, and street violence narrowed the space for ordinary competition.
+:114. Finally, conservative politicians chose in January 1933 to place Hitler in the chancellorship because they believed they could exploit his following and constrain him from within the cabinet.
+:115. The constitution created opportunities for that bargain and reduced some of its procedural barriers, but people with distinguishable aims, information, and misjudgments made it.
+:116. Earlier crises expose the contingency: the republic survived armed revolts, hyperinflation, occupation, and the Kapp Putsch, which collapsed in the face of a general strike and organized resistance.
+:117. Institutions that later enabled evasion had at other moments coordinated defense, and citizens who later abandoned the republic had once supported it or remained available to persuasion.
+:118. Weimar's path was therefore dependent on sequence without being predetermined by origin: shocks activated rules, uses generated precedents, precedents reshaped expectations, and expectations changed the next choice.
+:119. After the catastrophe, the designers of a new democratic order would treat that chain of feedback as evidence that safeguards must shape incentives before a crisis, when alternatives still look needlessly cumbersome.
+:120. Their problem was not how to erase Weimar, but how to preserve democratic choice while making the shortest routes around it harder to travel.

@@ -1,0 +1,122 @@
+== 6.4 Bürokratie und ihre Kategorien ==
+
+:1. One example in the Social Security Administration's operating manual begins with a claimant who is forty-nine years and eleven months old.
+:2. The person has a fifth-grade education, a history of unskilled work, and a medical condition that limits them to sedentary work.
+:3. Under one line of the agency's medical-vocational grid, those facts direct a denial of disability benefits.
+:4. Under the line that applies at age fifty, the same facts direct an award.
+:5. No muscle strengthens and no damaged joint worsens when the calendar turns by a month.
+:6. What changes is the box into which the file falls.
+:7. The agency's rules therefore tell adjudicators not to apply age categories mechanically when a claimant is only days or months from the next one.
+:8. They must decide whether the older category better represents the combined effects of limited capacity, education, and work experience.
+:9. The example is dry enough to disappear inside a manual, yet it exposes one of bureaucracy's hardest problems.
+:10. A continuous human life must somehow be converted into a decision that can be recorded, explained, reviewed, and repeated across millions of cases.
+:11. Disability does not arrive with an administrative label attached.
+:12. Pain varies by task and day, education reveals little about what a person actually learned, and two jobs bearing the same title may demand different abilities.
+:13. A benefit system nevertheless has to distinguish eligible from ineligible claims, because it cannot issue a payment that is eleven percent undecided.
+:14. Classification compresses this unruly detail into a manageable set of similarities and differences.
+:15. That compression is not automatically a trick of domination.
+:16. Without shared categories, an applicant's prospects would depend more heavily on which official happened to open the file and what that official regarded as persuasive.
+:17. Categories make it possible to compare like cases, coordinate many offices, estimate budgets, and give people reasons they can challenge.
+:18. At the same time, the category determines which cases count as alike.
+:19. Administration begins when the thick description of a person, event, building, or business is translated into fields that an institution knows how to process.
+:20. An address becomes a jurisdiction, earnings become an income band, an injury becomes a coded impairment, and work history becomes a level of transferable skill.
+:21. The Social Security disability process makes that translation unusually visible.
+:22. For adults, it proceeds through five ordered questions concerning current work, the severity of impairments, listed medical conditions, capacity for previous work, and capacity for other work.
+:23. A conclusive answer can stop the sequence before later questions are reached.
+:24. At the fifth step, officials consider what the claimant can still do together with age, education, and past work experience.
+:25. The medical-vocational guidelines cross-classify these factors so that certain combinations direct or guide a finding.
+:26. Each factor points toward something relevant, but none reproduces the person whose future depends on the result.
+:27. Age stands in for the growing difficulty of adjusting to unfamiliar work, while education and occupational history stand in for unevenly distributed capacities to make that adjustment.
+:28. These are reasoned proxies, not discoveries of natural kinds.
+:29. The border between forty-nine and fifty turns a gradual tendency into a discontinuous administrative consequence.
+:30. The cliff belongs to the rule, not to human biology.
+:31. Abolishing every boundary would not abolish the need to allocate benefits.
+:32. It would move the boundary into an official's judgment, where it might become harder to see and less consistent across claimants.
+:33. Before 1978, the agency ordinarily relied on vocational experts to testify about jobs that a particular claimant might perform.
+:34. Those experts drew on standardized guides, but their treatment of similar cases attracted criticism for inconsistency.
+:35. The federal government introduced the medical-vocational grids in 1978 partly to make decisions more uniform and efficient.
+:36. When the system reached the Supreme Court in 1983, the justices upheld the agency's use of general rules to establish what kinds of jobs existed in the national economy.
+:37. The Court also stressed that a claimant's own abilities still required findings based on the individual record.
+:38. That division captures the legitimate promise of an administrative category: settle recurring general questions once, then reserve scarce attention for facts that truly vary from case to case.
+:39. The resulting gain is not merely speed.
+:40. A published grid can constrain favoritism, reveal the assumptions behind a decision, and let distant offices participate in one program rather than inventing hundreds of local ones.
+:41. Once adopted, however, a classification begins to gather an environment around itself.
+:42. Forms ask for the facts the grid requires, databases reserve fields for its codes, and software routes files according to its sequence.
+:43. Employees learn where distinctions belong, supervisors audit those distinctions, and lawyers organize appeals around the words the rules make consequential.
+:44. Prior decisions explain ambiguous cases by referring to established categories, which makes those categories more useful in the next decision.
+:45. Applicants and their representatives also adapt, gathering evidence that fits recognized boxes and learning which omissions are costly.
+:46. None of these adjustments alone makes reform impossible.
+:47. Together they are complementary investments: the value of each rises because the others are already in place.
+:48. Replacing the classification then requires more than announcing a subtler vocabulary.
+:49. A transition must keep pending cases moving while revising forms, software, training, guidance, records, and standards of review.
+:50. It may also have to preserve comparisons across time, since a statistical series can break when the meaning of a category changes.
+:51. This is where persistence becomes path dependence rather than mere longevity.
+:52. A category may endure simply because the underlying distinction remains useful, which is a functional constraint rather than a historical lock-in.
+:53. It may also linger because no one has made revision a priority, which is inertia but not yet a self-reinforcing path.
+:54. Path dependence appears when earlier adoption has built skills, expectations, precedents, and technical connections that make an alternative more expensive now than it would have been at the outset.
+:55. The original age bands could have been drawn differently, and individualized testimony once offered a genuine alternative.
+:56. After decades of use, however, the bands have become reference points for adjudicators, claimants, courts, forms, and computer systems.
+:57. Even reform is therefore likely to attach an exception to the existing framework instead of replacing the framework wholesale.
+:58. The borderline-age policy does exactly that.
+:59. It softens the categorical cliff with a sliding judgment about how close the claimant is to the next band and how adverse the remaining vocational factors are.
+:60. The grid survives, but a new administrative object now stands beside it: the borderline case, complete with its own factors, records, cautions, and possibilities for review.
+:61. That new object restores discretion, but it does not return the decision to an uncategorized world.
+:62. An adjudicator must now classify the claimant's distance from the threshold, decide which disadvantages count, and avoid counting the same limitation twice.
+:63. Two officials may weigh those considerations differently even while following the same written policy.
+:64. The instructions make that variation reviewable, yet they cannot make judgment disappear.
+:65. The real choice is therefore not between a mechanical rule and perfect attention to the individual.
+:66. Every administrative design decides where judgment will occur, who may exercise it, what evidence will discipline it, and how visible its errors will be.
+:67. Categories that are too broad conceal differences that matter to the program's purpose.
+:68. Categories that are too narrow burden applicants with proof, multiply disputes, and recreate individual adjudication under a denser vocabulary.
+:69. No classification can be perfect in the abstract because relevance depends on the task being performed.
+:70. The same person may reasonably occupy different categories in a medical record, a tax file, and an employment program because each institution is asking a different question.
+:71. Errors at a boundary also come in opposing forms.
+:72. A loose definition may include people for whom a program was not intended, while a strict one may exclude people whose circumstances fit its underlying purpose.
+:73. Requiring more evidence can correct some mistakes while imposing costs that deter valid claims.
+:74. The distribution of those errors matters as much as their total number, because a delayed permit, a denied income payment, and a misdirected statistical record do not burden people in the same way.
+:75. Officials may encounter the grid as one file among hundreds.
+:76. The applicant encounters its classification as rent paid or missed, treatment obtained or postponed, and a public statement about what kind of case they are.
+:77. That asymmetry gives administrative categories moral weight without proving that every category is oppressive.
+:78. The phrase “residual functional capacity,” for example, deliberately records what work-related activities remain possible despite an impairment.
+:79. It is more useful for a vocational decision than a diagnosis alone, but it is still not a complete portrait of anyone's health or worth.
+:80. Confusing the file's purposeful abstraction with the whole person is a misuse of the category, not an unavoidable feature of all administration.
+:81. Categories allocate work inside the institution as well as benefits outside it.
+:82. A case coded one way may travel to a specialized unit, trigger a particular deadline, or require review by someone with designated expertise.
+:83. That routing produces experience, and experience makes the division appear increasingly sensible.
+:84. The specialized unit develops routines and vocabulary that improve its handling of familiar cases while making unfamiliar combinations harder to place.
+:85. Successful coordination thereby strengthens the classification that enabled it.
+:86. A misclassified case, meanwhile, can be difficult to recognize because each office sees only the portion its jurisdiction instructs it to see.
+:87. This feedback is institutional rather than psychological: tasks, authority, records, and expertise have been distributed around the boxes.
+:88. By the time an appeal reveals that a person did not fit, the record may already have been assembled according to the original label.
+:89. Evidence for another interpretation may never have been requested, while details that fit the assigned category arrive in abundance.
+:90. Official action can thus shape the future evidentiary world without fabricating a single fact.
+:91. The same stability that causes this narrowing also permits cooperation across distance and time.
+:92. Stable labels allow one office to understand another office's records without reopening every underlying judgment.
+:93. Hospitals, courts, tax agencies, schools, and statistical bureaus could not combine information at scale if every clerk used a private language.
+:94. Abrupt relabeling can strand old records, obscure trends, and make obligations unpredictable.
+:95. Category stability can therefore protect equal treatment and institutional memory rather than merely shelter bureaucratic convenience.
+:96. Yet the very durability that preserves comparison can also preserve assumptions after the world that supported them has changed.
+:97. The hard question is not whether classification distorts, because all purposeful simplification leaves something out, but when its coordinating value no longer justifies the pattern of error it produces.
+:98. The disability age bands embody policy judgments about how age, schooling, work experience, and physical capacity affect adjustment to other employment.
+:99. Labor markets and job requirements can change while the familiar headings on a decision table remain recognizable.
+:100. For many years, official reviews have noted that the occupational database used in disability decisions was last comprehensively updated in 1991.
+:101. An old input does not by itself prove that every decision resting on it is wrong.
+:102. It does reveal how one classification can depend on another, so that revising the benefit grid may require new occupational descriptions with precisely the physical and mental details the program needs.
+:103. A replacement must be accurate enough for adjudication, compatible enough for transition, and legible enough for courts and claimants to test.
+:104. This interdependence explains why institutions often change through crosswalks, pilot programs, overlapping codes, and temporary exceptions rather than a clean break.
+:105. Such layering can create complexity and contradictions.
+:106. It can also keep benefits moving while the institution learns whether a new distinction works better than the old one.
+:107. Flexible categories therefore have costs of their own.
+:108. An exception may rescue a deserving boundary case while making outcomes depend more heavily on an official's skill or a claimant's representation.
+:109. Discretion can hide a new inconsistency inside a humane-sounding correction.
+:110. Records of exceptions, reversals, and appeals are consequently not administrative debris but information about where the classification fails.
+:111. If an institution can examine that information and revise its rules, categorization becomes a provisional tool rather than a permanent verdict.
+:112. The quality of a category must finally be judged against its purpose, its evidence, and the consequences of its predictable mistakes.
+:113. No scheme can represent reality without remainder, but some distinctions are more defensible, revisable, and transparent than others.
+:114. A serious rival explanation for any durable category is that officials retain it because it continues to coordinate relevant differences well.
+:115. The evidence for path dependence lies not in age alone but in accumulated complements—forms, precedents, expertise, software, and expectations—that raise the price of choosing a once-available alternative.
+:116. Responsible administration therefore requires traceable simplification: people should be able to see which features became decisive, which disappeared, and where reconsideration remains possible.
+:117. Once money, status, or organizational success is attached to a category, however, affected people and institutions begin to anticipate it.
+:118. They alter applications, records, priorities, and conduct in ways that improve their position under the rule.
+:119. The form that once recorded behavior becomes an incentive within it.
+:120. At that point, bureaucracy no longer merely describes a world through categories; its measurements begin helping to produce the reality that later measurements will find.

@@ -1,0 +1,122 @@
+== 6.7 Legitimität als Rückkopplung ==
+
+:1. On August 20, 2014, soldiers and police sealed the roads into West Point, a densely populated neighborhood on the edge of Monrovia, as Liberia's government tried to contain Ebola virus disease.
+:2. The quarantine was a display of coercive capacity, complete with barriers, patrols, and a nationwide curfew, yet it lasted only about ten days.
+:3. Force could close a road more readily than it could persuade a family to report a fever, name recent contacts, or surrender a relative's body for a burial that violated familiar obligations.
+:4. Those actions required information that officials did not possess and cooperation they could not simply seize.
+:5. Liberia entered the epidemic with a health system weakened by years of civil conflict, limited clinical capacity, and deep public mistrust of government.
+:6. As unfamiliar response teams arrived with alarming instructions, some residents denied that Ebola was real, concealed sick relatives, avoided treatment centers, or resisted burial teams.
+:7. Their reactions were not evidence of a national character or a timeless hostility to medicine.
+:8. They emerged from particular histories, uneven experiences with public authority, frightening observations of patients entering treatment centers and not returning, and messages that were sometimes inconsistent or poorly explained.
+:9. The epidemic exposed a form of institutional capital that had been accumulated, or depleted, long before the first confirmed Liberian cases in March 2014.
+:10. That capital was legitimacy.
+:11. Legitimacy is not the same as approving every decision an institution makes.
+:12. A person can dislike a tax bill, a court judgment, or a quarantine order while still accepting that the authority had a right to decide and that its rules normally deserve compliance.
+:13. Nor is legitimacy merely fear wearing respectable clothes.
+:14. Coercion changes behavior by attaching punishment to refusal, whereas legitimate authority gives people a reason to comply even when detection is unlikely and the immediate outcome is unwelcome.
+:15. The two can operate together, and no functioning state relies on voluntary deference alone.
+:16. Their proportions nevertheless matter because surveillance, enforcement, appeals, and repeated conflict consume money, time, personnel, and attention.
+:17. An institution whose directions are broadly treated as rightful can accomplish tasks that would be prohibitively expensive if every instruction had to be individually compelled.
+:18. This does not make legitimacy a warm feeling floating above administration.
+:19. It makes legitimacy part of an institution's working machinery.
+:20. The machinery is historical because each encounter can alter the conditions of the next one.
+:21. When officials explain a decision, listen to those affected, apply a rule consistently, and correct evident errors, people gain evidence about how the institution is likely to behave later.
+:22. Researchers call this procedural justice: an assessment not only of who received what, but of whether the process offered voice, neutrality, respectful treatment, and signs of trustworthy intent.
+:23. A fair procedure cannot turn every loss into satisfaction, and a courteous explanation cannot redeem a substantively abusive rule.
+:24. Even so, a large body of research finds that people often care about the manner of decision making independently of whether they obtained the outcome they wanted.
+:25. Perceived fairness is repeatedly associated with trust in authorities, willingness to accept decisions, and readiness to cooperate.
+:26. The association creates the possibility of a positive feedback loop.
+:27. Fair treatment supports legitimacy, legitimacy makes voluntary cooperation more likely, and cooperation allows officials to work with better information and less reliance on intrusive control.
+:28. Better information can improve decisions, while fewer hostile encounters give the institution more opportunities to demonstrate competence and evenhandedness.
+:29. What begins as an experience at a clinic desk, a police stop, or a benefits office can therefore influence the cost and tone of later administration.
+:30. The loop can also run in reverse.
+:31. An arbitrary refusal or humiliating encounter supplies a reason to expect similar treatment next time.
+:32. People who expect unfairness may avoid an office, withhold information, seek informal workarounds, or comply only when enforcement appears immediate.
+:33. Officials then face incomplete records and more evasive behavior, which can lead them to add inspections, documentation, sanctions, and discretion.
+:34. Those controls may be rational responses to the cases in front of them, yet they also create more occasions for delay, inconsistency, and disrespect.
+:35. The resulting experience confirms the expectation with which citizens arrived.
+:36. No single bad encounter must produce such a spiral, and people distinguish among agencies, levels of government, and individual officials.
+:37. Repeated encounters, shared accounts within a community, and visible patterns of unequal treatment are more likely than one isolated frustration to harden a judgment about an institution.
+:38. Institutional trust is therefore neither a fixed national trait nor a single reservoir shared by every public body.
+:39. The same person may trust a local nurse, distrust a ministry, respect a court, and doubt the police, drawing on different histories with each.
+:40. Liberia's Ebola response made these distinctions operational rather than philosophical.
+:41. Stopping transmission required rapid reporting, contact tracing, isolation, changes in caregiving, and safer burials, all of which reached into homes and intimate obligations.
+:42. The central government and international organizations possessed medical knowledge and material resources, but local chiefs, religious figures, community volunteers, and Ebola survivors often possessed something equally necessary: credible access.
+:43. In Lofa County, where Liberia's first cases had been confirmed, health teams increasingly worked through community leadership and established social networks.
+:44. The World Health Organization later identified community engagement, along with treatment capacity, case finding, contact tracing, isolation, and safe burial, as essential to bringing the Liberian outbreak under control.
+:45. Qualitative studies conducted after the epidemic describe how participation by local leaders and survivors made risk information more believable and safety practices more acceptable.
+:46. A representative survey in Monrovia during the epidemic found that people who expressed less trust in government also reported taking fewer precautions and complying less with control measures.
+:47. These findings fit the feedback mechanism, but they do not prove that trust alone reversed the epidemic.
+:48. Treatment beds increased, laboratories and surveillance improved, international assistance expanded, burial practices changed, and communities learned from direct experience as the response developed.
+:49. Trust could affect whether those capacities were used, while visible competence and falling case numbers could in turn increase trust.
+:50. That two-way causation is precisely why a crisis tests accumulated legitimacy rather than merely measuring current popularity.
+:51. Emergency instructions arrive when evidence is incomplete, policies change quickly, and officials cannot demonstrate the value of every precaution to every person before action is required.
+:52. People must decide whether an admitted uncertainty signals honesty or incompetence, whether an error will be corrected or concealed, and whether burdens will be distributed by a rule they recognize as fair.
+:53. They interpret those signals through earlier encounters and through the experiences of people whose judgment they credit.
+:54. An institution with a record of competence and candor receives some provisional room to act, rather as a reliable borrower can obtain credit before a project pays off.
+:55. The analogy has a limit because political legitimacy is not a balance owned by an institution and citizens are not creditors seeking a financial return.
+:56. Trust can be domain-specific, unequally distributed, and withdrawn when new conduct contradicts old expectations.
+:57. Still, the accumulated record changes the probability that uncertain instructions will be tried before their benefits can be seen.
+:58. The comparison also explains why an authority cannot manufacture durable legitimacy through messaging alone, because even communication that acknowledges uncertainty and gives reasons for changing course will collide with lived experience if services fail or burdens fall arbitrarily.
+:59. Residents judge not only the speaker's tone but whether ambulances arrive, whether sick people receive care, whether rules apply to the connected as well as the powerless, and whether complaints can alter mistakes.
+:60. Material performance and procedural fairness are not rival explanations here, because each helps people infer whether an institution is competent, bounded, and worthy of deference, yet their relative weight varies across institutions, groups, and situations, leaving a harder question about what the broad statistical relationship between fair treatment and cooperation can actually establish.
+:61. The most honest answer is that the relationship is substantial, recurrent, and less causally settled than a simple formula would suggest.
+:62. Survey studies across policing, courts, taxation, workplaces, and public health repeatedly connect perceived procedural fairness with legitimacy and connect legitimacy, in turn, with cooperation or compliance.
+:63. Yet a major review of research on procedural justice and legal compliance concluded that perception-based studies establish these associations far more securely than interventions establish the full causal chain.
+:64. People who already obey the law may view authorities more favorably, a well-performing institution may produce both trust and compliance, and a survey respondent may use similar judgments to answer supposedly separate questions.
+:65. Randomized field experiments help break that circle, though they usually capture only a small encounter and a short interval.
+:66. In the Queensland Community Engagement Trial, Australian police randomly assigned roadside breath-testing operations either to ordinary practice or to an encounter scripted around voice, neutrality, respect, and trustworthy motives.
+:67. Drivers in the experimental encounters reported more favorable views of the treatment they received and, on several measures, of the police.
+:68. The study demonstrated that officials can influence legitimacy judgments through the conduct of a routine contact rather than merely inherit fixed public attitudes.
+:69. It could not show that a single courteous traffic stop would durably change lawbreaking, reporting, or cooperation across an entire community.
+:70. Later reviews have accordingly described the experimental evidence as promising but mixed, especially when the outcome of interest is behavior rather than a stated intention.
+:71. This qualification narrows the claim without dissolving the mechanism.
+:72. Legitimacy is best understood as one influence on behavior among several, not as an invisible command that overrides interest, habit, morality, peer expectations, or the probability of punishment.
+:73. A shopkeeper may pay a tax from a sense of duty, fear of an audit, reliance on public services, advice from an accountant, or some combination of all four.
+:74. The same payment therefore cannot reveal by itself whether the tax authority is regarded as rightful.
+:75. Conversely, a person may recognize an agency's authority yet disobey a particular rule judged intolerable, impossible, or contrary to a stronger obligation.
+:76. Compliance and legitimacy must be distinguished precisely because coercion can produce the first without the second, while legitimate institutions sometimes face principled refusal.
+:77. What legitimacy changes is not certainty but the distribution of motives and the administrative price of obtaining a workable level of cooperation.
+:78. Where voluntary compliance is common, inspectors can concentrate on hard cases rather than treating the entire population as presumptively evasive.
+:79. Where it is rare, even fair rules may become practically unmanageable because enforcement consumes the capacity needed to deliver the service that could have earned trust.
+:80. The cost structure creates increasing returns.
+:81. An institution that has accumulated legitimacy can implement a difficult decision with fewer confrontations, learn from more candid information, and preserve resources for competent performance.
+:82. Each of those advantages may support the belief that the institution deserves deference, making the next decision less costly to carry out.
+:83. A distrusted institution starts from the opposite position: explanations are discounted, requests for information look threatening, and visible enforcement confirms that cooperation was never expected.
+:84. Earlier experience has thereby changed the price of later options even though it has not dictated the outcome.
+:85. Leaders can reform procedures, replace personnel, share authority with credible intermediaries, improve performance, or create independent avenues of appeal.
+:86. Citizens can organize, litigate, document unequal treatment, cooperate selectively, or build alternative institutions.
+:87. These routes keep the path open, but all require capabilities, time, and evidence that a high-trust institution can often borrow from its past while a low-trust one must first produce under suspicion.
+:88. Trust is slow partly because the object being judged is larger than the official standing at the counter.
+:89. A respectful encounter may be dismissed as an exception, whereas an arbitrary one can appear to reveal what the institution does when its power is exposed.
+:90. Groups that encounter an agency from unequal positions will consequently accumulate different evidence about the same institution, even while living under the same formal rules.
+:91. That asymmetry is not universal, but it explains why trust repair often demands more than reversing the act that damaged trust.
+:92. An apology without changed practice can become additional evidence of manipulation, while new rules without visible enforcement may never reach the people whose expectations they are meant to revise.
+:93. Successful repair therefore depends on a sequence in which acknowledgment, institutional change, credible monitoring, and repeated experience reinforce one another.
+:94. The sequence cannot be reduced to public relations, nor can it be accelerated at will by declaring a fresh start.
+:95. Historical mistrust may remain rational when the personnel have changed but the incentives, procedures, or unequal exposures to error have not.
+:96. At the same time, inherited mistrust is not automatically accurate in every new encounter, and it can prevent useful services from reaching people who need them.
+:97. The feedback is tragic when avoidance contributes to institutional failure and that failure then makes avoidance still more reasonable.
+:98. Calling the result a culture of distrust would hide the transactions that continually reproduce it.
+:99. Legitimacy also has a less comfortable side because the capacity to secure acceptance is not proof that an institution is just.
+:100. People often accept unfavorable decisions more readily when they regard the procedure and decision maker as legitimate, a response that helps plural societies live with losses that no allocation can eliminate.
+:101. The same reservoir of support can cushion an institution against evidence that its categories, outcomes, or distribution of burdens require fundamental criticism.
+:102. A hearing may give participants voice without giving their arguments meaningful influence, and impeccable courtesy may make a structurally unequal result easier to bear rather than easier to change.
+:103. Procedural fairness is therefore valuable but not a substitute for lawful authority, competent performance, equitable outcomes, or mechanisms that expose abuse.
+:104. An institution can also define the accepted language of complaint so narrowly that grievances outside its categories sound confused or unreasonable.
+:105. Legitimacy then stabilizes not only compliance but the boundaries of what counts as a serious objection.
+:106. This is path dependence with political stakes: past recognition makes existing channels more visible and credible, while alternatives must first justify their very existence.
+:107. The very stability that allows authority to coordinate action can thus protect inherited categories and hierarchies from scrutiny.
+:108. The answer is not to prize permanent suspicion, which carries costs of its own and can leave collective problems unsolved.
+:109. It is to distinguish trustworthiness from immunity and to see organized criticism as one of the practices through which legitimate authority can be maintained rather than merely attacked.
+:110. Appeals, audits, independent courts, protected reporting, investigative scrutiny, and public explanation introduce friction, but they also prevent confidence from becoming blindness.
+:111. Their value lies partly in keeping correction institutionally imaginable before a crisis makes failure undeniable.
+:112. Legitimacy is most durable when people can challenge a decision without having to reject the entire order that produced it.
+:113. Under those conditions, dissent supplies information, correction demonstrates bounded power, and bounded power can justify renewed cooperation.
+:114. The feedback loop becomes capable of learning instead of merely repeating itself.
+:115. Liberia's experience shows both the urgency and the limits of that achievement.
+:116. Community leaders did not replace laboratories, treatment units, trained clinicians, or epidemiological surveillance, but they helped connect those capacities to households whose cooperation made them effective.
+:117. Nor did the eventual decline in cases erase the histories that had made official instructions difficult to credit at the outbreak's beginning.
+:118. It demonstrated instead that inherited distrust could be worked around and sometimes revised when institutions altered who spoke, how knowledge traveled, and whether communities participated in the response.
+:119. The available path widened through new relationships rather than through force alone.
+:120. Once such relationships become routine, their origins can disappear from view, leaving authority to seem natural precisely because countless earlier acts have made obedience, criticism, and correction follow familiar channels.

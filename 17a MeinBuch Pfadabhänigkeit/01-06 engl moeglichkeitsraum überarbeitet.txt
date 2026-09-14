@@ -1,0 +1,157 @@
+== 1.6 Rückkopplung und Selbstverstärkung ==
+
+:1. Many of our intuitions about systems begin with something that pushes back.
+:2. Heat an object and it sheds energy into cooler surroundings; stretch a spring within its working range and it pulls toward its earlier shape.
+:3. A thermostat makes the principle visible by turning the heat off when a room grows too warm and on again when the temperature falls.
+:4. This is negative feedback: a departure from a target or stable condition triggers effects that tend to reduce the departure.
+:5. Negative feedback can stabilize a system, although delays, excessive responses, or changing conditions can still produce oscillation or failure.
+:6. It is not a guarantee of calm, but it helps explain why many disturbances fade instead of compounding.
+:7. Then there is the other kind, and the other kind is where history can accumulate.
+:8. Positive feedback means that an initial change alters conditions in ways that make further change in the same direction more likely.
+:9. A crowd can attract more onlookers because a crowd is already there.
+:10. A rumor can find new carriers because earlier transmission has made it more visible.
+:11. A language becomes more useful to a learner when more potential partners already speak it.
+:12. Positive in this phrase does not mean beneficial, just as negative does not mean harmful.
+:13. The signs describe the direction of the response, not its moral value.
+:14. Nor does positive feedback mean that nothing ever pushes back.
+:15. It means that, over some range and for some period, reinforcement is stronger than the forces opposing it.
+:16. That qualification matters because real crowds disperse, rumors exhaust their audience, and networks encounter costs, rivals, and capacity limits.
+:17. The consequences can nevertheless be large because reinforcement gives a system a way to retain and magnify an early difference.
+:18. Without such a mechanism, history may occur without becoming path dependence.
+:19. Imagine that a coin toss determines who speaks first at a meeting, but the order confers no information, authority, or later advantage.
+:20. The toss belongs to the meeting's history, yet it does not change the later set of options in any important way.
+:21. Now suppose that the first speaker's proposal becomes the draft on the screen, attracts the first comments, and defines the terms in which alternatives must be expressed.
+:22. The same small event has begun to reorganize what later participants can easily see, amend, or reject.
+:23. Positive feedback can therefore be the machinery that converts contingency into structure.
+:24. The contingent event supplies a difference, while the loop preserves and enlarges it.
+:25. Neither part is sufficient by itself.
+:26. A random advantage that is not reinforced can disappear among the next thousand events.
+:27. A powerful reinforcing process with no competing alternatives may create growth or stability without making the outcome contingent on an early fork.
+:28. Path dependence arises when sequence matters because earlier steps change the benefits, costs, visibility, or feasibility of later steps.
+:29. This definition is narrower than the claim that the past influences the present, which is true of nearly everything.
+:30. It also avoids the opposite exaggeration that every amplified beginning must end in permanent lock-in.
+:31. Economists often analyze one important family of these processes under the heading of increasing returns to adoption.
+:32. The phrase does not simply mean that every additional unit of effort produces more output than the one before it.
+:33. It means that adopting an option can create conditions that make further adoption of the same or a compatible option more attractive.
+:34. Those conditions can arise through network effects, learning, economies of scale, complementary investments, or expectations.
+:35. The mechanisms can reinforce one another, but they should not be treated as synonyms.
+:36. Diminishing returns can also operate in the same system, because a network may become more valuable to users even as congestion makes each additional connection harder to serve.
+:37. The balance among these forces determines whether growth accelerates, levels off, fragments, or reverses.
+:38. Consider the clearest case, which is a communication network.
+:39. A telephone connected to nobody is of little use as a telephone.
+:40. Connected to one other telephone, it can reach one party, and connected to a large interoperable network, it can reach many.
+:41. Part of the instrument's value therefore depends not on the instrument alone but on the number of compatible people and services it can reach.
+:42. This is a direct network effect because another participant directly enlarges the opportunities available to existing participants.
+:43. The effect belongs to the compatible network, not necessarily to one company, device, or brand.
+:44. Two providers that interconnect may contribute to the same useful network even while competing with each other.
+:45. Compatibility can thus weaken lock-in by allowing users to switch suppliers without abandoning everyone on the other side of the connection.
+:46. An indirect network effect works differently.
+:47. A widely used device or format can attract repair services, training, accessories, software, and other complementary products.
+:48. Users value the larger ecosystem, while producers of complements prefer the larger pool of customers.
+:49. Each side can make the other more attractive without any single additional user directly benefiting every other one.
+:50. Expectations add another loop because people often choose a standard partly on the belief that it will remain supported.
+:51. Their choice then helps create the installed base that makes the expectation more plausible.
+:52. A forecast can become one cause of its own fulfillment, though price, performance, coordination, and strategic behavior still matter.
+:53. This mechanism helps explain why timing can matter so much in contests among incompatible systems.
+:54. An early lead can attract complements and confidence, which widen the lead and make later comparison less neutral.
+:55. The dominant option does not have to be the technically best along every dimension.
+:56. It may prevail because it is good enough and already connected to more users, skills, and investments.
+:57. Yet it would be equally wrong to conclude that superiority is irrelevant or that every losing technology was secretly better.
+:58. Quality can create the early lead, preserve it, or allow a challenger to overcome an incumbent's network advantage.
+:59. Price cuts, interoperability, sponsorship, regulation, or a sufficiently large improvement can also reopen a contest that looked settled.
+:60. Network effects alter the comparison; they do not abolish comparison.
+:61. Learning is another form of reinforcement, and it operates through experience rather than connection.
+:62. The more often people perform a task with a technology, the more opportunities they have to discover shortcuts, correct errors, redesign tools, and organize production around it.
+:63. Later units can consequently require less labor or fewer resources than earlier ones.
+:64. This is real improvement, not an illusion produced by familiarity.
+:65. It also has a history, because the improvement accrues disproportionately to the option that received the practice.
+:66. An initially promising rival may then be compared in its immature state with an incumbent refined by years of use.
+:67. The comparison records current performance accurately while concealing the unequal amounts of learning embodied in the two options.
+:68. Skills reinforce the same asymmetry.
+:69. Workers train on the tools employers already use, and employers choose tools for which trained workers can be hired.
+:70. Neither side needs to admire the standard for the loop to continue.
+:71. Their investments are sensible responses to one another, and together those responses make departure more costly.
+:72. Economies of scale create a related but distinct advantage.
+:73. When fixed costs can be spread across more units, an established design may become cheaper to produce or maintain.
+:74. High volume can support specialized suppliers and dedicated equipment that would not be economical for a small rival.
+:75. Lower costs can draw more buyers, and more buyers can justify another round of cost reduction.
+:76. Scale is not limitless, however, because congestion, coordination burdens, resource scarcity, or managerial complexity may eventually raise costs.
+:77. The important claim is not that reinforcement runs forever but that it can reshape the terrain before counterforces catch it.
+:78. Complementary investment supplies another layer.
+:79. Once organizations build databases, training programs, contracts, buildings, or procedures around a standard, the standard becomes one component of a larger working arrangement.
+:80. Replacing it may require changing several connected components at once.
+:81. The original purchase price can be small compared with the future cost of coordinating that transition.
+:82. These prospective switching costs matter more than money already spent merely because past expenditure feels painful to abandon.
+:83. Sunk costs are gone under either choice, whereas compatible assets and acquired skills change what a future choice will actually cost.
+:84. A path binds when the past has been built into the requirements of the next step.
+:85. That is why an ecosystem can be harder to replace than any object within it.
+:86. Reputation and visibility can produce cumulative advantage in social systems.
+:87. Attention tends to flow toward work that has already received attention, because earlier recognition makes later recognition easier.
+:88. Sociologist Robert Merton called one version of this pattern the Matthew effect when analyzing how credit and visibility accumulate in science.
+:89. The name came from a biblical line about more being given to those who already have.
+:90. A recognized researcher may be read sooner, invited more often, and trusted with more resources, creating further opportunities for recognized work.
+:91. This does not show that merit is absent at every stage.
+:92. Strong work may generate the first recognition, and later judgments may still respond to quality.
+:93. The feedback claim is more precise: equal contributions need not receive equal attention once their authors occupy unequal positions in the network of recognition.
+:94. Small differences can widen when each reward improves access to the next reward.
+:95. They do not have to widen without bound, because careers end, fields change, evaluation rules shift, and neglected work can be rediscovered.
+:96. Cumulative advantage is therefore a mechanism for inequality, not a universal proof that every unequal outcome began in chance or injustice.
+:97. The distinction guards against two symmetrical errors.
+:98. One error treats success as conclusive evidence of intrinsic superiority.
+:99. The other treats success as nothing but luck amplified by a blind system.
+:100. Feedback analysis asks instead which advantages were earned, inherited, constructed, or mutually reinforced, and how each one altered the next choice.
+:101. The connection between reinforcement and lock-in is direct.
+:102. Lock-in describes a condition in which leaving a path has become costly enough that users remain even when another option has attractive features.
+:103. Feedback describes one way that condition develops.
+:104. Each turn of the loop can add users, competence, complementary assets, expectations, or rules.
+:105. Each addition can make the next adoption more attractive and the next departure more disruptive.
+:106. The window in which alternatives can compete on roughly equal terms may therefore close before anyone formally decides to close it.
+:107. It closes not because technical change becomes impossible but because the comparison now includes the cost of moving an interdependent system.
+:108. This is a hard constraint when physical infrastructure must be rebuilt and a softer one when habits or expectations can change quickly.
+:109. Most real lock-ins combine several kinds of cost and are matters of degree rather than absolute imprisonment.
+:110. Even a strong lock-in can be broken by shocks, coordinated migration, adapters, subsidies, new interfaces, or a challenger whose advantages exceed the transition cost.
+:111. The change may also proceed gradually as old and new components coexist during a bridge period.
+:112. Such routes matter because path dependence is not determinism.
+:113. Earlier choices modify the price and probability of later choices without dictating a single future.
+:114. Reinforcement can also create enormous benefits.
+:115. A shared safety code is valuable partly because designers, inspectors, manufacturers, and emergency services can rely on the same expectations.
+:116. A common language or payment standard reduces the work required for coordination.
+:117. Stable institutions can support trust because one successful exchange makes another exchange less risky.
+:118. Knowledge builds on knowledge because established methods, archives, and terminology allow later investigators to begin beyond the starting point of their predecessors.
+:119. These are useful bindings, not unfortunate leftovers waiting to be swept away.
+:120. Their benefit is precisely what makes them costly to abandon when conditions change.
+:121. The loop is indifferent to whether people approve of what it amplifies.
+:122. The same structure can compound skill or exclusion, compatibility or dependence, trust or corruption.
+:123. Evaluation requires asking what the loop produces, for whom, and at what cost, but causal explanation begins by identifying the loop itself.
+:124. A deeper form of feedback appears when a system changes the environment to which it must later respond.
+:125. A beaver builds a dam, slowing water and transforming part of a stream into pond and wetland habitat.
+:126. The altered setting affects the beaver and many other organisms that encounter it.
+:127. Descendants may inhabit environmental conditions partly produced by earlier generations rather than conditions untouched by them.
+:128. Biologists call this process niche construction when organisms modify features of their environment in ways that can alter development, ecology, or selection.
+:129. Earthworms offer another example because their burrowing and processing of material change the structure and chemistry of soil.
+:130. Some of those changes persist beyond the lives of individual worms and become part of the environment encountered by later generations.
+:131. Researchers use the term ecological inheritance for such inherited environmental legacies, although it is not genetic inheritance and need not pass through a strict parent-to-offspring line.
+:132. Niche construction complicates the picture of an environment acting on organisms from only one direction.
+:133. Organisms modify conditions, modified conditions affect survival and reproduction, and later organisms modify those conditions again.
+:134. The causal arrows form a loop, but that does not make every effect equally strong or erase the importance of external climate, predators, resources, and chance.
+:135. Nor is every alteration of an environment automatically a major evolutionary cause.
+:136. Biologists agree that organisms modify environments, while they continue to debate how much explanatory weight niche construction should carry as a distinct evolutionary process.
+:137. The careful claim is powerful enough: a population can inherit not only genes but also a partly altered field of pressures and opportunities.
+:138. Human-built systems make an analogous pattern especially visible, although cultural institutions are not biological organisms.
+:139. A technology can create infrastructure that makes further development along its own architecture cheaper and alternatives less compatible.
+:140. An institution can create offices, records, constituencies, and legal categories that make some reforms easier to formulate than others.
+:141. A military doctrine can guide equipment purchases, and the resulting equipment can make some later doctrines practical and others prohibitively expensive.
+:142. In each case, earlier activity helps build the environment in which later choices are evaluated.
+:143. The system need not fit that environment perfectly, and the environment is never entirely of its own making.
+:144. It may simply fit well enough that local correction favors improvement within the path over movement to another one.
+:145. This is one reason a historically contingent arrangement can appear natural when viewed only from inside its supporting infrastructure.
+:146. Feedback loops also need not proceed smoothly, but sudden change should not be assumed whenever reinforcement is present.
+:147. Some loops grow gradually, some saturate, and some remain weak because opposing feedback cancels their effect.
+:148. Others cross a threshold after accumulated change makes a new behavior possible, causing the visible transition to occur faster than the buildup behind it.
+:149. The threshold is a feature to demonstrate in a particular system, not a universal story to impose on revolutions, markets, or ecosystems.
+:150. A serious analysis therefore looks for the stock that accumulates, the link that returns an effect to its cause, the delays in the loop, and the forces that limit it.
+:151. It also asks whether an early difference truly changed later possibilities or merely happened before them.
+:152. Positive feedback turns into durable path dependence only when reinforcement lasts long enough to build assets, expectations, skills, interfaces, or environmental legacies that survive the original event.
+:153. By then the path may be useful, burdensome, or both, and leaving it may remain possible even when leaving it is no longer simple.
+:154. The deepest mark of self-reinforcement is therefore not endless acceleration but a changed neighborhood of reachable next steps.
+:155. What began as a small deviation has become part of the ground from which every later movement must start.

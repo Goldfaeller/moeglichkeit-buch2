@@ -1,0 +1,307 @@
+KAPITELNUMMER: 08-09
+
+
+Die Kapitelnummer oben ist die einzige variable Eingabe dieses Auftrags.
+
+Schreibe das bezeichnete Kapitel vollständig neu und führe den Auftrag in dem unten festgelegten Zwei-Blöcke-Verfahren aus.
+
+## Ziel und Erfolgskriterien
+
+Erstelle einen publikationsreifen englischen Sachbuchtext für intelligente Nichtfachleute.
+
+Der Text muss:
+
+- die aktuelle Kapitelarbeitsanweisung vollständig und organisch umsetzen;
+- einen zusammenhängenden Spannungs- und Argumentationsbogen besitzen;
+- einen konkreten Einstieg, einen tragenden Fall und einen realen Mechanismus der Pfadabhängigkeit enthalten;
+- mindestens eine ernsthafte Einschränkung, Gegenprobe oder rivalisierende Erklärung berücksichtigen;
+- wissenschaftlich belastbar, eigenständig formuliert und ohne Füllsätze geschrieben sein;
+- bei einem Hauptkapitel genau 140 Sätze und bei einem Unterkapitel genau 120 Sätze umfassen;
+- nach Abschluss korrekt formatiert und unter dem automatisch gebildeten Dateinamen gespeichert sein.
+
+Es gibt keine vorhandene Manuskriptfassung, die überarbeitet werden soll.
+
+Suche deshalb nicht nach einer Quelldatei des Kapitels und übernimm keinen alten Text als Grundlage.
+
+## Verbindliche Grundlagen
+
+Lies vor der Arbeit vollständig und in dieser Reihenfolge:
+
+1. „AGENTS.md“
+2. „sachbuchautor/SKILL.md“
+3. „pBBB – INHALTSVERZEICHNIS AB KAPITEL 5 MIT ERWEITERTEN ARBEITSANWEISUNGEN.txt“
+
+Beginne erst danach mit Zuordnung, Recherche und Planung.
+
+Falls eine dieser Dateien fehlt oder nicht vollständig gelesen werden kann, halte an und nenne das Problem.
+
+Gehe nicht davon aus, frühere Chats zu kennen.
+
+## Kapitelzuordnung und Überschrift
+
+Leite aus der Eingabenummer die richtige Stelle der Inhaltsdatei ab:
+
+- „NN-00“ bezeichnet den überspannenden Hauptkapiteltext.
+- „NN-MM“ mit MM ungleich 00 bezeichnet das Unterkapitel NN.MM.
+- Für einen Hauptkapiteltext gelten die allgemeinen Qualitätsregeln und die übergreifende Arbeitsanweisung des Hauptkapitels.
+- Für ein Unterkapitel gelten zusätzlich sämtliche Punkte seiner konkreten Arbeitsanweisung.
+
+Übernimm Titel und natürliche Dezimalnummerierung exakt aus der Inhaltsdatei.
+
+Beispiele:
+
+- 05-00 wird zu „== 5. Die Spur im Kopf ==“.
+- 05-01 wird zu „== 5.1 Die Psyche als gewachsenes System ==“.
+
+Wenn die Nummer dort nicht vorkommt, halte an und frage nach der richtigen Nummer.
+
+## Prüfung auf Lücken, Doppelungen und Teilfassungen
+
+Prüfe vor der Recherche die vorhandenen Dateien im Projektordner.
+
+Die neue Reihenfolge beginnt mit 05-00 und folgt danach exakt der Inhaltsdatei.
+
+Als passende Kapiteldatei gilt das Muster:
+
+„[Kapitelnummer] engl moeglichkeitsraum überarbeitet*.txt“
+
+Ein früheres Kapitel gilt nur dann als abgeschlossen, wenn seine Datei eine Überschrift, lückenlos nummerierte Sätze und die vorgesehene Gesamtzahl enthält.
+
+Halte vor dem Schreiben an und frage nach, wenn:
+
+- ein in der Reihenfolge früheres Kapitel ab 05-00 fehlt;
+- für die gewünschte Nummer bereits eine vollständige Fassung existiert;
+- für die gewünschte Nummer nur eine unvollständige Fassung existiert.
+
+Nenne dabei die fehlenden beziehungsweise vorhandenen Kapitelnummern und Dateinamen.
+
+Bei einer Teilfassung frage, ob sie fortgesetzt oder eine neue Fassung begonnen werden soll.
+
+Bei einer vollständigen Fassung frage, ob wirklich eine weitere Fassung gewünscht ist.
+
+Wenn der Nutzer die Abweichung ausdrücklich bestätigt, frage nicht erneut aus demselben Grund nach.
+
+Ohne eine solche Auffälligkeit beginnst du selbstständig; eine allgemeine Startbestätigung ist nicht erforderlich.
+
+## Dateiname
+
+Der reguläre Ausgabedateiname lautet trotz der vollständigen Neuschreibung:
+
+„[Kapitelnummer] engl moeglichkeitsraum überarbeitet.txt“
+
+Beispiel:
+
+„05-01 engl moeglichkeitsraum überarbeitet.txt“
+
+Das Wort „überarbeitet“ ist nur Teil des beibehaltenen Projektschemas.
+
+Überschreibe niemals eine vorhandene Datei.
+
+Wenn der Nutzer eine weitere Fassung ausdrücklich bestätigt, verwende den nächsten freien Namen, etwa „… überarbeitet 2.txt“, danach „… überarbeitet 3.txt“.
+
+## Recherche und Gesamtplanung vor Block 1
+
+Recherchiere vor dem ersten Schreibblock alle für das gesamte Kapitel benötigten Tatsachen.
+
+Verschiebe wesentliche Recherche nicht auf Block 2.
+
+Bevorzuge wissenschaftliche Primärliteratur, belastbare Übersichtsarbeiten, amtliche Dokumente, Gesetzestexte, technische Originalquellen, Archive und seriöse fachwissenschaftliche Synthesen.
+
+Prüfe insbesondere Namen, Jahreszahlen, Studien, Effektstärken, historische Abläufe, Rechtslagen, technische Behauptungen und populäre Ursprungsgeschichten.
+
+Erfinde keine Szenen, Zitate, Gedanken, Motive, Studien, Zahlen oder anschaulichen Einzelheiten.
+
+Kennzeichne Unsicherheit dort, wo sie die Aussage tatsächlich verändert, und verwechsle weder zeitliche Abfolge mit Kausalität noch Beständigkeit mit Pfadabhängigkeit.
+
+Füge in das Manuskript keine Quellenhinweise, URLs oder Fußnoten ein.
+
+Halte die wichtigsten tatsächlich verwendeten Quellen für die Abschlussmeldung fest.
+
+Plane vor Block 1 intern den vollständigen Kapitelbogen, einschließlich:
+
+- Leitfrage und Schlussgedanke;
+- Einstieg und tragendem Hauptfall;
+- konkretem Pfadmechanismus;
+- Einschränkung oder Gegenprobe;
+- Verteilung aller inhaltlichen Anforderungen auf beide Blöcke;
+- genauer gedanklicher Nahtstelle zwischen den Blöcken;
+- Schlussbewegung des zweiten Blocks.
+
+Gib diese Planung nicht aus.
+
+Die beiden Blöcke sind zwei Teile eines einzigen Kapitels und keine selbstständigen Mini-Essays.
+
+Block 1 darf daher weder mit einer Zusammenfassung noch mit einem vorläufigen Kapitelende schließen.
+
+Block 2 darf weder neu einleiten noch Block 1 zusammenfassen, sondern muss unmittelbar aus dessen offener Gedankenbewegung hervorgehen.
+
+## Inhaltliche Leitperspektive
+
+Verfolge die Leitfrage:
+
+Wie verändern frühere Zustände, Erfahrungen und Entscheidungen die Menge, Sichtbarkeit, Wahrscheinlichkeit und Kosten späterer Möglichkeiten?
+
+Zeige immer den konkreten Mechanismus, etwa Rückkopplung, Lernen, Netzwerkeffekt, komplementäre Investition, erworbene Fähigkeit, Kategorie, Erwartung, Wechselkosten oder institutionelle Verflechtung.
+
+Pfadabhängigkeit ist weder bloße Vergangenheit noch Determinismus.
+
+Unterscheide sie sauber von allgemeiner Beschränkung, Trade-off, Trägheit und vollständiger Unveränderlichkeit.
+
+Zeige nützliche Bindungen ebenso wie problematische und lasse Restmöglichkeiten, Gegenkräfte oder Bedingungen eines Pfadwechsels sichtbar.
+
+Erzähle den tatsächlichen Ausgang nicht rückwärts als unvermeidlich.
+
+Die ausführliche Behandlung von Technikstaunen, Technikangst, Anthropomorphisierung, magischem Denken, Hype, Heilsversprechen und kulturellen Weltuntergangserzählungen gehört nicht in dieses Buch.
+
+Im Manuskript dürfen weder die internen Projektbezeichnungen noch Dateinamen, Arbeitsanweisungen, Skills oder der Schreibprozess erwähnt werden.
+
+## Sprache und Argumentation
+
+Befolge „sachbuchautor/SKILL.md“ vollständig und schreibe idiomatisches amerikanisches Sachbuchenglisch.
+
+Der Text soll anschaulich, präzise, erzählerisch zusammenhängend und für intelligente Nichtfachleute verständlich sein.
+
+Beginne konkret statt mit einer Definition, Inhaltsvorschau oder Floskel wie „To understand“, „Since the dawn of time“ oder „In today’s rapidly changing world“.
+
+Entwickle die Erklärung möglichst in der Bewegung:
+
+konkreter Fall → Muster → Mechanismus → Belege → Einschränkung → weiterführende Einsicht
+
+Verwende Beispiele als Erklärungswerkzeuge und nicht als Dekoration.
+
+Erkläre Fachbegriffe beim ersten Gebrauch in Alltagssprache und mache die Grenzen von Analogien sichtbar.
+
+Schreibe manchmal lange, vielgliedrige englische Sätze, deren grammatische Führung trotz mehrerer Ursachen, Ebenen oder Einschränkungen klar bleibt, und setze dazwischen gezielt kürzere Sätze für Rhythmus und Betonung.
+
+Vermeide monotone Satzlängen, Stakkato, unnötigen Fachjargon, Hype, Selbsthilfeton, akademisches Imponiergehabe und die Nachahmung eines bestimmten Autors.
+
+Die sprachliche Dichte, Anschaulichkeit und syntaktische Vielfalt dürfen in Block 2 nicht abnehmen.
+
+Prüfe Block 2 ausdrücklich gegen Block 1 auf kürzer werdende Sätze, hastige Zusammenfassung, Wiederholung und sinkende Erklärungsdichte und überarbeite ihn vor der Ausgabe, falls ein solcher Abfall erkennbar ist.
+
+Jeder Text muss eigenständig verständlich sein.
+
+Verweise nicht ausdrücklich auf frühere oder folgende Kapitel.
+
+Eine von der Inhaltsdatei verlangte Brücke zum nächsten Thema muss inhaltlich und unaufdringlich sein, nicht als Ankündigung der Buchstruktur.
+
+## Verbindlicher Ablauf mit vier Arbeitsschritten
+
+### Schritt 1: Erster unformatierter Schreibblock
+
+Schreibe nach Recherche, Gesamtplanung und stiller Überarbeitung:
+
+- bei einem Hauptkapitel genau 70 vollständige Sätze;
+- bei einem Unterkapitel genau 60 vollständige Sätze.
+
+Gib sie als normalen englischen Fließtext mit sinnvollen Absätzen aus, ohne Satznummern und ohne Manuskriptüberschrift.
+
+Prüfe die genaue Satzanzahl technisch oder systematisch, bevor du den Block zeigst.
+
+Bewahre intern oder in einer temporären Arbeitsdatei eine wortgetreue Fassung mit eindeutig getrennten Satzgrenzen auf, damit die spätere Formatierung ohne Neuschreiben möglich ist.
+
+Beende die Ausgabe wörtlich mit:
+
+„Soll ich diesen Textblock jetzt unverändert formatieren und speichern? Dann antworte mit ‚ok‘.“
+
+Warte danach.
+
+Wenn der Nutzer Änderungen verlangt, überarbeite zunächst nur den unformatierten Block und stelle die Formatierungsfrage anschließend erneut.
+
+### Schritt 2: Ersten Block nur formatieren
+
+Nach „ok“ darfst du kein Wort des freigegebenen Textes ändern, ergänzen, entfernen oder umstellen.
+
+Führe möglichst eine deterministische technische Umwandlung der bewahrten Arbeitsfassung aus, statt den Text neu zu generieren.
+
+Erstelle die Ausgabedatei mit:
+
+1. der deutschen MediaWiki-Überschrift;
+2. genau einer Leerzeile;
+3. dem ersten Block mit je einem vollständigen Satz pro Zeile;
+4. den Präfixen „:1. “ bis „:70. “ beim Hauptkapitel beziehungsweise „:1. “ bis „:60. “ beim Unterkapitel;
+5. keinen Leerzeilen zwischen den nummerierten Sätzen.
+
+Gib den formatierten ersten Block auch im Chat wortgetreu aus.
+
+Beende diese Ausgabe wörtlich mit:
+
+„Soll ich jetzt den zweiten und abschließenden Textblock schreiben? Dann antworte mit ‚ok‘.“
+
+Warte danach.
+
+### Schritt 3: Zweiter unformatierter Schreibblock
+
+Nach „ok“ lies den ersten Block und die interne Gesamtplanung erneut.
+
+Schreibe die zweite Hälfte als unmittelbare Fortsetzung:
+
+- bei einem Hauptkapitel genau 70 weitere vollständige Sätze;
+- bei einem Unterkapitel genau 60 weitere vollständige Sätze.
+
+Gib sie wieder als normalen englischen Fließtext mit sinnvollen Absätzen aus, ohne Satznummern und ohne Überschrift.
+
+Beginne nicht erneut mit dem Thema, wiederhole keine Erklärung aus Block 1 und werde zum Ende hin nicht kürzer oder summarischer.
+
+Prüfe vor der Ausgabe Satzanzahl, sachliche Genauigkeit, Anschluss, Rhythmus und vergleichbare sprachliche Dichte.
+
+Bewahre auch diesen Block wortgetreu mit eindeutigen Satzgrenzen für die technische Formatierung auf.
+
+Beende die Ausgabe wörtlich mit:
+
+„Soll ich diesen zweiten Textblock jetzt unverändert formatieren, fortlaufend nummerieren und das Kapitel abschließen? Dann antworte mit ‚ok‘.“
+
+Warte danach.
+
+Wenn der Nutzer Änderungen verlangt, überarbeite zunächst nur den zweiten unformatierten Block und stelle die Abschlussfrage anschließend erneut.
+
+### Schritt 4: Zweiten Block formatieren und Kapitel abschließen
+
+Nach „ok“ darfst du wiederum kein Wort des freigegebenen Textes ändern, ergänzen, entfernen oder umstellen.
+
+Formatiere ihn möglichst durch eine deterministische technische Umwandlung und nummeriere fortlaufend:
+
+- beim Hauptkapitel von „:71. “ bis „:140. “;
+- beim Unterkapitel von „:61. “ bis „:120. “.
+
+Füge den Block ohne Leerzeile hinter dem letzten Satz des ersten Blocks in die Ausgabedatei ein.
+
+Gib den formatierten zweiten Block auch im Chat wortgetreu aus.
+
+## Endkontrolle und Speicherung
+
+Prüfe nach Schritt 4 die vollständige Datei:
+
+- exakte deutsche MediaWiki-Überschrift aus der Inhaltsdatei;
+- genau eine Leerzeile vor Satz 1;
+- beim Hauptkapitel genau 140, beim Unterkapitel genau 120 nummerierte Sätze;
+- lückenlose, eindeutige Nummerierung;
+- genau ein vollständiger Satz pro nummerierter Zeile;
+- keine Leerzeilen zwischen den Satzzeilen;
+- englischer Manuskripttext ohne Zwischenüberschriften, Quellenangaben oder Arbeitsnotizen;
+- vollständige Umsetzung der Kapitelanweisung;
+- durchgehender Argumentationsbogen ohne sichtbare Blocknaht;
+- keine Wiederholung zwischen den Blöcken;
+- kein sprachlicher oder analytischer Qualitätsabfall im zweiten Block;
+- keine Veränderung des freigegebenen Wortlauts während der Formatierung.
+
+Behebe reine Formatierungsfehler technisch.
+
+Wenn wider Erwarten eine inhaltliche Änderung am bereits freigegebenen Text nötig wäre, ändere sie nicht stillschweigend, sondern nenne sie und frage vorher nach.
+
+Entferne temporäre Arbeitsdateien nach erfolgreicher Endkontrolle.
+
+Verändere oder überschreibe keine andere Kapiteldatei.
+
+## Abschlussmeldung
+
+Nenne nach dem formatierten zweiten Block kurz:
+
+- den vollständigen Namen der neu erstellten Ausgabedatei;
+- den deutschen Kapiteltitel;
+- die genaue Zahl der nummerierten Sätze;
+- den zentralen Pfadmechanismus und die wichtigsten inhaltlichen Schwerpunkte;
+- die wichtigsten tatsächlich verwendeten Quellen mit anklickbaren Links;
+- die Bestätigung, dass der Text vollständig neu geschrieben und keine vorhandene Kapiteldatei überschrieben wurde.
+
+Gib das gesamte Kapitel nicht noch einmal vollständig aus.

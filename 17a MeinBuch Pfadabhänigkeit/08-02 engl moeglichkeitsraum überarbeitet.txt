@@ -1,0 +1,122 @@
+== 8.2 Warum die DDR das BGB nicht sofort ersetzen konnte ==
+
+:1. The thick volume on an East German jurist's desk after 1949 bore the title Bürgerliches Gesetzbuch, the civil code of the state that the new German Democratic Republic claimed to have left behind.
+:2. Enacted in 1896 and effective since 1900, the BGB organized ordinary legal life through general concepts of persons, property, contracts, family, and inheritance.
+:3. Its language came from an order built around private ownership and private autonomy, both objects of fierce socialist criticism.
+:4. Yet a tenant still needed rules for a lease, a customer for a defective purchase, an heir for an estate, and a neighbor for damage caused by another person's carelessness.
+:5. A political revolution could change the official purpose of law overnight, but it could not improvise a complete vocabulary for millions of such relations by Monday morning.
+:6. The DDR therefore began with a revealing contradiction: it denounced the social assumptions of the inherited code while continuing to rely on much of its legal machinery.
+:7. This was not mere timidity, and it was not proof that ideology made no practical difference.
+:8. It was an instance of functional embedding, in which a rule remains usable because courts, legal education, administrative forms, commercial routines, records, and other rules have grown around it.
+:9. Removing one provision is easy when little depends on it, whereas replacing a code requires reconstructing the connections that make thousands of provisions work together.
+:10. The BGB supplied more than commands.
+:11. It supplied categories such as ownership, obligation, capacity, representation, limitation periods, and succession, along with habits for deciding how those categories fitted a dispute.
+:12. Judges and lawyers had learned this conceptual grammar, publishers had organized commentaries around it, and citizens had arranged durable relationships under it.
+:13. Even an authoritarian state with ample power to legislate faced a shortage of tested substitutes, trained interpreters, and transition rules.
+:14. That distinction between power and capacity is central to the apparent puzzle.
+:15. The Socialist Unity Party could demand a socialist legal order, but a demand did not itself answer who owned a repaired radio before payment, when a claim expired, or what happened to an existing mortgage after a new code arrived.
+:16. The 1949 Constitution provided an initial method for living with the inheritance.
+:17. Article 144 declared the Constitution directly applicable, repealed conflicting provisions, and required continuing laws to be interpreted in its spirit.
+:18. Old law thus survived conditionally rather than as an untouched relic.
+:19. Its words might remain on the page while constitutional norms, later statutes, and judicial guidance changed what those words could lawfully mean.
+:20. Formal validity, practical importance, and operative interpretation consequently began to drift apart.
+:21. A BGB section could still be formally in force yet govern few cases because a special statute occupied its field.
+:22. Another section could still be cited but carry a meaning reshaped by socialist priorities.
+:23. A third could remain both formally and practically important because no workable replacement existed.
+:24. Saying simply that the BGB survived until 1975 collapses these different states of legal existence into one misleading claim.
+:25. The early transformation of family law shows how quickly text and effect could separate.
+:26. The Constitution proclaimed equal rights for men and women, while Article 144 displaced inherited rules that contradicted that command.
+:27. The Law on the Protection of Mothers and Children and the Rights of Women, adopted in September 1950, gave the new principle more concrete institutional form.
+:28. It rejected legal subordination of wives, assigned parental responsibility jointly to spouses, strengthened the position of mothers of children born outside marriage, and coupled family rules with social benefits and public childcare commitments.
+:29. Much of the BGB's family-law book nonetheless remained printed and formally applicable.
+:30. Courts then had to decide which provisions had been superseded, which could be reconciled with equality, and how gaps created by invalid old rules should be filled.
+:31. Joint legal principles issued by the Supreme Court, the Ministry of Justice, and the chief prosecution authority sought to make those decisions more uniform.
+:32. The result was neither continued application of the original BGB model nor a comprehensive new family code.
+:33. It was a layered regime in which constitutional instruction, statute, judicial interpretation, and inherited doctrine operated at once.
+:34. This method allowed immediate political change without waiting for a complete codification, but it shifted substantial lawmaking work into interpretation.
+:35. General clauses made that adaptation especially powerful.
+:36. Section 138 of the BGB, for example, invalidated transactions contrary to good morals, a phrase whose content depended heavily on the values supplied by the legal order applying it.
+:37. East German jurists could retain the verbal form while defining the relevant morality through the professed standards of the workers-and-peasants state.
+:38. Such reinterpretation was a bridge, not a neutral exercise.
+:39. It preserved continuity for everyday disputes while also giving political institutions room to alter outcomes without rewriting every connected provision.
+:40. The same flexibility explains why formal continuity should not be mistaken for legal continuity in substance.
+:41. Economic restructuring created a different pressure because relations among state-owned enterprises could not plausibly be organized as though autonomous private owners were bargaining outside a national plan.
+:42. Contracting remained necessary, but its function changed when production targets, allocations, and administrative direction shaped what enterprises were expected to exchange.
+:43. Special rules for the contract system of the socialist economy progressively removed those relations from the BGB's ordinary law of contract.
+:44. The contract system did not abolish coordination by agreement so much as connect agreements to planning duties, accounting, and state economic administration.
+:45. That move demonstrates why abolition by slogan would have failed.
+:46. A replacement had to link legal obligations to institutions that allocated materials, measured plan fulfillment, resolved disputes, and enforced delivery.
+:47. The older code was least useful where the economic order had changed most, so those relations acquired separate machinery before the law of ordinary consumer and household transactions received a complete new code.
+:48. Labor law followed a similar sequence of extraction rather than instantaneous replacement.
+:49. The Law of Labor of April 1950 established a distinctly East German framework before the comprehensive Labor Code was adopted on April 12, 1961, and took effect on July 1.
+:50. That code made employment a separate socialist field governed by its own institutions, collective arrangements, workplace duties, and dispute procedures.
+:51. The BGB provisions on service contracts were not all ceremonially erased at that moment, but for ordinary employment they became largely irrelevant.
+:52. Here again, practical displacement preceded comprehensive formal repeal.
+:53. The chronology reveals a selective strategy: change first where new institutions and political priorities supplied both urgency and a replacement structure, while inherited rules continued to carry less transformed relations.
+:54. This strategy was path dependent because every successful partial code created new specialists, procedures, precedents, and boundaries that shaped the design of the next reform.
+:55. It also produced fragmentation, since family, labor, planned-economy contracts, land, and everyday civil relations increasingly followed different combinations of old and new law.
+:56. Fragmentation raised the eventual cost of coherence even as it made immediate reform manageable.
+:57. Nor was delay simply forced upon reluctant reformers by technical complexity.
+:58. At different moments East German legal theorists defended the reuse of inherited legal forms, arguing that altered social relations and socialist interpretation could give those forms a new content.
+:59. At other moments the same inheritance was attacked as an obstacle that interpretation could no longer overcome.
+:60. The unfinished history of a proposed family code, publicly discussed in 1954 but not enacted then, exposed how far the distance remained between announcing a break and constructing a legal order able to survive it.
+:61. Part of that distance came from disagreement over what the new order should require of families, not merely from the labor of drafting clauses.
+:62. The 1954 proposal was circulated for public discussion, encountered criticism, and disappeared without becoming the promised comprehensive statute.
+:63. No single technical obstacle explains that outcome, and surviving scholarship cautions against inventing an official reason where the record supplies none.
+:64. The episode nevertheless shows that a regime able to announce clear ideological goals could remain uncertain about their precise legal embodiment.
+:65. In November 1955, an ordinance on marriage and its dissolution implemented selected changes without completing the entire code.
+:66. Incremental legislation thus kept the reform path moving while postponing the point at which every inherited rule, cross-reference, procedure, and existing family relationship had to be reconciled with a replacement.
+:67. This was adaptation by patches, and patches can become institutions of their own.
+:68. Lawyers learn them, courts stabilize them, officials build forms around them, and people begin marriages or property arrangements in reliance on them.
+:69. Each temporary solution then joins the stock of facts that a final code must respect or deliberately unsettle.
+:70. By the time a new family-code project advanced in the 1960s, its authors were not writing on the blank page imagined in 1949.
+:71. They inherited constitutional equality, the 1950 statute, the marriage ordinance, judicial principles, administrative practice, and more than a decade of changed family life.
+:72. The Family Code adopted on December 20, 1965, could therefore consolidate a transformation that had already occurred in pieces.
+:73. It entered into force on April 1, 1966, together with an introductory statute that dealt explicitly with existing relationships and conflicting laws.
+:74. That statute repealed the entire fourth book of the BGB, along with specified provisions elsewhere in the code and in related legislation.
+:75. It also determined how the new rules would affect marriages, property arrangements, maintenance claims, names, guardianships, and proceedings already in existence.
+:76. Those transitional provisions were not housekeeping at the edge of reform.
+:77. They were the legal joints that allowed one normative structure to bear weight while another was removed.
+:78. Their detail makes the mechanism of functional embedding visible, because a code can be replaced only by assigning the old system's pending expectations somewhere in the new one.
+:79. Family law became the first large part of the BGB to be formally removed as a complete book in the DDR, but even this decisive break rested on years of preparatory change.
+:80. The planned economy required another set of joints.
+:81. The Contract Law of 1957, followed by a new Contract Law in 1965, developed a specialized framework for transactions within the socialist economy.
+:82. These statutes served relations among enterprises bound to planning institutions, while the surviving BGB continued to help govern many transactions involving citizens.
+:83. The division reduced the pressure for one immediate universal replacement because the inherited code no longer had to perform every politically sensitive economic task.
+:84. It also made the legal map harder to redraw, since a future civil code had to define its boundary against economic, labor, family, land, and administrative law.
+:85. East German legal theory repeatedly changed its answer to where those boundaries belonged.
+:86. During the late 1950s, influential theorists pressed for a more radical socialist reconstruction of legal categories and criticized inherited private-law concepts for isolating individuals from society.
+:87. During the economic reforms of the 1960s, practical questions of incentives, contracts, personal property, and everyday exchange regained prominence.
+:88. The oscillation mattered because codification embodies a theory of which relations belong together, which actors count as legal equals, and which interests a court should protect.
+:89. A code drafted for one conception of socialism could become ill-suited to the next conception before enactment.
+:90. Delay therefore reflected political priorities and intellectual reversals as well as technical interdependence.
+:91. That qualification prevents functional embedding from becoming an all-purpose excuse for institutional inertia.
+:92. The DDR had no entrenched constitutional veto that allowed the BGB itself to block repeal, and the state demonstrated elsewhere that it could transform ownership and public institutions rapidly when leaders supplied priority, coercive power, and administrative instruments.
+:93. Even within civil law, the targeted measures of 1950, 1955, 1957, 1961, and 1965 show that change could be swift enough when officials accepted a bounded field and possessed a workable substitute.
+:94. The persistence of the remainder was consequently not a mechanical victory of old text over political will.
+:95. It emerged from a shifting calculation in which inherited doctrine remained useful, comprehensive reconstruction was costly, specialized legislation absorbed urgent problems, and the leadership's preferred model kept changing.
+:96. Continuity also delivered a genuine benefit.
+:97. For routine purchases, repairs, loans, leases, damages, and inheritances, an imperfect but familiar rule could be more predictable than an ideologically pure formula whose applications nobody yet knew.
+:98. Predictability lowered the cost of ordinary coordination for citizens and institutions alike.
+:99. That service did not make the inherited law politically neutral, but it helps explain why even a state committed to rupture might preserve legal continuity in domains where reliability mattered more than symbolic novelty.
+:100. The balance shifted again after the Socialist Unity Party's Eighth Congress in 1971, when completing a civil code returned to the political agenda.
+:101. By then the BGB had become an increasingly awkward residual framework surrounded by socialist statutes and interpreted through principles it had never been designed to express.
+:102. What had once been a convenient scaffold now complicated the presentation of the DDR as a mature and distinct legal order.
+:103. A draft Civil Code received its first reading in the Volkskammer on September 27, 1974, and was then subjected to committee work and an organized public discussion.
+:104. The Volkskammer adopted the Civil Code and its introductory act on June 19, 1975.
+:105. Both took effect on January 1, 1976.
+:106. Section 15 of the introductory act expressly repealed the BGB and its introductory statute, along with a long list of older enactments.
+:107. The same act preserved continuity where instant conversion would have been disruptive by distinguishing relationships created after the new code took effect from rights and duties established beforehand.
+:108. The replacement was comprehensive in form but calibrated in time.
+:109. The new code addressed personal property, contracts for everyday supply and services, use of housing and land, liability for harm, and inheritance, while specialized bodies of socialist law continued to govern other domains.
+:110. Its organization and language sought to present civil law as a set of intelligible rules for citizens' material and cultural needs rather than as a technical monument to private autonomy.
+:111. Yet familiar legal functions did not vanish merely because their vocabulary changed.
+:112. People still needed ways to create obligations, transfer possessions, claim compensation, inherit property, and rely on agreements, so the new code necessarily solved many problems recognizable from the old one.
+:113. This functional continuity is a useful countercheck against the official story of absolute rupture.
+:114. A replacement can be ideologically distinct, institutionally consequential, and still inherit problem structures from the order it rejects.
+:115. The DDR escaped the formal BGB path only after building parallel routes, training users in them, and connecting them through an introductory law.
+:116. That history is path dependence without determinism: the inherited code raised the cost and shaped the sequence of change, but it did not make change impossible.
+:117. It also identifies the conditions of a path switch—an accepted design, specialized institutions, accumulated experience, political priority, and rules that carry existing relationships across the break.
+:118. By the end of 1975, the old book had become, in one jurist's later phrase, only a shadow of itself, because most of its social authority had drained away before its formal repeal.
+:119. The decisive question was never whether the printed volume still existed, but which network of courts, concepts, procedures, and expectations continued to make its provisions real.
+:120. Family law revealed that answer first, for the field most closely tied to the state's desired model of everyday life could be detached early only after equality rules, judicial practice, social policy, and administrative capacity had prepared the seam.

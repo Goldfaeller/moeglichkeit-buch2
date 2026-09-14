@@ -1,0 +1,167 @@
+== 3.7 Warum es keine beste Technik gibt ==
+
+:1. In a bicycle rack outside a railway station, two machines stand next to each other.
+:2. The first weighs about seven kilograms, has a carbon-fiber frame, narrow tires, twenty-two selectable gear combinations, and no fenders, lights, kickstand, or lock.
+:3. The second may weigh nearly three times as much, with a steel frame, an enclosed chain, three gears inside the rear hub, a dynamo-powered lamp, a rack, a kickstand, a skirt guard, and a lock fixed to the frame.
+:4. Both are bicycles.
+:5. Both may have been designed by competent people who understood their work.
+:6. Ask which is the better bicycle, and the question sounds perfectly reasonable until you try to answer it.
+:7. Take the light one on a rainy commute through a city, load it with groceries, and leave it outside a shop, and many of its advantages disappear.
+:8. Take the heavy one up a mountain pass, and every extra pound announces itself.
+:9. A scale can settle which bicycle is lighter, a stopwatch can settle which is faster on a given course, and a mechanic can compare their repair needs.
+:10. None of those measurements can declare one bicycle universally better.
+:11. The question is missing the words “better for what?”
+:12. That missing clause causes a remarkable amount of confusion in the way people talk about the made world.
+:13. Technologies are often ranked on a single imaginary track, as if every design were a runner headed toward the same finish line.
+:14. Real designs usually move across several dimensions at once, gaining in one while surrendering something in another.
+:15. This does not mean that all technologies are equal or that technical judgment is merely a matter of taste.
+:16. A bridge that collapses under its specified load is worse than one that does not, and a motor that delivers the same work with less energy and no offsetting disadvantage is an improvement.
+:17. The difficulty begins when the advantages do not line up on one scale.
+:18. Speed competes with cost, low weight with durability, simplicity with versatility, and easy access with protection from misuse.
+:19. Engineering can measure many of these properties with great precision, but measurement alone cannot decide how much of one property should be traded for another.
+:20. The physical world supplies the constraints, while purposes and circumstances supply the weights.
+:21. Nature does not hand out useful properties for free.
+:22. A designer can often make a structure stiffer by adding material, but the added material brings mass, and avoiding that mass may require a costlier material or a more difficult manufacturing process.
+:23. An engine optimized for high power over one operating range may sacrifice fuel efficiency, emissions performance, response, or longevity elsewhere in the range.
+:24. A battery pack built around high energy density may need additional sensing, cooling, spacing, or protective structure to remain safe under foreseeable abuse.
+:25. These are not failures of ingenuity.
+:26. They arise because several desirable outcomes must be produced from the same limited mass, space, energy, money, and time.
+:27. Engineering therefore involves choosing a workable position among constraints, not escaping constraint altogether.
+:28. The lead-acid starter battery shows how many dimensions can hide inside an apparently old technology.
+:29. It is heavy for the energy it stores, yet it can deliver a large burst of current, works with a mature charging system, and is manufactured at enormous scale.
+:30. In the United States, established collection rules and supply chains send more than 99 percent of these batteries into recycling.
+:31. That recycling performance is not a property of lead and acid alone, because it also depends on dealers, deposits, transport, regulation, and plants built to recover the materials.
+:32. A chemistry with better laboratory performance on one axis does not inherit that surrounding system automatically.
+:33. The comparison is therefore partly between electrochemical devices and partly between infrastructures.
+:34. Aviation makes the same point at a larger scale.
+:35. The Boeing 747 entered commercial service in 1970, and Concorde followed in 1976.
+:36. Concorde carried up to about one hundred passengers across the Atlantic at roughly twice the speed of sound and could complete the crossing in fewer than four hours.
+:37. The 747 moved several times as many passengers at ordinary jet speed and helped make long-distance flying affordable to a much broader market.
+:38. Concorde served travelers for whom hours mattered enough to justify very high fares, while the 747 served travelers for whom the cost per seat mattered more.
+:39. Sonic-boom restrictions sharply limited the routes on which Concorde could use its defining capability over land.
+:40. High operating costs and a narrow customer base further constrained the system, and commercial Concorde service ended in 2003 after twenty-seven years.
+:41. The 747 family accumulated more than half a century of passenger service and also became a major freighter.
+:42. Commercial endurance did not prove that the 747 was faster, more elegant, or superior on every engineering criterion.
+:43. It showed that its bundle of capacity, range, cost, airport compatibility, and operating flexibility matched a much larger field of uses.
+:44. Concorde was not simply the worse aircraft, because for a small class of journeys it delivered something no subsonic airliner could deliver.
+:45. Its problem was that this exceptional position in the design space had relatively few paying occupants and severe environmental constraints.
+:46. Success and technical excellence overlapped, but they were not synonyms.
+:47. Once this pattern becomes visible, it appears in ordinary objects as well.
+:48. A screw can provide clamping force and permit disassembly, while a nail can often be installed faster and tolerate movement differently.
+:49. A welded joint can save hardware and distribute loads efficiently, while a bolted joint can simplify inspection, assembly, or replacement.
+:50. Adhesive bonding can join dissimilar materials without drilling holes, while also making preparation, curing, and detection of hidden defects important.
+:51. Concrete can be durable, moldable, and fire resistant, while cement production contributes substantially to carbon dioxide emissions.
+:52. Timber can store biogenic carbon and allow fast construction, while moisture, decay, and fire still have to be managed by design.
+:53. Roundabouts can reduce severe vehicle conflicts and delay in suitable settings, yet some busy or multilane designs can deprive blind pedestrians of the predictable audible gaps created by traffic signals.
+:54. None of these comparisons has one outcome under every load, site, maintenance regime, and time horizon.
+:55. Some arguments persist because the participants care about different objectives rather than because one side has ignored the evidence.
+:56. Economists and engineers have a useful way to represent this problem, and it needs no equation to be understood.
+:57. Picture a fence around the best combinations currently achievable.
+:58. Behind the fence lie designs that are dominated by another option, meaning that something else performs at least as well on every relevant criterion and better on one, with no offsetting loss.
+:59. Those designs can be called worse in a strong and useful sense.
+:60. On the fence itself are designs for which improvement in one direction requires a concession in another.
+:61. The fence is commonly called a Pareto frontier, after the Italian economist Vilfredo Pareto, although engineers now apply the idea far beyond the setting in which it arose.
+:62. A lightweight racing bicycle and a durable utility bicycle may occupy different positions on such a frontier.
+:63. Neither position dominates the other because each buys a different bundle of performance.
+:64. The frontier does not choose among those bundles.
+:65. It only separates options that waste an opportunity from options that embody a genuine trade-off.
+:66. Choosing a position still requires a purpose, a user, an environment, and a period over which consequences will be counted.
+:67. The fence is an analogy, not a claim that every real design problem can be plotted cleanly or that all criteria can be measured without dispute.
+:68. Safety, dignity, repairability, and ecological damage can resist compression into a single reliable number.
+:69. Uncertainty can also conceal where the frontier actually lies.
+:70. Even so, the picture corrects two common errors at once.
+:71. Bad technology exists, because some designs really are dominated.
+:72. A single best technology need not exist, because several nondominated designs can answer different questions.
+:73. Progress sometimes moves the fence outward by making a combination possible that could not previously be achieved.
+:74. Stronger lightweight materials, better controls, or a more efficient process can improve one objective without demanding the old sacrifice elsewhere.
+:75. Such an advance may dominate many older designs, but it rarely abolishes every choice or makes every old device useless.
+:76. The new frontier is still a frontier.
+:77. This explains a familiar disappointment in product comparisons.
+:78. A careful reviewer reports that one machine is better here and the other there, and the reader may feel that the reviewer has refused to decide.
+:79. The missing information is often not in the machine but in the reader’s circumstances.
+:80. A review cannot know how heavily one buyer values quiet operation, another repairability, and a third the lowest purchase price.
+:81. Deciding where to stand on the frontier requires weighting criteria against one another.
+:82. Engineering informs that decision but does not settle it by itself.
+:83. People and institutions choose which outcomes count, whose costs enter the calculation, and how far into the future to look.
+:84. A device that is cheap to produce and difficult to repair may suit a manufacturer while imposing later costs on its owner.
+:85. A heavy vehicle may protect its occupants while increasing danger for people outside it.
+:86. A building that is cheap to construct may be expensive to heat, and the person paying the first bill is not always the person paying the second.
+:87. The object carries those weightings in its materials and architecture long after the meeting in which they were chosen has been forgotten.
+:88. The weights can also change.
+:89. A criterion that received little attention at the time of design may later rearrange the ranking of established technologies.
+:90. Refrigeration provides a particularly clear case.
+:91. Early mechanical refrigeration used several hazardous substances, with ammonia becoming important in large industrial systems and compounds such as sulfur dioxide appearing in domestic equipment.
+:92. A refrigerant could perform efficiently and still pose a serious problem if it leaked into an occupied room.
+:93. By the late 1920s, researchers working under Charles Kettering, including Thomas Midgley Jr., sought a compound that combined useful thermodynamic properties with low flammability and low acute toxicity.
+:94. Their work produced dichlorodifluoromethane, later known as CFC-12, and commercial production began in 1931.
+:95. At a meeting of the American Chemical Society in 1930, Midgley inhaled some of the gas and used it to extinguish a candle, a demonstration of apparent low acute toxicity and nonflammability that would violate modern handling practice.
+:96. Chlorofluorocarbons were also stable, compatible with equipment, and inexpensive enough to spread through refrigeration and air-conditioning systems.
+:97. The same chemical stability later became evidence against them.
+:98. In 1974, Mario Molina and F. Sherwood Rowland proposed a mechanism by which long-lived chlorofluorocarbons could reach the stratosphere, break apart under ultraviolet radiation, and release chlorine that catalytically destroys ozone.
+:99. A property that had made the compounds manageable inside appliances allowed them to persist outside those appliances long enough to cause damage far away.
+:100. The old design had not become less effective at cooling, because the evaluation had acquired a consequential dimension that the earlier comparison omitted.
+:101. The replacements did not arrive as one clean answer.
+:102. Some transitional compounds reduced but did not eliminate ozone damage, while hydrofluorocarbons avoided chlorine-driven ozone depletion but many proved to be potent greenhouse gases.
+:103. Ammonia, meanwhile, remained widely used in industrial refrigeration because it is efficient and does not deplete ozone, provided that its toxicity and other hazards are controlled through equipment, training, monitoring, and emergency procedures.
+:104. The same substance can therefore be a sensible choice in a staffed industrial plant and an unsuitable one in an ordinary kitchen.
+:105. There is no need to portray the sequence as a parade of fools.
+:106. Designers answered the problems they could identify with the knowledge, rules, and equipment available to them, while later evidence exposed consequences that their tests had not captured.
+:107. Yet this is more than a story about changing criteria.
+:108. Once a refrigerant spreads, manufacturers design compressors, seals, lubricants, service tools, factories, training, and safety codes around it.
+:109. Each complementary investment lowers the cost of continuing along the adopted path and raises the cost of switching to an incompatible one.
+:110. A newly recognized environmental harm can reverse the ranking of chemicals without instantly replacing the equipment that contains them.
+:111. Regulation, redesigned machinery, technician training, recovery systems, and new supply chains are then part of the transition.
+:112. The history of refrigeration thus separates two ideas that are often confused.
+:113. The conflict among toxicity, flammability, efficiency, cost, and environmental effects is a trade-off.
+:114. The accumulated equipment and knowledge that make one point on that trade-off easier to occupy than another are a path-dependent constraint.
+:115. Context can shift a ranking just as dramatically as new knowledge can.
+:116. The nineteenth-century contest between sail and steam makes that movement visible.
+:117. Ocean steamships improved through the middle decades of the century, yet fast sailing ships remained competitive on long routes and bulk cargoes for which coal consumption and refueling space weighed heavily.
+:118. Cutty Sark, one of the most famous tea clippers, was launched in 1869, the same year the Suez Canal opened.
+:119. The canal greatly shortened the route between Europe and Asian ports, but it favored steam more than sail.
+:120. Sailing vessels could require towing through the narrow canal, and the winds of the Red Sea made the route difficult for them, while steamships could follow the new passage under their own power.
+:121. Coal stations and more efficient engines strengthened the advantage over time.
+:122. The change was not literally overnight, because sailing vessels continued carrying bulk cargo on long routes where wind still offset their slower and less predictable schedules.
+:123. The canal nevertheless changed the relative value of two mature technologies without redesigning either one.
+:124. It also encouraged further investment in the technology best suited to the new route, which then made that route still more attractive to steam.
+:125. Infrastructure altered the comparison, and the altered comparison attracted infrastructure.
+:126. That loop is a mechanism of path dependence rather than a timeless trade-off.
+:127. The same principle applies when a machine travels from the environment for which it was designed into one with a different support network.
+:128. A motorized water pump may deliver more water with less human effort than a handpump when electricity, trained technicians, spare parts, and repair funds are reliably available.
+:129. Without those complements, a minor controller or motor failure can stop the entire service.
+:130. A handpump is not automatically reliable either, because seals wear, pipes corrode, boreholes are poorly sited, committees lack funds, and spare parts can still be distant.
+:131. In a thirty-year study of more than three hundred handpumps on the coast of Kenya, greater distance from spare-parts suppliers was associated with shorter operating life alongside physical factors such as salinity, water depth, and geology.
+:132. The lesson is not that simple machinery always defeats sophisticated machinery.
+:133. It is that performance belongs to a system consisting of the device and the people, skills, energy, parts, institutions, and money that keep it working.
+:134. Send the object without that system, and laboratory superiority may become field failure.
+:135. Build the support system, and the ranking may change again.
+:136. This is where the bicycle rack leads back to history.
+:137. A trade-off exists whenever two objectives cannot be maximized together under the relevant constraints, even if no earlier decision caused the conflict.
+:138. Gravity makes low mass and high load capacity difficult to combine whether a bridge is old or new, so that constraint alone is not path dependence.
+:139. Path dependence begins when earlier choices change which later options are visible, affordable, compatible, or likely to succeed.
+:140. Suppose two towns evaluate the same pump on the same day under similar physical conditions.
+:141. If one has trained technicians, stocked parts, and financing routines for one design while the other has built those complements around a rival design, each town faces a different practical possibility set because of its own history.
+:142. The earlier choice has not made the alternative physically impossible.
+:143. It has made the transition more expensive and the familiar option more dependable.
+:144. Learning deepens the effect because technicians improve at diagnosing the installed system, suppliers learn to produce it cheaply, and users learn how to operate it.
+:145. Expectations deepen it further because buyers prefer a technology they believe will still have parts and support in ten years.
+:146. Early adoption can therefore draw investment toward one architecture, and that investment raises the probability of further adoption.
+:147. Improvements then concentrate along the chosen architecture, while alternatives receive fewer trials and generate less practical knowledge.
+:148. An early compromise can become the platform on which later excellence is built.
+:149. This does not prove that the first choice was optimal, but neither does it prove that the resulting system is inferior.
+:150. Common standards, shared tools, and practiced routines can create enormous value precisely because they narrow variation.
+:151. Their coordination benefits are real, and so are the switching costs they produce.
+:152. A strong current advantage can also arise without meaningful path dependence when independent designers converge because present physical constraints overwhelmingly favor the same solution.
+:153. Evidence of history is not enough, because the analysis must identify the investment, feedback, compatibility rule, skill, or expectation that transmits history into present choices.
+:154. Nor is lock-in complete immobility, because environmental change, regulation, a decisive performance gain, or a carefully managed transition can open another route.
+:155. The most useful question is therefore not whether a technology is simply good, but what it is optimized for and what past commitments make that position easy to maintain.
+:156. One should then ask who chose the criteria, whose costs were counted, over what period, and which surrounding systems the comparison assumes.
+:157. A single number labeled performance conceals these decisions unless its measurement conditions and omitted dimensions are made explicit.
+:158. The goal is not to dissolve technical judgment into values, because measurements can eliminate dominated designs and expose false claims.
+:159. The goal is to keep a real engineering comparison from masquerading as a universal ranking.
+:160. Systems retain more room to change when a component can be replaced without rebuilding everything attached to it.
+:161. Designers often create that room by dividing a technology into modules connected through stable interfaces.
+:162. Modularity can preserve investments while allowing local improvement, but it demands extra coordination and may freeze yesterday’s assumptions into the interface itself.
+:163. It relocates some trade-offs and switching costs rather than abolishing them.
+:164. The two bicycles in the station rack are therefore not rival steps on a single ladder of progress but different settlements among purposes, constraints, and inherited surroundings.
+:165. The future stays open not because every design is equally good, but because better remains a question with more than one defensible answer and because the seams of a system can sometimes be placed where change is still possible.

@@ -1,0 +1,122 @@
+== 6.2 Kritische Wegscheiden: wenn der Möglichkeitsraum aufgeht ==
+
+:1. On July 5, 1948, Britain’s health minister, Aneurin Bevan, stood at Park Hospital near Manchester and accepted its keys in a carefully staged transfer.
+:2. The building had not moved, its wards had not been emptied, and its staff had not forgotten how to treat a patient overnight.
+:3. Yet the hospital now belonged to a new National Health Service that promised care according to need rather than ability to pay.
+:4. Across England and Wales, roughly 480,000 hospital beds passed into the new system on the same appointed day.
+:5. The moment looks, from a distance of decades, like a door swinging cleanly from one age into another.
+:6. Up close, it was a door assembled during years of argument, hung on older administrative frames, and left with hinges that would guide many later reforms.
+:7. Britain did not discover the idea of universal health care on that July morning.
+:8. Before the war, medical provision was divided among voluntary hospitals, municipal hospitals, insurance arrangements, charitable services, and private practice, producing capable treatment in some places and serious gaps in others.
+:9. Wartime government had already coordinated civilian and military beds through the Emergency Hospital Service, demonstrating that institutions accustomed to separate control could be organized across regions for a common purpose.
+:10. The Beveridge Report of 1942 then placed comprehensive health care inside a broader program of social security, while political parties, medical organizations, local authorities, and hospital governors developed competing plans for delivering it.
+:11. By 1944, the coalition government could publish a white paper endorsing a comprehensive service without settling who would own hospitals, employ doctors, or command the system.
+:12. Universal coverage was becoming a broadly credible destination, but several institutional roads still led toward it.
+:13. That combination marks the beginning of a genuine critical juncture, a period in which more than one practicable arrangement is available and choices among them can produce durable consequences.
+:14. A crisis alone does not qualify, because suffering may intensify while authority, resources, and plausible alternatives remain exactly where they were.
+:15. Nor does a dramatic election automatically wipe the institutional slate clean.
+:16. The constraints must loosen enough for actors with power to choose, organizations must be ready to carry a choice into practice, and some workable designs must already exist.
+:17. Contingency matters as well: if only one response is administratively or politically feasible, the hour may be consequential without being an open fork.
+:18. A critical juncture is therefore not simply an important event but a temporary change in the structure of realistic choice.
+:19. The Second World War altered that structure in Britain without dictating a single outcome.
+:20. It expanded central administrative capacity, made large-scale coordination familiar, exposed uneven access to care, and gave postwar reconstruction unusual political urgency.
+:21. The Labour victory of July 1945 then placed a parliamentary majority behind a more extensive public settlement and made Bevan minister of health.
+:22. Even so, neither war nor election supplied him with an uncontested blueprint.
+:23. The 1944 coalition proposal had envisioned joint local-authority boards coordinating services while voluntary hospitals retained substantial independence and contracted to participate.
+:24. Bevan instead proposed transferring voluntary and municipal hospitals to the minister and organizing them through regional hospital boards.
+:25. General practitioners might have become salaried public employees, remained private practitioners outside the service, or joined on some intermediate basis.
+:26. These were not imaginary alternatives invented after the result, because contemporary white papers, parliamentary debates, professional campaigns, and draft arrangements record organized support for different versions.
+:27. Labour’s majority gave Bevan legislative authority, the Ministry of Health supplied machinery, and the wartime service furnished practical experience in regional coordination.
+:28. Voluntary hospitals possessed buildings, specialist expertise, professional prestige, and governing networks that no serious plan could ignore.
+:29. Local authorities had their own hospitals, public-health duties, elected constituencies, and claims to democratic control.
+:30. The British Medical Association could not pass an act of Parliament, but it could make a health service unworkable if large numbers of doctors refused to join.
+:31. Power at a critical juncture is rarely a single lever; it is the uneven capacity to authorize, obstruct, administer, or withhold cooperation.
+:32. The National Health Service Act of 1946 expressed victory on some questions and compromise on others.
+:33. Hospitals were brought into national public ownership, a choice more centralized than the coalition plan and one that displaced the local and voluntary ownership structure.
+:34. Family doctors, by contrast, entered as self-employed contractors rather than salaried state employees after sustained professional resistance and negotiation.
+:35. Consultants could retain a measure of private practice, while community services such as health visiting and maternity clinics remained with local authorities.
+:36. The resulting organization was neither the inevitable fulfillment of the Beveridge Report nor the pure execution of Bevan’s first preferences.
+:37. Once enacted, that settlement began changing the next field of choice.
+:38. The transfer of hospitals created regional boards, reporting lines, budgets, careers, records, and expectations oriented toward a national service.
+:39. Administrators learned to operate the new structure, clinicians built working relationships within it, and patients came to rely on treatment free at the point of delivery.
+:40. Each year of operation enlarged the stock of skills and assumptions tailored to the arrangement.
+:41. A later government could amend the service, but it could no longer compare proposals as if Britain still possessed the fragmented system of 1944.
+:42. The first choice had attracted resources and competence to itself, making some improvements easier to imagine and wholesale alternatives harder to execute.
+:43. This is path dependence in its institutional form, not merely the survival of an old rule.
+:44. An earlier decision alters the cost, visibility, and political support of later options by generating investments, constituencies, specialized knowledge, and complementary rules.
+:45. Some of those returns are practical: common financing and regional planning can coordinate services that isolated providers cannot.
+:46. Some are cognitive: officials trained inside one architecture tend to formulate problems in categories that the architecture can process.
+:47. Some are political: people and organizations that gain authority, income, security, or identity from the settlement acquire reasons and means to defend it.
+:48. The mechanism does not make reversal impossible, but it changes who must be persuaded, what must be rebuilt, and how much disruption a rival path will impose.
+:49. The same history also warns against treating an announcement as a turning point.
+:50. The 1944 white paper declared the intention to establish a comprehensive national service, yet it explicitly presented proposals for consultation rather than final decisions.
+:51. Its reliance on joint local authorities and contracts with autonomous voluntary hospitals preserved much of the divided authority that reformers were trying to overcome.
+:52. War had widened the imaginable future, but the coalition lacked agreement and time to bind the competing parts into a new organization.
+:53. For patients and practitioners, the institutional landscape consequently changed far less in 1944 than the grandeur of the proposal might suggest.
+:54. The deeper structure persisted until a new electoral mandate, a minister willing to choose among rival designs, parliamentary legislation, administrative preparation, and negotiated professional participation converged.
+:55. Even July 1948 was not a year zero.
+:56. The new service absorbed old hospitals with unequal facilities, old occupational hierarchies, established clinical practices, and personnel whose expertise could not be replaced by decree.
+:57. Its tripartite division among hospitals, general practice, and local-authority community services carried the compromises of its creation into everyday coordination problems.
+:58. Because general practitioners remained independent contractors, later efforts to integrate primary care with other services began from a different legal and organizational position than they would have under a salaried model.
+:59. Because hospitals entered national ownership, later arguments about resources and reorganization were directed toward ministers and national budgets in a way the abandoned voluntary model would not have produced.
+:60. The opening in the possibility space had closed around a hybrid, and that hybrid now determined where the next pressure would accumulate.
+:61. The next pressure accumulated precisely at the seams of the settlement, where hospital services, family doctors, and local-authority care had to cooperate across different chains of command.
+:62. By the late 1960s, critics increasingly argued that this tripartite arrangement fragmented planning and left ministers formally responsible for a service they could not readily steer.
+:63. The National Health Service Reorganisation Act of 1973 sought to unify much of the system under a hierarchy of regional and area health authorities, and the new structure took effect on April 1, 1974.
+:64. Community health services moved from local government into the NHS, and boundaries were aligned with local authorities in the hope that shared geography would make cooperation easier.
+:65. Yet general practitioners retained a distinct contractual position, while social care remained outside the health service under local government.
+:66. The reform therefore bent the path created in 1948 without returning Britain to the broad field of alternatives that had existed before the 1946 act.
+:67. National financing, public responsibility for hospitals, and care free at the point of delivery survived the reconstruction of the administrative chart.
+:68. New authorities, committees, and planning routines were placed on top of those commitments, creating fresh dependencies before older ones had disappeared.
+:69. This episode exposes a difficulty in recognizing critical junctures from the size of a statute or the drama of an organizational diagram.
+:70. The 1973 act abolished bodies, transferred functions, and renamed levels of authority, all of which made it a major reform in the ordinary sense.
+:71. It was nevertheless less open than 1945 and 1946 because the political legitimacy, physical estate, workforce, financing system, and public expectations of the NHS already occupied much of the available ground.
+:72. Even the incoming Labour government of 1974, which disliked important features of the reorganization, allowed it to take effect within weeks because staff had been appointed and the transfer machinery was already in motion.
+:73. A change of government that looked like an opportunity for redirection consequently altered less than the long preparation of the inherited scheme allowed.
+:74. Political preference mattered, but organizational readiness determined which preferences could still become operational choices.
+:75. The reforms initiated in 1991 provide a second test of how far an established path can move without being abandoned.
+:76. Under legislation passed in 1990, health authorities and some general practitioners received budgets to purchase care, while hospitals could become NHS trusts that provided services under contracts.
+:77. This purchaser-provider split altered incentives, information flows, managerial careers, and the terms in which performance was discussed.
+:78. It did not, however, turn the English health service into an ordinary consumer market or dissolve its central public commitments.
+:79. Patients generally did not pay competing hospitals at the bedside, and public authorities still organized and financed access within a national framework.
+:80. The change was substantial because it reworked relationships inside the inherited system, not because it restored every option excluded in the 1940s.
+:81. Nothing about this sequence was inevitable, and different electoral outcomes, professional alliances, fiscal conditions, or administrative designs could have produced other reforms.
+:82. The point is narrower: later governments faced a menu whose ingredients had already been selected, financed, staffed, and made familiar by earlier governments.
+:83. Some parts of that menu were protected by law, others by professional capacity, and still others by citizens' expectations about what a health service was supposed to provide.
+:84. Closure therefore occurred at different speeds and through different mechanisms rather than in a single instant after Bevan accepted the hospital keys.
+:85. The legal transfer of ownership was abrupt, whereas the growth of public reliance, administrative expertise, and political attachment took years.
+:86. This distinction matters because an institution may become progressively harder to replace even when no later vote formally entrenches it.
+:87. It also prevents the circular claim that an arrangement must have been locked in merely because it lasted.
+:88. The rival explanation is often straightforward: perhaps a durable institution survives because it continues to perform valued functions better than available alternatives.
+:89. Universal risk pooling, coordinated planning, and access without a charge at the moment of illness can generate support for reasons that do not depend on habit or historical accident.
+:90. A path-dependent account earns its explanatory force only when it shows how the earlier choice changed the relative cost or political feasibility of alternatives, beyond whatever advantages the institution currently delivers.
+:91. That requires comparing the chosen arrangement with alternatives that contemporary actors could actually have implemented, not with an ideal system designed on an empty page.
+:92. It also requires identifying the processes that reproduce the choice, such as specialized training, complementary contracts, organizational constituencies, and expectations that punish abrupt withdrawal.
+:93. Finally, it requires examining change, because a path that supposedly explains everything after its origin explains very little.
+:94. Institutions rarely alternate between perfect stillness and complete refoundation.
+:95. They can acquire new rules alongside old ones, redirect existing powers toward new purposes, or retain unchanged language while a changing environment alters its effects.
+:96. The internal market added contractual relationships and purchasing roles to the NHS rather than replacing the service with the principal alternatives debated before 1948.
+:97. Later actors could modify or remove elements of that arrangement, but they did so from positions, professions, and information systems the reform itself had helped create.
+:98. Gradual adaptations can accumulate until an institution performs differently even though its founding symbols and legal identity remain in place.
+:99. For that reason, the language of an open juncture followed by a frozen path is useful only as a disciplined simplification.
+:100. It directs attention to periods of unusually broad choice, but it can conceal the quieter agency exercised during ordinary years.
+:101. Nor does every emergency widen choice.
+:102. A crisis may concentrate authority, exhaust administrative capacity, or make leaders cling to the only organizations capable of acting quickly.
+:103. A collapse can destroy an old arrangement without supplying personnel, procedures, or agreement for a viable replacement.
+:104. In such conditions the imaginable field may expand while the field of executable options contracts.
+:105. The existence of alternatives on paper is therefore insufficient; someone must possess the authority, coalition, knowledge, and time to carry one of them through.
+:106. Conversely, a design prepared during an apparently uneventful period may become decisive when a later disruption weakens its rivals.
+:107. Historical timing joins power and organization: the same proposal can be marginal in one year, feasible in another, and prohibitively disruptive after its competitors have adapted around the winner.
+:108. The benefits of closure deserve equal attention.
+:109. A health service cannot renegotiate its basic obligations whenever a patient enters a ward, because dependable treatment requires budgets, careers, facilities, and expectations extending across many years.
+:110. Stability lets strangers coordinate and allows households to plan without knowing which illness will arrive or what it will cost.
+:111. What narrows the option set for a future government can therefore widen the practical options of a sick person who lacks private means.
+:112. The relevant question is not whether institutional constraint is good or bad in itself, but whose uncertainty it reduces, whose alternatives it removes, and how its burdens can be revised.
+:113. Even a strongly reinforced path leaves room for coalitions to reinterpret its purposes, alter its components, establish parallel experiments, or accept transition costs when failures become intolerable.
+:114. These routes are not equivalent to starting again, because each uses some inherited capacity while contesting another part of the inheritance.
+:115. Their availability depends partly on whether the original design concentrated authority, divided it, or preserved spaces in which rival practices could survive.
+:116. A critical juncture thus shapes not only the policy selected at the time but also the machinery through which later disagreement can become change.
+:117. The most careful reconstruction asks which alternatives were documented, who could choose among them, what feedback followed the choice, and when those feedbacks made reversal materially or politically harder.
+:118. It treats the boundary of a juncture as a finding to be demonstrated, not a date to be declared after the outcome is known.
+:119. The final irony is that actors who recognize a rare opening often use it to prevent the next opening from being equally wide.
+:120. At the deepest level, a critical juncture becomes durable when its winners do more than choose a policy: they decide how difficult it will be for their successors to choose again.

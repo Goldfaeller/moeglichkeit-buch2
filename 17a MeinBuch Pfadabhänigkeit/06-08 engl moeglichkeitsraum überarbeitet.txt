@@ -1,0 +1,122 @@
+== 6.8 Herrschaft durch Selbstverständlichkeit ==
+
+:1. On November 23, 1853, Stafford Northcote and Charles Trevelyan signed a report that treated the British government's familiar method of hiring clerks as an administrative defect.
+:2. Public offices had long been distributed through nomination and patronage, practices that made personal connection seem like an ordinary qualification for public work.
+:3. The report proposed replacing that custom with competitive examinations administered by a central board, alongside promotion based more on merit than seniority or favor.
+:4. Its authors were not merely offering a better test.
+:5. They were trying to change what a government job was understood to be: not a gift within a network of obligation, but an office requiring demonstrable capacity.
+:6. That shift now looks so sensible that the older arrangement can appear transparently corrupt and the reform almost automatic.
+:7. It was neither.
+:8. The report met political resistance, its recommendations were implemented only in part after the Civil Service Commission was established in 1855, and broadly open competition waited until an Order in Council of 1870.
+:9. People who benefited from nomination defended discretion, doubted that examinations could identify practical judgment, or feared that competition would admit candidates without the expected social formation.
+:10. What later generations called merit was, at the point of change, a contested institutional invention.
+:11. This is how rule by self-evidence usually works: an arrangement governs most securely when the people inside it no longer experience its central assumptions as choices.
+:12. No official needs to issue a daily command that familiar candidates feel trustworthy if schools, families, clubs, and offices have already taught everyone what a trustworthy candidate looks and sounds like.
+:13. A vocabulary of character, suitability, and good judgment can perform political work while seeming merely descriptive.
+:14. The power lies partly in decisions, but also in the categories that determine which claims arrive as serious proposals and which barely become legible.
+:15. Institutions transmit those categories through socialization, the ordinary process by which newcomers learn how competent members notice problems, speak about them, and behave.
+:16. Some lessons are explicit, such as statutes, ethical codes, examination syllabi, and manuals.
+:17. Others travel through correction, imitation, promotion, embarrassment, and the quiet observation of who receives responsibility.
+:18. A novice learns not only how to answer an accepted question but also which questions make a person sound inexperienced, disloyal, or unserious.
+:19. Once that learning becomes fluent, compliance need not feel like obedience.
+:20. It feels like knowing how the work is done.
+:21. Such fluency is indispensable to organized life.
+:22. A hospital cannot deliberate from first principles whenever a patient arrives, a court cannot reinvent procedure for every dispute, and a treasury cannot negotiate the meaning of every ledger entry.
+:23. Shared terms compress experience, routines coordinate strangers, and professional standards allow one person's work to be checked and continued by another.
+:24. The taken-for-granted is therefore not a layer of superstition pasted onto real administration.
+:25. It is part of the infrastructure that lets administration happen at all.
+:26. An experienced official recognizes a familiar case quickly because years of training have reduced a forest of details to a manageable pattern.
+:27. That reduction saves time and often prevents arbitrary improvisation.
+:28. Yet every pattern makes some features prominent by pushing others toward the background.
+:29. When a classification is inherited, the institution may preserve yesterday's answer even after the question facing it has changed.
+:30. The same mechanism that stores hard-won competence can also store an obsolete picture of competence.
+:31. The British civil-service reform makes the double effect unusually clear.
+:32. Competitive examination weakened the direct conversion of family connection into public appointment and created a rule that applicants could invoke against private favor.
+:33. Central assessment also made candidates more comparable across departments and helped a permanent service justify its independence from changing ministers.
+:34. These were genuine gains in coordination, predictability, and public legitimacy.
+:35. But an examination does not discover merit in the way a scale discovers weight.
+:36. Someone must decide which knowledge receives marks, which style of reasoning signals promise, what age limits apply, and which educational preparation applicants are expected to have obtained already.
+:37. The nineteenth-century examinations heavily rewarded a broad literary education, including classics and mathematics, that was especially available to men trained in elite schools and universities.
+:38. Patronage had not simply vanished; one visible gate had been replaced by a more impersonal gate connected to an unequal educational landscape.
+:39. The connection mattered because success in the new system encouraged families and schools to invest in precisely the curriculum the state rewarded.
+:40. Recruitment rules changed education, and education then supplied candidates who made the recruitment rules appear naturally fitted to talent.
+:41. That loop is a concrete mechanism of path dependence.
+:42. An initial standard directs preparation, preparation produces successful entrants, those entrants acquire authority, and their careers strengthen the prestige of the standard that selected them.
+:43. Over time, offices accumulate procedures, stories of exemplary officials, and promotion criteria built around the resulting professional type.
+:44. Alternatives become more expensive because adopting them would require new tests, new training, new evaluators, and a willingness to accept unfamiliar evidence of ability.
+:45. They can also become less visible because insiders sincerely use the inherited standard to imagine what any workable alternative must look like.
+:46. No conspiracy is required.
+:47. Individual selectors may apply the rules conscientiously, candidates may work extraordinarily hard, and the outcome may still reproduce advantages that the definition of merit fails to name.
+:48. This distinguishes institutional power from a simple command issued by a person who could readily withdraw it.
+:49. The pattern resides across curricula, credentials, habits of speech, career ladders, and mutual expectations, so removing one biased decision maker leaves much of it intact.
+:50. It also distinguishes path dependence from mere persistence, because the early selection rule actively changes the investments and competencies on which later choices depend.
+:51. Even so, the story cannot support the claim that professional standards are only camouflage for privilege.
+:52. Literary examinations tested real capacities, competitive entry opened opportunities that nomination denied, and a general education could help administrators move among departments.
+:53. Nor would social homogeneity by itself prove that the examinations caused it, since wealth, schooling, geography, discrimination, and occupational preference also shaped who entered the competition.
+:54. The stronger claim is narrower: every apparently neutral standard makes certain qualities easier to see, and repeated use builds institutions around that field of vision.
+:55. Standards can be revised, supplementary routes can be created, and outsiders can learn the professional language well enough to challenge its boundaries.
+:56. The British service did change, though slowly, as recruitment widened, educational provision expanded, and older ideals of the gifted gentleman administrator became open to criticism.
+:57. Change became possible not because the institution suddenly lost all assumptions, but because competing assumptions acquired evidence, advocates, and organizational footholds.
+:58. What had once been dismissed as an attack on competence could then be argued as a different account of competence.
+:59. The decisive struggle moved from whether government should select on merit to the more difficult question of what merit should mean.
+:60. At that point, the new common sense revealed the same vulnerability as the old one: it could protect the public from arbitrary favor while quietly defining the range of people and knowledge the public service was prepared to recognize.
+:61. Recognition begins with language, because the words used to describe a problem divide the plausible from the peculiar before anyone votes on a solution.
+:62. An agency that speaks of clients sees different duties from one that speaks of claimants, customers, patients, taxpayers, or cases, although all may refer to the same person.
+:63. Each term brings a small theory of the relationship into the room.
+:64. It suggests what the person may reasonably demand, what the official owes, and which failures count as exceptions rather than evidence against the rule.
+:65. Repeated in forms, meetings, training, and judgments, such terms become more than labels.
+:66. They organize attention.
+:67. Once embedded in forms and information systems, these distinctions can outlive the people who selected them.
+:68. Information that fits the inherited vocabulary moves easily through an institution, while information that lacks an accepted category must be translated, simplified, or discarded.
+:69. This is one reason institutions can fail to notice harms that are widely visible to the people experiencing them.
+:70. The evidence may not be secret; it may simply arrive in a form for which no office owns a question, a budget, or a recognized measure.
+:71. Authority then operates through a structured absence rather than an explicit prohibition.
+:72. Political scientists have described one dimension of power as control over the agenda: the ability to keep some conflicts from becoming occasions for authoritative decision.
+:73. Institutional self-evidence reaches further than a chairperson refusing to place an item on a meeting schedule.
+:74. If a proposal violates the field's basic grammar, potential advocates may anticipate ridicule or procedural defeat and never invest in organizing it.
+:75. Others may recast the proposal so thoroughly in approved terms that its original challenge disappears.
+:76. The resulting silence cannot automatically be treated as consent.
+:77. Yet neither can every silence be declared proof of repression, because people may agree, lack information, prefer other priorities, or face limits unrelated to power.
+:78. The mechanism has to be shown: who could raise the issue, what channels existed, which categories filtered it, and how earlier arrangements altered the likely cost of dissent.
+:79. Without that evidence, “taken for granted” becomes an all-purpose explanation that cannot be tested.
+:80. With it, the concept identifies a specific narrowing of the institutional possibility space.
+:81. Professionalization can deepen that narrowing even while raising the quality of work.
+:82. Universities teach a shared body of knowledge, examinations certify it, associations police boundaries, and employers use credentials as a practical shortcut under uncertainty.
+:83. Because organizations depend on one another, a standard adopted in one place can spread without any central order.
+:84. Schools design courses for employers, employers recruit from recognized courses, regulators consult established professionals, and professionals advise regulators on appropriate qualifications.
+:85. Each link is defensible by itself.
+:86. Together they can make one model of expertise appear to be the only responsible model, especially when alternative methods have no comparable network of journals, licenses, mentors, and career paths.
+:87. Organizations also imitate respected peers when outcomes are hard to measure, since adopting an accepted structure is safer than defending an unfamiliar one after failure.
+:88. This copying can preserve useful knowledge and allow cooperation across organizational boundaries.
+:89. It can also produce uniformity that exceeds what the underlying task requires.
+:90. The mark of institutionalization is not irrationality, but the migration of a contested solution into the background conditions of rational action.
+:91. Material reality still pushes back.
+:92. A bridge designed by prestigious engineers must carry its load, a vaccination program must reach bodies, and an accounting system must eventually confront missing money.
+:93. Failure, competition, audit, litigation, scientific evidence, and public protest can expose the distance between professional confidence and actual performance.
+:94. These pressures explain many institutional changes more directly than hidden domination does.
+:95. They also provide a useful countertest: if a practice disappears promptly when its costs become clear and no complementary investments protect it, ordinary error correction may be enough to explain the episode.
+:96. A stronger path-dependent account predicts resistance rooted in retraining costs, credential systems, linked procedures, reputations, and uncertainty about the replacement.
+:97. It also predicts uneven change, with visible rules altered before the surrounding habits and career structures that once made those rules seem obvious.
+:98. An institution may therefore adopt a new vocabulary while continuing to reward the old conduct.
+:99. Conversely, informal practice may move ahead of official language when frontline workers repeatedly encounter cases the inherited categories cannot handle.
+:100. Neither statutes nor culture always lead.
+:101. The possibility of correction also prevents common sense from becoming a total prison.
+:102. Institutions contain overlapping professions, ranks, local offices, unions, inspectors, courts, elected bodies, and publics whose experiences do not perfectly align.
+:103. What appears natural from the center may look absurd at the counter, and what seems efficient to a budget office may impose unrecorded labor on a household or municipality.
+:104. Conflict among these standpoints can make a suppressed cost measurable and an excluded alternative discussable.
+:105. People who straddle institutional worlds are often important because they can translate a complaint from the language in which it is lived into the language in which it can be acted upon.
+:106. External shocks can accelerate this work, but disruption alone supplies no replacement categories, trained personnel, or durable coalition.
+:107. The slow implementation of the Northcote and Trevelyan proposals illustrates the point: a report could name patronage as a problem, yet a different recruitment system still required commissioners, examinations, political backing, and years of contested practice.
+:108. Ideas open a route only when institutions give them carriers.
+:109. Those carriers also need time, resources, and authority to turn dissent into a durable routine.
+:110. Once established, the new route creates its own beneficiaries and blind spots, so reform does not end history but changes the machinery through which history continues.
+:111. This machinery distributes voice unevenly.
+:112. Senior officials can convert judgments into procedure, professionals can defend jurisdiction with credentials, and organized groups can bear the long costs of meetings, appeals, and evidence gathering more readily than isolated individuals.
+:113. Naming those asymmetries is not the same as claiming that every routine serves the powerful or that subordinate actors merely absorb official beliefs.
+:114. People reinterpret categories, comply strategically, exploit contradictions, and sometimes force institutions to recognize facts their designers ignored.
+:115. The practical question is therefore not how to purge institutions of assumptions, an impossible aim, but how to prevent one set of assumptions from becoming its own final judge.
+:116. Transparency helps only partly, because a published rule can remain unquestioned and the most consequential filters may reside in expertise rather than secrecy.
+:117. Periodic review helps only partly, because reviewers trained along the same path may reproduce the same field of vision.
+:118. More durable correction comes when authority is arranged so that actors with different responsibilities, information, and incentives can require one another to give reasons.
+:119. Such friction consumes time and can block necessary action, yet it turns some invisible premises into contestable claims.
+:120. The answer to rule by self-evidence is thus not permanent suspicion, but institutionalized counterattention: power divided so that what one office treats as obvious can become a question another office is authorized to ask.

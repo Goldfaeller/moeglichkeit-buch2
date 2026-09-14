@@ -1,0 +1,122 @@
+== 5.7 Versunkene Kosten und der Status quo ==
+
+:1. In the fall of 1982, the first sixty people to approach the Ohio University theater box office for a season ticket stepped, unknowingly, into an experiment.
+:2. They had already decided to buy, but the seller handed out three prices in random order: fifteen dollars, thirteen dollars, or eight dollars.
+:3. Once the booklet was in a customer's hand, the discount could no longer change the quality of a play, the weather on performance night, or the pleasure of staying home.
+:4. It changed attendance anyway.
+:5. During the first five productions, buyers who had paid full price used an average of 4.11 tickets, while the two discounted groups used about 3.3.
+:6. By the second half of the season, the differences were no longer statistically significant.
+:7. The extra dollars had bought no additional performances, privileges, or comfort, and they could not be recovered by occupying a seat.
+:8. Yet for several months, the larger payment appeared to pull its owners back toward the theater.
+:9. The study was small, with usable data from fifty-four customers, and one old field experiment cannot establish a universal law of choice.
+:10. Its strength was narrower and more concrete: random discounts changed real behavior after everyone possessed the same kind of ticket booklet.
+:11. The price was continuing to act after the act of paying was over.
+:12. An expenditure that has already been made and cannot be recovered is a sunk cost.
+:13. Yesterday's nonrefundable ticket, last year's research budget, and the unrecoverable hours spent mastering an abandoned method all fit the definition.
+:14. For a decision made today, the standard economic rule is to compare only the consequences that can still differ among the available options.
+:15. If attending tonight promises less pleasure than staying home, attending does not rescue the ticket price; it merely adds an unpleasant evening to a payment that exists in either future.
+:16. A sunk-cost effect occurs when the irrecoverable investment itself increases the tendency to use, continue, or complete what it purchased.
+:17. The theater choice is a utilization decision, because the question is whether to consume something already bought.
+:18. A troubled construction or software project presents a progress decision, because continuing requires another allocation of money, labor, or time.
+:19. Those two situations are often bundled together, although research finds different effect sizes and different conditions in each.
+:20. Keeping them separate prevents a vivid slogan about throwing good money after bad from replacing an actual calculation.
+:21. A half-finished bridge may be worth completing, even after severe overruns, if the remaining construction cost is lower than the future value of the completed crossing.
+:22. The same bridge should not be completed merely because stopping would expose how much concrete and political capital have already gone into it.
+:23. Past spending explains why the decision maker is standing beside an unfinished bridge, but only future differences tell whether another span should be built.
+:24. That arithmetic is severe because it permits history to explain the present without granting history a vote of its own.
+:25. Human judgment does not always keep the time columns so clean.
+:26. People often maintain mental accounts in which a purchase or project remains open until it has delivered an acceptable return.
+:27. Abandonment then feels like closing the account in the red, whereas continuation postpones the moment when the loss must be acknowledged.
+:28. Another payment can purchase not only a chance of success but also a temporary reprieve from the verdict that the first payment was wasted.
+:29. The chance may be real, but relief is not evidence that the chance is good.
+:30. This mechanism connects sunk-cost thinking with loss aversion, the idea that a disadvantage relative to a reference point can weigh more heavily than an equivalent advantage.
+:31. The initial budget, the promised result, or the state before the investment may serve as that reference point, making cancellation feel like the conversion of a temporary setback into a definite loss.
+:32. Loss aversion is not another name for the sunk-cost effect, because a feared loss can concern the future and an irrecoverable expense can influence choice through shame, waste avoidance, or self-justification instead.
+:33. Nor should loss aversion be treated as an all-purpose law that makes losses invariably more powerful than gains across every person, good, and setting.
+:34. Its scope and interpretation remain disputed, which is one reason a careful explanation must identify the reference point and the choice rather than merely attach the label.
+:35. The endowment effect is different again: ownership can raise the compensation a person demands to give up an object above the amount that person would have paid to acquire it.
+:36. In a well-known set of experiments, participants randomly given coffee mugs traded far fewer of them than standard theory predicted, while markets in tokens with assigned cash values traded normally.
+:37. Ownership seemed to turn giving up the mug into a loss rather than a foregone gain.
+:38. Later experiments using extensive training and procedures designed to prevent misunderstanding found no gap between buying and selling valuations for mugs or lotteries.
+:39. The broader evidence does not make ownership irrelevant, but it shows that experience, instructions, the kind of good, and the method of eliciting a price can alter the result.
+:40. Status-quo bias names yet another pattern: an option is chosen more often when it is presented as the current condition than when the same option is presented neutrally.
+:41. Early experiments found this effect across hypothetical choices, and observations of faculty health-plan and retirement selections showed similar persistence in consequential settings.
+:42. No previous expenditure is required, because a person may inherit a default without having paid to create it.
+:43. Remaining with that default may save deliberation, avoid regret, preserve a familiar risk, or follow what appears to be an informed recommendation.
+:44. Some of those reasons are psychological shortcuts, some are genuine future benefits, and several can operate at once.
+:45. The incumbent option may even be the best one.
+:46. Calling every unchanged choice a bias would therefore confuse a pattern in the data with an explanation of any particular decision.
+:47. The distinctions matter because a person can own an object yet eagerly sell it, dislike a prospective loss yet abandon a failed project, or prefer a default without remembering how it became the default.
+:48. A stronger path forms when these mechanisms reinforce one another rather than merely sharing the outward appearance of staying put.
+:49. In a classic experiment from the 1970s, business students played corporate officers deciding how to allocate development funds after receiving good or bad news about an earlier investment.
+:50. Those who had personally chosen the original allocation and then saw negative results committed the most additional money to the previously favored division.
+:51. The decision differed from the theater case because the new funds might still have produced returns, so the observed escalation could not be read from sunk costs alone.
+:52. Personal responsibility supplied an additional mechanism: reversing course could threaten the decision maker's claim to competence and consistency.
+:53. Organizations multiply the audiences before whom such a reversal must be explained.
+:54. A manager who cancels a project makes an earlier error visible, while another funding round preserves the possibility that patience will eventually vindicate it.
+:55. Budgets, contracts, specialized teams, internal alliances, and promises to outsiders can turn that private hope into a social structure of commitment.
+:56. They can also contain legitimate information about what cancellation or completion will cost from this point forward.
+:57. A project near completion may possess a valuable working component, an enforceable obligation, or a plausible payoff that a project at its beginning does not.
+:58. Studies of escalation therefore find a cluster of influences, including prior expenditure, responsibility, proximity to completion, incentives, and the way evidence is framed, rather than a single mental defect behind every overrun.
+:59. The central diagnostic question is not whether the past matters, but how it matters: as an irrecoverable sacrifice demanding vindication, or as a cause of consequences that still lie ahead.
+:60. The harder cases begin when the path has not merely left a memory of payment but has rebuilt the road ahead.
+:61. That rebuilding is easiest to see when a company considers replacing a familiar information system.
+:62. The license fee paid for the old software may be irrecoverable, and in that strict sense it is sunk.
+:63. Migrating data, redesigning workflows, retraining employees, enduring downtime, validating security, and renegotiating contracts are different, because those costs would be incurred only if the company switched.
+:64. They exist now because an earlier choice directed learning and complementary investments toward one system rather than another.
+:65. Ignoring the old purchase price does not make those consequences disappear.
+:66. A replacement can therefore be cheaper to operate and technically superior yet still lose a fair comparison once the transition itself enters the forward-looking calculation.
+:67. Conversely, a vendor cannot justify an inferior future merely by pointing to what its customer has already spent if manageable migration costs are outweighed by later savings.
+:68. Economists call the burdens attached to changing products or suppliers switching costs, and classic analyses show that they can bind customers even when rival products perform the same basic function.
+:69. A large installed base can consequently give an incumbent supplier power over returning customers and make an early market share valuable long after the original sale.
+:70. The path mechanism is concrete: yesterday's adoption shaped today's skills, files, interfaces, contracts, and expectations, which changed the relative price of tomorrow's options.
+:71. The same entanglement can be useful.
+:72. A common vocabulary, a practiced routine, and compatible records reduce errors and allow many people to coordinate without renegotiating every task.
+:73. Lock-in is not synonymous with mistake, because the attachment that obstructs change may also be producing reliability every working day.
+:74. The relevant comparison is therefore not old against new in the abstract, but the expected performance of two differently embedded systems.
+:75. In a career, the complementary assets are carried partly in the person rather than stored in machines.
+:76. Tuition already paid and unrecoverable years of study are sunk costs.
+:77. The skill acquired during those years has not vanished, however, and its expected future earnings, satisfaction, and usefulness remain relevant benefits.
+:78. Retraining would consume future time and income, while a move might also sacrifice seniority, professional standing, or a network through which work arrives.
+:79. Research on occupationally specific training finds precisely this trade-off: greater returns within the trained field can accompany less mobility beyond it.
+:80. Saying that someone should ignore the price of a degree therefore does not mean pretending that the education created no asset or that another occupation can be entered for free.
+:81. Continuing solely because the degree was expensive would be sunk-cost reasoning, whereas continuing because the resulting capabilities still make the work the best available prospect may be entirely coherent.
+:82. The distinction matters most where an outsider is tempted to turn a difficult life into a simple parable about courage or cowardice.
+:83. Years already spent in a relationship cannot be reclaimed, but a relationship is not merely a ledger of elapsed years.
+:84. Trust, shared responsibilities, promises, housing, care, children, and mutual dependence can all change the future consequences of either staying or leaving.
+:85. Remaining only to prevent the past from seeming wasted fits the sunk-cost pattern; remaining because present commitments and expected future goods still matter does not.
+:86. Since both reasons can coexist and private facts are rarely visible from outside, dramatic personal decisions cannot be responsibly diagnosed from duration alone.
+:87. The same history can thus leave two residues, one psychological and one material: a demand that sacrifice be vindicated and a set of real dependencies that make departure costly.
+:88. Uncertainty adds another layer because the incumbent option has usually revealed more of its defects and virtues than an unfamiliar alternative has.
+:89. A known service, employer, or method may not be ideal, yet experience narrows the range of surprises it is likely to produce.
+:90. That informational advantage can rationally favor the status quo, especially when failure would be expensive and experimentation cannot easily be reversed.
+:91. The identical choice may nevertheless reflect inertia when the uncertainty is exaggerated, information about alternatives is avoided, or a default is mistaken for a recommendation.
+:92. Observed persistence alone cannot tell these stories apart.
+:93. A revealing counterfactual asks whether the preference would survive if two people faced the same future consequences but arrived with different payment histories.
+:94. The randomized theater discounts approximated that comparison, because the ticket holders received equivalent booklets while the amounts already spent differed by chance.
+:95. Careers, relationships, and organizations seldom offer so clean a test, which is why confident labels often outrun the available evidence.
+:96. Path dependence requires more than a long-lasting state: an earlier event must alter the probability, visibility, benefit, or cost of later alternatives through an identifiable mechanism.
+:97. A person who keeps the same phone simply because it continues to meet every need may display a stable preference rather than path dependence.
+:98. If changing phones requires replacing compatible accessories, transferring data, repurchasing applications, and learning a new interface, earlier choices have changed the current cost structure.
+:99. If mere ownership makes surrender feel like a loss, a psychological reference point has joined those material switching costs.
+:100. In ordinary life, these mechanisms commonly overlap, which makes clean concepts more valuable rather than less.
+:101. The Shoreham nuclear power plant on Long Island exposed the overlap at an exceptional scale.
+:102. The plant received its federal construction permit in 1973 and was essentially complete by 1983, after years of delay, design change, litigation, and public opposition.
+:103. By July 1986, the Long Island Lighting Company had spent about 4.6 billion dollars on the project and estimated that debt service was costing about 1.3 million dollars each day.
+:104. The reactor completed low-power testing at less than five percent of capacity, but full commercial operation remained blocked while off-site emergency planning became the central regulatory and political conflict.
+:105. Suffolk County had withdrawn from cooperation on the utility's plan, and the geography of Long Island made evacuation arrangements fiercely contested.
+:106. Billions of dollars embodied in a nearly finished plant made the pull of prior investment impossible to miss, yet the forward-looking choice was not reducible to that pull.
+:107. Supporters could correctly argue that construction spending was gone under either option and that the relevant economic comparison began with future operating costs versus future replacement costs.
+:108. That reasoning did not settle the case, because safety, licensing, emergency preparedness, political feasibility, decommissioning, and alternative electricity supplies also carried future consequences.
+:109. A full-power federal license was issued in April 1989, but an agreement to close the plant followed, and it was permanently shut down that June without commercial generation.
+:110. Ending the project did not erase its debts, dismantle the reactor without cost, or return the resources consumed during construction.
+:111. Nor does the closure by itself prove that every judgment behind it was economically or politically wise.
+:112. It demonstrates the narrower point that an enormous accumulated investment can constrain a decision without dictating continuation.
+:113. Writing off a project closes one branch of the path while leaving liabilities, equipment, institutions, and arguments on the ground.
+:114. Even the behavioral pull of expenditure does not operate in only one direction.
+:115. Experiments on mental budgeting have found that people may reduce investment when a self-imposed account approaches its limit, even when an additional expenditure could still be worthwhile.
+:116. Past spending can therefore provoke excessive continuation in one setting and premature withdrawal in another.
+:117. No universal command to persist or quit can replace the work of separating vanished costs from surviving assets, future obligations, uncertain payoffs, and genuine exit barriers.
+:118. From the decision point onward, alternatives compete through their expected benefits, new costs, opportunity costs, reversibility, and effects on other people, not through their ability to redeem what cannot be recovered.
+:119. The familiar path nevertheless accumulates evidence, competence, relationships, and dependable rewards, so using it again often becomes cheaper and safer than testing a new one.
+:120. If success, skill, and attachment keep strengthening that advantage, why do people ever spend scarce time and security exploring a route that may lead nowhere?

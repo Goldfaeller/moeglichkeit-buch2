@@ -1,0 +1,147 @@
+== 1.4 Lock-in ==
+
+:1. Suppose you wanted to change the width of the railway tracks in your country.
+:2. Not for a foolish reason, but because careful analysis suggested that another gauge would connect better with neighboring networks or suit future traffic more effectively.
+:3. Track gauge is the distance between the inner faces of the two rails, so the visible alteration looks deceptively simple.
+:4. Steel rails are replaceable, and railways replace worn sections as a matter of maintenance.
+:5. A gauge conversion is different because the new rail positions must still match everything that rolls on, crosses, supports, measures, and repairs the track.
+:6. Locomotives and cars have wheelsets built for a particular gauge.
+:7. Switches and crossings embody the same geometry in more elaborate forms.
+:8. Maintenance machines, inspection equipment, depot tracks, and spare parts may all assume the existing dimensions.
+:9. Platforms, structures, and clearances may also require work, depending on how the old and new rolling stock are designed.
+:10. Not every tunnel, bridge, or signaling installation automatically changes with the distance between the rails.
+:11. Track gauge is not the same thing as loading gauge, axle load, platform clearance, or signaling technology, even though these parts must operate together safely.
+:12. The burden of conversion therefore depends on the particular network rather than on a universal checklist.
+:13. Once neighboring lines, terminals, ports, and foreign networks enter the picture, the boundary of the system expands again.
+:14. Timetables, freight agreements, safety approvals, manufacturing capacity, and worker training can matter alongside the hardware.
+:15. The rails are only the most visible component.
+:16. The binding force lies in the system of complementary investments and coordinated practices built around them.
+:17. This is the central structure of lock-in.
+:18. The word suggests a lock, which is unfortunate because it implies that something holds the system shut from outside.
+:19. A locked-in arrangement need not be prohibited by an authority or protected by a physical law.
+:20. Engineers may know perfectly well how to replace it.
+:21. What blocks the easy exit is a high switching cost that earlier use has helped to accumulate and reinforce.
+:22. High cost is not the same as impossibility.
+:23. The current option remains attractive partly because compatible equipment, knowledge, and institutions already exist, while the alternative must pay to build its own surroundings.
+:24. A replacement can promise better performance and still fail to justify the journey from here to there.
+:25. Switching cost means the extra burden created by changing from one arrangement to another.
+:26. The purchase price of the replacement is only one part of it.
+:27. Design work, testing, certification, service interruptions, temporary duplication, coordinated replacement, data conversion, and retraining can all belong to the transition.
+:28. These costs arrive at different times and fall on different participants.
+:29. Operating savings may accumulate gradually, while a large share of the conversion expense must be committed before the benefits appear.
+:30. Whether the move pays depends on the expected advantage, the time available, the uncertainty of the estimates, and who bears each cost.
+:31. The obstacle can be financial, but it can also be temporal or organizational.
+:32. Switching costs should also be distinguished from sunk costs.
+:33. Money irretrievably spent in the past cannot be recovered and, by itself, should not decide a forward-looking choice.
+:34. Yet the past expenditure may have left usable machines, trained workers, contracts, and supply chains that make continued operation cheaper than rebuilding the same capabilities elsewhere.
+:35. Lock-in grows when this inherited advantage reinforces itself.
+:36. An early railway gauge makes compatible locomotives more valuable, so operators buy more of them.
+:37. The larger fleet gives manufacturers a reason to specialize in matching wheelsets, tools, and replacement parts.
+:38. Specialized supply and accumulated experience lower the cost and risk of staying with the gauge.
+:39. Each new operator then has a defensible reason to choose what the established system already supports.
+:40. Additional adoption attracts still more complementary investment.
+:41. The result is positive feedback: use strengthens the conditions for further use.
+:42. The process does not require the established gauge to have been technically superior at the beginning.
+:43. It also does not require later users to be lazy, irrational, or ignorant.
+:44. Positive feedback is positive in direction, not in moral value.
+:45. It can preserve a good solution, a poor solution, or a solution whose relative merits change over time.
+:46. Without reinforcement, an old choice is merely part of a system's history rather than evidence of lock-in.
+:47. A present physical constraint is not automatically path dependence either.
+:48. A mountain that blocks a railway is a current obstacle, whereas a tunnel inherited from an earlier route can be path-dependent if its dimensions make later designs more expensive or unreachable.
+:49. The historical mechanism matters because it explains how yesterday's construction altered today's menu of feasible transitions.
+:50. Notice what this means for the railway example.
+:51. Much of the switching cost is located outside the particular rail being moved.
+:52. The useful diagnostic question is not only what the focal object is, but what hangs on it.
+:53. The strength of the lock cannot be measured simply by counting dependencies.
+:54. Their criticality, substitutability, ownership, timing, and need for coordination matter as much as their number.
+:55. One indispensable connection can block a transition, while hundreds of replaceable connections may be manageable.
+:56. Durable lock-in is therefore relational.
+:57. It arises because components, people, and organizations have fitted themselves to one another over time.
+:58. An expensive component may be easy to exchange if it has a clean interface and several suppliers.
+:59. A humble convention may be difficult to remove if thousands of other choices encode it.
+:60. Age alone does not reveal which case we face.
+:61. Two equally old features of the same system can differ enormously in how easily they can be changed.
+:62. One may be decorative, while the other carries loads that are invisible until someone tries to move it.
+:63. Those loads can be grouped into four useful categories, although real cases rarely keep them separate.
+:64. Technical switching costs arise from physical or informational compatibility.
+:65. Wheel spacing, couplers, control systems, data formats, tolerances, and interfaces determine which components can work together.
+:66. A mismatch may require simultaneous replacement, a temporary adapter, or parallel operation of old and new systems.
+:67. Dual-gauge track, for example, can let rolling stock of two gauges use part of the same route during a transition.
+:68. A technical lock can be hard without being beyond engineering.
+:69. Economic switching costs arise from assets, contracts, disrupted production, financing, and the loss of scale or network advantages during the move.
+:70. Existing equipment may still provide years of useful service even when a new design would be preferable for construction from scratch.
+:71. Suppliers may charge less for the established system because they produce more of it and have learned how to make it reliably.
+:72. Users may gain value from compatibility with a large installed base that no single user controls.
+:73. A coordinated move could benefit the group while remaining unattractive or impossible for each participant acting alone.
+:74. Even lower long-run operating costs may not compensate for a transition that interrupts essential service or strands usable capital.
+:75. The economic lock thus lies in expected future consequences, not merely in regret over money already spent.
+:76. Cognitive switching costs arise from skills, routines, categories, and problem-solving habits acquired within the current arrangement.
+:77. A trained worker sees relevant distinctions quickly because repeated experience has made them familiar.
+:78. A replacement system may render part of that expertise less useful and require unfamiliar problems to be noticed, named, and solved.
+:79. Retraining one person may be modest, while rebuilding competence across an industry can take years.
+:80. Expertise is therefore both a benefit of stability and an investment that raises the cost of departure.
+:81. Institutional switching costs arise from rules, divided authority, budgets, contracts, certification procedures, and expectations about who must act first.
+:82. A technically straightforward change can stall when several organizations must approve, finance, and schedule it together.
+:83. Each participant may depend on assurances that the others will move as well.
+:84. No single actor can complete the transition, even when every actor prefers the completed result.
+:85. Delay itself can increase the cost by extending duplicate systems or making replacement plans uncertain.
+:86. The four kinds of cost commonly form layers around the same choice.
+:87. Railway wheelsets create a technical dependency, fleets and factories add economic weight, training adds cognitive weight, and operating rules add institutional weight.
+:88. Removing one layer does not automatically release the others.
+:89. Lock-ins can also be described as soft or hard, but these labels mark a continuum rather than two natural kinds.
+:90. Habits, conventions, and expectations often form the softer end because individuals can sometimes abandon them without rebuilding physical systems.
+:91. Incompatible machinery, legally binding commitments, and tightly coupled infrastructure tend toward the harder end because change demands coordinated material work.
+:92. A soft lock-in can nevertheless be powerful when millions of people share it.
+:93. A hard lock-in can sometimes be eased by adapters, modular replacement, or a carefully staged conversion.
+:94. Reversibility is a separate question from hardness.
+:95. Some arrangements are reversible at a known price and within a plausible schedule.
+:96. Others are reversible in an engineering sense but practically irreversible within the money, time, or coordination available to the affected system.
+:97. Exact irreversibility is rarer, although lost knowledge, dismantled supply chains, and irreversible physical changes can eliminate a former route rather than merely make it expensive.
+:98. Saying that a locked-in system cannot change usually compresses these different conditions into an unjustified absolute.
+:99. Railway history supplies a useful counterexample to that fatalism.
+:100. When Isambard Kingdom Brunel designed the Great Western Railway in 1835, he selected a track gauge broader than the one used by many other British railways.
+:101. As separately built networks connected, passengers and freight could face transfers where the gauges met, making incompatibility a growing operational cost.
+:102. Conversion of the Great Western system toward the narrower standard began in 1866 and was completed in 1892.
+:103. A large network did change its inherited gauge.
+:104. That outcome proves neither that conversion was easy nor that the earlier system lacked technical merits.
+:105. The decades required for the transition reveal how policy, traffic continuity, rolling stock, track work, and network coordination had to move together.
+:106. Lock-in can weaken when the benefits of interoperability rise or when a credible transition path spreads costs over time.
+:107. Temporary compatibility, planned replacement cycles, and coordinated commitments can reopen an option that looked prohibitively expensive as a single leap.
+:108. The cost of leaving is therefore not a permanent property of the old technology.
+:109. It changes when interfaces, institutions, surrounding networks, or transition methods change.
+:110. This flexibility matters because lock-in is not inherently a defect.
+:111. A system in which nothing remained stable long enough to be trusted would support little cumulative work.
+:112. Manufacturers could not build compatible components, workers could not accumulate reliable expertise, and organizations could not make durable commitments.
+:113. A shared language carries inherited conventions, yet those conventions let strangers exchange complex meanings without negotiating a new code each time.
+:114. A common safety standard constrains acceptable designs, yet it also permits equipment and procedures to be tested against shared expectations.
+:115. A reliable payment system binds participants to rules and infrastructure, yet that stability allows transactions between people who do not know one another.
+:116. In each case, the benefit attracts reliance, and reliance deepens the lock-in.
+:117. A lock-in can therefore be useful and resistant to change for the same reason.
+:118. Not every standard deserves the label, because a standard with cheap exit, few complements, and easy substitution may coordinate behavior without significantly narrowing later choices.
+:119. Standardization becomes lock-in when accumulated reliance makes departure costly enough to reshape which alternatives remain practical.
+:120. A distinction between productive and parasitic lock-ins captures a real concern but becomes misleading if treated as a clean binary.
+:121. The same arrangement can deliver large benefits to some users, impose large costs on others, and preserve room for improvement along only certain dimensions.
+:122. An arrangement that was productive when established can lose value as its environment changes.
+:123. An initially awkward convention can also gain value after complementary tools and skills make it dependable.
+:124. The arrangement need not change for the balance around it to shift.
+:125. Evaluating it requires separating the service provided by stability from the burden imposed by switching and lost alternatives.
+:126. Present usefulness, transition cost, adaptability, and the distribution of benefits and burdens are different properties.
+:127. Asking what would happen if the system vanished overnight can expose dependencies, but it exaggerates the case by excluding every realistic transition.
+:128. A better diagnosis compares feasible routes of change, including gradual conversion and temporary coexistence, with continued operation.
+:129. Persistence alone is not evidence of merit.
+:130. It is not evidence of corruption either.
+:131. Persistence may reflect repeated good performance, accumulated dependency, coercive power, lack of alternatives, or several of these at once.
+:132. The task is to identify which mechanism has done the stabilizing.
+:133. Complexity and expertise can form one such feedback loop.
+:134. A complicated system requires specialists who learn how to operate, diagnose, and repair it.
+:135. Their knowledge lowers daily costs and prevents errors that novices would make.
+:136. Training programs, certifications, job descriptions, and maintenance procedures then grow around that knowledge.
+:137. These investments make the system more reliable while making replacement more demanding, without implying that specialists created complexity for selfish reasons.
+:138. Outsiders may reasonably defer to expertise about safe operation, but operational mastery does not by itself answer whether a different system would perform better after transition.
+:139. The binding force again lies in the complementarity between knowledge and arrangement.
+:140. Lock-in, then, often begins when a system succeeds long enough for other things to trust it.
+:141. That trust is the service stability provides and the source of the cost that later change must overcome.
+:142. As compatible investments accumulate, the space of practical alternatives narrows even if the laws of physics leave it wide open.
+:143. The result is neither a prison without exits nor a frictionless marketplace of interchangeable choices.
+:144. It is a built environment in which reliable connections give present users something valuable while requiring future users to begin from there.
+:145. A railway is not held to its gauge by two steel lines alone, but by an entire working world arranged to meet them at exactly that distance.

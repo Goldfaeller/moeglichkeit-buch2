@@ -1,0 +1,142 @@
+== 1.8 Gefangen heißt nicht festgelegt ==
+
+:1. A river in a broad valley cannot flow uphill or leap into the next watershed, yet the valley does not draw a single channel to the sea.
+:2. Within the available ground, water can braid, meander, flood, cut new channels, and abandon old ones.
+:3. The terrain narrows the possibilities enormously without specifying every turn.
+:4. Even a detailed survey cannot determine the river's exact future course, because storms, sediment, vegetation, and earlier flows keep changing the conditions.
+:5. The river is therefore constrained, but it is not fully determined.
+:6. That distinction closes a tempting but mistaken route through the idea of path dependence.
+:7. If the present is shaped by an unalterable past, the mistaken argument runs, then present choice must be a fiction laid over a mechanism that would proceed the same way regardless.
+:8. The conclusion sounds rigorous because it begins with a true premise, but it does not follow from it.
+:9. A constraint removes some options.
+:10. A determination selects one.
+:11. Those are radically different claims.
+:12. Path dependence supports the first only when earlier steps have changed which later states are reachable, probable, visible, or affordable.
+:13. It does not by itself support the second.
+:14. The river analogy also has a limit, because a valley imposes physical constraints that need not have been produced by the river's own history.
+:15. Where earlier channels redirect later flows or deposit banks that make some future courses easier than others, however, the analogy reaches the mechanism that matters.
+:16. Past movement has altered the field of later movement without dictating a unique destination.
+:17. A second confusion compounds the first: the assumption that path dependence is a condition a system either has or lacks.
+:18. Path dependence is better understood as a matter of degree.
+:19. It may be shallow in one feature of a system and deep in another.
+:20. Within one legal order, an administrative rule may be replaced quickly while a constitutional arrangement is bound to courts, offices, expectations, and settled practice.
+:21. Within one technology, a surface color may be changed at negligible cost while a connector standard persists because millions of complementary devices rely on it.
+:22. Calling the whole legal order or the whole technology path dependent hides the variation that analysis should expose.
+:23. The relevant question concerns a particular feature, process, or range of alternatives.
+:24. Even then, entrenchment is not a single universal quantity waiting to be read from a meter.
+:25. Switching cost, number of dependencies, scarcity of replacement skills, legal resistance, and physical irreversibility can each contribute, and they need not move together.
+:26. A feature can be cheap to replace technically but expensive to replace institutionally.
+:27. Another can have few social defenders yet remain difficult to reverse because material or information has been destroyed.
+:28. The useful claim is therefore not merely that something is path dependent.
+:29. The useful claim identifies what is entrenched, which earlier developments entrenched it, and which mechanism now makes an alternative harder.
+:30. That is a claim someone can investigate and, sometimes, act on.
+:31. Path dependence is also not the same thing as constraint in the broadest sense.
+:32. No organism escapes physics, and no sequence of historical decisions can repeal thermodynamic limits.
+:33. Such limits hold regardless of which route a system previously took.
+:34. A path-dependent constraint, by contrast, differs across systems because their histories differ.
+:35. Put simply, a universal constraint is a wall in the world, whereas a path-dependent constraint is a wall assembled over time.
+:36. The image is deliberately rough, because many real walls contain both kinds of material.
+:37. A mountain grade may physically limit a railway, while the location of its tunnels, stations, property rights, and connecting lines reflects earlier investment.
+:38. Moving the mountain is not an option, but changing the network is not therefore impossible.
+:39. From inside an established system, the two limits can look deceptively similar.
+:40. A rule that has never been broken can resemble a rule that cannot be broken.
+:41. Impossible and merely unattempted initially produce the same observation: the alternative is absent.
+:42. History contains arrangements once treated as natural necessities that proved to be conventions held in place by coordination and habit.
+:43. It also contains costly attempts to defy limits that were not conventional at all.
+:44. No slogan can reliably separate those cases, but an empirical question can begin the work.
+:45. What specifically prevents the transition, and through what mechanism does that obstacle operate?
+:46. If the answer is a physical law, additional determination will not remove the boundary.
+:47. If the answer is a network of equipment, contracts, skills, and expectations, the boundary was historically assembled.
+:48. Historically assembled does not mean easily reversible.
+:49. Extinct species, destroyed records, and lost knowledge cannot simply be purchased back at yesterday's price.
+:50. Lock-in means that departure has become costly or improbable, not that every earlier state remains recoverable.
+:51. Sometimes change can dismantle a dependency; sometimes it can only build a new route around an irreversible loss.
+:52. The difference is precisely why diagnosis matters.
+:53. An additional option can survive even in a narrow possibility space.
+:54. A tightly standardized railway still permits many schedules, maintenance strategies, and service patterns, although it excludes vehicles that do not fit its gauge.
+:55. Conversely, a wide possibility space does not guarantee that anyone will recognize, test, or finance a good route through it.
+:56. Theoretically imaginable, physically possible, functionally workable, and historically accessible are different categories.
+:57. An alternative may be physically possible yet inaccessible from the present because every available intermediate step would interrupt an essential function.
+:58. Another may be reachable in principle but invisible to the people who allocate research time and money.
+:59. Search itself has costs, and institutions usually search where they already possess instruments, language, and expertise.
+:60. The absence of an attempt is therefore evidence neither of impossibility nor of easy feasibility.
+:61. It may instead reveal that the route was hidden, expensive to explore, or disconnected from a viable first step.
+:62. Evolvability is the capacity to preserve more such next steps.
+:63. Modularity, spare capacity, transferable skills, and open interfaces can keep neighboring alternatives reachable even when they produce no immediate performance gain.
+:64. None of these features guarantees a good outcome.
+:65. They preserve opportunities for change; they do not choose wisely among them.
+:66. A narrow space may contain several workable paths, while a broad but poorly explored space may yield only the familiar one.
+:67. Constraint and uncertainty can therefore coexist.
+:68. Fewer available routes do not make the route actually taken predictable in detail.
+:69. Convergent evolution appears to raise a serious objection to this argument.
+:70. If history constrains development, why do separate lineages repeatedly arrive at similar solutions?
+:71. Image-forming eyes evolved more than once, although their histories share ancient photoreceptive molecules and parts of the developmental toolkit.
+:72. That combination makes the case more instructive than the older claim that complete eyes simply originated from scratch dozens of times.
+:73. Powered flight arose independently in insects, pterosaurs, birds, and bats.
+:74. Each lineage nevertheless constructed flight from inherited material.
+:75. A bat's wing is a forelimb with skin stretched between elongated fingers.
+:76. A bird's wing is a feathered forelimb whose hand bones were transformed along a different route.
+:77. An insect's wing is not a modified vertebrate limb at all.
+:78. A pterosaur supported most of its wing membrane with an extremely elongated fourth finger.
+:79. Aerodynamics rewards certain functional solutions, but it does not supply every lineage with the same parts or developmental sequence.
+:80. Convergence is therefore genuinely informative.
+:81. It shows that a possibility landscape can contain attractive regions where physics, chemistry, or a recurring environment rewards similar performance.
+:82. It does not show that every historical starting point offers the same route into those regions.
+:83. What converges may be function, while construction continues to record ancestry.
+:84. Even similar selective pressures can yield different outcomes when lineages differ in available variation, viable intermediate forms, or inherited organization.
+:85. Some routes remain too costly because an intermediate organism must survive and reproduce rather than merely resemble a promising blueprint.
+:86. Convergence and path dependence are thus not rival explanations.
+:87. Convergence describes recurring destinations; path dependence describes which approaches remain open from a particular starting point.
+:88. In the landscape metaphor, convergence tells us where similar hills have appeared, while path dependence helps explain which hills can be climbed from here.
+:89. Neither statement substitutes for the other.
+:90. Path dependence also has no preferred moral direction.
+:91. It is not a force pulling systems toward mediocrity, and it does not favor an arrangement merely because the arrangement is old.
+:92. A reliable standard can become entrenched for the same broad reason as a defective one: users build valuable complements around it.
+:93. Shared languages, safety procedures, and communication protocols can create enormous benefits by stabilizing expectations.
+:94. Those benefits are not incidental to their persistence.
+:95. They are often the source of the switching costs that later make coordinated change difficult.
+:96. A lock-in can therefore be useful and change-inhibiting at the same time.
+:97. Calling it useful does not prove that it should last forever.
+:98. Calling it path dependent does not prove that it is a historical mistake.
+:99. Dominance is not evidence of technical perfection, but neither is survival evidence of technical failure.
+:100. Path dependence is a diagnostic tool, not a verdict.
+:101. It can explain why an arrangement persists without deciding whether the arrangement is desirable.
+:102. Invoking it as a command to dismantle an institution misuses the concept.
+:103. Invoking it as proof that reform is futile misuses it just as thoroughly.
+:104. Evaluation requires an additional argument about benefits, harms, transition costs, and the value of keeping alternatives open.
+:105. Entrenchment makes change harder, but hard is a statement about conditions rather than a prophecy.
+:106. Paths can open through deliberate coordination, chance variation, environmental shock, or the gradual decay of old dependencies.
+:107. Sweden's change from left-hand to right-hand road traffic shows what deliberate coordination can accomplish against a deeply interconnected convention.
+:108. Parliament decided on the change in 1963, and the nationwide switch occurred on September 3, 1967.
+:109. Authorities synchronized new rules, signs, public information, and the moment at which traffic moved to the other side.
+:110. No individual driver could safely have made that transition alone, but the coordinated system could.
+:111. The example does not show that every lock-in is easy to escape.
+:112. It shows that switching costs depend partly on whether complementary changes can be bundled and timed together.
+:113. Chance can also expose a route that planned search missed, but a chance opening lasts only if subsequent behavior reinforces or protects it.
+:114. An environmental shock can alter relative costs, strand old investments, or make a previously marginal alternative viable.
+:115. A shock may just as readily destroy capabilities and close paths, so disruption is not liberation by definition.
+:116. Deliberate design can reduce transition costs with adapters, parallel systems, phased conversion, and retraining.
+:117. The same design effort can deepen lock-in when it removes redundancy, closes interfaces, or concentrates expertise in one architecture.
+:118. Agency operates inside inherited conditions, and some actions change those conditions for whoever acts next.
+:119. This is not freedom from history but participation in it.
+:120. Positive feedback can also weaken when markets saturate, complements become obsolete, or a competing system accumulates enough support.
+:121. Skills and infrastructure decay when they are not maintained, which can loosen an old path while making return to it more expensive.
+:122. The strength and direction of path dependence can therefore change over time.
+:123. A system is never described adequately by the single word trapped.
+:124. “Caught” is a productive provocation only if it directs attention to real walls without pretending that every wall encloses a single point.
+:125. A possibility space is not a prison cell and not an empty plain.
+:126. It has extent, structure, costly passages, blind corners, and directions that differ from one another.
+:127. Standing somewhere within it is not the same as being fixed there.
+:128. The difference between having no options and having fewer options than expected is the difference between a sentence and a strategy problem.
+:129. Strategy begins by identifying the mechanism that holds each boundary in place.
+:130. One boundary may be stone, another a dependency, and a third the result of no sustained search in that direction.
+:131. Stone demands accommodation, dependency may demand coordination, and an unexplored direction demands testing.
+:132. None of those responses guarantees success, and confusing them wastes effort.
+:133. The point is neither optimism nor pessimism but a more exact kind of attention.
+:134. Being situated is the permanent condition of everything that exists in time.
+:135. It is not a misfortune or a sentence.
+:136. The alternative to having a history is not complete freedom but having no accumulated capacities, standards, knowledge, or identity at all.
+:137. History closes possibilities, but it also builds the equipment with which other possibilities become reachable.
+:138. The practical question is not whether change is imaginable in the abstract.
+:139. It is what holds this feature in place, how much else is fastened to it, and which neighboring move remains viable now.
+:140. A path matters not because it dictates the next step, but because it changes which next steps exist, can be seen, and can be afforded.

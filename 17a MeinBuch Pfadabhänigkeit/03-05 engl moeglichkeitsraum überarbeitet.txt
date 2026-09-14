@@ -1,0 +1,164 @@
+== 3.5 Kleine Ursachen, große Folgen ==
+
+:1. The familiar story begins on a bridge to Belle Isle in Detroit, where a motorist stopped to help with a stalled car.
+:2. The helper is usually identified as Byron Carter, an automobile manufacturer who knew Henry Leland of Cadillac.
+:3. He went to the front of the car, fitted the starting crank, and turned.
+:4. When an early gasoline engine fired before the crank had completed its stroke, the handle could whip backward hard enough to break a wrist, an arm, or a jaw.
+:5. In the story, the crank struck Carter, the injury led to his death, and the grieving Leland resolved that no Cadillac would kill another person that way.
+:6. It is a compact origin story, and its chronology does not hold together.
+:7. Carter's death certificate records that he died of pneumonia on April 6, 1908.
+:8. Contemporary trade notices reported the pneumonia but, so far as surviving research has established, did not connect it to a cranking accident.
+:9. The named version of the bridge story appeared decades later, and influential retellings placed the supposed accident in 1910, two years after Carter's death.
+:10. Later accounts also disagreed about the season, the injury, the stranded driver, the witnesses, and the words attributed to Leland.
+:11. A different man named Carter was reported in 1907 to have been struck in the jaw while cranking a Cadillac near Belle Isle, which may have contributed to the later confusion.
+:12. The evidence therefore does not justify a clean causal chain from Byron Carter's broken jaw to the electric starter.
+:13. The danger of hand cranks, however, was real, and so was the practical electric starter.
+:14. Leland encouraged Charles Kettering and his colleagues to develop a system that could start a gasoline engine electrically.
+:15. Kettering had previously designed electric mechanisms for National Cash Register and understood that a starter motor faced an unusual duty cycle.
+:16. It did not have to turn an engine all day.
+:17. It had to deliver high power briefly, then remain idle long enough to cool.
+:18. That insight allowed a much smaller motor, but the production achievement involved more than one clever sizing calculation.
+:19. Kettering's team integrated starting, ignition, lighting, battery charging, and control into a system that a carmaker could install and drivers could rely on.
+:20. Cadillac put the system into production for its 1912 cars, and other manufacturers soon adopted electric starting.
+:21. Electric starting had been proposed and attempted before, so Kettering's accomplishment was not the creation of an idea from nothing.
+:22. It was the arrival of a practical version at a consequential moment.
+:23. The crack in the Carter legend makes the case more instructive, not less.
+:24. It replaces the question of whether one accident chose the modern automobile with the harder question of why one improvement could matter so much just then.
+:25. In 1900 the American automobile had not yet settled on a single form of propulsion.
+:26. A federal manufacturing census counted 4,192 motor vehicles made in the United States that year.
+:27. Of those vehicles, 1,681 used steam, 1,575 used electricity, and only 936 used what the census called hydrocarbon power.
+:28. Those are production figures rather than a complete count of vehicles on the road, but they establish that gasoline was not yet the only credible path.
+:29. Steam, electricity, and gasoline each combined real advantages with serious limitations.
+:30. Steam technology was familiar and capable of delivering substantial power, but a steam car needed water, heat, and time before it was ready to move.
+:31. An electric car was quiet, clean at the point of use, mechanically simple to operate, and ready when its circuit was switched on.
+:32. Its batteries made it expensive, heavy, and best suited to trips that ended within reach of charging.
+:33. A gasoline car carried much more usable energy per unit of fuel than the batteries of the period could store, but it was noisy, dirty, demanding to drive, and hazardous to start by hand.
+:34. The relevant question was never which propulsion system was best without qualification.
+:35. It was which combination of range, price, starting, maintenance, roads, fuel or charging access, and expected use mattered to particular buyers.
+:36. Electric vehicles found a genuine market among affluent urban users and commercial fleets whose routes were short and predictable.
+:37. Gasoline vehicles became more attractive to buyers who wanted longer journeys and could obtain fuel along them.
+:38. The electric starter removed one of gasoline propulsion's most visible disadvantages in precisely the area where electric cars had been strongest: easy starting.
+:39. It did not remove the electric car's silence or mechanical simplicity, and it did not improve the gasoline engine's energy density, which was already an advantage.
+:40. It changed the balance among several properties that customers considered together.
+:41. Other changes were arriving during the same period.
+:42. Ford introduced the Model T in 1908 and repeatedly lowered its price as production expanded and manufacturing improved.
+:43. Large oil discoveries in Texas, California, Oklahoma, and elsewhere increased crude supplies, while refineries, distributors, and filling stations gradually made motor fuel easier to obtain.
+:44. The Lucas gusher at Spindletop on January 10, 1901, became the great symbol of that expansion, but one Texas well did not by itself create a national gasoline network.
+:45. Better roads made longer trips more desirable, and longer trips rewarded the propulsion system that could be refueled quickly.
+:46. Electric service spread through cities before it reached much of rural America, while the nation was still predominantly rural at the 1900 census.
+:47. Battery vehicles continued to improve and to serve useful niches, yet their range, cost, and charging requirements remained substantial constraints.
+:48. No single one of these developments settled the contest.
+:49. Together they altered prices, convenience, expectations, and the location of complementary investment.
+:50. It would therefore be too neat to say that a broken jaw chose gasoline, even if the broken jaw were securely documented.
+:51. It would be equally neat to claim that electric propulsion was certain to win until bad luck intervened.
+:52. The historically defensible claim is narrower: several propulsion systems were credible, their advantages depended on use, and changes arriving in a particular sequence shifted their relative prospects.
+:53. A small cause can have a large historical effect only if the possibility it favors is already technically and economically alive.
+:54. The electric starter did not invent the gasoline car, the storage battery, or the electric motor.
+:55. It changed the relative usefulness of systems whose essential components already existed.
+:56. Once more buyers chose gasoline cars, more mechanics learned to repair them, more suppliers specialized in their parts, and more businesses found it worthwhile to sell their fuel.
+:57. Larger production runs supported learning, specialized machinery, and lower unit costs.
+:58. A growing installed base made familiar designs less risky for buyers and made further investment in compatible equipment more attractive.
+:59. Those investments did not merely record the early advantage.
+:60. They enlarged it.
+:61. Meanwhile, a manufacturer considering an electric vehicle faced a market in which fewer dealers, repair routines, component suppliers, and long-distance charging arrangements were developing around that choice.
+:62. The alternative had not become physically impossible, but it had become harder to finance, sell, service, and use outside its strongest niches.
+:63. That is the mechanism of path dependence in this case.
+:64. An early change affected adoption, adoption attracted complementary investment, and those investments changed the cost and probability of later choices.
+:65. Mere age would not have been enough.
+:66. A cranking accident that altered no design, purchase, standard, skill, or expectation would have remained an accident rather than a path-making event.
+:67. There is a useful image for this, and it belongs on a ridge.
+:68. Rain falling near the crest of a watershed divides according to where each drop lands, and a short distance one way or the other can send water toward different seas.
+:69. The same nudge applied well down one slope changes the route little because gravity, channels, and accumulated flow now reinforce the direction.
+:70. Small causes have large effects only in certain places and at certain times, and everywhere else they are simply small.
+:71. In technological history, a ridge is a period when several approaches remain credible and the complementary systems around them are not yet deeply built.
+:72. A slope appears as users, factories, skills, standards, and expectations begin to favor one route together.
+:73. The landscape is only an analogy, because technologies do not roll passively under gravity and their field of possibilities can change as people invent, invest, regulate, and coordinate.
+:74. The image nevertheless captures sequence dependence.
+:75. The same improvement can redirect an unsettled field and merely refine a settled one.
+:76. Had a practical starter first appeared after gasoline propulsion already dominated, it could still have improved safety and convenience.
+:77. It would have had much less power to decide which propulsion network manufacturers and motorists built.
+:78. The event has not changed; its position has.
+:79. This pattern appears beyond automobiles, although the causes do not fall into a universal checklist.
+:80. One recurring source of early direction is an unusual first customer.
+:81. Typical customers hesitate to buy unfinished and expensive technology, so governments, armed forces, laboratories, and large organizations often enter first when they have urgent requirements or unusual budgets.
+:82. A specification written for such a buyer describes that buyer's problem rather than every possible future use.
+:83. If suppliers build skills and production lines around it, however, that specification can shape what later customers are offered.
+:84. The early market for integrated circuits provides a well-documented example.
+:85. The first integrated circuits were expensive and modest in capability compared with mature discrete components.
+:86. Their small size, low weight, and low power consumption nevertheless mattered greatly in missile and spacecraft computers.
+:87. The Apollo Guidance Computer was the largest single user of integrated circuits through much of the early 1960s, and by 1965 procurement for the Minuteman missile program had overtaken it.
+:88. Those programs demanded reliability as well as compactness, and their large orders gave manufacturers reasons to improve production and testing.
+:89. Repetition increased yields, quality-control experience accumulated, and prices fell far enough for broader markets to become practical.
+:90. The early customer therefore did more than select from a fixed shelf of devices.
+:91. Its purchases helped change what the industry could make reliably and affordably.
+:92. This was a productive path effect, because early commitments created capabilities that later users valued.
+:93. It also illustrates why an early priority is not destiny, since commercial customers later redirected the industry toward different combinations of price, speed, capacity, and volume.
+:94. The second recurring source of direction is accidental availability, which is to say the materials, machines, and knowledge already close at hand.
+:95. The first working transistor demonstrated at Bell Laboratories in 1947 used high-purity germanium.
+:96. That choice had a history.
+:97. Wartime radar research had accelerated the purification and control of both germanium and silicon for microwave detector diodes.
+:98. Walter Brattain used germanium developed through that research when he and John Bardeen made the point-contact transistor work.
+:99. The choice was contingent without being arbitrary, because wartime availability mattered and germanium's material properties made early experimental work feasible.
+:100. Silicon later displaced germanium in most transistors because it performed better at elevated temperatures and its oxide proved exceptionally useful in manufacturing.
+:101. The first material created a route into solid-state electronics without permanently imprisoning the industry on that route.
+:102. That makes the transistor a valuable counterexample to the claim that every early advantage ends in lock-in.
+:103. Early conditions can direct search and investment strongly while later performance differences, new processes, or changing demands still reopen the path.
+:104. Motion-picture film offers a different degree of persistence.
+:105. In the early 1890s William Dickson and others in Thomas Edison's laboratory experimented with flexible celluloid supplied by the Eastman company, and an 1891 patent specified film thirty-five millimeters wide.
+:106. Many other gauges existed in early cinema, so thirty-five millimeters was not imposed by optics or chemistry alone.
+:107. Once cameras, perforating machines, projectors, laboratories, theaters, and film suppliers converged on the gauge, compatibility made it increasingly valuable.
+:108. The width did not by itself determine every later screen shape, because frame dimensions, perforations, lenses, and projection practices also changed.
+:109. What persisted was the interface around which many complementary devices had been built.
+:110. A measurement that was comparatively cheap to choose early became expensive to abandon after an industry depended on it.
+:111. The third family is people, and here more care is needed, because this is where the storytelling instinct is strongest.
+:112. Alexander Graham Bell filed his telephone patent application on February 14, 1876, the same day Elisha Gray filed a caveat describing a related approach.
+:113. They did not submit identical documents, and the priority dispute that followed cannot be reduced to two geniuses independently producing the same machine at the same instant.
+:114. Their proximity still shows that several investigators were working within a field whose scientific knowledge, electrical components, capital, and communication problems had made speech transmission an active possibility.
+:115. Shared preconditions help explain why inventions so often have near rivals.
+:116. They do not imply that every design, patent, business strategy, or institutional alliance would have produced the same system.
+:117. Individuals may be unable to create missing preconditions, yet they can alter which workable version arrives, when it arrives, who controls it, and which compatible investments follow.
+:118. That is neither a lone-genius theory nor a denial of agency.
+:119. It places agency inside a sequence whose earlier steps distribute leverage unevenly.
+:120. Kettering did not make gasoline's energy density, build the national road network, or eliminate competing propulsion by decree.
+:121. He and his collaborators delivered a particular solution while the balance among propulsion systems was still changing.
+:122. The hardest part of such episodes is not identifying what happened but recovering what could still have happened at the time.
+:123. A technology that wins tends to produce abundant records because continuing firms keep correspondence, manuals, patents, advertisements, machines, trained staff, and commemorative histories.
+:124. A technology that loses may leave fewer operating organizations, fewer maintained machines, and fewer practitioners able to explain tacit knowledge that was never written down.
+:125. The surviving archive is therefore not a neutral sample of the former possibility space.
+:126. It has been filtered partly by the outcome under investigation.
+:127. The bias is not absolute, since patents, trade journals, government files, museums, competitors' records, and abandoned equipment can preserve evidence of losing paths.
+:128. Careful historical work can recover some branches, but it cannot assume that silence proves an alternative was never serious.
+:129. A second distortion comes from viewing early choices through the mature system they helped create.
+:130. Gasoline propulsion can appear self-evidently suited to the automobile when roads, fuel stations, repair skills, regulations, and vehicle design have coevolved around it for a century.
+:131. Those complements are evidence of its success, but they cannot all serve as independent proof that the initial result was inevitable.
+:132. Nor should hindsight erase gasoline's genuine advantages in energy density and refueling time.
+:133. The task is to distinguish properties that were present near the beginning from advantages produced or enlarged by later investment.
+:134. Origin stories are a visible symptom of the same compression.
+:135. The Carter story turns hazardous cranking, Leland's interest, Kettering's engineering, Cadillac's production decision, competing starters, and a shifting vehicle market into one blow of a handle.
+:136. The often repeated explanation for the compact disc's playing time performs similar work.
+:137. According to one official history, the twelve-centimeter disc accommodated a roughly seventy-four-minute performance of Beethoven's Ninth Symphony favored by Sony executive Norio Ohga.
+:138. Kees Schouhamer Immink, a Philips engineer who helped create the format, later disputed the symphony as the decisive cause and emphasized technical and commercial bargaining between Philips and Sony.
+:139. The precise origin remains contested, while the standard itself clearly emerged from negotiations over disc size, coding, error correction, playing time, manufacturability, and market strategy.
+:140. Beethoven may have entered the discussion without single-handedly determining the disc.
+:141. The neat story survives because one music lover and one symphony are easier to carry in memory than a sequence of meetings among two companies with partially conflicting interests.
+:142. Narrative compression is not necessarily deception, but it becomes misleading when a memorable trigger is mistaken for a sufficient cause.
+:143. Contingent does not mean arbitrary, and small causes do not summon viable possibilities from nowhere.
+:144. No accident in Detroit could have erased the mass, cost, range, and charging limits of early storage batteries.
+:145. No committee could have standardized a semiconductor industry before researchers could purify and control semiconductor materials.
+:146. Physical constraints, functional requirements, and trade-offs set boundaries within which historical selection occurs.
+:147. Even within those boundaries, alternatives need not be equally good, equally mature, or equally likely.
+:148. The stronger claim is not that merit never matters but that merit is multidimensional and that history changes which dimensions receive investment.
+:149. Early differences can also wash out rather than amplify.
+:150. Germanium opened the transistor path, yet silicon's properties and new fabrication methods overcame its lead.
+:151. Competing technical systems sometimes converge on similar solutions when strong performance requirements outweigh compatibility with earlier choices.
+:152. Governments and firms can deliberately replace standards when the benefits of coordination exceed the transition costs.
+:153. A historical beginning becomes path dependence only when a mechanism carries its effects forward.
+:154. Periods of unusual sensitivity can still be recognized in outline, even though their outcomes cannot be known in advance.
+:155. Several approaches perform credibly, installed bases remain small, interfaces are unsettled, and investments have not yet woven one option into many neighboring systems.
+:156. At that stage, a customer specification, a readily available material, a patent ruling, a production order, or a practical improvement can redirect subsequent learning and investment.
+:157. Uncertainty about which direction will prevail is not the same as ignorance about the forces that will amplify the result.
+:158. Technical history differs from biological evolution because designers can form intentions, compare prototypes, negotiate standards, and coordinate replacement.
+:159. Intention does not abolish path dependence, because every plan begins with inherited tools and because the consequences of many reasonable decisions can exceed what any participant chose.
+:160. The famous crank story survives because it gives a human face to that distributed threshold.
+:161. Its lesson is not that one broken jaw selected the modern automobile.
+:162. It is that once fuels, factories, roads, skills, prices, and expectations had begun to lean together, changing how one engine started could help change which engines millions of people would find easiest to start.

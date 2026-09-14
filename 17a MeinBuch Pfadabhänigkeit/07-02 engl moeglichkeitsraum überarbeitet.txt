@@ -1,0 +1,122 @@
+== 7.2 Der Einschnitt von 1871 ==
+
+:1. On October 1, 1879, a ceremony in the auditorium of Leipzig University formally opened the Reichsgericht, the new supreme court of the German Empire.
+:2. Its first president, Eduard von Simson, had presided over the Frankfurt National Assembly three decades earlier and later over the Reichstag, so his career itself connected a failed national project to a successful but very different one.
+:3. The judges had no purpose-built palace yet and began work in the Georgenhalle, a building supplied provisionally by the city.
+:4. What mattered that morning, however, was not the temporary address but the vast and largely invisible rearrangement that made the court possible.
+:5. On the same day, a package of laws enacted in 1877 came into force across the empire, giving litigants, lawyers, prosecutors, and judges a common framework for moving civil and criminal cases through court.
+:6. A political union proclaimed in 1871 had acquired an operating system for ordinary justice.
+:7. The comparison should not be mistaken for a claim that Germany had previously possessed no law or competent courts, because the kingdoms, grand duchies, duchies, and free cities that entered the empire had functioning legal orders, some of them highly developed, and several fields of law had already been aligned through earlier confederal cooperation.
+:8. Yet their court names, routes of appeal, procedural rules, and divisions of responsibility did not form a single intelligible map.
+:9. A lawyer trained in one territory could cross an internal border and encounter a different sequence of institutions, while a commercial relationship spanning several states could depend on rules that did not fit neatly together.
+:10. This diversity preserved local experience and sometimes useful alternatives, but it also raised the cost of knowing where a claim belonged and how it would be heard.
+:11. Legal fragmentation was therefore neither picturesque pluralism nor administrative chaos; it was a working arrangement whose coordination costs became harder to accept as economic and political connections thickened.
+:12. The founding of the empire changed the set of actors capable of addressing those costs.
+:13. Article 4 of the imperial constitution placed criminal law and judicial procedure, along with specified areas of private and commercial law, under imperial supervision and legislation.
+:14. It did not initially authorize a comprehensive civil code, and the member states did not surrender their governments or all their legal powers at the palace doors in Versailles.
+:15. Nor did national legal cooperation begin from nothing, because the empire inherited much of the constitutional machinery of the North German Confederation and a supreme commercial court already sitting in Leipzig.
+:16. The break of 1871 was consequential because it joined existing pieces to a durable federal lawmaking authority, not because it cleared the institutional ground.
+:17. That distinction reveals the mechanism of a critical juncture: a new decision center can make alternatives reachable that were previously blocked, even though the center itself is assembled from inherited capacities and compromises.
+:18. Once Reichstag and Bundesrat could enact common procedural law, reformers no longer had to persuade every state to rebuild its judicial machinery independently.
+:19. The new route did not guarantee agreement, since governments, parties, lawyers, judges, and regional interests still disputed the details, but it concentrated bargaining in institutions able to produce rules binding throughout the federation.
+:20. An option that had long existed in pamphlets, professional debates, and the unfinished constitutional project of 1848 and 1849 had acquired an implementable path.
+:21. The outcome was not inevitable even then, for unification could have left more procedure to the states, imposed a more centralized system, or preserved additional regional exceptions.
+:22. What emerged was a negotiated structure that combined nationwide rules with courts still administered largely by the member states.
+:23. The core Reich Justice Acts were the Courts Constitution Act, the Code of Civil Procedure, the Code of Criminal Procedure, and the Bankruptcy Code.
+:24. Enacted in 1877 and brought into force after a lengthy period of preparation, they synchronized organization and procedure rather than instantly making every substantive rule identical.
+:25. The distinction is easy to miss because modern discussions often treat “the law” as one undivided object.
+:26. Substantive law tells a court which rights, duties, offenses, or liabilities govern a dispute, whereas procedural law determines how a claim is filed, evidence is presented, a judgment is challenged, and a decision is enforced.
+:27. A courts constitution answers another practical set of questions: which kind of court hears the matter, who sits in judgment, and where an appeal can go.
+:28. The reforms of 1877 supplied common answers to those operational questions years before the Civil Code unified most private law in 1900.
+:29. For ordinary civil and criminal justice, the Courts Constitution Act established a recognizable hierarchy of local courts, regional courts, higher regional courts, and the Reichsgericht.
+:30. The Amtsgericht, or local court, handled smaller civil disputes and many less serious criminal matters, placing much first-instance justice close to everyday life.
+:31. The Landgericht, or regional court, heard more substantial cases at first instance and also reviewed many decisions from the local courts.
+:32. The Oberlandesgericht, or higher regional court, dealt chiefly with appeals and other review functions assigned by the new procedural order.
+:33. At the summit, the Reichsgericht reviewed specified civil and criminal judgments and helped give imperial law a more consistent interpretation.
+:34. Jurisdiction was not a simple ladder on which every case climbed all four rungs, because the route depended on the subject, seriousness, value, and kind of legal challenge involved.
+:35. That branching structure matters: legal unity did not mean sending every disagreement toward one national office, but making the entrances and routes predictable enough that participants could coordinate around them.
+:36. Most of the courts below the summit remained courts of the individual states, staffed and administered within federal structures rather than absorbed into a single imperial ministry, while only the Reichsgericht stood as the common supreme court, with a reach defined through rules of jurisdiction rather than a general power to correct anything it disliked.
+:37. The settlement also did not gather every form of adjudication into the ordinary-court hierarchy, since administrative and other specialized jurisdictions retained distinct histories and developed along different lines.
+:38. The architecture was therefore a layer, not a monolith.
+:39. It reduced variation where common procedure promised large gains while leaving other powers, offices, and legal traditions in place.
+:40. This federal compromise made reform politically attainable, but it also determined where later coordination problems would appear.
+:41. The new order reached inside the courtroom as well as across the map.
+:42. The Courts Constitution Act declared judges independent and subject only to law, provided for life tenure, and replaced fee-dependent judging with fixed salaries.
+:43. The procedural codes organized oral hearings, public proceedings subject to defined exceptions, evidence, appeals, and the respective roles of judges, prosecutors, defense counsel, and parties.
+:44. Lay participation through mixed courts and juries was incorporated without turning the system into a copy of an English or American model.
+:45. A complementary national framework for legal practice widened the freedom of qualified lawyers to enter the profession, while the court statute established a portable qualification for judicial office.
+:46. Study, practical preparation, and two examinations became parts of a professional sequence whose successful completion in one member state could open judicial service elsewhere in the empire.
+:47. These provisions did more than standardize credentials on paper.
+:48. They changed where aspiring jurists invested years of training, what universities and examination boards taught, and which procedural habits employers expected a newcomer to possess.
+:49. A court clerk could design files around recurring stages, a lawyer could reuse knowledge across territorial borders, and a judge could read a higher court's decision within a shared procedural grammar.
+:50. Every repetition lowered the cost of using the new system and reduced the incentive to preserve an incompatible local routine merely because it was familiar.
+:51. Buildings were reassigned or constructed for the new court levels, districts were redrawn, offices received new names and responsibilities, and streams of cases began flowing through the prescribed channels.
+:52. The legal hierarchy became at once a map of jurisdiction, a career structure, and a network of material investments.
+:53. The Reichsgericht added another feedback loop.
+:54. Its decisions could coordinate the interpretation of imperial statutes, and the expectation of review encouraged lower courts and advocates to frame arguments in terms the common hierarchy could recognize.
+:55. It could not erase continuing differences in substantive state law, nor did a judgment from Leipzig automatically produce uniform practice in every courtroom.
+:56. Yet each usable precedent, treatise, form, and course built around the imperial framework made that framework more valuable to the next participant.
+:57. This was increasing return in institutional form: not a cash profit, but an expanding stock of shared knowledge and compatible routines.
+:58. Replacing the structure would henceforth require more than passing a rival statute, because reformers would have to retrain people, redirect cases, revise professional materials, and manage errors during the transition.
+:59. The achievement and the constraint were the same system viewed from opposite ends of time.
+:60. Once ordinary justice worked through the common channels, even a later political order that rejected the empire would have to decide whether to abandon those channels or rebuild within them.
+:61. Reuse and replacement were not mutually exclusive, and every successor regime drew the line between them differently.
+:62. The Weimar Republic abolished the monarchy and grounded public authority in a democratic constitution, yet ordinary cases continued to move through much of the inherited hierarchy under heavily amended imperial statutes.
+:63. That durability demonstrated the value of a shared judicial infrastructure, but it did not make the infrastructure politically neutral.
+:64. A procedure operates within a wider legal order that determines who possesses rights, how judges are appointed, which laws they must apply, and whether other institutions respect their independence.
+:65. The same route of appeal can therefore serve profoundly different kinds of state.
+:66. Court names and filing rules may persist while the constitutional meaning of adjudication changes around them.
+:67. Institutional complementarity helps explain why the organizational shell proved so durable.
+:68. The Courts Constitution Act assigned offices and jurisdictions, while the civil and criminal procedure codes specified the movements those offices were expected to perform.
+:69. Rules governing lawyers, fees, evidence, enforcement, and professional qualification attached further working parts to the same structure.
+:70. Changing one element without adjusting its neighbors could send a case to an office no longer prepared to receive it or create a remedy with no workable route of review.
+:71. These connections made comprehensive replacement hazardous, but they also made the common system useful, because litigants throughout Germany could increasingly rely on recognizable processes.
+:72. What looked like inertia from the viewpoint of a reformer could look like dependable access from the viewpoint of someone whose contract, liberty, or property depended on a court opening as expected.
+:73. The National Socialist seizure of power exposed the danger of treating institutional survival as evidence of legal continuity in any deeper sense.
+:74. The regime did not need to abolish the entire ordinary-court hierarchy in order to subordinate justice to racial persecution and dictatorship.
+:75. It removed and excluded judges and lawyers, transformed the law they applied, created or expanded political special jurisdictions, and subjected legal institutions to a state that rejected equal citizenship and meaningful constraints on power.
+:76. The Reichsgericht remained in Leipzig, and familiar procedural forms continued in many ordinary matters, while courts also participated in grave injustice.
+:77. A courthouse can keep its files moving after the principles that once justified its authority have been attacked.
+:78. To say that an organizational path endured across 1933 is therefore not to place the empire, Weimar democracy, and the dictatorship on one political or moral plane.
+:79. It is to identify a narrower and more unsettling fact: inherited capacities can transmit administrative competence without transmitting the conditions under which that competence deserves trust.
+:80. Path dependence describes how options are structured, not whether the resulting path is legitimate.
+:81. The collapse of the dictatorship in 1945 brought a far more radical institutional break.
+:82. The Reichsgericht ceased to exist, Germany was divided into occupation zones, and judicial institutions were reconstructed under Allied authority before two German states emerged.
+:83. Reconstruction in the western zones culminated in the Federal Republic, where the Basic Law supplied a constitutional foundation centered on binding fundamental rights, divided powers, federalism, and judicial protection that the imperial system had not possessed in that form.
+:84. The Federal Court of Justice began work in Karlsruhe on October 1, 1950, exactly seventy-one years after the opening of the Reichsgericht.
+:85. The matching date and the court's position at the summit of ordinary civil and criminal justice make the historical connection visible, but they do not turn the new court into the old court under another sign.
+:86. Its authority came from a new constitution and new legislation, within a state deliberately built after dictatorship and military defeat.
+:87. Below that summit, the names Amtsgericht, Landgericht, and Oberlandesgericht remained, and the modern Courts Constitution Act still arranges ordinary jurisdiction around those levels and the Federal Court of Justice.
+:88. This is a genuine organizational continuity, though every level has been altered repeatedly in jurisdiction, composition, procedure, and constitutional control.
+:89. Traditional juries disappeared, even though panels bearing the historical name Schwurgericht survived in a different form, and specialized labor, administrative, social, fiscal, and constitutional jurisdictions developed their own structures.
+:90. The Bankruptcy Code of 1877 lasted for more than a century but was replaced by the Insolvency Code in 1999.
+:91. Such changes are counterexamples to any claim that the settlement of the 1870s froze German justice permanently.
+:92. They show instead that a framework can be modified unevenly, with some components replaced and others retained because their connections remain serviceable.
+:93. The survival of a four-level pattern is not, by itself, proof of lock-in.
+:94. Many legal systems need local access, a place for serious trials, appellate review, and a court capable of resolving disputed questions at the top, so functional pressures could produce a hierarchy even without the events of 1871.
+:95. Common court labels also solve recurring coordination problems, and keeping a good solution can be rational rather than pathologically conservative.
+:96. After war and dictatorship, moreover, rebuilding every office, district, professional qualification, and procedural text from first principles would have consumed scarce time while people still needed judgments.
+:97. These explanations compete with a lazy story in which institutions survive only because officials dislike change.
+:98. They also refine the path-dependent claim: history mattered because an already functioning arrangement altered the comparative cost, risk, and visibility of the alternatives, not because it made alternatives inconceivable.
+:99. A convincing counterfactual would therefore require more than imagining a cleaner diagram of courts.
+:100. It would have to specify who could staff the alternative, how pending cases would move, which precedents and forms would remain usable, how federal and state responsibilities would be divided, and what benefits would justify the transitional errors.
+:101. If credible answers existed and political support outweighed the costs, even a deeply embedded component could be changed.
+:102. The replacement of the bankruptcy regime and the creation of separate branches of jurisdiction demonstrate that such redirection was possible.
+:103. What the old path supplied was not an iron command but a complete, practiced answer against which every challenger had to compete.
+:104. Even the location of the supreme court reveals contingency hardening into structure.
+:105. Berlin, favored by the emperor and Bismarck, narrowly lost to Leipzig in the Bundesrat decision over the court's seat, a reminder that Prussian predominance did not decide every institutional question automatically.
+:106. The choice initially meant borrowed rooms, but it later drew a monumental courthouse, judges, staff, libraries, professional travel, and public symbolism toward one city.
+:107. After the Reichsgericht vanished, the building survived other uses and eventually became the seat of the Federal Administrative Court, whose jurisdiction is not that of its original occupant.
+:108. Stone persisted while function changed.
+:109. The episode captures both sides of a legal path: investment makes a location easier to reuse, yet reuse can carry an inherited structure into a purpose its builders never planned.
+:110. The same opening of possibilities that produced common courts soon reached the substance of private law.
+:111. The constitution of 1871 had granted the empire competence over obligations, commercial and bill-of-exchange law, criminal law, and judicial procedure, but not yet over all civil law.
+:112. In 1873, after repeated political efforts, the amendment associated with the National Liberal deputies Johannes Miquel and Eduard Lasker extended imperial legislative competence to the whole field of civil law.
+:113. A small change in constitutional wording brought property, family, inheritance, and other private-law questions within reach of a common legislature.
+:114. It did not answer those questions, and it did not sweep away the regional codes and learned traditions that jurists carried into the drafting rooms.
+:115. It changed who could produce a binding answer and allowed committees, ministries, parliamentarians, scholars, and practitioners to direct their work toward a single national code.
+:116. By then, common courts and procedures had created institutions capable of applying such a code, while national qualifications and professional networks had created people capable of teaching, interpreting, and contesting it.
+:117. This prior unification did not dictate the design of the future Civil Code, whose language, structure, and social assumptions remained subjects of prolonged conflict.
+:118. It did, however, make codification more reachable and piecemeal retreat more costly with every year of organized work.
+:119. When the Civil Code was enacted in 1896 and entered into force in 1900, it arrived not on empty ground but in courtrooms already connected by an imperial procedural grid.
+:120. The legal path opened in 1871 had first standardized how disputes traveled; its next great layer would shape the categories through which jurists understood what those disputes were about.

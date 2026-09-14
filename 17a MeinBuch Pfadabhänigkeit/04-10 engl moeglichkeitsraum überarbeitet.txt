@@ -1,0 +1,176 @@
+== 4.10 Agenten und ein neuer Typ von Lock-in ==
+
+:1. When a town builds a bridge across its river, the bridge begins its life as a convenience.
+:2. People who used to wait for the ferry now walk across in four minutes, and for a while that is the whole of the story.
+:3. Then a farmer on the far bank plants a crop that only makes sense if it can reach the market every morning.
+:4. A family builds a house on the cheap land across the water, because the school is suddenly a short walk away.
+:5. A bakery opens on one side and sells to both.
+:6. Ten years later the bridge is no longer a convenience at all.
+:7. It has become the thing all those other decisions are resting on.
+:8. Removing it would not return the town to its earlier state, because it would strand a neighborhood, disrupt a crop cycle, and cut a bakery off from customers.
+:9. The ferry, by then, is long gone, its pilots retired and its landing overgrown with weeds.
+:10. This is the quiet transformation worth watching: the moment a tool stops being something you use and becomes something you stand on.
+:11. The bridge is an analogy rather than a history of any particular town, and its limit matters.
+:12. A bridge carries later choices, but it does not make those choices itself.
+:13. A class of computer systems now raises the possibility of infrastructure that can also act.
+:14. These systems are usually called agents, although the word covers many designs and levels of autonomy.
+:15. Functionally, an artificial-intelligence agent is a system that can pursue an assigned objective through multiple steps, use tools, respond to intermediate results, and alter some state beyond its own text output.
+:16. It might read a service ticket, check an account, draft a reply, update the record, and route an exception without receiving a fresh instruction at every step.
+:17. Not every product called an agent can do all of these things, and autonomy is better understood as a degree than as a switch.
+:18. Permissions, safeguards, observability, and the range of allowed actions can differ as much as the underlying model.
+:19. A calculator waits for an expression, computes it, and waits again.
+:20. A search engine ranks possible answers but normally leaves the resulting action to its user.
+:21. An agent can connect such tools into a sequence whose later steps depend on what happened in the earlier ones.
+:22. A human may define the beginning and inspect the end while software performs much of the middle, although logs, approvals, and checkpoints can make that middle more or less visible.
+:23. That middle is where the new path mechanism begins.
+:24. Systems that act in response to changing conditions are not new.
+:25. A thermostat can be described as a minimal agent because it repeatedly acts to keep a variable near a target, but the analogy should not disguise the enormous difference between a feedback controller and a language-based software agent.
+:26. Autopilots control bounded aspects of flight, and industrial controllers have regulated machinery for decades.
+:27. Automatic inventory systems can detect low stock and trigger an order without waiting for a person to notice an empty bin.
+:28. What has changed is less the existence of acting systems than the variety of inputs they can interpret, tools they can call, and sequences they can assemble.
+:29. Older automation was usually confined to a tightly specified process with bounded inputs and permitted actions, though its designers did not and could not anticipate every possible situation.
+:30. Newer agents can operate in tasks expressed partly through ordinary language, where exceptions are numerous and the next step may depend on an open-ended document or message.
+:31. Their real fences are not made of language alone but of access controls, software interfaces, validation rules, monitoring, and organizational policy.
+:32. Wider range makes them useful in places no thermostat could go, and it also makes their behavior harder to bound and verify.
+:33. Consider how work is actually shaped inside any organization of reasonable size.
+:34. It is a chain of handoffs.
+:35. Something arrives—an order, a complaint, an application, a defect report—and it moves from desk to desk, collecting decisions as it goes.
+:36. Each desk does a small amount of thinking and passes the object along.
+:37. Much of the real intelligence in such a chain lives not in any single desk but in the shape of the chain itself: who checks what, in which order, and who is permitted to say no.
+:38. Who checks what, in which order, with access to which information, and with authority to say no all affect the result.
+:39. An acting system commonly enters a chain at one handoff, performing one step that a person used to perform.
+:40. That is a sensible way to begin because the task is limited and a person can handle an exception or take over after a failure.
+:41. Yet a successful substitution rarely leaves the surrounding chain entirely unchanged.
+:42. First the tempo can change.
+:43. A step that once took hours may take seconds, so the desks downstream receive work in a rhythm they were not designed to absorb.
+:44. They adapt by changing queues, staffing, schedules, and the size of the batches in which work moves.
+:45. A meeting that existed to sort an overnight backlog may become unnecessary and disappear.
+:46. What looks like a local gain has now altered complementary routines elsewhere in the organization.
+:47. Then the interfaces change.
+:48. The agent needs reliable inputs, so the form upstream is redesigned to produce them.
+:49. Free-text notes may become structured fields because structured fields are easier for software to validate and act upon.
+:50. This can be a genuine improvement, since clear categories reduce ambiguity and make cases easier to search or audit.
+:51. It can also remove the place where an experienced clerk recorded why one case did not fit the categories.
+:52. That loss is not inevitable, because a system can preserve both structured data and contextual notes.
+:53. The path-dependent point is that once downstream actions expect the new structure, restoring the old form is no longer an isolated interface change.
+:54. Roles change as well.
+:55. A person who used to perform a task may become the reviewer of the task.
+:56. Reviewing a highly reliable automated process all day is not simply the old job with less effort but a different job with different cognitive demands.
+:57. Human-factors researcher Lisanne Bainbridge identified the paradox in 1983: automation often leaves people responsible for rare abnormalities while depriving them of the practice and current knowledge needed to handle those abnormalities.
+:58. Vigilance research also shows that people have difficulty sustaining attention when important signals are rare.
+:59. In controlled experiments, operators were less likely to detect failures after monitoring automation with consistently reliable performance than after monitoring a system whose reliability varied.
+:60. A reviewer who gradually shifts from active checking to routine approval is therefore not necessarily careless or morally deficient.
+:61. Effective oversight depends on task design, signal frequency, workload, feedback, and opportunities to exercise judgment rather than on a command to pay closer attention.
+:62. Up to this point, the changes can still be described as adjustment.
+:63. What follows is a genuine co-evolution, and it runs in both directions at once.
+:64. The tool is shaped to fit the organization: configured, granted access to internal systems, taught the local vocabulary, pointed at the local exceptions.
+:65. Every one of those adaptations is an investment, and investments create attachment.
+:66. The organization, meanwhile, reshapes itself to fit the tool.
+:67. The spread of integrated enterprise software during the 1990s and early 2000s made this pattern unusually visible.
+:68. Such packages joined finance, inventory, purchasing, personnel, and other functions through shared records and standardized processes.
+:69. Empirical studies found that implementing them could transfer not only software but also business rules embedded in the package into the adopting organization.
+:70. Customization was possible, but extensive departures from the package could raise implementation, maintenance, and upgrade costs.
+:71. Many organizations therefore changed at least some of their processes to fit the software, while others negotiated hybrids between local practice and packaged routines.
+:72. It was even given a flattering name: adopting best practice.
+:73. The label did not guarantee that every transferred rule was best for every organization.
+:74. Some rules replaced fragmented or needlessly inconsistent work with a coherent process.
+:75. Others embodied contestable trade-offs or distinctions that happened to fit the package's architecture.
+:76. Once training, reporting, permissions, and connected systems accumulated around either kind, changing the rule became more expensive than editing a setting.
+:77. An initially debatable convention could become a structural fact because many useful investments now rested upon it.
+:78. Agents can intensify this familiar pattern in a specific way.
+:79. Earlier enterprise systems already shaped workflows and sometimes constrained decisions, so the difference is not an absolute break with the past.
+:80. An agent can nevertheless apply classifications, priorities, and exceptions repeatedly inside the flow of work rather than merely storing the resulting records.
+:81. When a system assigns urgency to complaints, urgency becomes partly an operational category produced by the system.
+:82. When it selects applications for a second look, the practical boundary of a borderline case may reside across prompts, model behavior, thresholds, data, and escalation rules.
+:83. That boundary may be harder to state than a rule in a manual, although detailed logging can sometimes make an automated process more traceable than an informal human one.
+:84. Staff learn what the system flags and may begin writing notes in ways that produce the classifications they expect or prefer.
+:85. Managers learn which measures the system reports, and those measures can become the ones around which targets and staffing are organized.
+:86. Categories that began as representations of work then help organize the work they represent.
+:87. This is more than passive inheritance from historical data.
+:88. An agent's output can change which cases receive attention, how quickly they are resolved, and which outcomes are recorded.
+:89. Those altered outcomes become part of the environment from which later data are collected.
+:90. If the system is subsequently evaluated or retrained on that record, its earlier classifications may help create evidence that appears to confirm them.
+:91. The loop is neither universal nor unstoppable, because independent audits, alternative labels, randomized checks, or changed objectives can interrupt it.
+:92. Where the loop does operate, however, it displays the central mechanism of path dependence with unusual clarity.
+:93. Earlier outputs change the distribution and visibility of later inputs, making some future actions easier to recognize and others harder even to propose.
+:94. Hiring and training add another layer.
+:95. New employees may be hired to work with the system rather than to perform every task the system performs.
+:96. They learn its interface, handle its exceptions, and develop valuable expertise in its limits.
+:97. Meanwhile, older routines receive less exercise.
+:98. Some of the knowledge they contain is explicit and recoverable from manuals, but some is tacit knowledge that lives in practiced perception, sequence, and feedback.
+:99. As experienced employees retire or move on, an organization can lose not only hands but also its ability to teach the pre-automation process.
+:100. Aviation offers a carefully studied version of this problem under the heading of manual-skill retention.
+:101. Flight automation has delivered large benefits in precision, workload management, and safety, so skill degradation is not a verdict against automation.
+:102. It is evidence that a rarely exercised fallback does not preserve itself merely because a trained person remains nominally responsible for it.
+:103. Aviation authorities and researchers have therefore emphasized both manual-flight proficiency and training for transitions between automated and manual control.
+:104. The evidence does not support a simple claim that every highly automated cockpit produces less capable pilots.
+:105. Frequency of practice, training design, operating policy, system design, and the allocation of tasks all affect what skills are retained.
+:106. The instructive point is that preserving a fallback requires its own continuing routines and resources.
+:107. Without them, the primary system improves through use while the alternative decays through disuse.
+:108. That is a positive feedback loop with two sides: competence accumulates on one path as it drains from another.
+:109. The question of reversal now looks different.
+:110. Notice first what going back does not mean.
+:111. It does not mean switching the system off, in the way one might cancel a subscription to a piece of software that turned out to be disappointing.
+:112. Reversal may require rebuilding the process again while the work continues to arrive.
+:113. It may require recruiting or retraining people for tasks that no longer exist as complete jobs.
+:114. It may require restoring fields, queues, checks, or coordination routines that disappeared when the automated path made them redundant.
+:115. Some discarded routines were genuine waste, and path dependence gives no reason to romanticize them or reproduce the exact past.
+:116. The relevant alternative may be a newly designed replacement rather than a museum copy of the former process.
+:117. Even that replacement must supply the capabilities that the old routines once provided, often before anyone has fully reconstructed what those capabilities were.
+:118. Transition costs can therefore remain high even when the proposed destination is technically better.
+:119. The cost of reversal also changes while the organization adapts because the outside world may adapt at the same time.
+:120. Once rapid automated service becomes common in an industry, customers can begin treating yesterday's exceptional response time as today's minimum.
+:121. Suppliers may rebuild their operations around machine-readable orders, and reporting requirements may assume data at the new tempo.
+:122. A manual alternative then becomes slower not only than the automated system but also than the surrounding network expects.
+:123. Here is the crucial asymmetry: the tool can remain exactly as capable as it was on its first day while the option of doing without it continues to grow more expensive.
+:124. It is worth being precise about what kind of lock-in this is, because it is not quite any of the familiar kinds.
+:125. It includes the lock-in of standards when partners expect the same interfaces.
+:126. It includes sunk and complementary investments in integration, training, and process redesign.
+:127. It includes data lock-in when records or annotations cannot travel cleanly to another system.
+:128. It also includes something that can reasonably be called the lock-in of delegated judgment.
+:129. Delegated-judgment lock-in arises when an organization repeatedly assigns classifications or choices to a system and lets the human routines that could produce, interpret, or contest them weaken.
+:130. This does not mean that all judgment has vanished from the organization or that a model alone determines every outcome.
+:131. Judgment is redistributed among model behavior, instructions, thresholds, data definitions, access permissions, exception handlers, and the people who maintain them.
+:132. That distribution is precisely why removal can be difficult.
+:133. Deleting one component does not automatically reassemble the earlier decision process from the remaining pieces.
+:134. The organization may still possess outputs, documentation, and skilled exception handlers while lacking a practiced routine for producing ordinary decisions without the agent.
+:135. A written rulebook may help, but it cannot by itself preserve skills that depended on continuous feedback and use.
+:136. Agents add one further quality to this lock-in because they can extend the path through their own actions.
+:137. A bridge remains passive while later decisions gather around it.
+:138. An agent can schedule the appointment, place the order, update the account, and send the message that becomes the starting condition for another decision.
+:139. Each completed action changes the state in which the next choice will be made.
+:140. The system is therefore not only embedded in a historical path but can help propagate that path step by step.
+:141. Direct exchanges between agents can deepen the effect.
+:142. An ordering agent might communicate with a supplier's fulfillment system, while a scheduling agent negotiates available times with another scheduler.
+:143. Such exchanges can occur quickly, at high volume, and in formats designed for software rather than casual human reading.
+:144. They are not literally unwitnessed if logs, traces, and audit tools exist.
+:145. Yet when nobody routinely follows the full sequence and the interfaces are proprietary or poorly documented, reconstructing the process can become difficult.
+:146. The relevant loss is not mystical machine opacity but the disappearance of a human-scale route through a densely coupled process.
+:147. No single exchange has to be unintelligible for the chain as a whole to exceed what one person can readily survey.
+:148. None of these mechanisms makes lock-in inevitable.
+:149. An agent used only to draft suggestions while a person performs and records the consequential action may leave the surrounding process largely intact.
+:150. A self-contained agent performing a commodity task through a stable, well-documented interface may be easy to replace.
+:151. Automation can even preserve knowledge when it forces an organization to document decisions that previously survived only as oral tradition.
+:152. Portable data, interoperable interfaces, meaningful logs, practiced fallback routines, and alternative suppliers can all keep replacement paths accessible.
+:153. These counterforces differ in effectiveness, and maintaining them consumes money, time, and attention.
+:154. A redundant process that is never used may fail when needed, while one that is exercised imposes a visible continuing cost.
+:155. Present efficiency and future reversibility therefore form a real trade-off, but a trade-off alone is not yet path dependence.
+:156. Path dependence appears when early reliance creates complementary adaptations, those adaptations reward deeper reliance, and alternative capacity becomes costlier or less visible.
+:157. If a system performs an isolated task, leaves adjacent routines untouched, and can be replaced without retraining people or rebuilding interfaces, its use has a history but little meaningful lock-in.
+:158. This counterexample matters because otherwise every installed program would count as path dependent merely by having been installed earlier.
+:159. The benefits of a binding path can also be substantial.
+:160. Shared categories can reduce coordination costs, integrated tools can eliminate repetitive transfer work, and accumulated experience can make exception handling faster and more reliable.
+:161. The same web of complementarity that obstructs replacement often produces much of the system's value.
+:162. A useful lock-in is not a contradiction but a stable arrangement whose benefits and exit costs arise from some of the same investments.
+:163. Nor is lock-in a synonym for permanence.
+:164. New requirements, failures, rival systems, organizational mergers, or deliberate investments in interoperability can reopen paths that had become expensive.
+:165. Change may occur through gradual substitution, parallel operation, or translation layers rather than a clean return to the past.
+:166. The feasible route depends on what knowledge, interfaces, and alternative capacities survived the period of dependence.
+:167. Agentic systems sharpen this old lesson because adoption and path extension can now occur in the same mechanism.
+:168. A conventional infrastructure waits for people to build upon it, whereas an agent can carry out actions that encourage the next action to pass through the same infrastructure.
+:169. That does not make the machine an independent historical actor, because people and institutions still set objectives, permissions, incentives, and surroundings.
+:170. It does mean that the tempo and reach of self-reinforcement can increase once delegated actions begin creating their own downstream conditions.
+:171. The town with the bridge did not make a mistake by building it.
+:172. It made a decision it did not know it was making, which was to become a town that could no longer do without one.
+:173. That is not a tragedy; it is simply what happens when a convenience carries weight for long enough.
+:174. The only real question is whether anyone noticed the moment the weight shifted.

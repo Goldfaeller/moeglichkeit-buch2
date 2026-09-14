@@ -1,0 +1,118 @@
+Anhang: Generelle Arbeitsanweisung für das gesamte Buch 2 – Projekt pAAA
+
+
+Funktion und Grundhaltung
+
+Das Buch erklärt, wie Menschen unbekannte Technologien und Erkenntnisse wahrnehmen, emotional bewerten, mit vertrauten Geschichten deuten und schließlich in ihren Alltag aufnehmen. Es ist ein wissenschaftlich fundiertes Sachbuch für ein breites, urteilsfähiges Publikum. Es soll weder als akademisches Lehrbuch noch als Technikratgeber, Zukunftsprognose, politische Programmschrift oder Sammlung amüsanter historischer Irrtümer geschrieben werden. Der Leser soll nach jedem Text genauer unterscheiden können: Was ist tatsächlich neu? Welche vertraute Grenze wird verletzt? Welches innere Bild entsteht? Welche Emotionen und Interessen wirken? Welche Behauptungen sind belegt? Was wird durch Medien, Märkte oder kulturelle Erzählungen verstärkt? Wie verändert Gewöhnung die Wahrnehmung?
+
+Die Grundhaltung ist neugierig, nüchtern und menschenfreundlich. Staunen wird nicht als Naivität abgewertet, Vorsicht nicht als Rückständigkeit und Begeisterung nicht automatisch als Leichtgläubigkeit behandelt. Frühere Menschen werden aus ihrem damaligen Wissen heraus verstanden. Die tatsächliche spätere Entwicklung darf nicht so erzählt werden, als sei sie von Anfang an offensichtlich oder unvermeidlich gewesen. Neue Technologien können wirklichen Nutzen und wirkliche Schäden erzeugen; ihre psychologische Deutung ersetzt keine sachliche Prüfung ihrer Folgen.
+
+Verbindlicher Aufbau jedes Kapiteltextes
+
+Jeder beauftragte Kapiteltext muss eigenständig funktionieren, weil die schreibende KI möglicherweise nur die jeweilige Überschrift und die zugehörige Arbeitsanweisung erhält. Der Text braucht einen konkreten Einstieg, der das psychologische oder kulturelle Problem unmittelbar sichtbar macht. Danach sind Leitfrage und zentrale Unterscheidung aus dem Gegenstand heraus zu entwickeln. Mindestens ein belastbarer Fall muss die Argumentation tragen. Abstrakte Begriffe sind am Fall zu erklären und anschließend über ihn hinaus zu verallgemeinern. Mindestens eine Einschränkung, Gegenprobe oder alternative Erklärung ist einzubauen. Der Schluss muss eine neue, präzise Einsicht formulieren und darf nicht nur das zuvor Gesagte wiederholen.
+
+Nicht explizit auf vorherige oder nachfolgende Kapitel verweisen. Formulierungen wie „wie wir bereits gesehen haben“, „darauf kommen wir später zurück“, „im vorigen Kapitel“, „das nächste Kapitel zeigt“ oder „an anderer Stelle dieses Buches“ sind zu vermeiden. Keine Inhaltsvorschau, Rückschau oder Metakommentare verwenden, um Umfang zu erzeugen. Wenn ein Begriff für den vorliegenden Text benötigt wird, muss er dort knapp und selbstständig erklärt werden.
+
+Beginne keinen Text mit „To understand …“ oder „Um zu verstehen …“. Vermeide sinngleiche leere Anläufe wie „Since the dawn of time“, „Throughout human history“, „In today’s rapidly changing world“, „This topic is more important than ever“ oder eine Wörterbuchdefinition. Beginne stattdessen mit einem konkreten Vorgang, einem Gegenstand, einer dokumentierten Szene, einem Experiment, einer Beobachtung, einem Widerspruch oder einer präzise zugespitzten Schwierigkeit.
+
+Schreibe den Kapiteltext in idiomatischem Englisch. Die Kapitelüberschrift bleibt deutsch und wird mit der vorgegebenen Nummer im MediaWiki-Format ausgegeben. Zwischen Überschrift und erstem nummerierten Satz steht genau eine Leerzeile. Jeder Satz steht in einer eigenen physischen Zeile und beginnt fortlaufend mit Doppelpunkt, Satznummer, Punkt und Leerzeichen. Zwischen den nummerierten Satzzeilen stehen keine Leerzeilen. Jeder Kapiteltext umfasst ungefähr 125 nummerierte Sätze; zulässig sind 105 bis 145 Sätze. Jede nummerierte Zeile enthält genau einen vollständigen Satz. Keine Aufzählungszeichen, Markdown-Codeblöcke oder zusätzlichen Vor- und Nachbemerkungen ausgeben.
+
+Lies sachbuchautor/SKILL.md vor dem Schreiben vollständig und verwende /skill /sachbuchautor.
+
+Stil und Darstellung
+
+Schreibe anschaulich, präzise und in zusammenhängender Prosa. Der Text darf gedanklich anspruchsvoll sein, muss aber ohne unnötigen Fachjargon verständlich bleiben. Fachbegriffe nur verwenden, wenn sie analytische Arbeit leisten, und bei der ersten Verwendung knapp erklären. Keine dichten Ketten abstrakter Substantive, keine werblichen Superlative und keine künstliche Dramatisierung. Variiere Satzlänge und Rhythmus, ohne in eine Folge kurzer Behauptungssätze oder in undurchsichtige Schachtelsätze zu geraten.
+
+Vermeide Listen im laufenden Kapiteltext, sofern eine Aufzählung nicht sachlich notwendig ist. Der Text soll argumentieren und erklären, nicht Stichpunkte in vollständige Sätze umwandeln. Analogien sparsam verwenden und ihre Grenzen kenntlich machen. Eine einprägsame Metapher darf den tatsächlichen Mechanismus nicht ersetzen. Anekdoten benötigen eine analytische Funktion. Einzelne Personen dürfen nicht als alleinige Ursache komplexer wissenschaftlicher, technischer oder gesellschaftlicher Entwicklungen erscheinen.
+
+Der Ton darf weder belehrend noch kumpelhaft sein. Den Leser nicht mit rhetorischen Fragen überhäufen und nicht zur persönlichen Selbstoptimierung auffordern. Keine pauschalen Aussagen über „die Menschen“, „die Wissenschaft“, „die Medien“, „die Politik“, „die Technik“ oder „die KI“. Benenne jeweils die relevanten Gruppen, Akteure, Interessen und Bedingungen.
+
+Wissenschaftliche Sorgfalt und Quellen
+
+Jede konkrete Tatsachenbehauptung, historische Anekdote, Jahreszahl, Statistik, Studienangabe, medizinische Behauptung, psychologische Erklärung und technische Leistungsbeschreibung ist vor der Endfassung anhand zuverlässiger Quellen zu prüfen. Bevorzuge wissenschaftliche Fachliteratur, Primärquellen, historische Forschung, amtliche Dokumente und seriöse Synthesen. Populäre Standardgeschichten dürfen nicht ungeprüft übernommen werden. Wenn Quellenlage, Kausalität oder Übertragbarkeit umstritten sind, muss diese Unsicherheit im Text sichtbar werden.
+
+Korrelation nicht als Kausalität darstellen. Eine zeitliche Abfolge beweist noch keinen psychologischen Mechanismus. Einzelne Anekdoten beweisen kein allgemeines Reaktionsmuster. Rekonstruiere bei historischen Fällen, was die Beteiligten damals wissen konnten. Erzähle den tatsächlichen Ausgang nicht als unvermeidlich und konstruiere keine Heldengeschichte aus späterem Wissen.
+
+Zahlen benötigen Bezugsgröße, Zeitraum und verständliche Größenordnung. Relative Angaben nicht ohne absolute Einordnung verwenden. Zitate sparsam einsetzen, korrekt belegen und nicht an die Stelle der eigenen Erklärung setzen. Gegenwärtige Firmen, Produkte, Modellnamen und Leistungsranglisten nur nennen, wenn sie für einen zeitbeständigen Mechanismus notwendig sind.
+
+Begriffliche Disziplin
+
+Staunen ist nicht dasselbe wie Leichtgläubigkeit. Konkrete Furcht ist nicht dasselbe wie diffuse Angst. Vorsicht ist nicht dasselbe wie Neophobie. Eine moralische Kontroverse ist nicht automatisch eine moralische Panik. Anthropomorphisierung beweist weder Bewusstsein der Maschine noch psychische Unreife des Menschen. Gewöhnung ist nicht dasselbe wie sachliche Akzeptanz oder Sicherheit. Ein häufig wiederholter Begriff ist noch keine Erklärung.
+
+Mentales Modell, Metapher und technische Beschreibung sind auseinanderzuhalten. Das innere Bild eines Systems kann nützlich sein, obwohl es nicht vollständig ist. Es wird problematisch, wenn es systematisch falsche Erwartungen erzeugt oder seine eigenen Grenzen unsichtbar macht.
+
+Unterscheide belegte Wirkung, führende wissenschaftliche Deutung, plausible Folgerung, anschauliche Analogie und offene Spekulation. Gib konkurrierenden Erklärungen Gewicht entsprechend ihrer Evidenz. Stelle keine künstliche Ausgewogenheit her, wenn die Belege deutlich ungleich verteilt sind.
+
+Abgrenzung zu Projekt pBBB und Projekt pCCC
+
+Projekt pAAA:
+
+Das Mögliche und wir – Fortschritt, Furcht und Phantasien
+Die Psychologie des Neuen
+Warum wir das Unbekannte bestaunen, fürchten und schließlich in unseren Alltag aufnehmen
+
+pAAA behandelt die Wahrnehmung und Deutung des Neuen: persönliches Staunen, mentale Modelle, Anthropomorphisierung, Furcht, Hoffnung, moralische Panik, Hype, wissenschaftlich klingende Mythen, kulturelle Erzählungen, öffentliche Reaktion und Gewöhnung. Es fragt, wie Menschen unbekannte Technologien und Erkenntnisse emotional und erzählerisch verarbeiten.
+
+Projekt pBBB:
+
+Das Mögliche und wir – Vergangenheit erben
+Gefangen im Möglichkeitsraum
+Wie die Vergangenheit unsere Wege formt – von Evolution bis Recht, KI und Krieg
+
+pBBB behandelt Pfadabhängigkeit: historische Ausgangsbedingungen, Kontingenz, Rückkopplung, Lock-in, versunkene Kosten, technische Standards, biologische Bauformen, biografische Prägung, Institutionen, Recht, KI-Architekturen, militärische Doktrin, Logistik und langlebige Infrastrukturen. pAAA soll daher keine längeren Erklärungen darüber enthalten, wie Standards, Infrastrukturen oder institutionelle Systeme durch frühere Entscheidungen stabilisiert werden. Solche Gegenstände dürfen nur kurz erscheinen, wenn es darum geht, wie Menschen sie wahrnehmen, emotional bewerten oder als selbstverständlich erleben.
+
+Projekt pCCC:
+
+Das Mögliche und wir – Zukunft entscheiden
+Die offenen Wege
+Wie wir unter Unsicherheit handeln, Verantwortung verteilen und Zukunft offenhalten
+
+pCCC behandelt die gegenwärtige und zukünftige Entscheidungspraxis. Es fragt, wie unter unvollständigem Wissen Ziele bestimmt, Risiken verteilt, Verantwortung organisiert, reversible Schritte entworfen, gemeinsam entschieden und lernfähige Regeln geschaffen werden können. pAAA soll deshalb keine umfassende Entscheidungstheorie, Regulierungslehre oder institutionelle Zukunftsgestaltung entwickeln. Fragen nach Nutzen, Risiko und Zustimmung dürfen behandelt werden, wenn sie erklären, weshalb verschiedene Menschen dieselbe Neuerung unterschiedlich wahrnehmen.
+
+Kurzformel für Zweifelsfälle:
+
+Geht es vor allem darum, wie Menschen das Neue wahrnehmen, emotional bewerten oder erzählen, gehört der Stoff in pAAA.
+
+Geht es vor allem darum, wie vergangene Entwicklungen spätere Möglichkeiten strukturieren und Lock-ins erzeugen, gehört der Stoff in pBBB.
+
+Geht es vor allem darum, wie unter Unsicherheit entschieden, Verantwortung verteilt, Lernen organisiert und Zukunft offengehalten werden kann, gehört der Stoff in pCCC.
+
+Ein Gegenstand darf in mehreren Büchern vorkommen, aber niemals mit derselben Leitfrage und nicht mit derselben ausführlichen Argumentation.
+
+Qualitätsprüfung vor Abgabe eines Kapiteltextes
+
+Prüfe vor der Abgabe:
+
+Ist der Einstieg konkret und frei von „To understand …“, „Um zu verstehen …“ sowie vergleichbaren Leerformeln?
+
+Funktioniert der Text vollständig ohne Kenntnis anderer Kapitel?
+
+Enthält er keinerlei expliziten Verweis auf vorherige oder nachfolgende Kapitel?
+
+Steht die deutsche Überschrift im korrekten MediaWiki-Format?
+
+Folgt nach der Überschrift genau eine Leerzeile?
+
+Ist jeder englische Satz einzeln und fortlaufend mit :1. , :2. , :3.  und so weiter nummeriert?
+
+Enthält jede nummerierte Zeile genau einen vollständigen Satz?
+
+Liegt der Umfang zwischen 105 und 145 nummerierten Sätzen und möglichst nahe bei 125 Sätzen?
+
+Ist die Leitfrage klar, ohne als schulische Themenankündigung formuliert zu sein?
+
+Wird ein psychologischer, sozialer oder kultureller Mechanismus erklärt, statt nur eine Reihe von Reaktionen aufzuzählen?
+
+Trägt mindestens ein sorgfältig geprüfter Fall die Argumentation?
+
+Enthält der Text mindestens eine ernsthafte Einschränkung, Gegenprobe oder alternative Erklärung?
+
+Werden historische Menschen aus ihrem damaligen Wissen heraus dargestellt?
+
+Sind Zahlen, Studien, Zitate, Anekdoten und technische Behauptungen anhand zuverlässiger Quellen geprüft?
+
+Bleibt der Text in der Zuständigkeit von pAAA und vermeidet ausführliche Wiederholungen aus pBBB und pCCC?
+
+Endet der Text mit einer eigenständigen Einsicht statt mit Zusammenfassung, Ausblick, Appell oder Kapitelverweis?
+
+Wurde sachbuchautor/SKILL.md vollständig gelesen und /skill /sachbuchautor verwendet?

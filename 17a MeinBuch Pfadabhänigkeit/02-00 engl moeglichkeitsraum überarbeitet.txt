@@ -1,0 +1,187 @@
+== 2. Der Umbau bei laufendem Betrieb ==
+
+:1. Consider what it takes to renovate a house while the family goes on living in it.
+:2. Nobody moves out, because there is nowhere else to go.
+:3. The roof cannot come off in October and go back on in March.
+:4. The water has to run every evening, the stairs have to hold every morning, and every night everyone has to sleep somewhere dry.
+:5. So the work proceeds room by room, in a sequence dictated less by an ideal floor plan than by what the household can survive.
+:6. The new bathroom ends up beside the old chimney because the pipes are already there.
+:7. One doorway is walled up and another cut six feet away, while the outline of the first remains visible in the plaster.
+:8. A staircase that once led to a hayloft now leads to a bedroom because removing it would have left no way upstairs.
+:9. After thirty years the house works perfectly well, and it is also unmistakably odd.
+:10. Show the floor plan to an architect who has never seen the place, and its present use will not explain every peculiarity.
+:11. Some features become intelligible only when the sequence of renovations is known.
+:12. The analogy has a limit that matters from the start.
+:13. A house has builders who can imagine an outcome, whereas evolution has no foresight, blueprint, or renovation committee.
+:14. Organisms are also not machines assembled from separable parts with one purpose apiece.
+:15. Yet the inhabited house captures one severe condition shared by every lineage: change occurs in a system whose bearers must continue living and reproducing.
+:16. The construction site is therefore older, larger, and stranger than any house.
+:17. Life has existed on Earth for more than three and a half billion years, although the evidence becomes harder to interpret the farther back researchers look.
+:18. Every living organism descends through an unbroken chain of organisms that reproduced.
+:19. A break anywhere in that particular chain would mean that the descendant at its end did not exist.
+:20. Evolution can therefore never do what an engineer may do in a factory: stop production, clear the site, and restart from a clean design.
+:21. There is no clean site waiting behind life.
+:22. There are inherited bodies, developmental processes, genes, environments, and populations that change while life continues.
+:23. This continuity does not explain everything unusual about organisms, but it changes the questions that a good explanation must ask.
+:24. We often begin with the opposite kind of object.
+:25. A deliberately designed machine can be planned backward from a stated purpose.
+:26. Its makers may select materials and arrange parts so that they contribute directly to that purpose.
+:27. Even machines inherit standards, tools, and earlier designs, but designers can sometimes discard an arrangement wholesale in a way that no ancestral population can.
+:28. This makes engineered objects appear more legible from present function than living bodies do.
+:29. Open a body and you find structures that perform several tasks, structures whose routes seem indirect, and remnants whose present effects are modest or context-dependent.
+:30. Earlier observers often treated such features either as embarrassments to be explained away or as products of a designer with peculiar taste.
+:31. They are better read as historical evidence.
+:32. A body does not simply reveal what its parts do now; it also preserves traces of how those parts became available.
+:33. Function and history are different explanations, and neither can automatically replace the other.
+:34. A trait may work well because selection favored it in a particular environment.
+:35. It may also have its particular form because development could modify an inherited structure more readily in one direction than another.
+:36. The central puzzle is not why life contains imperfection, as though evolution had failed an engineering exam.
+:37. The puzzle is how earlier forms alter the set, probability, and cost of forms that can arise later.
+:38. Deep time makes those inherited effects difficult to feel.
+:39. If the history of life were compressed into a calendar year, recorded human history would occupy only the closing moments of December 31.
+:40. The exact calendar dates assigned to evolutionary events would shift with the chosen estimate and scale, but the disproportion would remain.
+:41. Structures inherited from ancient aquatic vertebrates still contribute to the organization of a human skull, spine, limbs, nerves, and organs.
+:42. That does not mean a fish once settled the human body plan in a single evolutionary decision.
+:43. It means that later vertebrates developed through repeated modifications of earlier developmental and anatomical relationships.
+:44. The familiar one-bone, two-bone, many-bone pattern in a human arm belongs to a much older history of paired appendages.
+:45. Similar inherited elements have since been modified into the forelimbs of bats, whales, horses, and humans.
+:46. The common pattern persisted while proportions, tissues, and uses multiplied.
+:47. Persistence is not stasis.
+:48. Continents moved, climates changed, lineages disappeared, and the fossil record registers several exceptionally severe episodes of extinction.
+:49. Through those disruptions, some inherited arrangements vanished and others survived long enough to be elaborated in new settings.
+:50. The survivors were not necessarily the forms that would have been best under every future condition.
+:51. They were the forms that existed, reproduced, and passed a workable starting point onward.
+:52. That difference between the conceivable and the historically available is the biological core of path dependence.
+:53. The mechanism begins with variation.
+:54. Natural selection does not summon a useful feature because a population needs it.
+:55. Heritable differences must first arise through processes such as mutation and recombination, or enter through gene flow, before selection can change their representation in a population.
+:56. Those differences are not a uniform sample of every form that physics would permit.
+:57. Mutation rates vary across genomes, and developmental systems turn some genetic changes into phenotypic variation more readily than others.
+:58. Calling variation undirected means that useful changes are not produced in response to an organism's future requirements.
+:59. It does not mean that every possible change is equally likely.
+:60. Selection changes the representation of heritable variants when those variants are associated with different reproductive success in a particular environment.
+:61. In that immediate sense, selection is a filter and amplifier rather than the author of whatever variation might be imagined.
+:62. If a helpful variant is absent, selection cannot commission it.
+:63. If several helpful variants are present, their effects may depend on the rest of the organism and on how common they are.
+:64. A population facing a new predator does not order thicker armor.
+:65. It may adapt if relevant variation already exists or arises in time, but it may instead move, decline, persist without genetic change, or disappear.
+:66. This is why the phrase “survival of the fittest” so easily misleads.
+:67. Fitness in evolutionary biology concerns reproductive success in a specified environment, not a medal for the best organism that could ever be designed.
+:68. The competitors are not all conceivable organisms but the variants actually present in populations at particular times.
+:69. Even among those variants, selection is not the only force changing their frequencies.
+:70. Genetic drift can spread or eliminate variants through chance sampling, especially in small populations.
+:71. Migration can import variants, recombination can rearrange them, and environmental change can reverse which combinations are favored.
+:72. Evolution is consequently neither pure optimization nor pure accident.
+:73. It is the joint result of biased supplies of variation, inheritance, selection, drift, movement, development, and changing ecological conditions.
+:74. Existing organization shapes every one of those processes.
+:75. A copying change can alter a protein, duplicate a stretch of DNA, change gene regulation, or sometimes have no detectable effect.
+:76. Larger novelties emerge through sequences of such changes interacting with development, not as complete organs appearing in a single leap.
+:77. The raw material is therefore inherited material, but inheritance can be rearranged, multiplied, reduced, and recruited for new work.
+:78. A second part of the mechanism gives this path a shape that can be pictured.
+:79. Sewall Wright introduced the adaptive-landscape image in the early 1930s while explaining how evolutionary forces act on populations.
+:80. In its simplest popular form, the image resembles a country of hills and valleys.
+:81. Nearby positions represent variants reachable by small changes, while height represents reproductive success under stated conditions.
+:82. Peaks are combinations with higher fitness than their immediate neighbors, and valleys are combinations with lower fitness.
+:83. A population is not a solitary hiker surveying this country from above.
+:84. It contains many individuals and variants, none of which can inspect distant alternatives or choose a destination.
+:85. Under simplified conditions, selection tends to increase the frequency of variants that lie uphill from their neighbors.
+:86. A modest local peak can then matter even if a higher peak exists elsewhere.
+:87. Reaching the higher peak may require intermediate combinations that leave fewer descendants in the current environment.
+:88. Strong selection against those intermediates can make the distant peak difficult to reach from the population's present position.
+:89. The better distant form is not physically impossible, yet it may be historically inaccessible by the small viable steps available at that time.
+:90. This is one way that a possibility can exist in theory and remain absent in practice.
+:91. The path already taken is not a prison wall, however, and the landscape is not a literal geography.
+:92. Drift can sometimes carry populations across a shallow fitness depression, particularly when populations are small.
+:93. Recombination, migration, gene duplication, and environmental change can create routes that the simple picture omits.
+:94. A temporarily harmful change may also persist because it is linked to a beneficial one or because selection is weak relative to chance.
+:95. Evolution therefore does not move only uphill, even though hill climbing captures one important effect of selection in simple models.
+:96. This qualification strengthens the argument about path dependence because it identifies a mechanism rather than turning a metaphor into a law.
+:97. The landscape has further limits.
+:98. Genotype, phenotype, and fitness are distinct, although a flat drawing can blur them together.
+:99. The same genotype can produce different phenotypes in different environments, and the same phenotype can have different fitness when conditions or competitors change.
+:100. Real spaces of genetic and phenotypic variation have many dimensions, and adjacency in one representation may conceal a route visible in another.
+:101. Fitness can also depend on frequency, so the success of a variant may change as the variant becomes common.
+:102. The terrain itself moves when climates shift, prey evolve, pathogens adapt, or potential mates respond differently.
+:103. Organisms also alter the conditions under which selection later acts by consuming resources, building structures, changing soils, or modifying the abundance of other species.
+:104. This process, often called niche construction, does not give organisms control over evolution.
+:105. It means that activity in one generation can help create the selective environment inherited by the next.
+:106. The landscape is thus best kept as a disciplined sketch of local reachability, not treated as a measurable mountain range already waiting for life to explore.
+:107. Its value lies in separating three questions that casual talk about adaptation tends to merge.
+:108. A form may be physically possible, it may function well if completed, and it may still lack an accessible sequence of intermediate forms from here.
+:109. Path dependence enters through that phrase “from here.”
+:110. A third part of the mechanism is sequence dependence.
+:111. Every inherited change may alter the effects of later changes.
+:112. A duplicated gene, for example, can create room for one copy to change while another continues an existing function.
+:113. A structure recruited for an additional task may come under several selective demands at once.
+:114. A variant that helps in one genetic background can be neutral or harmful in another because genes and proteins interact.
+:115. Biologists call such context-dependent genetic effects epistasis.
+:116. With sign epistasis, a mutation can even change from beneficial to harmful when another mutation is present.
+:117. Order then becomes causal rather than merely chronological.
+:118. Change A may make change B tolerable, while B arriving before A may be eliminated.
+:119. Two lineages exposed to similar conditions can therefore take different routes because their inherited backgrounds make different variants available or acceptable.
+:120. Conversely, strong similar pressures can sometimes produce convergence, with separate lineages arriving at similar functions by different routes.
+:121. Convergence is a useful warning against fatalism, but it does not erase the differences in anatomy, development, or future options beneath the shared function.
+:122. History changes probabilities without dictating every outcome.
+:123. This distinction separates contingency from arbitrariness.
+:124. A contingent step could have gone differently, yet whatever follows remains constrained by real chemistry, development, ecology, and selection.
+:125. It also separates path dependence from a general physical limit.
+:126. Gravity constrains every large land animal whether or not its lineage encountered a particular earlier fork.
+:127. A constraint becomes path-dependent when the order of earlier states changes which later forms are reachable, likely, or costly from otherwise relevant starting points.
+:128. A fourth part of the mechanism is the growth of dependency.
+:129. Building on an inherited structure can be easier than removing it cleanly.
+:130. A feature that initially contributes to one process may later interact with muscles, nerves, regulatory genes, behaviors, or ecological partners.
+:131. Further changes evolve in the presence of those interactions and may come to rely on them.
+:132. The original feature is then no longer an isolated component but a junction in a network of development and function.
+:133. Removing it may require several coordinated changes, and intermediate combinations must still develop, survive, and reproduce well enough to persist.
+:134. Scaffolding, in other words, can become load-bearing.
+:135. This is a biological form of complementary investment.
+:136. Each additional dependency may increase the cost of returning to an earlier arrangement, even when no single dependency makes return impossible.
+:137. Trait loss itself can happen in several ways.
+:138. Selection may favor losing an expensive structure, relaxed selection may permit mutations to degrade it, or developmental changes may reduce it as a side effect.
+:139. A reduced remnant can persist when eliminating its last traces offers little reproductive advantage.
+:140. After genes, regulatory interactions, and developmental contexts have changed, exact reconstruction of an ancestral state becomes increasingly improbable.
+:141. This tendency is sometimes associated with Dollo's law, but it is not an exceptionless ban on the reappearance of lost traits.
+:142. Similar forms and functions can re-evolve, and some developmental capacities can remain latent long after a visible feature disappears.
+:143. What is especially difficult is a precise return to the same state through the same historical network of relations.
+:144. Irreversibility is therefore usually a matter of accumulated context, not a mysterious one-way force.
+:145. The same accumulation can preserve benefits as well as burdens.
+:146. A dependable developmental arrangement coordinates many processes and allows later changes to build on something that already works.
+:147. A shared body plan does not merely exclude alternatives; it supplies stable material for diversification.
+:148. The inherited pattern of a vertebrate forelimb has supported walking, digging, swimming, flying, grasping, and manipulation.
+:149. Its continuity is not evidence that all those uses were latent goals.
+:150. It shows how a reliable structure can become a platform for innovations that were not available before the structure existed.
+:151. A trait that arose or was shaped in one context may later contribute to a different function, a process known as exaptation.
+:152. Such reuse prevents path dependence from becoming a catalogue of design flaws.
+:153. History can close routes, but it can also furnish parts, interactions, and developmental capacities that open new ones.
+:154. The relevant question is always what the previous path does to the next neighborhood of possibilities.
+:155. Sometimes it narrows that neighborhood by making alternatives costly or developmentally inaccessible.
+:156. Sometimes it enlarges the neighborhood by duplicating a gene, modularizing a structure, or placing an old feature in a new environment.
+:157. Often it does both at once.
+:158. This double effect is why present performance and evolvability must be kept separate.
+:159. A trait can perform its current task efficiently while leaving few tolerable routes for modification.
+:160. Another arrangement can be less efficient now yet preserve variation, redundancy, or modularity that becomes useful after conditions change.
+:161. Evolvability is not a promise of progress and cannot be measured by one universal yardstick.
+:162. It is a context-dependent capacity to generate and retain heritable changes that may become useful.
+:163. Selection does not consistently maximize that future capacity, because immediate reproductive differences can outweigh benefits that might appear only under later conditions.
+:164. Nor does every unused option deserve to be preserved, since maintaining redundancy and flexibility can itself consume resources.
+:165. The biological possibility space is therefore structured by trade-offs as well as by history.
+:166. A trade-off becomes path-dependent when an earlier compromise changes the costs or availability of later compromises.
+:167. Without that historical mechanism, a present constraint or competing demand is not enough to establish path dependence.
+:168. The distinction matters when interpreting apparently awkward anatomy.
+:169. Some features record ancestry, some reflect present mechanical limits, some balance competing functions, and many combine all three.
+:170. A persuasive historical explanation must identify which earlier relationship was inherited and how it altered later variation or transition costs.
+:171. Merely pointing to an odd structure and declaring that evolution is imperfect explains very little.
+:172. The detailed cases of nerves, spines, eyes, proteins, mutations, and long-running populations become valuable only when they reveal one of these mechanisms rather than decorate a story about bad design.
+:173. Together they test an account that can now be stated without treating evolution as an engineer.
+:174. Variation arrives unevenly from inherited systems; selection and drift alter what persists; each change modifies the effects of later changes; and dependencies make some reversals increasingly expensive.
+:175. None of those processes requires a plan.
+:176. None guarantees that the most efficient conceivable organism will appear.
+:177. None implies that lineages are frozen.
+:178. Their combined effect is subtler: the route already traveled changes the distribution of routes that remain.
+:179. That is why present function alone can leave a body partly unexplained.
+:180. A direct route on an anatomist's diagram may have been inaccessible to a lineage whose development had to keep producing viable organisms at every generation.
+:181. An apparent detour may persist because other structures have grown around it, while an inherited component may survive because it performs several useful tasks at once.
+:182. The body is neither an optimal machine nor a heap of accidents.
+:183. It is a working record of constrained continuity, differential reproduction, chance retention, and repeated reuse.
+:184. Its peculiarities show what history costs, while its innovations show what history supplies.
+:185. Life's oldest renovation project has never reached a final floor plan, because every workable room becomes part of the site on which the next change must be built.

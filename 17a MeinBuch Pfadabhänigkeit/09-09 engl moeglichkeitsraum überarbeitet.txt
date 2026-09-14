@@ -1,0 +1,62 @@
+== 9.9 Der Flugzeugträger als Systemfalle ==
+
+:1. Before dawn on January 26, 1929, the aircraft carrier Saratoga turned into the wind roughly 140 miles from the Panama Canal and began launching planes.
+:2. About seventy aircraft rose from her deck in less than an hour, crossed the coast, and surprised the defenders in a United States Navy exercise known as Fleet Problem IX.
+:3. The umpires judged the canal locks destroyed, a result that seemed to announce a new way of projecting naval power.
+:4. Later in the same exercise, battleships found the lightly escorted Saratoga at close range, and a submarine also reached a firing position, so the umpires ruled the carrier sunk more than once.
+:5. The same ship had demonstrated both the extraordinary reach of concentrated naval aviation and the danger of concentrating so much capability in one conspicuous hull.
+:6. That tension has followed the aircraft carrier ever since.
+:7. A carrier can move an airfield across the sea, but it also gathers aircraft, fuel, ammunition, workshops, communications, and thousands of trained people into a single location.
+:8. Calling it either a floating fortress or an oversized target misses the harder fact that its value and vulnerability belong to a system.
+:9. Saratoga had made her surprise possible by detaching from the slower battle fleet with only the cruiser Omaha, taking an indirect route, and relying on speed and secrecy.
+:10. Those choices also stripped away much of the protection and scouting that a carrier normally needed to survive.
+:11. Even the word carrier encourages a misleading picture, because the hull merely carries the components from which a military capability must be assembled.
+:12. Aircraft require mechanics, spare parts, fuel of the right kind, weapons, elevators, hangars, launch equipment, recovery equipment, weather information, and people able to coordinate a crowded deck without fatal confusion.
+:13. The ship requires escorts against threats from the air, surface, and underwater, as well as tankers, supply ships, repair yards, and secure places where crews and air groups can train.
+:14. Aircraft and ship must also fit each other in weight, dimensions, landing speed, elevator capacity, deck strength, and the forces that catapults and arresting gear can impose.
+:15. A mismatch at any of these interfaces can reduce an impressive aircraft or vessel to an expensive piece of unavailable potential.
+:16. The platform is therefore not the capability, just as a theater is not a play.
+:17. Unlike a play, however, carrier operations cannot be reconstructed quickly by handing new scripts to the same cast.
+:18. Pilots must acquire a specialized skill, deck crews must learn tightly sequenced routines, commanders must develop doctrine, and shipyards must retain the equipment and knowledge to repair machinery found nowhere else.
+:19. Repeated operation improves this network, while each improvement makes continued investment in compatible ships and aircraft more attractive.
+:20. That feedback is the beginning of path dependence: earlier choices alter the cost, probability, and visibility of later ones.
+:21. The first American carrier made this process unusually visible because it began as something else.
+:22. The Navy converted the collier Jupiter into Langley, commissioned her as a carrier in 1922, and used the ungainly ship as a laboratory for operations that no manual had yet stabilized.
+:23. On Langley, aviators and deck crews experimented with parking, launch tempo, arresting wires, catapults, and the new role of a landing signal officer who guided aircraft during their final approach.
+:24. The resulting knowledge did not reside in the hull alone.
+:25. It traveled through trained people, reports, exercises, procurement requirements, and routines that later ships could inherit.
+:26. Langley consequently created options even as it narrowed them, because every reliable procedure made some designs easier to operate and incompatible designs harder to introduce.
+:27. This was a useful binding rather than a design failure.
+:28. Without common routines, a flight deck would have remained a dangerous collection of individual improvisations, and the carrier could not have developed into a repeatable fleet capability.
+:29. The bind became stronger when lessons learned aboard one ship shaped the wider dimensions, equipment, and organization of its successors.
+:30. An experimental platform had begun to generate an institutional platform.
+:31. The next step was not selected from a blank page.
+:32. The Washington Naval Treaty of 1922 limited capital-ship and carrier tonnage but allowed the United States and Japan to convert two unfinished battle-cruiser or battleship hulls into carriers.
+:33. The United States chose the partially built Lexington and Saratoga, gaining large, fast ships capable of carrying substantial air groups while also inheriting structures and machinery conceived for another purpose.
+:34. Other paths remained possible, including smaller purpose-built carriers, continued dependence on battleships, or different mixtures of shore-based and shipborne aviation.
+:35. Budget limits, treaty rules, available hulls, and incomplete knowledge changed which of those paths could be tried at useful scale.
+:36. When Ranger, the first American carrier designed from the keel up, entered service in the 1930s, it did not erase the operational knowledge accumulated on the conversions.
+:37. Design and doctrine now developed together: ships enabled certain patterns of flight, exercises rewarded some patterns, and those patterns informed requirements for later ships.
+:38. This reciprocity matters because it prevents a simple story in which a superior machine arrives and forces an organization to modernize.
+:39. Technology helped define what sailors could do, while learned practice helped define what engineers were asked to build.
+:40. Neither side of that relationship was fixed.
+:41. Fleet Problem IX accelerated the feedback without settling it.
+:42. The dawn strike showed that a fast carrier could act as the center of an offensive formation rather than merely spotting for battleships.
+:43. The repeated simulated losses showed that range without protection could become exposure, prompting stronger attention to escorts, scouting, fighter defense, and the organization of a carrier task force.
+:44. The exercise thus enlarged the carrier system in response to the very vulnerability that the carrier's success had revealed.
+:45. It also exposed a less dramatic constraint: fuel.
+:46. To launch and recover aircraft, a carrier had to steam at speed into the wind and then maneuver to rejoin ships following another course, a rhythm that consumed fuel far faster than cruising calculations suggested.
+:47. During later fleet exercises, Lexington and Saratoga demonstrated that operations far from bases would require more capacity and dependable replenishment at sea.
+:48. A ship intended to extend naval reach therefore pulled tankers, procedures, hoses, trained crews, and scheduling into its supporting network.
+:49. The farther the airfield moved from land, the more infrastructure had to move with it or wait along its route.
+:50. Mobility was not independence from infrastructure but a particular way of distributing infrastructure across an ocean.
+:51. This distinction clarifies what a system trap can and cannot mean.
+:52. Money already spent on a hull is a sunk cost, irrecoverable whether the navy keeps the ship or retires it, so past expenditure alone cannot establish the value of another deployment or modernization.
+:53. Real switching costs face forward: replacing the carrier may also require new aircraft, bases, escorts, maintenance facilities, training pipelines, doctrine, and enough transitional capacity to avoid losing a capability before its substitute works.
+:54. Those costs can justify continuity even when decision makers feel no sentimental attachment to the existing platform.
+:55. They can also conceal escalation of commitment if officials count every supporting investment as a reason never to reconsider the whole arrangement.
+:56. Path dependence identifies the changed structure of choice; it does not decide whether remaining on the path is wise.
+:57. That judgment must compare future missions, risks, alternatives, and transition costs rather than treating longevity as either proof of fitness or evidence of folly.
+:58. Carriers made this judgment especially difficult because their concentration of capability produced both operational flexibility and a recurring fear that one successful attack could remove an enormous share of a fleet's striking power.
+:59. The fear was not an invention of a later missile age, for the exercises that helped create carrier doctrine had already displayed the problem before carriers fought their first great battles.
+:60. Yet every measure adopted to protect the carrier would thicken the surrounding system and change the terms of the next vulnerability test.

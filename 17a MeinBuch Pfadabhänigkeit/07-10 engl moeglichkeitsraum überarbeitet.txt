@@ -1,0 +1,122 @@
+== 7.10 Warum deutsche Gesetze wachsen ==
+
+:1. A shopper orders a pair of shoes from a German website, opens the parcel at home, tries them on, and decides that the fit is wrong.
+:2. The practical question seems almost insultingly simple: can the shoes be sent back?
+:3. The answer is usually yes, yet the legal route to that answer crosses a small map of German private law.
+:4. One provision identifies the transaction as a distance contract, another grants a right of withdrawal, and still others determine when the clock starts and what follows when the buyer acts.
+:5. The familiar fourteen-day period is therefore not a freestanding command attached to online shopping.
+:6. It belongs to a framework in the Civil Code, the Bürgerliches Gesetzbuch, that distinguishes consumers from traders and distance contracts from purchases made inside a store.
+:7. Rules about the beginning and possible expiration of the period sit elsewhere in that code.
+:8. Detailed duties to provide information, along with model instructions and a model withdrawal form, extend into the Introductory Act to the Civil Code.
+:9. Exceptions then separate ordinary shoes from customized goods, perishable food, dated leisure services, unsealed software, and other transactions for which a return would create a different problem.
+:10. What looks on the screen like one button rests on a structure assembled from definitions, entitlements, deadlines, duties, exceptions, and cross-references.
+:11. From outside the legal system, this distribution can look like evidence that lawmakers have forgotten how to write a short sentence.
+:12. Sometimes they have written badly, but length alone does not reveal why a law has grown.
+:13. A mature code inherits an architecture: established categories divide the subject, courts have interpreted their edges, contracts use their language, and neighboring provisions assume that the divisions will remain available.
+:14. A reformer who wants to protect an online buyer does not begin with an empty page but with an operating system of promises, property transfers, remedies, and procedural expectations.
+:15. The least disruptive move is often to attach the new protection to an existing category, define its range, and specify where it does not fit.
+:16. That decision turns an older distinction into a junction through which later reforms must also pass.
+:17. Each junction attracts more interpretation, standard forms, business routines, software fields, court decisions, and professional training.
+:18. The path-dependent mechanism is institutional complementarity: the value and intelligibility of one rule depend partly on rules and practices built around it.
+:19. Removing a clause may therefore leave a reference without a target, a form without a legal basis, or a settled transaction exposed to a rule that did not exist when the parties acted.
+:20. Germany's official drafting guidance consequently tells legislative authors to check numbering, references, grammar, pending proceedings, existing legal relationships, and the possible need for transitional provisions whenever they alter a statute.
+:21. Legal growth is often renovation in an occupied building.
+:22. Walls can move, but people are still living inside, doors connect to other rooms, and yesterday's floor plan determines which changes can be made without bringing the ceiling down.
+:23. The analogy has limits, because legal categories embody disputed values rather than physical loads, yet it captures why rebuilding while the system operates produces additions, seams, and temporary passages.
+:24. Historical embedding is not the only cause of complexity.
+:25. Modern economies combine mass retail, subscriptions, digital content, financial services, personalized production, and platforms that trade services for data, so one uniform rule would govern transactions with materially different risks.
+:26. Some legal detail is not residue from the past but an attempt to see distinctions that a shorter law would ignore.
+:27. The history of European consumer withdrawal rules shows how these two sources of growth, inherited structure and new differentiation, meet.
+:28. The European Union's Consumer Rights Directive of 2011 combined and replaced earlier directives on doorstep and distance selling while seeking common rules for cross-border consumer transactions.
+:29. For much of its field, it used full harmonization, meaning that member states could not simply preserve or invent divergent national provisions unless the directive allowed them to do so.
+:30. Germany implemented the directive through legislation enacted in 2013 and applied the new regime to relevant contracts made from June 13, 2014.
+:31. The legislature did not create a separate code for internet purchases.
+:32. It reorganized the existing consumer-contract provisions of the Civil Code, placed central information requirements and official models in its Introductory Act, and amended numerous neighboring statutes whose operation touched the same transactions.
+:33. That approach preserved familiar concepts and the surrounding machinery of private law, but it also distributed the reform across several legal locations.
+:34. For an ordinary delivery of goods, the directive and German law converge on a withdrawal period of fourteen days.
+:35. Even the starting point, however, must branch because a single order may arrive in one package, several packages, several pieces, or recurring installments.
+:36. The law must also decide what happens when the trader fails to provide the required information, when a service begins immediately at the consumer's request, or when digital content is supplied before the withdrawal period has run.
+:37. These are not exotic puzzles invented for an examination room.
+:38. They determine who bears the cost when a transaction cannot be cleanly reversed.
+:39. A custom-made jacket may have little value to anyone except its buyer, while a standard jacket can ordinarily return to inventory.
+:40. Fresh food may spoil before it can be resold, whereas unopened durable goods may not.
+:41. A hotel room reserved for a particular night disappears as a commercial opportunity when that night passes, but an undated physical product remains available for another customer.
+:42. Software or digital content can be delivered and copied in ways that make the return of possession unlike the return of a parcel.
+:43. The exceptions lengthen the statute because the same consumer remedy shifts costs differently across these settings.
+:44. A short rule granting every remote buyer an unconditional fourteen-day escape would be easier to memorize, but it would hide those differences rather than eliminate them.
+:45. Each exception is defensible only if the relevant difference matters to the purpose of the rule.
+:46. Market-dependent prices raise one problem, hygiene after an opened seal raises another, and fully performed urgent repair work raises a third.
+:47. German constitutional doctrine adds a broader pressure toward justified differentiation: lawmakers have room to classify, but unequal treatment requires reasons proportionate to its aim and effects.
+:48. The principle of proportionality likewise asks whether a measure pursues a legitimate end with means that are suitable, necessary, and reasonably balanced against the burden imposed.
+:49. Neither principle mechanically demands a paragraph for every imaginable hardship, yet both make unexplained roughness vulnerable when important interests are at stake.
+:50. The pursuit of fairness in individual cases can therefore generate qualifications, thresholds, hardship clauses, procedural safeguards, and opportunities for review.
+:51. Complexity is not automatically the price of justice, however.
+:52. An exception may reflect effective lobbying, a hurried compromise, an obsolete fear, or simple reluctance to reopen a neighboring field of law.
+:53. A cross-reference can clarify a shared rule, but it can also spare the drafter from restating an idea at the cost of making the reader chase it through several statutes.
+:54. An amendment can correct one anomaly while creating two new boundary questions at the edge of its chosen category.
+:55. Even well-justified additions accumulate interaction costs that no participant intended in isolation.
+:56. Terms such as consumer, trader, distance contract, and durable medium compress recurring patterns into reusable legal tools, yet the definitions also make each new protection depend on an expanding network of earlier choices.
+:57. Once shops redesign ordering systems, associations issue model language, lawyers learn the structure, and courts stabilize its uncertain edges, replacing the vocabulary becomes more expensive than adding to it.
+:58. Professionals can navigate the resulting network more easily than citizens encountering it for the first time.
+:59. That gap creates demand for specialized advice, standardized forms, compliance services, and authoritative commentary, all of which become complementary investments around the existing arrangement.
+:60. When the next reform arrives, it enters a landscape whose pathways have been shaped by prior repairs, and the easiest move is usually another carefully fitted layer.
+:61. That tendency does not require a conspiracy of lawyers defending needless obscurity.
+:62. Expertise is indispensable when a change must survive constitutional review, fit European obligations, preserve workable procedures, and produce tolerably predictable results in cases no drafter can inspect one by one.
+:63. Government ministries, parliamentary committees, state governments, courts, associations, companies, and public-interest groups encounter different edges of the same proposal.
+:64. Each participant can identify a legitimate case that the general formulation handles badly.
+:65. Combining those objections often produces a rule more accurate than the first draft and less intelligible at first sight.
+:66. Political compromise adds another kind of seam, because agreement may be possible only if one disputed field is exempted, another is postponed, and a third is delegated to a later regulation.
+:67. Rather than reopen an entire code, lawmakers commonly choose an amendment whose reach is deliberately narrow.
+:68. Stable categories make that precision possible by giving drafters known attachment points.
+:69. A new layer thus lowers the immediate coordination cost of reform even while it raises the cost of understanding the whole structure later.
+:70. Accumulation is not merely a legislative failure but a repeated bargain between local repair and systemic clarity.
+:71. European law adds another structure to that bargain.
+:72. A directive can prescribe a common result while leaving national authorities to integrate it through their own legal forms and institutions, subject to whatever discretion the measure permits.
+:73. The resulting German provision must therefore speak both to the European rule and to a domestic code whose concepts may predate it by generations.
+:74. The 2011 Consumer Rights Directive fixed not only substantive protections but also a calendar for replacing the earlier European framework.
+:75. German law drew the corresponding boundary at June 13, 2014.
+:76. Its transition rule retained the former legal regime for consumer contracts concluded before that date, even as the reorganized provisions governed contracts concluded afterward.
+:77. The legislation also placed an outer limit on certain withdrawal rights from older distance contracts that had remained alive because the consumer was not properly informed.
+:78. That solution balanced the buyer's reliance on an existing right against the trader's interest in knowing when a long-completed transaction was finally secure.
+:79. Two parcels arriving on the same afternoon could consequently be governed by different versions of the law if the underlying contracts had been concluded on opposite sides of the cutoff.
+:80. Legal complexity can occupy time as well as text.
+:81. Transitional provisions are easy to dismiss once the transition has passed, because their original conflict is no longer visible to most readers.
+:82. At the moment of change, however, abolishing the old rule instantly may disturb pending lawsuits, continuing contracts, professional licenses, planned investments, or benefits on which people have relied.
+:83. German drafting guidance therefore treats the handling of existing legal relationships as a standard question, not an embarrassing afterthought.
+:84. The constitutional principle of legitimate expectations does not freeze every favorable rule forever, but it can require lawmakers to weigh reliance against the public purpose and urgency of the change.
+:85. A clean break may look simpler in the statute book precisely because its costs have been transferred to people who acted under the previous law.
+:86. Temporary duplication buys a more controlled transition.
+:87. Its price is that judges, administrators, businesses, and advisers must preserve older texts and determine which version governs which facts.
+:88. Some transitional rules expire quickly, while others remain relevant for decades because the relationships they regulate endure.
+:89. The law does not simply discard yesterday when the calendar turns.
+:90. It keeps selected parts of yesterday operational inside today's order.
+:91. Temporal layering and case-specific differentiation can then work together as a ratchet.
+:92. An exception created to protect one reliance interest becomes part of the baseline against which the next reform is designed.
+:93. Courts interpret its uncertain language, and later drafters may preserve that language to avoid unsettling the accumulated decisions.
+:94. New business practices expose boundaries that the earlier text did not anticipate, inviting another clarification rather than a wholesale redesign.
+:95. Digital content illustrates the process because delivery may begin instantly and copying cannot be undone in the manner of returning a physical object.
+:96. The law accordingly distinguishes content supplied on a tangible medium from content supplied without one.
+:97. It also specifies conditions under which a consumer who requests immediate performance and acknowledges the consequence can lose the withdrawal right once performance begins.
+:98. Those distinctions address a real allocation problem between access, payment, and reversibility.
+:99. They also require online interfaces to record choices, confirmations, timing, and information in forms capable of later proof.
+:100. The legal category becomes a software requirement, and the software investment in turn increases the practical cost of changing the category.
+:101. Businesses are not the only actors invested in that stability.
+:102. Consumer organizations prepare guidance around the same concepts, judges develop tests for recurring disputes, publishers maintain commentaries, and universities teach the architecture to future practitioners.
+:103. This shared infrastructure can make a dense legal system remarkably dependable for those who know how to use it.
+:104. It allows millions of transactions to rely on common expectations without negotiating every contingency from the beginning.
+:105. The resulting coordination is a genuine benefit rather than dead weight.
+:106. Yet the same network can obscure an alternative design, because no single institution sees or bears all the costs of replacing forms, precedents, databases, contracts, and habits together.
+:107. That is more than passive inertia.
+:108. Earlier legal choices have changed the price and visibility of today's options, making another amendment easier to imagine and a new architecture harder to organize.
+:109. Still, growth by itself does not prove path dependence.
+:110. A diverse economy and a constitutional democracy may need more distinctions than a simpler society, and a longer statute can sometimes be more candid than a short command that leaves crucial choices to officials or judges.
+:111. General clauses often reduce words on the page by moving complexity into litigation, interpretation, and professional judgment.
+:112. Conversely, detailed rules may let citizens identify their position without financing a test case, although excessive cross-referencing can erase that advantage.
+:113. A quantitative study of federal law in Germany and the United States found substantial growth in legal text and interconnectedness over roughly a quarter century, with welfare and taxation especially important, but such measurements cannot decide whether any particular addition is wise.
+:114. The useful counterfactual asks what would remain difficult if the historical layers vanished overnight.
+:115. Complexity demanded by genuinely different risks is a feature of the present problem, whereas complexity preserved mainly because institutions, knowledge, and investments fit the inherited arrangement carries the stronger signature of a path.
+:116. Legislatures can consolidate amendments, remove provisions whose work is finished, publish accessible current versions, and design cleaner interfaces, but simplification always decides which distinctions and protections can safely disappear.
+:117. Modular rules, scheduled review, and better digital navigation can reduce some future costs without pretending that conflicts over fairness, reliance, and authority are technical defects.
+:118. Durable simplification therefore requires more than a red pen: it requires agreement on a replacement, resources for conversion, and a bridge sturdy enough for courts, organizations, and citizens to cross while law remains in force.
+:119. The shopper returning the shoes encounters only the visible end of that bridge, where a few clicks convert a thick network of inherited categories into an ordinary remedy.
+:120. Behind the return button stands not a law that failed to escape its past, but a continuously maintained system whose old connections must be traced before any apparently obsolete line can safely be removed.

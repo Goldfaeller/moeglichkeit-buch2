@@ -1,0 +1,162 @@
+== 4.9 KI als Konservierungsmittel der Vergangenheit ==
+
+:1. In 1878, Francis Galton presented a photographic method for making a face that belonged to nobody.
+:2. He began with portraits taken in similar poses and reduced to comparable sizes.
+:3. He aligned them by the eyes, exposed each image for a fraction of the required time, and projected them in succession onto the same sensitized plate.
+:4. Features shared by many of the sitters emerged dark and distinct, while individual peculiarities faded into a blur.
+:5. Galton called the result a generalized picture, the portrait of a type rather than a person.
+:6. Among his first specimens were composites made from photographs of men convicted of murder, manslaughter, or robbery with violence.
+:7. The photographs had been supplied by Edmund Du Cane, the head of the British prison system, because Galton was looking for what he believed might be criminal types.
+:8. The plates did not reveal a facial essence of criminality, although Galton continued to interpret them through the hereditarian ideas of his age.
+:9. Those ideas belonged to the same intellectual program for which he would introduce the word eugenics in 1883.
+:10. The history matters because the composite was never a neutral window opened directly onto human nature.
+:11. Before the first exposure, an institution had already decided whom to photograph, which convictions would define the group, and which differences among the men would disappear under a common label.
+:12. Galton's apparatus could faithfully answer a narrow question about the visible features shared by the selected portraits.
+:13. It could not establish that the selection represented all offenders, that conviction identified an inborn kind of person, or that an average face explained a crime.
+:14. What looked like a discovery about human nature was also a portrait of a collection and the filing system behind it.
+:15. That is why the glass plate remains useful for thinking about machines trained on records, even though the resemblance has strict limits.
+:16. Galton's process averaged light falling on a surface, whereas modern machine learning adjusts many numerical parameters to improve performance on an assigned objective.
+:17. Contemporary systems can learn complicated relationships in text, images, sound, transactions, and measurements rather than merely blending examples into an average.
+:18. They can combine weak signals, represent context, and sometimes perform well on cases unlike any single item in their training data.
+:19. Yet they share one structural dependence with the composite portrait: what they can learn is conditioned by what was collected, retained, labeled, and made legible to the method.
+:20. A training dataset is not the past itself but a set of traces produced by particular instruments, institutions, incentives, and accidents.
+:21. Documents survive because someone wrote and kept them, images exist because a camera was pointed in one direction rather than another, and administrative outcomes appear because a form was designed to record them.
+:22. Even measurements that look direct have a history of definitions, thresholds, equipment, and missing observations.
+:23. An arrest record is a record of an event noticed and classified by a policing system, not a direct census of every offense committed.
+:24. An employment file describes the people a firm chose to hire, not the performance of every applicant it rejected.
+:25. A record of medical spending measures resources paid for care, which is related to illness but is not identical to need.
+:26. Digitized language reflects what was published, preserved, accessible, and legally or practically obtainable, not everything speakers said or could have said.
+:27. None of these records carries an internal label separating natural regularities from the effects of the process that produced the record.
+:28. A feature may predict an outcome because it is causally connected to that outcome, because both share another cause, or because an institution repeatedly joined them.
+:29. A learning procedure rewarded for predictive accuracy does not automatically discover which of these explanations is correct.
+:30. It may learn a relationship that is real and useful under the old arrangement but unstable when the environment, measurement process, or policy changes.
+:31. This is more precise than saying that a machine sees only frequency, because models learn structured associations while remaining unable to infer their meaning from pattern alone.
+:32. The path-dependent question begins with the history of those associations but does not end there.
+:33. Earlier decisions determine which examples are available, which categories become targets, and which outcomes count as success.
+:34. A trained system then lowers the cost of applying those inherited distinctions to new cases.
+:35. Once an organization builds forms, workflows, contracts, expertise, and expectations around the system, using the same distinctions becomes easier than replacing them.
+:36. The past has now changed the cost, probability, and visibility of later options, which is the defining mechanism of path dependence.
+:37. Mere historical origin is not enough to produce that result.
+:38. An old archive that is never consulted may preserve a distorted picture without constraining a single present decision.
+:39. A model used once in a stable setting may reproduce an inherited association without creating a self-reinforcing loop.
+:40. Lock-in grows when repeated use attracts complementary investments and makes an alternative require more than substituting one file or one model.
+:41. Feedback begins when decisions based on a model help produce the outcomes and records on which later decisions are trained.
+:42. Three acts that often blur together must therefore be separated: representing a record, predicting an outcome, and choosing what should be done.
+:43. Representation compresses selected features of observed cases into a form a system can process.
+:44. Prediction estimates an outcome under assumptions learned from some data-generating environment.
+:45. Decision turns a prediction into action by adding goals, thresholds, costs, rights, and judgments about acceptable errors.
+:46. No logical rule turns an accurate description into the correct prediction after conditions change, or turns an accurate prediction into a justified decision.
+:47. The dangerous slide occurs when likely under the old policy is silently treated as desirable under the next one.
+:48. Values enter through the chosen target, the proxy used to measure it, the threshold for action, and the allocation of errors, whether or not those choices appear in the model's code.
+:49. A predictable outcome is not necessarily an unavoidable outcome, and neither is it automatically a rightful one.
+:50. A documented case from health care shows how much can depend on the distance between a target and the thing people actually care about.
+:51. Researchers examining a widely used population-health algorithm reported in 2019 that it used predicted future health-care cost to identify patients for additional help.
+:52. Cost was convenient because claims systems recorded it consistently and because spending often rises with illness.
+:53. It was nevertheless an imperfect proxy for medical need.
+:54. At the same risk score, the researchers found, Black patients in their data were substantially sicker than White patients by several measures of uncontrolled illness.
+:55. Past inequalities in access to and use of care meant that less money had been spent on Black patients with comparable levels of need.
+:56. The system did not invent that spending pattern, and it could predict its assigned target accurately enough to be operationally useful.
+:57. The error arose because the institution asked a question about cost and used the answer as if it were a measure of illness.
+:58. When the researchers reformulated the target to better reflect health need, the share of Black patients identified for extra help in their simulation rose from 17.7 percent to 46.5 percent without increasing the program's size.
+:59. The finding did not show that every medical algorithm has the same defect or that cost is never informative.
+:60. It showed how an inherited social relationship can pass through a seemingly sensible proxy and alter access to a later opportunity.
+:61. The model conserved more than a distribution in its data; through the decision attached to its score, it could conserve the older relationship between illness and spending.
+:62. That relationship was contingent rather than arbitrary, because it had causes, constraints, and institutional history even though it was not medically necessary.
+:63. Choosing a different target was possible, but doing so required other measurements, validation, retraining, and changes to the surrounding workflow.
+:64. The existing target had an advantage precisely because claims records and administrative routines already supported it.
+:65. Convenience generated use, use justified complementary investment, and investment raised the cost of switching.
+:66. This is a genuine lock-in, yet it is not an irreversible one.
+:67. An audit made the mismatch visible by comparing the score with several measures of illness and by examining performance across relevant patient groups.
+:68. Changing the target substantially reduced the disparity in the study, although no single technical revision can settle every question about access, measurement, or medical need.
+:69. The episode also reveals that representativeness is only one part of the problem.
+:70. A dataset can contain many members of a group and still encode the wrong relationship if the target sits downstream of unequal treatment.
+:71. More data drawn from the same process may estimate that relationship more precisely without making it a better basis for action.
+:72. Accuracy against an inherited label can therefore strengthen rather than test the path that produced the label.
+:73. The binding becomes stronger when a prediction changes the stream of observations that will later be used to update it.
+:74. A 2018 study of predictive policing formalized one version of this mechanism with a mathematical model and simulations.
+:75. The researchers distinguished incidents reported independently by residents from incidents discovered because officers had been dispatched to a location.
+:76. Sending more officers to one area created more opportunities to discover and record offenses there.
+:77. If those discoveries were then treated as evidence for the next allocation, the system could repeatedly return officers to the same area even when the modeled underlying offense rates did not justify the growing concentration.
+:78. Each update appeared responsive to fresh evidence, but part of that evidence had been produced by the previous recommendation.
+:79. The study did not prove that every real deployment behaves this way, because its conclusions depended on a formalized setting and particular assumptions.
+:80. It did identify a mechanism that can be tested in an actual system rather than merely asserted whenever an output looks unequal.
+:81. The loop requires decisions that alter observation, records that fail to distinguish exposure from incidence, and repeated updating or reuse of those records.
+:82. Independently reported events can weaken the loop by providing evidence not created by deployment, although the study found that such reports did not necessarily eliminate it under its assumptions.
+:83. External sampling, exposure-adjusted measurement, or a revised update rule can change the dynamics.
+:84. Feedback is therefore neither mysterious nor destined; it is an identifiable connection in the pipeline.
+:85. Some predictions even undermine themselves rather than reinforce themselves.
+:86. A routing system may direct drivers onto a quiet street and thereby destroy the very condition that prompted the recommendation.
+:87. A forecast of shortage may trigger additional supply and help prevent the shortage.
+:88. Researchers call the broader phenomenon performative prediction when a prediction influences the outcome it aims to predict.
+:89. The influence may amplify an old pattern, damp it, reverse it, or create oscillation, depending on the response of people and institutions.
+:90. Path dependence does not require every loop to spiral upward.
+:91. It requires that earlier outputs alter the environment in which later possibilities are evaluated and pursued.
+:92. A second route from old decisions to new evidence appears when institutions observe outcomes only for people who passed an earlier gate.
+:93. Courts can observe whether released defendants return for trial, but they cannot observe how detained defendants would have behaved had they been released.
+:94. Lenders observe repayment for approved borrowers, not the repayment histories of applicants they rejected.
+:95. Employers observe job performance among those they hired, not among otherwise comparable applicants who never entered the firm.
+:96. Researchers describe this as the problem of selective labels because prior decisions determine which cases receive the outcome labels needed for later learning.
+:97. The missing outcome is not evidence of failure.
+:98. It is evidence that a counterfactual path was not taken and therefore did not generate a record.
+:99. Treating an absent repayment history as a bad repayment history would turn uncertainty into a negative judgment, while simply discarding every rejected applicant can leave the old gatekeeping policy hidden inside the training sample.
+:100. Even a technically excellent learner cannot recover every unobserved outcome from the observed cases alone.
+:101. The organization must obtain new information, introduce defensible assumptions, or accept limits on what it can infer.
+:102. Exploration can sometimes create that information by giving carefully chosen cases outside the familiar profile a chance to produce outcomes.
+:103. In hiring, for example, an exploratory policy may interview some candidates whose records are uncertain rather than using past success only to exploit familiar profiles.
+:104. Such exploration has costs and can be ethically or practically constrained, especially when the decision affects liberty, health, or basic opportunity.
+:105. Yet refusing all exploration has a cost of its own because the institution never learns whether the excluded path could have worked.
+:106. Historical categories create a related but distinct form of inheritance.
+:107. A form that permits only certain boxes makes those categories easier to count, compare, fund, and feed into a model.
+:108. People who fit poorly do not vanish, but the record preserves their forced classification rather than the mismatch.
+:109. Later statistics may then make the categories look empirically inevitable because the institution has spent years producing data in their shape.
+:110. Categories are not inherently suspect, since medicine, administration, and science cannot operate without grouping observations.
+:111. The question is whether the grouping serves the present purpose, preserves relevant variation, and remains open to revision.
+:112. The same issue expands from institutional labels to the uneven archive of digital culture.
+:113. Training corpora overrepresent material that was published, digitized, reachable, retained, and available under the collector's legal and technical constraints.
+:114. Languages, dialects, occupations, regions, and kinds of experience consequently enter the record at different densities and in different forms.
+:115. Thin representation can contribute to weaker performance, although corpus volume is only one cause among others such as data quality, annotation, tokenization, model design, and evaluation.
+:116. If stronger performance attracts more use and user interactions later become training data, an initially well-served language may gain a further advantage.
+:117. That loop is conditional rather than automatic because providers may not retain interactions, may curate later datasets differently, or may improve a language through targeted collection and transfer from other languages.
+:118. Interface defaults can create a quieter form of reinforcement.
+:119. The common expression becomes the first suggestion, accepting the suggestion costs less than rewriting it, and the resulting text adds another instance of the common form to the record.
+:120. A rare expression remains possible but becomes less visible at the moment of choice.
+:121. Repetition may gradually narrow what is likely to be offered even without forbidding anything.
+:122. Not every reduction in variation is a loss, because shared spelling, terminology, and document formats allow strangers and machines to coordinate.
+:123. A stable standard can be a productive lock-in that carries hard-won knowledge and lowers the cost of communication.
+:124. Its value and its rigidity arise from the same installed base, so the relevant question is what it enables, what it suppresses, and how expensive correction has become.
+:125. Institutions preserved the past long before machine learning appeared.
+:126. Written law, professional training, accounting standards, and maintenance manuals all carry earlier answers into later situations.
+:127. Their continuity can prevent repeated mistakes and make cooperation possible among people who never meet.
+:128. Automated systems add scale, speed, and consistency, but each of those properties has two sides.
+:129. A thousand clerks may notice exceptional circumstances that a uniform rule misses, yet they may also introduce arbitrary variation or unequal treatment.
+:130. Applying one rule millions of times can eliminate some noise while multiplying one unnoticed error with remarkable efficiency.
+:131. Faster updating can correct a defect sooner, or it can close a feedback loop before an alternative has generated enough evidence to be taken seriously.
+:132. Consistency is therefore not the opposite of learning, but it can remove the local deviations through which a failing rule first becomes visible.
+:133. Opacity also comes in degrees rather than dividing human judgment from machine judgment cleanly.
+:134. A simple model and a documented dataset may be easier to inspect than a committee's unwritten habits.
+:135. A large model assembled from many sources may encode a pattern that exists nowhere as an explicit sentence and cannot be removed by striking out a single clause.
+:136. The difficulty grows when responsibility is distributed among data suppliers, model builders, vendors, integrators, and the institution that acts on the output.
+:137. No participant then possesses the whole causal history, even though each contribution may be recorded somewhere.
+:138. Replacement also becomes costly when contracts, interfaces, staff skills, reporting systems, and downstream products assume that the same scores and categories will continue to exist.
+:139. A model can thus preserve the past not only in its parameters but in the organization that grows around it.
+:140. None of these mechanisms makes the inherited path final.
+:141. Audits can compare model outputs with outcomes that matter rather than only with the proxy used during training.
+:142. Dataset documentation can record provenance, collection conditions, exclusions, intended uses, and known gaps before those choices disappear into a pipeline.
+:143. Revised objectives can separate predicted cost from medical need, observed enforcement from underlying incidence, or prior selection from later performance.
+:144. Independent sampling can introduce observations that the existing decision process would never produce on its own.
+:145. Carefully designed trials or limited exploration can reveal whether an apparently risky alternative was merely unfamiliar, when such experiments are ethical and feasible.
+:146. Human review can preserve exceptions, but only if reviewers have time, relevant knowledge, and real authority to depart from the recommendation.
+:147. Appeals can correct individual cases and also generate evidence about recurring failures if the organization records and studies them.
+:148. Monitoring after deployment can detect when behavior, policy, or the data distribution changes in response to the model.
+:149. These measures are counterforces, not universal cures, because audits inherit measurement choices, documentation can be ignored, and every revised target creates new trade-offs.
+:150. Preservation itself is not an evil to be engineered away.
+:151. Much of what people seek from learning systems is fidelity to accumulated experience: recurring patterns of illness, settled conventions of language, and regularities established through engineering practice.
+:152. A world in which every institution reinvented itself each morning would lose collective learning along with institutional inertia.
+:153. The central choice is not between carrying the past and escaping it, because every workable system begins with inherited material.
+:154. The choice is whether that inheritance remains visible enough to examine, contest, and revise before complementary investments turn it into the only affordable path.
+:155. Deliberate preservation marks its editions, dates its rules, and keeps a record of why a standard changed.
+:156. Statistical preservation can be made more deliberate too, through documented data, versioned models, recorded decisions, independent evaluation, and maintained routes of appeal.
+:157. Galton's glass plates make the stakes visible because their sharpness and blur reveal exactly what the averaging process did.
+:158. Agreement among the selected portraits became clarity, while difference became haze, but neither property established what was essential about the people before the camera.
+:159. Modern systems build vastly more capable composites and return them not merely as pictures to inspect but as predictions and rankings that institutions can use.
+:160. The sharpest line in their picture may describe the world, or it may mark the groove worn by an old filing system, and only an examined path can tell the difference.

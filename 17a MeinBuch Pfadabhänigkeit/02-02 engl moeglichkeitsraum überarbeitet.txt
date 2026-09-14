@@ -1,0 +1,144 @@
+== 2.2 Adaptive Landschaften: der Möglichkeitsraum des Lebens ==
+
+:1. Picture a landscape stretching to the horizon in every direction—not an ordinary landscape of grass and stone, but one made entirely of possibility.
+:2. Every location represents a biological state, and nearby locations represent states reachable through relatively small changes.
+:3. Height stands for fitness, the expected contribution of a genotype or phenotype to later generations under specified conditions.
+:4. High ground therefore means reproductive success in a particular environment, not excellence according to a universal standard.
+:5. Low ground means that nearby alternatives leave more descendants, not that the organism is badly made in every respect.
+:6. This picture is called an adaptive or fitness landscape, and few images have done more to shape how biologists imagine evolutionary possibility.
+:7. The American geneticist Sewall Wright introduced the landscape image in published form in 1932 while developing the foundations of population genetics.
+:8. His sketches compressed an immense array of gene combinations or gene frequencies onto a page and used vertical height to represent adaptive value.
+:9. They were diagrams for reasoning, not surveys of a terrain that anyone could literally inspect.
+:10. A real genome supplies too many dimensions, interactions, and environmental contingencies to fit into three-dimensional scenery.
+:11. Wright's reduction nevertheless gave the eye something the mind could use: hills, ridges, valleys, and peaks.
+:12. It turned a difficult question into a visible one.
+:13. If natural selection tends to favor nearby changes that raise fitness, what happens when a population reaches high ground surrounded by lower ground?
+:14. The answer reveals how earlier states can change the accessibility of later possibilities.
+:15. Before following the population, the map needs three labels that popular accounts often blur together.
+:16. A genotype is genetic information, whether considered across a whole genome or across a deliberately limited set of sites.
+:17. A phenotype is the organism that develops from that genotype in interaction with cellular processes and an environment.
+:18. Fitness is neither the genotype nor the phenotype, but a context-dependent measure of reproductive contribution.
+:19. The same genotype can produce different phenotypes in different environments.
+:20. The same phenotype can also have different fitness when the climate, food supply, predators, competitors, or potential mates change.
+:21. Even its frequency can matter, because a rare trait may confer an advantage that disappears once the trait becomes common.
+:22. A fitness landscape therefore maps something specified, under conditions specified, to a particular measure of success.
+:23. Some landscapes map genotypes directly to fitness, while others place phenotypic traits or population gene frequencies along the horizontal dimensions.
+:24. These versions answer related questions, but they are not interchangeable.
+:25. A point representing one DNA sequence is not the same thing as a point representing an entire population.
+:26. Nor is the reproductive success measured in a laboratory flask identical to survival and reproduction in a changing ecosystem.
+:27. The distinctions make the metaphor less effortless, but also more useful.
+:28. They prevent height from quietly becoming a synonym for good design.
+:29. In its simplest form, the landscape invites us to imagine a hiker in dense fog.
+:30. The hiker cannot see the mountain range ahead, the valley beyond the next ridge, or a taller summit on the far horizon.
+:31. She can register only the slope beneath her feet and in the few steps around her.
+:32. Genetic variation supplies possible steps through mutation and recombination, while natural selection changes their chances of spreading.
+:33. Selection does not request the variation a population needs, and it has no view of a distant reward.
+:34. When a heritable variant leaves more descendants under current conditions, it tends to become more common.
+:35. Repeated over generations, that local bias can carry a population uphill.
+:36. Eventually the population may approach a state from which every readily available single change lowers fitness.
+:37. Biologists call such a state a local optimum.
+:38. It is the best among the nearby alternatives defined by the model, not necessarily the best state anywhere in the full possibility space.
+:39. A higher peak may exist beyond a valley of less successful intermediate forms.
+:40. If evolution proceeds through rare changes that must spread one at a time, selection strongly resists a route whose first step reduces reproductive success.
+:41. The population can then remain near the lower peak even though a higher one exists in principle.
+:42. Its earlier position has altered which improvements are reachable without first paying an evolutionary cost.
+:43. That is the path-dependent mechanism hidden inside the scenery.
+:44. History matters because it changes the neighborhood from which the next step must begin.
+:45. The mechanism becomes especially clear when genes interact.
+:46. A mutation does not always carry a fixed effect that can be read independently of the rest of the genome.
+:47. Its effect may depend on variants already present, a relationship biologists call epistasis.
+:48. Mutation B might raise fitness after mutation A but lower it before A has occurred.
+:49. In that case, the order A-then-B offers an uphill route while B-then-A does not.
+:50. Both final combinations may be physically possible, yet only one sequence is readily accessible to stepwise selection from the starting genotype.
+:51. The distinction between conceivable and historically accessible possibilities is the landscape's central achievement.
+:52. A celebrated experiment made this difference measurable in a small corner of molecular space.
+:53. In 2006, Daniel Weinreich and his colleagues examined five mutations in a bacterial enzyme called TEM-1 beta-lactamase.
+:54. Together, those mutations produced roughly a hundred-thousand-fold increase in resistance to the antibiotic cefotaxime in their assay.
+:55. Five mutations can arrive in 120 possible orders.
+:56. Yet 102 of those orders included at least one step that failed the study's criterion of increasing resistance, and several of the remaining paths were highly improbable.
+:57. The destination was the same on paper, but the effects of the intermediate mutations depended on what had come before.
+:58. This was not a map of the bacterium's whole evolutionary world.
+:59. It covered five selected mutations, one enzyme, and a defined experimental measure of resistance.
+:60. Resistance in that assay was also a proxy for one component of biological performance, not an all-purpose measurement of fitness.
+:61. Precisely because the map was narrow, however, it showed with unusual clarity how genetic background can close most routes to a reachable-looking destination.
+:62. The familiar hill-climbing story becomes misleading when its simplifying assumptions are forgotten.
+:63. A population is not a single traveler, and it does not march in unison from point to point.
+:64. It is a distribution of individuals carrying variation, sometimes spread across several parts of the landscape at once.
+:65. New variants can arise before older ones have fixed, recombination can join variants from different lineages, and migration can import combinations formed elsewhere.
+:66. Natural selection is not the only process changing variant frequencies.
+:67. Genetic drift, the random fluctuation produced by finite reproduction, can sometimes allow a mildly harmful intermediate to persist or even become common.
+:68. A second mutation can occasionally arise in that intermediate lineage before the first mutation ever becomes fixed, effectively tunneling through the valley.
+:69. Environmental change can flatten a valley, raise a formerly low route, or make the destination irrelevant.
+:70. A large population may sample rare combinations unavailable to a small one, while a small population may experience stronger drift.
+:71. The depth and width of a valley, mutation rates, population structure, migration, and time all affect whether it can be crossed.
+:72. Natural selection therefore makes some routes unlikely; it does not erect an absolute wall around every local peak.
+:73. Nor does a population simply stop evolving when it reaches one.
+:74. Neutral or nearly neutral changes can accumulate, genetic variation can persist, and the environment can continue to move.
+:75. The phrase local optimum describes a relation between a state and a specified neighborhood, not an eternal resting place.
+:76. A peak can bind without imprisoning.
+:77. Lock-in in this biological sense is a matter of transition probabilities and costs, not a declaration that change has ended.
+:78. Wright himself developed a more elaborate account of movement among peaks, later known as the shifting balance theory.
+:79. He imagined a species divided into many partly connected local populations.
+:80. In a small population, drift could move gene frequencies away from a local peak, after which selection might carry the population toward another one.
+:81. If the new combination proved successful, migration could help spread it into other populations.
+:82. Wright's proposal joined drift, selection, population subdivision, and gene flow rather than asking chance to do all the work.
+:83. Its importance in nature has remained debated, and the complete process is difficult to demonstrate empirically.
+:84. That dispute does not erase the simpler point that population structure changes which routes evolution can take.
+:85. A valley easily crossed under one demographic arrangement may be almost impassable under another.
+:86. This qualification also corrects the image of one lost hiker feeling for the next upward step.
+:87. The metaphor pictures local accessibility well, but it hides population size, sexual reproduction, spatial structure, and simultaneous variation.
+:88. Used literally, it would replace biology with scenery.
+:89. Used carefully, it asks a productive question about every evolutionary transition.
+:90. Which intermediate states were available, and what made their persistence more or less probable?
+:91. A chronology becomes a path-dependent explanation only when that mechanism is supplied.
+:92. The terrain itself introduces a second complication, because biological landscapes rarely stay fixed.
+:93. Climate can shift, a food source can disappear, and a predator or parasite can evolve.
+:94. Each change can alter the reproductive consequences of traits without changing those traits themselves.
+:95. A genotype once placed on high ground may therefore find itself on a slope when the environment changes.
+:96. Frequency dependence makes the map change even when the external environment appears stable.
+:97. If a defense works best while it is rare, its spread can reduce its own advantage.
+:98. Other species also change the relevant conditions as they evolve.
+:99. A prey population alters selection on its predators, whose response then alters selection on the prey.
+:100. Organisms can modify the ground more directly by building nests, changing soils, consuming resources, releasing waste, or creating new ecological niches.
+:101. In such cases, the walkers help reshape the landscape on which their descendants move.
+:102. The metaphor must then become a moving surface, although even that image understates the reciprocal dynamics.
+:103. There may be no single enduring global optimum against which every lineage can be ranked.
+:104. What counts as high depends on place, time, competitors, and the scale at which reproduction is measured.
+:105. A peak can split, merge, sink, or disappear as those conditions change.
+:106. Evolution begins again from the population's current composition rather than from a blank slate.
+:107. Past adaptation remains relevant because it determines which variants, structures, and developmental pathways are present when the new conditions arrive.
+:108. High-dimensional landscapes add a less obvious source of freedom.
+:109. A two-dimensional drawing suggests that peaks are isolated cones separated by unavoidable ravines.
+:110. In a space with many genetic dimensions, states of similar fitness may instead form extended networks or winding ridges.
+:111. A population can accumulate neutral changes along such a ridge without gaining or losing much under current conditions.
+:112. Far along the network, a beneficial mutation may become available that was not beneficial near the starting point.
+:113. The population has reached a new evolutionary neighborhood without first descending a deep valley.
+:114. Neutral movement is therefore not necessarily evolutionary idleness.
+:115. It can rearrange the background against which later mutations act and quietly expose new routes.
+:116. Recombination can create still other shortcuts, although it can also break apart combinations that selection favors.
+:117. Development further structures the map because genetic changes do not translate into arbitrary changes of form.
+:118. Existing regulatory systems, body plans, and embryological processes make some phenotypic variations easy to produce and others remote.
+:119. The landscape is thus shaped not only by which adult forms would work, but also by which forms development can reliably build from the inherited starting point.
+:120. The panda's enlarged wrist bone, often called a false thumb, illustrates the difference between historical accessibility and design from scratch.
+:121. Variants of an existing wrist structure could alter grasping without requiring an entirely new digit to appear at once.
+:122. The result performs useful work even though an engineer unconstrained by ancestry might imagine another arrangement.
+:123. The mammalian middle ear tells a more dramatic story of transformation, with bones homologous to jaw elements in earlier vertebrates incorporated into a new functional system through a long sequence of viable changes.
+:124. Such examples do not prove that a superior anatomy waits on some neighboring summit.
+:125. Biological structures serve several functions, face competing demands, and cannot be ranked by a single imagined engineering score.
+:126. What the examples do show is that ancestry supplies the material and developmental relations from which modification begins.
+:127. Historical constraint can therefore generate intricate success as well as conspicuous detours.
+:128. A lineage's inherited structure may block one route while opening another through later reuse.
+:129. Path dependence is not merely a catalog of defects.
+:130. It is an account of why evolution produces some workable novelties more readily than other conceivable ones.
+:131. The relevant alternative is not a perfect organism, but another viable sequence of intermediate populations under the conditions that actually existed.
+:132. History does not always create strong path dependence.
+:133. On a smooth landscape with one broad peak, populations starting from different positions may converge under the same persistent selection pressure.
+:134. Physical constraints and similar environments can also favor similar functions in lineages with different pasts.
+:135. Wings evolved independently in insects, pterosaurs, birds, and bats, even though the structures and routes were not the same.
+:136. Convergence is a useful countertest because it asks how much inherited starting points truly restricted the outcome.
+:137. When many routes lead toward similar performance, present conditions may explain more than remote history.
+:138. When mutation effects depend strongly on genetic background and viable intermediates are scarce, sequence matters much more.
+:139. The adaptive landscape earns its keep by helping us distinguish those cases rather than labeling every evolutionary result historical.
+:140. Life does not occupy an open plain of everything that could be imagined, but neither does it stand motionless on a predestined summit.
+:141. It moves through a changing neighborhood whose nearby paths were partly formed by paths already taken.
+:142. The landscape is not a map that evolution reads; it is our map of why the next possible step begins here rather than everywhere.

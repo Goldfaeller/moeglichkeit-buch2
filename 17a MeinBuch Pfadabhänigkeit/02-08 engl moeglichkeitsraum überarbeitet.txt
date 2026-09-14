@@ -1,0 +1,132 @@
+== 2.8 Zwölf Kolben Bakterien und die Wiederholbarkeit ==
+
+:1. On February 24, 1988, evolutionary biologist Richard Lenski began an experiment at the University of California, Irvine, built around twelve flasks and one repeated act.
+:2. Its name, the Long-Term Evolution Experiment, sounds grander than its daily procedure, but the modest routine has already carried the lineages beyond eighty thousand generations.
+:3. Each flask holds a population of the bacterium Escherichia coli, and each population descends from the same nonpathogenic ancestral strain of E. coli B.
+:4. Six populations began with the variant called REL606 and six with REL607, a nearly identical derivative carrying an arabinose marker that was effectively neutral under the experimental conditions.
+:5. The marker makes the two sets distinguishable as red or white colonies on indicator plates, a small difference that helps researchers detect accidental mixing without giving either set an intended advantage in the flasks.
+:6. The twelve populations therefore began as close replicates, not as descendants of the same single cell placed independently into every flask.
+:7. Under normal operation, one percent of each culture is transferred every day into fresh medium and incubated at thirty-seven degrees Celsius, including on weekends and holidays.
+:8. The fresh medium contains just twenty-five milligrams of glucose per liter, a small and strictly limited supply.
+:9. The bacteria multiply about one hundredfold before the glucose runs out, which amounts to roughly six and two-thirds generations per daily cycle.
+:10. After that burst of growth, the cultures remain in the spent medium until the next transfer.
+:11. Identical protocol does not mean uninterrupted calendar time.
+:12. Moves between laboratories, accidents, and the pandemic have produced pauses, making the calendar age of the project different from the number of days on which bacterial evolution actually proceeded.
+:13. After those interruptions, archived populations allowed the experiment to resume from a defined point, so continuity here is maintained by recoverable lineages rather than by an unbroken ritual.
+:14. Every five hundred generations, and at still shorter intervals during the first 2,500 generations, mixed samples of all twelve populations have been stored at minus eighty degrees Celsius.
+:15. The result is what the researchers call a frozen fossil record.
+:16. Unlike a mineralized bone or shell, a frozen bacterial sample can be thawed and grown again.
+:17. The revived cells are not a magical restoration of every vanished cell or every frequency present in the flask, but a viable sample of the population preserved at that moment.
+:18. Researchers can compare descendants with their own ancestors, sequence genomes from different dates, and run marked competitions that measure reproductive performance between organisms separated by thousands of generations.
+:19. The freezer thus converts history from a missing background into an experimental variable that can be sampled, compared, and restarted under controlled conditions.
+:20. What becomes reachable if one restarts a lineage from an earlier point in its path?
+:21. In 1989, paleontologist Stephen Jay Gould gave that question its most memorable image in Wonderful Life, his book about fossils from the Burgess Shale.
+:22. Imagine rewinding the tape of life to an earlier moment and letting it play again, with chance events given another opportunity to occur or fail to occur.
+:23. Would natural selection repeatedly produce similar forms, or would small contingencies compound until the replay ended with organisms unlike those in the actual record?
+:24. No laboratory can replay the history of the biosphere with its climates, extinctions, migrations, competitors, and geological changes restored exactly, and the LTEE does not pretend otherwise.
+:25. Lenski's experiment offers a narrower but testable version of the question by replacing an unrecoverable world with replicate populations in a deliberately restricted one.
+:26. The twelve populations started from almost the same genotype and encountered the same nominal temperature, nutrients, oxygen supply, transfer schedule, and vessel size.
+:27. Mutations arose independently in each population, and genetic drift and sampling affected which new variants survived while they were still rare.
+:28. Natural selection then acted repeatedly within the same carefully maintained regime.
+:29. The twelve flasks were therefore parallel replays from a common starting point, although stochastic mutation and inheritance ensured that they were never replicas guaranteed to remain identical.
+:30. At the broadest scale, their evolution has been strikingly repeatable despite the enormous number of mutations sampled independently in each line.
+:31. All twelve populations became better competitors in the environment of the experiment than their ancestor.
+:32. Measurements through 50,000 generations found that their average fitness gains were fastest early on and continued more slowly rather than stopping at a common plateau.
+:33. Cell size also increased in every population, especially early in the experiment, although later changes in size and shape varied substantially among lines.
+:34. Many genes and functional pathways acquired changes repeatedly, evidence that the shared environment made some adaptive targets and routes more likely than others.
+:35. Yet the populations also diverged in mutation rates, genome structure, cell form, resource use, and ecological interactions, sometimes through changes unique to one flask.
+:36. Parallel adaptation did not mean identical molecular histories.
+:37. Nor did repeatability prove that the observed solutions were the only physically possible ones.
+:38. It showed that, from this ancestor in this medium and under this transfer regime, some nearby improvements were sufficiently beneficial and accessible to recur.
+:39. One ingredient in the medium exposed the limit of that repeatability.
+:40. Alongside glucose, the recipe contains citrate, which serves as a chelating agent that helps keep iron available in solution.
+:41. Citrate is also rich in carbon, and the medium contains far more of it than glucose.
+:42. The ancestral bacteria possessed metabolic machinery that could process citrate once it entered the cell, but under the oxygen-rich conditions of the experiment they did not express the CitT transport system needed to bring it inside.
+:43. Inability to grow aerobically on citrate has long been used as a diagnostic feature of E. coli, although plasmids, exceptional strains, and laboratory mutants make it an imperfect species boundary rather than an absolute definition.
+:44. For more than thirty thousand generations, citrate remained physically present and biologically inaccessible in all twelve flasks, even after each population had tested billions of spontaneous mutations.
+:45. The distinction matters because a resource can lie inside the physical environment while remaining outside a lineage's historically accessible possibilities.
+:46. The bacteria did not need a wholly new metabolism to reach citrate.
+:47. They needed a viable regulatory route that would operate in oxygen and give its first carriers enough benefit to survive drift and competition from other improving lineages.
+:48. In one population, designated Ara-3, weak aerobic citrate use had evolved by generation 31,500, roughly fifteen years after the experiment began.
+:49. By roughly generation 33,000, in 2003, the culture's unusual turbidity made the change conspicuous because the population had grown far denser than before.
+:50. Contamination by another bacterial species was an obvious concern, and the researchers tested that possibility rather than treating cloudiness as proof of an evolutionary innovation.
+:51. The abundant cells were descendants of the experimental E. coli, not an invading species.
+:52. Their newly accessible carbon source increased the population's density severalfold and changed the competitive environment experienced by every lineage in the flask.
+:53. Evolution had not created citrate or abolished a physical barrier.
+:54. It had altered which part of an unchanged environment the lineage could use.
+:55. No comparable aerobic citrate-consuming lineage had appeared in the other eleven populations even after at least 75,000 generations, more than twice the waiting time in Ara-3.
+:56. The asymmetry sharpened the central puzzle.
+:57. Why did a route reached by one population after more than thirty thousand generations remain effectively hidden from its eleven companions?
+:58. Graduate student Zachary Blount, working with Christina Borland and Lenski, used the frozen archive to investigate that question through large evolutionary replay experiments.
+:59. They revived the ancestor and clones from many later points in the history of Ara-3, created independent cultures, and watched for citrate use to evolve again.
+:60. Among 8.4 trillion cells descended from the original ancestor, they observed no citrate-using mutants, placing a stringent upper bound on the ancestral rate rather than proving absolute impossibility.
+:61. They likewise found none among roughly nine trillion cells derived from sixty clones sampled during the first 15,000 generations, despite providing enormous opportunities for mutation.
+:62. Clones sampled after that period showed a significantly greater tendency to produce the trait, with successful replays concentrated among backgrounds from generation 20,000 and later.
+:63. By about generation 20,000, changes in the genetic background had made citrate use more evolvable, meaning more reachable under the assay conditions, though never guaranteed.
+:64. This result was a real counterfactual test, but not a literal rewind.
+:65. A revived sample began from an archived population or isolated clone, while new mutations, competition, and random losses still unfolded afresh in each replay.
+:66. What the replays held constant was the inherited starting point.
+:67. What they measured was how that inherited starting point changed the probability and waiting time for reaching a later state under otherwise similar conditions.
+:68. The researchers called the preparatory phase potentiation.
+:69. Early accounts sometimes made potentiation sound like one functionally silent mutation that quietly unlocked the future without altering the bacterium in any other consequential way.
+:70. Subsequent genomic and genetic work revealed a more complicated history.
+:71. At least three genetically distinct clades coexisted within Ara-3 for more than ten thousand generations before citrate use arose, and more than one evolved background could support the innovation.
+:72. Mutations accumulated in central metabolism and elsewhere, sometimes making aerobic expression of a citrate transporter more beneficial and sometimes imposing a growth delay that made it costly.
+:73. The population's propensity to innovate therefore did not simply rise in one permanent step.
+:74. It moved through genetic backgrounds with different degrees of potentiation and even anti-potentiation.
+:75. Competition among beneficial mutations, known as clonal interference in an asexual population, added another layer of contingency beyond the presence or absence of a particular allele.
+:76. A weak citrate-using variant could be molecularly possible yet still disappear while rare if other lineages were gaining larger and more immediate benefits from glucose.
+:77. As the pace of those competing improvements slowed, a modest advantage from citrate had a better chance to survive long enough for further refinement.
+:78. Historical contingency in this case was stored not only in DNA sequence but also in the timing, frequencies, and competitive composition of a changing population.
+:79. This corrects the attractive but overly simple story of a single silent key waiting for a matching lock somewhere later in the genome.
+:80. Potentiation changed a distribution of chances; it did not schedule the innovation.
+:81. The next phase, actualization, is understood more directly.
+:82. A tandem duplication placed the citT citrate-transporter gene under the influence of a neighboring regulatory sequence that was active in the oxygen-rich flask.
+:83. The rearrangement captured a promoter and caused CitT to be produced under conditions in which the ancestral regulatory arrangement had kept the transporter silent.
+:84. Citrate could now cross the membrane, giving its carriers a rudimentary trait that researchers label Cit-positive but that initially supported only weak growth on the new resource.
+:85. Even this apparently decisive mutation did not have a fixed meaning in every genome.
+:86. Experiments that inserted the same promoter-transporter module into cells from different dates found fitness effects ranging from strongly harmful to beneficial under the experimental regime.
+:87. The mutation's immediate biochemical action stayed similar, but its contribution to growth and survival depended on the metabolic system and competitive background around it.
+:88. Molecular function and evolutionary success are not the same thing.
+:89. Actualization was followed by refinement.
+:90. A later regulatory mutation increased production of another transporter, DctA, allowing the cells to recover four-carbon compounds exchanged during citrate import and to exploit the abundant citrate much more efficiently.
+:91. Changes in the enzyme citrate synthase before and after actualization also adjusted metabolic flow, with later mutations partly reversing earlier adaptations that had suited life on glucose alone.
+:92. The observed sequence therefore records more than a list of mutations.
+:93. Each step changed the fitness effects, competitive prospects, and accessibility of steps that could follow, while some later refinements altered the value of changes inherited from before the innovation.
+:94. Dependence of a mutation's effect on genetic background is epistasis, and when one ordering remains viable while another does not, epistasis becomes a concrete mechanism of path dependence.
+:95. A mutation that helps after an earlier adjustment may harm before it, while a useful first step can later require partial revision.
+:96. The viable path is not simply the shortest line between ancestral and modern cells.
+:97. It is the sequence whose intermediate populations can reproduce, persist, and avoid being displaced by the actual competitors present at each stage.
+:98. Once refined citrate use raised population density, the innovation began to reshape the flask environment in which it had first been selected.
+:99. More cells meant a larger supply of additional mutations, while the newly exploited resource and its metabolic byproducts created fresh targets for natural selection.
+:100. This was positive feedback, but it was neither boundless nor solitary because competing lineages continued to adapt within the transformed environment.
+:101. Citrate users did not immediately eliminate all bacteria that retained the ancestral inability to consume citrate aerobically.
+:102. Citrate-using and nonusing lineages coexisted for more than 10,000 generations through frequency-dependent ecological interactions in which each type's advantage changed with its abundance.
+:103. The CitT transporter imports citrate by exchanging it for four-carbon compounds such as succinate, fumarate, and malate rather than drawing power directly from an ion gradient.
+:104. Those exported compounds created secondary resources that neighboring cells could exploit, so the molecular solution to transport generated an ecological opportunity outside the innovating cells.
+:105. The non-citrate-using lineage evolved improved growth on these byproducts, while citrate users later improved their ability to recapture them as well, increasing overlap as well as specialization.
+:106. A regulatory change had therefore opened a new food source and, through the transporter's operating mechanism, altered the ecology around it.
+:107. The pathway was a constraint and an opportunity at the same time.
+:108. It released potentially valuable molecules into the medium, an apparent inefficiency that nevertheless helped create a cross-feeding niche and sustain diversity for thousands of generations.
+:109. Evolution did not intentionally construct that niche, but the organisms' changed activity modified the selective environment faced by their descendants.
+:110. The non-citrate-using lineage eventually disappeared from the continuing population, but it persisted in twenty replicate populations restarted from an archive shortly before that extinction and evolved across the same interval again.
+:111. Its original loss was therefore not simply the inevitable completion of citrate users' competitive ascent, and a rare external perturbation or another unrecorded chance event remains plausible.
+:112. Even after an innovation becomes established, ecological coexistence, accidents, and later mutations keep more than one future in play.
+:113. The citrate case therefore offers no simple victory to either determinism or chance, because both operate through mechanisms visible at different scales.
+:114. Eleven populations repeatedly found many of the same broad improvements in their shared glucose-limited world, while one population entered a metabolic region that the others did not reach.
+:115. The contrast depends on the scale of the trait being examined.
+:116. A change reachable by many short and beneficial routes should recur more often than one requiring a narrow ordering of context-dependent steps and a lull in stronger competing improvements.
+:117. Contingency is not randomness without constraint, and repeatability is not proof of necessity.
+:118. Mutation supplies variation without regard to what the bacteria need, selection filters that variation through present conditions, drift removes some rare variants, and inherited context changes what each survivor can do.
+:119. The experiment also has important limits as a model of evolution beyond the laboratory, and its clean design should not be confused with universality.
+:120. Its populations begin from one ancestral strain, live in a highly simplified medium, reproduce asexually without recombination between lineages, and encounter an environment deliberately kept far steadier than most natural habitats.
+:121. Even within those limits, the environment is not perfectly static because the bacteria alter resource use, byproducts, density, and competition as they evolve.
+:122. The flasks isolate several mechanisms of evolutionary history rather than reproduce the ecological and developmental complexity of the biosphere.
+:123. Their value lies in showing exactly where a claim about history can be tested against revived ancestors, parallel lines, genetic reconstruction, and repeated outcomes.
+:124. Every organism has a past, but a past becomes path dependent only when earlier events change the cost, probability, visibility, or reachability of later possibilities.
+:125. Ara-3 meets that stronger test.
+:126. Its early adaptations and population dynamics changed the prospects of transporter activation, the activation opened citrate as a resource, and refinement made the new way of life robust.
+:127. The resulting population then altered its own ecology, creating further opportunities and constraints that the ancestor had never faced.
+:128. None of these stages made the final outcome unavoidable, yet each changed the odds, costs, and competitive setting confronting the next mutation.
+:129. By preserving viable samples, the frozen archive made those changing odds experimentally visible instead of leaving them as a plausible historical story inferred only from the endpoint.
+:130. The deepest result of the twelve flasks is not a verdict on whether life's tape repeats, but the discovery that repeatability itself has a history.

@@ -1,0 +1,142 @@
+== 7. Das Schichtwerk des Rechts ==
+
+:1. In a German notary's office, signing a contract to buy a house does not by itself make the buyer its owner.
+:2. The promise to sell and the transfer of ownership are treated as distinct legal acts, and land ownership changes only through a separate agreement and entry in the land register.
+:3. If the purchase contract proves invalid, the transfer can nevertheless remain legally effective, leaving the parties to unwind the result through the law of restitution.
+:4. This separation, known as the abstraction principle, often strikes outsiders as a machine built with one gear too many.
+:5. Yet the extra gear does work: it separates questions about why property should move from questions about whether it has moved, protecting the clarity of subsequent transactions.
+:6. Around that distinction stands an architecture of notaries, registers, forms, judicial decisions, university courses, professional examinations, legal commentaries, and settled expectations.
+:7. Removing the distinction would therefore require much more than deleting a few provisions from a statute.
+:8. It would require changing the network that makes those provisions usable.
+:9. Law remembers in networks.
+:10. A statute is only one of its storage media.
+:11. Its past resides not only in old words on a page but also in the categories people have learned, the documents institutions accept, the remedies courts can administer, and the risks citizens have organized their lives to avoid.
+:12. The central monument in German private law is the Civil Code, the Bürgerliches Gesetzbuch, usually shortened to BGB.
+:13. Enacted in 1896 and brought into force on January 1, 1900, it gathered much of private law into a common structure for a country whose regions had long drawn on different codes, statutes, and legal traditions.
+:14. Codification did not simply replace disorder with order, because the older landscape contained functioning arrangements as well as fragmentation.
+:15. It did, however, make one vocabulary portable across the empire.
+:16. A lawyer trained in one region could increasingly reason with the same divisions of persons, obligations, property, family, and inheritance used elsewhere.
+:17. Publishers could invest in commentaries for a national audience, universities could teach a shared system, and courts could refine recurring questions inside a common frame.
+:18. Each investment made the code more useful, while the code's growing usefulness made the next investment in it more attractive.
+:19. That loop is an increasing return: adoption creates capacities that raise the payoff from further adoption.
+:20. Over time, an alternative code must compete not only with the BGB's text but with more than a century of accumulated know-how around it.
+:21. The old choice has altered the price of every later choice.
+:22. That is path dependence in a demanding sense, and it should not be confused with the mere fact that one event happened before another.
+:23. A rule may endure because the problem it solves has not changed, because powerful groups defend it, because lawmakers ignore it, or because replacing it would disrupt complementary rules.
+:24. Only the last of these explanations necessarily describes a path mechanism, and even then the degree of dependence must be shown rather than assumed.
+:25. The BGB's persistence is therefore not proof that its original provisions were optimal, nor is age itself evidence of lock-in.
+:26. The evidence lies in the feedback among doctrine, training, administration, contracts, expectations, and neighboring law.
+:27. Those complements reduce the daily cost of staying while raising the transitional cost of leaving.
+:28. They also produce genuine benefits.
+:29. Citizens can plan because familiar forms will usually be recognized, businesses can contract against a stable background, and judges can draw on arguments tested across many disputes.
+:30. The same stability can preserve obsolete social assumptions or make a cleaner alternative prohibitively expensive.
+:31. Legal path dependence is thus not a diagnosis of failure but an explanation of why reliability and rigidity so often grow from the same root.
+:32. Nor does dependence mean that the code dictates one unavoidable future.
+:33. Legislatures can amend its provisions, courts can reinterpret open language, constitutions can invalidate old rules, and supranational law can add new obligations or displace incompatible ones.
+:34. Private actors also probe the boundaries by inventing contracts for circumstances the drafters never contemplated.
+:35. The code has consequently changed repeatedly in wording and developed continuously in application while retaining its recognizable framework.
+:36. This mixture of continuity and alteration is easier to grasp as layered construction than as either preservation or replacement.
+:37. A new floor rests on an older load-bearing wall, a doorway is widened, and an obsolete room may be sealed off, yet every alteration redistributes pressure elsewhere.
+:38. The metaphor has limits, because legal materials do not bear physical weight and judges are not engineers following a single blueprint.
+:39. Still, it captures the key relational fact: a provision works through its connections, so changing one part can create consequences in another.
+:40. Legal reform normally occurs while millions of relationships remain active.
+:41. Mortgages continue, marriages persist, companies owe debts, lawsuits move through courts, and public bodies must decide tomorrow's cases even while parliament redesigns today's rules.
+:42. The result is a form of reconstruction under occupancy.
+:43. Transitional rules decide which old transactions retain protection, which new standards apply immediately, and who bears the cost of moving between them.
+:44. Such rules are sometimes dismissed as technical clutter, but they are often the hinges that make change politically and practically possible.
+:45. A reform that ignores reliance can turn improvement in the abstract into arbitrary loss for people who acted lawfully under the earlier rule.
+:46. A reform that protects every reliance forever can convert temporary expectations into permanent privilege.
+:47. The difficult choice is not between change and stasis but among different distributions of transition costs.
+:48. Those costs are uneven because law does not merely regulate interests that already exist.
+:49. It helps create professions, assets, procedures, and claims whose holders then acquire both reasons and resources to defend the framework.
+:50. This feedback can harden a path, although opposition alone does not prove that the path is inefficient.
+:51. People may resist a new rule because they profit from the old one, because they understand risks the reformers have overlooked, or because the proposed transition gives them a disproportionate share of the losses.
+:52. Germany's repeated political ruptures expose the difference between a surviving legal text and an unchanged legal order.
+:53. The BGB remained in force through empire, democratic republic, dictatorship, defeat, division, and reunification, but it did not carry the same meaning or operate under the same institutions in each regime.
+:54. During National Socialism, discriminatory legislation and ideological interpretation hollowed out legal equality even where familiar civil-law forms remained on the books.
+:55. Textual continuity in that setting cannot be counted as continuity of justice, and it certainly cannot place radically different regimes on one moral plane.
+:56. After 1945, retaining portions of older law solved urgent coordination problems, but retention also posed a question that repeal alone could not answer: how could inherited rules be made answerable to a new constitutional order?
+:57. The Basic Law of 1949 supplied part of the mechanism by placing human dignity first and binding legislation, administration, and adjudication to fundamental rights as directly applicable law.
+:58. This was deliberate memory, not an attempt to escape history.
+:59. Designers drew lessons from democratic collapse and dictatorship, yet they also reused federal structures, parliamentary forms, legal professions, and concepts with longer pedigrees.
+:60. The new order was simultaneously a break, a selection among inheritances, and a set of constraints on future choice.
+:61. The Federal Constitutional Court's 1958 Lüth judgment shows how a new layer can penetrate an old one without replacing its entire vocabulary.
+:62. The dispute began with Erich Lüth's public call to boycott a film directed by Veit Harlan, and the civil courts treated the call as unlawful interference under private law.
+:63. The Constitutional Court held that freedom of expression had not been adequately weighed and explained that fundamental rights also express an objective order of values affecting the interpretation of private law.
+:64. The decision did not turn every private disagreement into a constitutional lawsuit between citizens.
+:65. Instead, it required ordinary legal concepts, especially broad clauses, to be read in the light of constitutional commitments.
+:66. A short provision such as the BGB's command to perform obligations in good faith can therefore become a doorway through which changing judgments enter an old structure.
+:67. Open clauses increase adaptability, but they also transfer discretion to courts and generate new lines of doctrine that later lawyers must learn.
+:68. Correction creates its own precedents, formulas, and expectations.
+:69. The instrument that loosens one inherited path can begin to mark another.
+:70. Once that happens, the decisive question is no longer whether old law survives, but which institutions gain authority to decide what survival now means.
+:71. In modern Germany, that authority is deliberately dispersed.
+:72. Parliament writes and revises statutes, ordinary courts resolve disputes, administrators turn general commands into routine decisions, and constitutional and European institutions test the limits of each actor's choices.
+:73. No single participant controls the whole structure.
+:74. That distribution slows change, but it also permits one institution to expose errors that another has normalized.
+:75. Even judicial authority works less simply than the architectural image might suggest.
+:76. Germany does not generally treat every higher-court judgment as formally binding precedent in the common-law sense, yet established lines of decision carry substantial practical weight.
+:77. Lower courts anticipate review, lawyers advise clients from reported cases, scholars organize judgments into doctrine, and publishers place the resulting interpretations beside each statutory provision.
+:78. A decision can thereby guide thousands of later choices without acquiring the status of legislation.
+:79. The more professionals rely on the interpretation, the more disruptive an unexplained departure becomes.
+:80. Doctrine accumulates its own increasing returns.
+:81. These returns shape visibility as well as cost.
+:82. A legal problem described in a familiar category can be matched to recognized claims, procedures, and remedies.
+:83. An injury that falls outside the inherited map may remain difficult to articulate even when its human importance is plain.
+:84. New categories matter because they make previously scattered experiences legally comparable.
+:85. Yet creating one is not enough, since officials must learn it, evidence must be gathered for it, and remedies must connect it to institutions able to act.
+:86. Legal possibility therefore depends on a chain extending from language to enforcement.
+:87. A right without a procedure may be morally resonant but practically faint, while a routine backed by forms, deadlines, trained staff, and appellate guidance becomes highly visible.
+:88. This is why apparently technical procedure can determine which substantive promises enter everyday life.
+:89. It is also why legal history cannot be read from statutory wording alone.
+:90. Law on the page, law interpreted by courts, and law available to an ordinary person may follow related but different paths.
+:91. The Basic Law makes this dispersal of power an explicit design principle.
+:92. Its amendment procedure allows constitutional change, but Article 79 generally demands two-thirds majorities in both the Bundestag and the Bundesrat.
+:93. The same article places the federal division, the participation of the states in legislation, and the basic principles of Articles 1 and 20 beyond constitutional amendment.
+:94. This so-called eternity clause is an unusually strong act of self-binding shaped by remembered institutional failure.
+:95. It does not freeze every constitutional arrangement or resolve in advance how protected principles apply to every new case.
+:96. Most constitutional provisions remain amendable through the prescribed process, and interpretation continues to develop their meaning.
+:97. The design preserves a field of movement inside boundaries that ordinary political majorities cannot erase.
+:98. That boundary supplies credibility to rights and democratic procedures because participants need not renegotiate their foundations after every electoral shift.
+:99. Its price is equally real: a future generation cannot begin from a blank sheet even if a very large majority wishes to do so.
+:100. Constitutional stability is purchased by deliberately removing some options from ordinary politics.
+:101. Judicial review adds a different form of controlled revision.
+:102. Individuals can challenge public action through constitutional complaint under defined conditions, and courts can test legislation through procedures designed for constitutional scrutiny.
+:103. When the Constitutional Court develops a test for balancing rights or reviewing proportionality, that test can coordinate decisions far beyond the dispute that produced it.
+:104. Repeated use makes the formula familiar, teaches public bodies how to justify decisions, and tells litigants which arguments are likely to be heard.
+:105. The correction mechanism then becomes part of the path it corrects.
+:106. This is not a paradox if legal evolution is understood as the replacement of one set of uncertainties with another, more structured set.
+:107. Predictability grows because discretion is channeled, though channeling can also narrow attention to factors the established test recognizes.
+:108. Courts can revise their doctrine, legislatures can change the surrounding statute, and constitutional amendments can alter many premises.
+:109. None of those routes is costless, but their existence keeps commitment from becoming complete immobility.
+:110. The constitutional transformation after 1949 is itself a decisive counterexample to any claim that inherited legal arrangements mechanically determine later ones.
+:111. European integration has added another layer without simply placing a foreign roof atop a national building.
+:112. Treaties allocate competences, European legislation takes several legal forms, the Court of Justice interprets Union law, and national courts and administrations apply much of it in concrete cases.
+:113. Where valid Union law governs within the competences conferred on the Union, its primacy prevents a conflicting national rule from defeating the common obligation.
+:114. That principle reduces some older national lock-ins by opening markets, coordinating protections, and making cross-border action legally possible.
+:115. At the same time, common rules generate their own investments in compliance systems, professional knowledge, databases, contracts, and expectations across many countries.
+:116. A national government considering unilateral change must then account for partners and institutions that have organized themselves around the shared rule.
+:117. The choice has become transnationally path-dependent.
+:118. This binding can be valuable because reciprocity would be fragile if each participant could withdraw from a common standard whenever compliance became inconvenient.
+:119. It can also make experimentation slower and move important decisions farther from some of the people affected by them.
+:120. Competing jurisdictions can turn some of that friction into a corrective by forcing assumptions into the open, although they can also produce uncertainty over who has the last word.
+:121. Reunification in 1990 provides an unusually sharp test of how quickly a legal path can change.
+:122. Under Article 8 of the Unification Treaty, federal law entered into force in the territory of the former German Democratic Republic when accession took effect, except where the treaty provided otherwise.
+:123. A vast body of rules was thus replaced or extended on a timetable that ordinary piecemeal reform would never have matched.
+:124. The shift demonstrates that legal systems are not incapable of abrupt redirection.
+:125. It does not demonstrate that history ceased to matter.
+:126. The western system arrived with greater institutional scale, established courts, extensive commentary, trained personnel, administrative routines, and connections to European law, while the negotiations unfolded under severe political and economic time pressure.
+:127. This was not a neutral contest between two codebooks laid side by side.
+:128. Power, available capacity, public choices, and the urgency of transition all shaped which alternatives were realistically reachable.
+:129. Treaty exceptions and transitional provisions preserved selected differences or delayed parts of the change, revealing where immediate uniformity would have imposed excessive disruption.
+:130. The hard turn was possible because an operating legal network already existed, but adopting it also transferred adjustment costs onto people and institutions formed under the eastern system.
+:131. The case exposes the limits of path dependence as a complete explanation.
+:132. Some rules survive because they still solve recurring problems well, some because political actors consciously value them, and some because coercive power suppresses alternatives.
+:133. Calling all three outcomes lock-in would conceal more than it explains.
+:134. A persuasive path account must identify the feedback that changes later probabilities or costs and must show that a different earlier sequence could plausibly have produced another reachable outcome.
+:135. Shallow rules with few dependencies may be repealed quickly, while deeply connected institutions can also change when reformers assemble alternative expertise, procedures, coalitions, and transitional protection.
+:136. Paths are strongest where complements reinforce one another and weakest where viable substitutes can be introduced without breaking essential coordination.
+:137. The practical question is therefore not whether law can change, but what must change together, whose reliance deserves protection, and who will carry the losses while a new system becomes usable.
+:138. At the notary's desk, the separation between promise and ownership is more than a doctrinal curiosity; it is the visible edge of a historical network.
+:139. Explaining how that network acquired such weight requires looking behind the finished code of 1900 to the competing bodies of law, unrealized reforms, and political choices that preceded it.
+:140. The layered structure began with an attempt to turn a legal mosaic into a common code without pretending that history had supplied only one possible design.

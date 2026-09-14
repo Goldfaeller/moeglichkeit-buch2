@@ -1,0 +1,122 @@
+== 1.1 Was Pfadabhängigkeit bedeutet ==
+:1. There is a question you can ask about almost anything, and the answer you receive depends entirely on how you frame the inquiry.
+:2. Why does this particular thing have the shape it has?
+:3. One version of the question looks outward at the present moment, asking what conditions the object faces and what theoretical form would serve those conditions best.
+:4. The other version looks backward, asking what was here before and what could practically be built from it without tearing the existing structure down.
+:5. Both questions are legitimate, but for most of the history of modern thought, the first has been overwhelmingly the more popular.
+:6. It is the natural question of the engineer, the economist, the reformer, and the optimizer.
+:7. It assumes, often quietly and without noticing, that whatever exists is roughly the thing that ought to exist, because otherwise the relentless pressure of competition would have replaced it by now.
+:8. This assumption is enormously useful in daily life, and it is frequently wrong.
+:9. Path dependence is the name for the profound difference between those two questions.
+:10. Stated as plainly as possible, it means that the current state of a system is not explained by what would work best today, but by what was reachable from where the system stood yesterday.
+:11. A precise working definition is necessary here: path dependence occurs when the sequence of earlier events permanently alters the amount, the cost, or the probability of later possibilities.
+:12. That sentence looks modest, but its consequences dismantle a great deal of conventional wisdom.
+:13. Consider what this mechanism rules out.
+:14. It rules out the comforting idea that markets or evolutionary pressures eventually find the absolute best solution.
+:15. It rules out the notion that a persisting arrangement must be justified by its current performance.
+:16. And it rules out the assumption that two systems facing the exact same environmental conditions will inevitably converge on the exact same answer.
+:17. To see why the environment does not dictate the outcome, consider how large animals swim.
+:18. When a shark moves through the ocean, its tail sweeps from side to side.
+:19. When a dolphin or a whale swims, its tail beats up and down.
+:20. Both animals are large marine predators, and both face the exact same hydrodynamic resistance of seawater.
+:21. An engineer tasked with designing an optimal aquatic propulsion system would not invent two entirely different motions to solve the exact same problem.
+:22. But biology did not start with a blank screen.
+:23. The shark inherited the side-to-side flexing motion of the earliest fish.
+:24. The whale descended from land mammals that had spent millions of years running on four legs, a gait that requires the spine to flex up and down like a galloping greyhound.
+:25. When those mammals eventually returned to the sea, they did not invent a new swimming motion from scratch.
+:26. They repurposed the galloping spine they already possessed.
+:27. The environmental pressure demanded propulsion, but historical inheritance provided the mechanical parts, and the resulting solutions are different.
+:28. To think clearly about how this works, we must distinguish between three concepts that are frequently confused: initial conditions, general constraints, and path-dependent development.
+:29. An initial condition is simply the starting coordinate of a system, the raw material present at the beginning.
+:30. A general constraint is a permanent, universal boundary that applies to everyone, regardless of their history.
+:31. Gravity, the laws of thermodynamics, and the tensile strength of bone are general constraints.
+:32. Path dependence is different, because it applies specifically to this system as a direct result of what this system has already done.
+:33. A general constraint is a wall in the world, while path dependence is a wall you built yourself.
+:34. From the inside, they often feel identical, which is exactly why people mistake historical habits for natural laws.
+:35. It is equally crucial to recognize that merely having a history does not make a system path dependent.
+:36. A system can have a long, documented past without that past restricting its future in any meaningful way.
+:37. If you flip a coin a hundred times, the history of those flips is entirely real, but it exerts zero physical force on the probability of the hundred-and-first flip.
+:38. A sand dune in a desert is constantly reshaped by a storm.
+:39. Its shape this morning is a direct result of the wind blowing this morning.
+:40. If the wind changes direction this afternoon, the dune changes shape, and it does not matter what shape it held a week ago, because the dry sand particles are entirely free to move.
+:41. The dune has a history, but it has no memory.
+:42. Path dependence requires memory, meaning that a past state must leave a structural, physical, or institutional residue that restricts what can happen next.
+:43. If the sand dune is buried and compressed into sandstone, the fluid history freezes into a rigid constraint, and any future water flowing over it must follow the channels carved into the rock.
+:44. The state of a path-dependent system tomorrow depends not only on its environment, but on its state today, and on which changes are available to it.
+:45. Most importantly, it depends on which of those available changes leave the system functioning.
+:46. A system that must keep working while it changes is not free to move anywhere.
+:47. It is free to move only to places it can reach through a continuous sequence of viable states.
+:48. Suppose there is some configuration that would be highly efficient, and suppose that reaching it requires passing through an intermediate configuration that is worse than the current one.
+:49. If that intermediate stage is merely inconvenient, the path may still be taken.
+:50. If the intermediate stage is fatal, the path is closed.
+:51. A company cannot adopt a perfectly efficient new software architecture if the transition requires shutting down all revenue operations for six months, because the intermediate state of bankruptcy prevents the transition.
+:52. The excellent configuration is not merely unreached; it is structurally unreachable.
+:53. It remains unreachable no matter how efficient it would be, and no matter how clearly the executives can envision it.
+:54. This highlights a fundamental asymmetry in how complex systems grow.
+:55. Building forward is almost always easier than building backward.
+:56. Adding a new layer requires only that the new addition interface successfully with what is already there.
+:57. Removing an old layer requires that everything built on top of it survive the removal, which is a much harder condition to meet.
+:58. This is why systems accumulate layers, and why early, tentative choices harden into permanent foundations.
+:59. Something in this formulation tends to make people uneasy, because it sounds like a denial of human agency.
+:60. Path dependence is not determinism.
+:61. It does not claim that what happened had to happen, nor does it claim that the future is already fixed by the past.
+:62. It simply states that the set of practically available options at any moment is smaller than the set of theoretically imaginable options.
+:63. The difference between those two sets was produced by historical choices.
+:64. That is a constraint on possibility, not an abolition of it.
+:65. Path dependence is also not the same thing as tradition.
+:66. Tradition means a practice persists because people actively value its persistence and choose to maintain it.
+:67. Path dependence means a practice persists because too much has been built on top of it, making the cost of replacement unbearable, whether anyone values the original practice or not.
+:68. Most of the technical and institutional systems this book examines are actively disliked by the people who use them, yet they are maintained anyway.
+:69. There is a further point about degree, which is essential for analyzing real systems.
+:70. Path dependence is not a binary property that a system either has or lacks.
+:71. It is a quantity, and different features of the exact same system can possess wildly different amounts of it.
+:72. Some features can be swapped out over a weekend with minimal disruption.
+:73. Others can be changed only by a generation of coordinated effort.
+:74. Still others cannot be changed at all without entirely destroying the entity they belong to.
+:75. The useful analytical question is never whether something is path dependent, but rather how much path dependence it carries.
+:76. The answer is almost always the same: a feature is hard to change in exact proportion to how much else depends on it.
+:77. This rule sounds obvious once stated, yet it is routinely ignored by reformers who assume that a bad rule or a flawed technology can be removed simply because it is bad.
+:78. It is also worth being clear about what path dependence does not claim, because the concept is frequently overstated.
+:79. It does not claim that whatever survives is inherently inferior.
+:80. Sometimes the arrangement that got established early was also, by good fortune or brilliant initial design, an excellent one.
+:81. It does not claim that change is impossible, only that change has a specific cost and a limited direction.
+:82. And it does not claim that outcomes are completely arbitrary.
+:83. The dominant option is not automatically the best, but it is not automatically a tragic historical accident either.
+:84. It is simply the option that successfully navigated the sequence of available steps, accumulating enough dependencies along the way to secure its position.
+:85. Anyone who assumes the present is perfect, or that the present is a random mistake, has stopped looking at the mechanism.
+:86. One phenomenon occasionally appears that seems, at first glance, to refute this entire framework.
+:87. Similar environmental conditions sometimes produce strikingly similar solutions in systems with entirely separate histories.
+:88. Wings appeared independently in insects, birds, bats, and pterosaurs.
+:89. Complex eyes have evolved dozens of separate times across the animal kingdom.
+:90. If history is as constraining as claimed, how could such convergence happen?
+:91. The answer is that convergence tells us something real about the world, but something narrower than it initially appears.
+:92. When physics strongly favors a particular solution—like an airfoil for generating lift—different histories may indeed arrive at a similar function.
+:93. But they arrive at it through different construction paths, and the historical differences remain visible upon close inspection.
+:94. A bat's wing is a modified hand, a bird's wing is a modified arm, and an insect's wing is neither.
+:95. No amount of shared aerodynamic function erases that structural inheritance.
+:96. Convergence shows that certain solutions are highly effective; it does not show that history has been erased.
+:97. A definition can now be stated with some precision.
+:98. A system is path dependent to the extent that its present configuration is explained by the sequence of states it passed through, rather than by the conditions it currently faces.
+:99. It is locked in to the extent that its current configuration cannot be changed without unacceptable cost to the neighboring systems that rely on it.
+:100. Those two sentences form the analytical core of this book.
+:101. The chapters that follow are an extended test of whether they hold true across different domains of human and biological activity.
+:102. There is also a shorter version, less precise but easier to carry.
+:103. Everything that has a history is carrying that history, and the history is not merely a memory but a physical and structural constraint.
+:104. How you got here determines where you can go next.
+:105. What makes this idea worth exploring is that it explains a specific kind of frustration that appears in every field of human endeavor.
+:106. It explains why obviously superior solutions routinely fail to displace inferior ones.
+:107. It explains why sensible, well-intentioned reforms so often produce senseless results.
+:108. It explains why intelligent people, in full agreement about what should be done, remain entirely unable to do it.
+:109. In each case, the missing element is the same.
+:110. The option that appears perfectly available in the abstract is simply not available from where the system currently stands.
+:111. The most useful thing to know about any complex system is therefore not what it is, but what it was.
+:112. But if history constantly prunes the tree of available options, we are left with a conceptual problem.
+:113. We can easily observe the path a system actually took, because the results are standing right in front of us.
+:114. The present is visible, measurable, and solid.
+:115. But to understand the true weight of path dependence, we have to look at what did not happen.
+:116. We have to understand the options that were closed off, the paths that became too expensive, and the regions that remain open but unexplored.
+:117. A list of historical events is not enough to show this.
+:118. A timeline only shows the single route that was taken, making it look inevitable in retrospect.
+:119. To break the illusion of inevitability, we need a way to see the surrounding territory.
+:120. We need a model that treats unchosen possibilities not as imaginary fictions, but as real destinations that were once adjacent and are now unreachable.
+:121. The question that remains, then, is how we can possibly map the options that were never chosen.

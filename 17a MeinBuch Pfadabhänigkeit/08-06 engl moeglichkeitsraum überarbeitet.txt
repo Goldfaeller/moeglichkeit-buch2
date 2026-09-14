@@ -1,0 +1,122 @@
+== 8.6 Das Zivilgesetzbuch von 1975 ==
+
+:1. On January 1, 1976, returning a defective radio to an East German shop became an encounter with a newly effective civil code.
+:2. Neither the radios on the shelves nor the shortages that could make replacement difficult had changed at midnight, but the rules governing a complaint had.
+:3. Since 1900, the Bürgerliches Gesetzbuch, or BGB, had supplied the basic grammar of private law in both parts of Germany, even as East German statutes and courts altered the meaning of many of its provisions.
+:4. Now a code enacted by the People's Chamber on June 19, 1975, and effective from January 1, 1976, formally displaced that inherited framework in the German Democratic Republic.
+:5. Its title was deliberately plain: the Civil Code of the German Democratic Republic, usually shortened to ZGB.
+:6. The change was therefore more than a revision of warranty rules.
+:7. It was an attempt to give a socialist society its own legal account of the ordinary acts by which people rented homes, bought furniture, lent money, caused damage, owned possessions, and left property at death.
+:8. The striking fact is how late that attempt arrived.
+:9. The East German state had existed for more than a quarter century before it replaced the central civil code of the empire from which both German states had emerged.
+:10. That delay makes the ZGB an unusually clear case of path dependence, because political leaders could abolish institutions and rewrite statutes more readily than they could discard all the concepts, trained personnel, practical expectations, and recurring problems organized by the older law.
+:11. After 1945, the Soviet occupation zone initially retained much of the existing private law, although new constitutional principles and special legislation changed the environment in which it operated.
+:12. Once the GDR was founded in 1949, jurists faced a basic tension between ideological rupture and administrative continuity.
+:13. A legal system committed to public ownership of major productive assets could hardly treat nineteenth-century private autonomy as its unquestioned center.
+:14. Yet judges, legal scholars, notaries, administrators, and citizens still needed rules that could settle who owed what to whom.
+:15. The first path-strengthening mechanism was accumulated legal competence.
+:16. Every judgment written with inherited categories, every textbook used to train another cohort, and every transaction fitted into familiar forms made immediate replacement more costly.
+:17. Continuity did not make a new code impossible, but it raised the price of designing one that could actually be used.
+:18. The route toward replacement consequently twisted with East German politics rather than following a single plan from 1949 to 1975.
+:19. At different moments, official legal thought defended the use of inherited forms with new socialist content, demanded a more radical break, or emphasized practical economic coordination.
+:20. Work on socialist civil law repeatedly confronted a stubborn fact: ideology could specify the desired direction of society without answering every question about a broken appliance, an unpaid debt, or a disputed inheritance.
+:21. The draft presented to the People's Chamber in September 1974 emerged from this long sequence of starts, revisions, and changed priorities.
+:22. Its timing also served the GDR's effort to mark itself as a separate socialist state rather than one provisional part of a still-common German nation.
+:23. When the People's Chamber adopted the code the following June, legal differentiation from West Germany and the practical consolidation of East German daily life had become complementary aims.
+:24. The result contained 480 sections, far fewer than the BGB, and divided its material into seven parts.
+:25. It began not with abstract rules for legal persons and transactions but with principles of socialist civil law, followed by rules on socialist and personal property, contracts for everyday needs, the use of land and buildings, protection against harm, inheritance, and special provisions.
+:26. That sequence told readers what the legislature considered primary.
+:27. Civil law was presented less as a neutral arena in which formally equal owners pursued private purposes than as one component of a planned social order responsible for supplying material and cultural needs.
+:28. The preamble connected law to production, productivity, collective funds, socialist property, and the development of socialist personalities.
+:29. Section 1 then declared that civil law served the rise of the people's material and cultural standard of living.
+:30. Section 2 instructed the law to align individual and collective interests with social requirements.
+:31. These clauses were not decorative introductions to an otherwise apolitical manual, because they supplied purposes for interpretation and described the citizen expected by the code.
+:32. They also exposed one of its central trade-offs.
+:33. A legal order that tied individual dealings to publicly stated social purposes could coordinate them with housing and supply policy, but it gave private choice less insulation from political judgment.
+:34. The duty to act according to socialist morality, repeated in rules on cooperation, responsible exercise of rights, invalid contracts, and wills, made that tension concrete.
+:35. Such open-ended language could encourage attention to relationships and public consequences that narrow formalism ignored.
+:36. It could also make the boundary of a permissible bargain depend on standards defined within a one-party state.
+:37. The text nevertheless did not read uniformly like a political manifesto.
+:38. Many provisions were short, bore descriptive headings, and addressed the reader in more direct language than the densely cross-referenced BGB.
+:39. The code explained, for example, that an adult could make contracts and other legal transactions, that contractual performances had to be rendered in the agreed quantity and quality, and that an owner could possess, use, and transfer a thing.
+:40. Accessibility was itself part of the legislative project, since a code governing everyday consumption was supposed to be usable by citizens rather than only by specialists.
+:41. Compression, however, carried a second trade-off.
+:42. Fewer abstractions and fewer provisions made the surface easier to read, while leaving some concepts less fully specified and shifting interpretive work to courts, commentaries, and institutional practice.
+:43. Simplicity in a statute does not eliminate complexity in the life it governs.
+:44. The ZGB's law of property shows both the break and the residue with particular clarity.
+:45. Instead of beginning from a single general idea of private ownership, it distinguished socialist property from the personal property of citizens.
+:46. Socialist property included state-owned property, cooperative property, and the property of social organizations, and the code assigned it a foundational role in the social order.
+:47. Personal property encompassed earnings, savings, household goods, objects for education and leisure, and land or buildings serving personal housing and recreation.
+:48. This classification linked the legal character of property to its social function rather than treating every asset as an interchangeable object of individual control.
+:49. It narrowed some possibilities, especially where productive resources were concerned, because state property could not ordinarily pass into personal ownership, be pledged, seized, or encumbered.
+:50. At the same time, the code expressly protected citizens' personal property and recognized familiar powers to possess, use, and dispose of it.
+:51. The new vocabulary therefore reorganized ownership without eliminating the practical need to identify an owner, transfer a thing, recover it from an unauthorized possessor, or divide it among heirs.
+:52. Those recurring tasks exerted a functional pull of their own.
+:53. A planned economy could change which goods circulated, how prices were set, and which enterprises supplied them, but a delivered table still had to become someone's table.
+:54. Under Section 26, ownership of a movable thing transferred through delivery under a contract unless another rule applied.
+:55. This was a comparatively direct formulation beside the BGB's elaborate separation between the contract creating an obligation and the distinct legal act transferring ownership.
+:56. The difference mattered to legal reasoning, because the BGB's architecture allowed one transaction to fail while the other remained effective and then used restitution rules to unwind the result.
+:57. The ZGB sought to reduce such conceptual layering and to organize rules around recognizable social relationships.
+:58. Yet it still spoke of contract, delivery, ownership, possession, representation, invalidity, mistake, performance, damages, and limitation periods.
+:59. Some of these were unavoidable answers to recurring coordination problems, while others carried habits of legal thought across the proclaimed divide.
+:60. The decisive historical question is therefore not whether the old code vanished from the statute book, because it did, but how much of its accumulated grammar remained necessary when the new code reached the shop counter.
+:61. At that counter, the continuity beneath the new vocabulary worked in the customer's favor.
+:62. Sections 148 through 159 converted the familiar problem of a defective purchase into a statutory guarantee system.
+:63. The seller had to guarantee that the product met state quality and safety standards and retained the characteristics required for its intended use during the guarantee period.
+:64. The basic period was six months, subject to extensions, and the parties could not contractually exclude or restrict the buyer's claims.
+:65. For a qualifying defect, the buyer could demand free repair, replacement, a price reduction, or return of the price against return of the goods, although the code regulated when each response was available.
+:66. Repair could also be sought from an authorized workshop or the manufacturer, and replacement could be claimed from the manufacturer as well as the seller.
+:67. These provisions gave the purchaser legible rights against the organizations that produced and distributed consumer goods.
+:68. They did not, however, conjure a replacement radio into existence.
+:69. If the desired model was scarce, a formal right and the practical capacity to satisfy it could diverge.
+:70. That gap reveals another path mechanism: a civil remedy operates through the productive, retail, repair, and administrative institutions around it, so its value depends partly on capacities accumulated elsewhere in the system.
+:71. The ZGB made this interdependence explicit rather than pretending that the sales contract stood alone.
+:72. Retail enterprises were assigned duties to maintain planned assortments, inform customers about purchasing possibilities, improve service, and pass information about demand back through the distribution system.
+:73. Prices, supplies, and many conditions of exchange were therefore shaped outside the individual bargain before buyer and seller met.
+:74. The resulting contract retained consent, reciprocal duties, performance, and remedies, but it offered less room for the parties to design their own economic terms than a market-centered model presumed.
+:75. Even the code's general permission to make unregulated or differing agreements stopped where mandatory provisions, the statute's purpose, or socialist morality began.
+:76. From one angle, that boundary subjected private disposition to political direction.
+:77. From another, mandatory guarantees prevented a stronger enterprise from bargaining away a citizen's minimum protection.
+:78. The same structure could therefore constrain autonomy and secure everyday expectations at once.
+:79. Calling the ZGB simply weaker private law misses this double movement.
+:80. It shifted the place where choices were made, moving some of them from individual transactions into legislation, planning, and administrative allocation.
+:81. The code declared housing a right, placed the housing stock under state direction, and treated the lease as the basis of the relationship between landlord and tenant.
+:82. It protected tenants against termination and imposed maintenance duties, while also connecting occupation to allocation decisions and, in some cases, employment or cooperative membership.
+:83. A tenant could possess a stable legal position without enjoying a broad market choice among available apartments.
+:84. Security within an assigned relationship and freedom to leave it for another were different goods.
+:85. The ZGB favored the first more strongly than the second, a trade-off that reflected both socialist policy and the material scarcity of housing.
+:86. Scarcity alone cannot explain the legal form, since different systems can distribute scarce homes through different combinations of price, queue, entitlement, and discretion.
+:87. Nor can ideology alone explain its persistence, because housing offices, municipal landlords, cooperatives, maintenance routines, and tenant expectations made the rules fit an existing organizational landscape.
+:88. This institutional complementarity made the code more stable than any isolated declaration in its preamble.
+:89. The GDR could theoretically have adopted a civil code built around a much broader sphere of private bargaining.
+:90. Doing so would have required more than replacing words, because enterprises, price formation, landholding, credit, professional training, and dispute resolution would also have had to change.
+:91. The cost of departure lay in the connections among rules, not merely in reverence for the past.
+:92. That is why the ZGB deserves to be treated as an independent legal path rather than as a waiting room between two periods of BGB rule.
+:93. The code retained recognizable ideas of unlawfulness, fault, causation, compensation, and restoration of the injured person's material position.
+:94. It ordinarily made an enterprise, rather than its employee, answer to the injured party for harm caused while the employee performed assigned work.
+:95. It defined intention and negligence, allowed compensation for damaged property and lost income, and provided continuing payments for lasting health-related losses.
+:96. At the same time, its standards referred to socialist production conditions and the rules of socialist communal life.
+:97. The result was neither a wholly alien invention nor the old BGB with slogans pasted onto it.
+:98. It was a hybrid in which inherited legal techniques, recurrent practical needs, and the institutional priorities of the GDR constrained and altered one another.
+:99. Inheritance law reveals the same mixture at the boundary between public order and intimate choice.
+:100. The ZGB allowed citizens to make wills, appoint heirs, create legacies, impose instructions, and name an executor.
+:101. It also simplified intestate succession by placing the spouse and children together in the first order and making the spouse sole heir when there were no descendants.
+:102. Only three orders of relatives preceded the state, which became heir when none of them existed.
+:103. The compulsory share was two thirds of the statutory portion, but, apart from the spouse, children, grandchildren, and parents qualified only when they had been entitled to maintenance from the deceased at the time of death.
+:104. Compared with the BGB, these rules drew a different line between testamentary freedom, the claims of close family, and administrative simplicity.
+:105. Yet the central acts remained familiar: a person died, property passed, relatives asserted rank, creditors presented claims, and a document had to be interpreted as a will.
+:106. State notaries administered important parts of this process, embedding succession in a distinct organizational practice as well as a distinct statute.
+:107. For almost fifteen years, citizens arranged purchases, leases, land use, debts, injuries, and estates through this legal order.
+:108. That duration was brief beside the history of the BGB, but long enough for rights to be acquired, buildings to be erected on another's land, contracts to be performed, and inheritances to open.
+:109. During the political and economic transformation of 1990, several explicitly socialist provisions were removed even before German unification.
+:110. When the BGB replaced the ZGB across eastern Germany in October, the change could look like the return of an older path after a historical detour.
+:111. It was not a rewind.
+:112. Unified German law needed transitional rules for relationships and property forms that the ZGB had created, including contracts for recreational land and separate ownership of buildings erected on land belonging to someone else.
+:113. Courts and lawmakers had to decide how rights validly acquired in one system could enter another without simply disappearing.
+:114. The persistence of such problems after repeal shows that law stores history not only in doctrine but in homes, possessions, expectations, and completed acts.
+:115. A rival explanation should nevertheless be taken seriously: many similarities between the ZGB and the BGB may reflect the universal tasks of civil law rather than direct dependence on German legal tradition.
+:116. Every durable legal order needs some way to recognize agreements, assign control over things, repair wrongful loss, and distribute an estate, even if its concepts and priorities differ.
+:117. Functional convergence explains part of the resemblance, while the chronology of institutions, professional knowledge, and retained terminology explains why the East German answers often remained recognizably German.
+:118. The ZGB's history thus resists both a tale of total socialist rupture and a tale in which nothing important changed.
+:119. Its enactment altered the routes through ordinary life, its repeal closed many of them, and the accumulated consequences of both decisions limited what could happen next.
+:120. A legal order proves its capacity for reversal not merely when it exchanges one code for another, but when it confronts rules whose long enforcement has written their consequences into individual lives.

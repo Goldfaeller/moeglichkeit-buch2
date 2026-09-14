@@ -1,0 +1,157 @@
+== 2.11 Exaptation: Türen, die sich unerwartet öffnen ==
+
+:1. In 1968, 3M scientist Spencer Silver developed an unusual pressure-sensitive adhesive made from tiny, tacky acrylic microspheres.
+:2. The adhesive gripped lightly, released cleanly, and could be used again.
+:3. It was not quite the useless laboratory failure of corporate legend, because Silver's 1970 patent application already described removable and rebondable paper among its possible uses.
+:4. What the material lacked was not utility but a convincing product and a market large enough to justify making it.
+:5. Silver kept presenting the adhesive inside 3M while colleagues searched for applications.
+:6. In 1974, product developer Art Fry connected it to a problem he knew from singing in a church choir.
+:7. The slips marking pages in his hymnal tended to fall out, whereas a lightly adhesive bookmark could stay put without damaging the paper.
+:8. That pairing of an existing material with a later problem became the starting point for the Post-it Note.
+:9. The transition from clever bookmark to successful product still required years of work on coating, manufacturing, testing, packaging, and marketing.
+:10. A national launch followed in the United States in 1980.
+:11. The adhesive had therefore not waited in a drawer as a finished invention with a secret destiny.
+:12. It had properties that made one later use cheaper and easier to reach than it would have been without Silver's earlier work.
+:13. That is the part of the story that resembles exaptation.
+:14. The resemblance has limits, because 3M employees could recognize a problem, remember a material, and deliberately redesign a product.
+:15. Natural selection has no archive meeting, no product brief, and no picture of a future customer.
+:16. Yet both stories reveal how an object created under one set of demands can alter the possibilities available under another.
+:17. A useful future sometimes begins not with a new part but with a new relation between an old part and a changed environment.
+:18. The biological name for this relation entered the scientific vocabulary in 1982.
+:19. Paleontologists Stephen Jay Gould and Elisabeth Vrba argued that the word adaptation was being asked to carry two different meanings.
+:20. It could describe a feature shaped by natural selection for its present role, or it could describe anything that currently improved survival or reproduction, regardless of its origin.
+:21. The difference matters because present usefulness does not disclose historical cause.
+:22. Gould and Vrba proposed restricting adaptation to features shaped by selection for the role they currently perform.
+:23. They called a useful feature not shaped for its current role an exaptation.
+:24. Such a feature may previously have been an adaptation for another role.
+:25. It may instead have arisen as a nonadaptive by-product and become useful only later.
+:26. A mere side effect is not yet an exaptation, because the term applies only after that effect is co-opted into a fitness-enhancing role.
+:27. Exaptation includes both a former adaptation that is co-opted and a previously unselected feature that acquires a beneficial effect.
+:28. It does not mean that the feature was defective, idle, or unnecessary before its reassignment.
+:29. Nor does it mean that selection preserved the feature because a later use was coming.
+:30. Selection cannot favor a present feature because of a benefit that exists only in an unknowable future.
+:31. This is why Gould and Vrba objected to the older word preadaptation, which can make a later role sound as though it had been anticipated.
+:32. They did not discover the phenomenon, which Darwin and later biologists had discussed in other terms.
+:33. Their contribution was to give the phenomenon a name that separates current effect from historical origin.
+:34. A structure can consequently be an adaptation for one role and an exaptation for another at the same time.
+:35. If selection later refines it for the new role, those later modifications are adaptations for that role even though the borrowed foundation remains exaptive.
+:36. Real organisms often contain both histories in the same structure.
+:37. That distinction prevents exaptation from becoming a label pasted onto every trait with more than one use.
+:38. It also turns the concept into a precise question about sequence.
+:39. Which earlier feature made a later functional step viable, and why would that step have been harder to reach without it?
+:40. Feathers provide the most familiar answer, although their history is less tidy than the usual story suggests.
+:41. For much of the twentieth century, it was easy to associate feathers so closely with birds that flight seemed to explain their origin.
+:42. Fossils from northeastern China made that simple sequence untenable.
+:43. Specimens of the small nonavian theropod Sinosauropteryx, described in detail in 1998, preserved a covering of filamentous integumentary structures around parts of the body and tail.
+:44. These short body filaments were not the stiff, vaned flight feathers that form an aerodynamic wing.
+:45. Other fossils subsequently revealed a wide variety of simple filaments, branched coverings, ornamental feathers, and vaned feathers among nonavian dinosaurs.
+:46. Feathers or their precursors thus existed before the origin of powered bird flight.
+:47. That ordering is strong evidence against the claim that flight alone explains why the first feather-like structures evolved.
+:48. It does not, by itself, reveal a single original function.
+:49. Insulation, display, camouflage, sensation, egg covering, and other effects may have mattered in different combinations and in different lineages.
+:50. Fossils preserve form and position more readily than the selective pressures that once acted on them.
+:51. A careful account therefore begins with what the evidence can show: integumentary structures diversified before they became the load-bearing surface of a modern bird wing.
+:52. Once a developmental system could produce such appendages, variations in their length, branching, stiffness, arrangement, and placement became reachable through modifications of an existing structure.
+:53. Some of those variations could influence drag, balance, controlled descent, or propulsion even before sustained flapping flight was possible.
+:54. Researchers continue to debate which aerodynamic behaviors came first and how often related experiments occurred among feathered dinosaurs.
+:55. The uncertainty does not weaken the exaptive point.
+:56. It locates that point more accurately in the availability of a complex covering before the full flight apparatus existed.
+:57. No dinosaur with insulating or display feathers was moving toward a destination called bird flight.
+:58. Natural selection acted on effects that mattered under conditions then present, while mutation and recombination supplied variation, development filtered its expression, and drift could preserve or eliminate it.
+:59. The same feather could also have several effects, so an aerodynamic contribution need not have replaced insulation or display in a single step.
+:60. As aerodynamic effects became important, selection could favor changes in feather shape, attachment, musculature, skeletal motion, and behavior.
+:61. The result was not a spare part snapped into a completed machine but a succession of workable intermediate arrangements.
+:62. Feathers made some of those arrangements accessible because the lineage did not have to evolve an air-catching surface from nothing at the same moment that it evolved every other requirement for flight.
+:63. The inherited covering lowered one part of the transition cost.
+:64. It did not guarantee the outcome.
+:65. Body size, limb proportions, muscles, balance, metabolism, ecology, and many other features also shaped which forms of aerial movement were viable.
+:66. Many feathered dinosaurs never flew, and feathered wings were not the only physically conceivable route to moving through air.
+:67. Pterosaurs and bats reached powered flight with very different inherited structures.
+:68. Their existence is a useful counterexample to any claim that feathers were necessary for flight in general.
+:69. Feathers were historically available to one lineage, however, and that availability made a particular route to flight nearer than alternatives requiring an entirely different developmental foundation.
+:70. This is path dependence without determinism: history changes the relative accessibility of outcomes without dictating a single one.
+:71. The evolution of the mammalian middle ear shows the same principle in a denser anatomical network.
+:72. Living mammals transmit sound from the eardrum to the inner ear through three small bones, the malleus, incus, and stapes.
+:73. Other living tetrapods generally use a single principal middle-ear ossicle corresponding to the stapes.
+:74. The additional mammalian bones did not appear as newly invented hearing parts.
+:75. The malleus and incus are homologous to the articular and quadrate, bones that formed the primary jaw joint in earlier synapsids and still contribute to the jaw joint in many nonmammalian vertebrates.
+:76. The anatomist Karl Bogislaus Reichert recognized these relationships from embryology in 1837, decades before an evolutionary framework could explain them.
+:77. Fossils later supplied intermediate arrangements that a comparison of adult living animals could not show.
+:78. In early synapsids, the lower jaw articulated with the skull through the articular and quadrate.
+:79. Along the mammalian stem, the dentary enlarged and formed a second articulation with the squamosal bone of the skull.
+:80. Some fossil forms retained both articulations, allowing the newer joint to bear more of the forces of chewing while the older postdentary elements became smaller.
+:81. Fossils such as Yanoconodon and Liaoconodon preserve middle-ear elements that were partly detached from the dentary yet remained connected through ossified Meckel's cartilage.
+:82. They capture workable mosaics rather than a sudden exchange of one finished mechanism for another.
+:83. Other fossil forms and living mammals possess a definitive mammalian middle ear in which the auditory bones are separated from the lower jaw.
+:84. The fossil record also warns against arranging every specimen on one straight ladder leading to living mammals.
+:85. Evidence indicates that complete detachment of the middle ear occurred independently in more than one mammaliaform lineage.
+:86. Evolution repeatedly modified related inherited components, but it did not follow one universal script.
+:87. The traditional phrase about jaw bones becoming ear bones is therefore true at the level of homology and incomplete as a description of the process.
+:88. The old bones did not simply loosen, drift backward, and discover hearing.
+:89. Changes in jaw architecture, body size, developmental timing, Meckel's cartilage, feeding mechanics, and sound transmission interacted over long spans of evolution.
+:90. Researchers still debate the relative importance of several of these factors in particular lineages.
+:91. Development in living mammals adds another line of evidence for homology because the malleus and incus arise from first-pharyngeal-arch tissues, with the malleus closely associated with Meckel's cartilage.
+:92. An embryo does not replay evolutionary history like a film, however, and its stages are not miniature adult ancestors.
+:93. Development preserves relationships that evolution has modified, which is subtler and more informative than literal replay.
+:94. The middle-ear transition also shows why a new use does not always begin after an old use has ended.
+:95. Postdentary bones participated in jaw support, sound transmission, or both in different transitional forms.
+:96. The secondary dentary-squamosal joint allowed feeding to remain functional while the mechanical burden on the older joint changed.
+:97. That redistribution opened a viable corridor in which the smaller elements could become increasingly specialized for hearing.
+:98. A lineage in which the primary joint detached before another could sustain the jaw would have faced a severe functional cost.
+:99. Sequence altered which intermediate anatomies could work.
+:100. Once chewing and hearing became more mechanically independent, changes beneficial to one system were less likely to disrupt the other.
+:101. This functional separation may have improved the evolutionary freedom of both systems, but it should not be reduced to the claim that three ear bones are always better than one.
+:102. Birds and reptiles hear effectively with different middle-ear arrangements, and performance depends on frequency, size, tissues, and ecology as well as the number of ossicles.
+:103. Exaptation explains the historical route taken by mammals, not a universal ranking of ears.
+:104. A third example begins with an outgrowth of the foregut in the ancestors of bony vertebrates.
+:105. Lungs and the gas-filled swim bladders of many ray-finned fishes are homologous organs, although lungs support air breathing and swim bladders commonly regulate buoyancy.
+:106. Their positions differ as well, with lungs developing on the ventral side of the foregut and typical swim bladders on the dorsal side.
+:107. Comparative anatomy has long linked them, and modern developmental and gene-expression studies have strengthened the case for a shared origin.
+:108. Current evidence favors lungs as the ancestral condition in early bony vertebrates and a gas bladder as a later specialization within ray-finned fishes.
+:109. The exact developmental route by which a ventral respiratory organ became a dorsal gas organ remains an active research problem.
+:110. This uncertainty is a reason to qualify the mechanism, not to reverse the established homology.
+:111. Darwin famously used the swim bladder and lung to illustrate how an organ might change function, but modern phylogeny has changed the most likely direction of that transformation.
+:112. An air-breathing organ can benefit fish living in water where dissolved oxygen is scarce.
+:113. In many ray-finned fishes, a related gas-filled organ instead reduces the energy needed to maintain depth.
+:114. Some species retain a pneumatic duct between the bladder and the digestive tract, whereas others regulate gas through the blood after that connection closes during development.
+:115. The new hydrostatic role did not arrive fully optimized with the first shift in function.
+:116. Valves, blood vessels, gas-secreting tissues, sensory control, and body form could be refined after buoyancy began to confer an advantage.
+:117. Here again, exaptation names the change in historical role, while adaptation describes subsequent shaping for buoyancy.
+:118. Fine buoyancy control changed the energetic cost of occupying the water column, and the gas bladder later acquired further roles in sound production or hearing in some groups.
+:119. It would nevertheless be too simple to credit this one organ with the enormous diversity of ray-finned fishes.
+:120. Jaws, fins, feeding systems, habitats, reproduction, extinction, and geological opportunity also influenced that radiation.
+:121. Several successful fish lineages have reduced or lost the gas bladder, which shows that it is neither indispensable nor an automatic engine of diversity.
+:122. Exaptation can open a region of possibility without forcing a lineage to enter it or remain there.
+:123. Feathers, jaw elements, and an ancestral air-filled organ differ greatly in material, function, and evolutionary history.
+:124. Their shared pattern lies in the order of available steps.
+:125. A feature produced or retained under earlier conditions changes the set of later variations that can be reached without requiring a wholly new part to function all at once.
+:126. It may provide a partial effect before the rest of a new system exists.
+:127. That partial effect gives selection something present to act on rather than a hypothetical completed innovation.
+:128. In the language of a possibility space, the inherited feature changes the neighborhood around the current organism.
+:129. Some nearby variations become viable, some become cheaper in developmental terms, and some become visible to selection only because the earlier structure is already there.
+:130. The space is an analytical model, not a literal chamber containing forms that wait to be discovered.
+:131. Mutation and development continue to generate variation, environments continue to alter its consequences, and populations still lose possibilities through chance or constraint.
+:132. Existing structures can therefore widen the future and restrict it at the same time.
+:133. A feather-producing developmental program makes feathered wings easier to evolve than skin membranes, yet it also ties later changes to the costs and compatibilities of that program.
+:134. A jaw reorganized around one set of embryonic tissues can acquire remarkable new functions, yet a radical rearrangement must remain compatible with feeding and development at every stage.
+:135. Historical material is not merely baggage.
+:136. It is also scaffolding.
+:137. The distinction matters because path dependence is often described only as a trap.
+:138. Exaptation reveals a generative side of the same principle: what the past leaves in place may become the bridge to an outcome that was previously unreachable.
+:139. This does not mean organisms maintain warehouses of neutral spare parts for future emergencies.
+:140. Costly structures that provide no current advantage are unlikely to persist indefinitely merely because they might someday become useful.
+:141. Potential is more often carried by a feature that already performs another role, serves several roles, imposes little cost, or persists through drift and developmental linkage.
+:142. A change in environment can then alter which of its effects matters to survival and reproduction.
+:143. Exaptation alone is also not the same as lock-in.
+:144. A single co-option may open a route without making reversal expensive or generating positive feedback.
+:145. Lock-in becomes more plausible after later traits, behaviors, and developmental processes accumulate around the borrowed structure.
+:146. The innovation then gains complementary parts while alternatives lose relative accessibility.
+:147. This is why a useful opening can eventually become a binding architecture.
+:148. Claims of exaptation nevertheless require more than an appealing story about a feature that seems versatile today.
+:149. Researchers need evidence about ancestry, timing, development, mechanics, and plausible effects in earlier environments.
+:150. Fossils can establish that one form preceded another, but chronology alone does not prove what selection favored.
+:151. Comparative tests can rule out some functions while leaving several others possible.
+:152. Honest uncertainty is especially important because hindsight makes a successful innovation look as though its ingredients had been assembled for it all along.
+:153. Silver's adhesive did not contain the Post-it Note in miniature, just as a filamentous dinosaur covering did not contain a bird's flight plan.
+:154. Each earlier structure changed what could be built next, and each later use still required a new fit among material, environment, and function.
+:155. The doors opened by evolution are not prepared exits from a predetermined house; they are passages made possible because history happened to leave a workable hinge in the wall.

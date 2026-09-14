@@ -1,0 +1,161 @@
+== 3.9 Schnittstellen und offene Systeme ==
+
+:1. On Sunday afternoon, February 7, 1904, a fire broke out in the basement of the John E. Hurst & Company dry-goods building in downtown Baltimore.
+:2. The flames escaped the building, crossed the street, and spread through the business district faster than the city's firefighters could contain them.
+:3. Baltimore called for help, and engine companies came by rail from Washington, Philadelphia, Wilmington, and other cities.
+:4. The reinforcements found working hydrants and brought working hoses, yet many of their couplings did not match Baltimore's hydrant threads.
+:5. Not every visiting company was disabled, as some connections happened to fit, but enough crews were hampered or sidelined to expose a dangerous failure of coordination.
+:6. Some firefighters attempted makeshift connections while the fire continued to move from block to block.
+:7. After roughly thirty hours, the fire had destroyed more than 1,500 buildings across about seventy city blocks.
+:8. Incompatible couplings did not cause the fire, nor were they its only accelerator, but they reduced the useful help available at a critical moment.
+:9. Nobody needed to have built a bad hose or a bad hydrant for the combined system to fail.
+:10. The defect appeared at the few inches of metal where two otherwise serviceable machines were supposed to meet.
+:11. Those threads were not a technical footnote.
+:12. They were the accumulated result of manufacturers and municipalities adopting different diameters and thread patterns over many years.
+:13. Each local arrangement could work perfectly well while its fire department stayed inside its own system.
+:14. The hidden cost emerged only when equipment had to cross a municipal boundary under pressure.
+:15. By then, cities had already bought hydrants, hoses, pumps, gauges, tools, and spare parts that fit their own pattern.
+:16. Compatibility had become an installed network, and replacing one fitting meant confronting all the investments attached to it.
+:17. That is the mechanism by which a small early difference can narrow later possibilities.
+:18. The place where two things meet has a name, and the name is an interface.
+:19. An interface is a promise about a boundary.
+:20. It may specify a shape, a thread, a voltage, a data format, or a sequence of signals.
+:21. If both sides honor that promise, they need not agree about everything behind the boundary.
+:22. A good interface is a deliberate act of ignorance.
+:23. The hydrant does not need to know what kind of pump pushes water through the hose.
+:24. A lamp socket does not need to know whether a compatible bulb produces light with a filament or a semiconductor.
+:25. An internet router does not need to understand whether a packet belongs to an email, an image, or an application invented years later.
+:26. This ignorance is useful only because it is precisely bounded by rules that both sides follow.
+:27. Separable parts are of little use if they cannot find, recognize, and work with one another.
+:28. Interfaces turn a heap of components into a system that can sometimes be taken apart and rebuilt piece by piece.
+:29. They also reveal a curious fact about technological lock-in.
+:30. Lock-in may reside inside a component, but it often becomes stronger at the boundaries connecting that component to everything around it.
+:31. A part that can be unplugged without disturbing the rest can be replaced, improved, undercut, or abandoned.
+:32. A part joined through a unique and poorly documented boundary carries its surrounding parts with it whenever anyone considers a change.
+:33. That condition is more than a present requirement for compatibility.
+:34. It becomes path dependence when an earlier interface choice changes the cost, probability, or visibility of later choices.
+:35. Suppliers make compatible parts, workshops buy compatible tools, schools teach compatible procedures, and users store compatible files.
+:36. Each complementary investment makes the interface more useful.
+:37. It also makes departure more expensive.
+:38. Wider adoption may lower prices, attract expertise, and reassure buyers that compatible products will remain available.
+:39. Those benefits attract further adoption, creating positive feedback around a boundary that may once have been only one option among several.
+:40. The result can be a remarkably productive lock-in.
+:41. Common interfaces allow strangers to coordinate, let firms specialize, and spare every new product from rebuilding an entire system.
+:42. The same accumulated usefulness can make even a clearly improved replacement difficult to introduce.
+:43. A successful interface can therefore expand possibilities within its rules while narrowing the practical possibility of changing the rules themselves.
+:44. Lock-in does not mean that change is impossible.
+:45. Adapters, emulators, dual support, and gradual replacement can build a bridge between incompatible systems.
+:46. Whether that bridge is affordable depends on how many products, skills, contracts, and expectations have accumulated on each side.
+:47. The real unit of change is seldom the connector alone but the ecosystem that has learned to rely on it.
+:48. This suggests a strategy for preserving room to move: define the boundary clearly, disclose its rules, and allow more than one party to build against it.
+:49. The familiar word for that aspiration is open, but the word conceals several different questions.
+:50. Publication determines whether outsiders can understand the specification in enough detail to build against it.
+:51. Implementation rights determine whether independent parties may use that knowledge and on what legal and financial terms.
+:52. Governance determines who controls revisions, resolves ambiguities, and decides when an old version will stop working.
+:53. Versioning determines whether the boundary can evolve without stranding the people who adopted it.
+:54. These dimensions can vary independently, so no single test makes an interface open for every purpose.
+:55. Publication alone does not remove patent rights, license fees, certification costs, or practical barriers to implementation.
+:56. A standard containing patented technology may still be widely implementable under royalty-free or other declared licensing terms, but the terms matter as much as the document's availability.
+:57. A specification controlled by one company may be easy to read and stable for years while remaining closed to outside governance.
+:58. A specification maintained by a broad committee may permit independent implementations while still being expensive to obtain or difficult to influence.
+:59. Openness is therefore a bundle of institutional choices rather than a halo attached to a technology.
+:60. Its most important path-dependent effect is usually to reduce reliance on a single supplier and enlarge the set of possible implementers.
+:61. If several suppliers can serve the same boundary, a buyer can switch one component without discarding every complementary investment.
+:62. The credible possibility of exit can change prices and behavior even when no buyer actually leaves.
+:63. Closed interfaces can nevertheless offer real advantages.
+:64. A single designer may coordinate hardware and software quickly, optimize them tightly, test a smaller range of combinations, and assign responsibility for failures more clearly.
+:65. Restrictions at a boundary may protect safety, security, or reliable calibration rather than merely protect a seller.
+:66. Those gains do not erase dependence on the controlling organization, and dependence does not prove that the gains are fraudulent.
+:67. The relevant question is which benefits the boundary creates, which alternatives it excludes, and who will bear the eventual cost of change.
+:68. That cost grows when adjoining products adapt to a proprietary feature and then make further investment conditional on its survival.
+:69. Years later, an arrangement that began as a choice can look like a law of nature.
+:70. Designing for independent implementation early is usually cheaper than opening a mature system, but maturity does not make opening impossible.
+:71. Documentation can be released, licenses can change, adapters can be standardized, and migration periods can divide one large switch into many smaller ones.
+:72. Such measures do not erase the old path; they alter the price and reachability of paths leading away from it.
+:73. The history of ordinary hardware is full of boundaries negotiated locally and reconciled later at considerable expense.
+:74. Consider the screw thread, an object so inconspicuous that it disappears into almost every machine it holds together.
+:75. In 1841, the British engineer Joseph Whitworth proposed a standard thread form with a 55-degree angle, and much of British industry gradually adopted it.
+:76. In 1864, the American engineer William Sellers proposed a 60-degree form designed for the manufacturing practices common in the United States, and American industry gradually organized around that system.
+:77. Both systems were workable, and they were not mutually compatible.
+:78. As each spread, manufacturers accumulated taps, dies, gauges, drawings, inventories, and trained habits around it.
+:79. Wartime production and repair made the costs of competing inch-thread systems especially visible.
+:80. Postwar negotiations among Britain, Canada, and the United States produced a unified inch-thread system, but agreement on a successor did not instantly remove older machinery.
+:81. Once many generations of equipment exist, the practical choice is not simply which thread is best on a clean drawing board.
+:82. It is which incompatibility is worth abandoning, how old equipment will be serviced, and who will pay for the transition.
+:83. A new standard does not delete its predecessors, because repair inventories preserve old decisions long after new production has moved on.
+:84. The screw base used by many household lamps offers a more graceful form of continuity.
+:85. Incandescent, compact fluorescent, and light-emitting-diode bulbs have all been made for sockets whose basic geometry descends from the early electrical industry.
+:86. New lamp makers preserved compatibility because access to the installed stock of wiring and fixtures was valuable.
+:87. The stable boundary allowed the technology that produced the light to change without requiring every ceiling connection to change with it.
+:88. That freedom remained bounded by the socket's dimensions, electrical characteristics, and safety rules.
+:89. Compatibility opened one region of the possibility space while continuing to define its edges.
+:90. The steel shipping container shows the same mechanism at a larger scale.
+:91. Early container systems used competing dimensions and handling arrangements, which forced ports and carriers to invest in equipment tied to particular designs.
+:92. Malcom McLean's company held relevant patents on fittings and locking mechanisms, then made them available to the International Organization for Standardization without royalties.
+:93. International agreements on dimensions and corner fittings allowed cranes, ships, railcars, trucks, and containers owned by different parties to interoperate.
+:94. The common box became more useful as more ports installed compatible cranes, and those cranes made compatible boxes still more attractive.
+:95. Standardization did not create containerization from nothing, as earlier containers and competing systems already existed.
+:96. It turned scattered equipment into a network in which investments made by one participant raised the value of investments made by others.
+:97. The resulting lock-in is enormously useful, because replacing the global handling system with an incompatible one would consume much of the value the standard created.
+:98. An interface can be worth keeping not because history accidentally trapped its users but because coordination has become a shared asset.
+:99. Digital networks make that asset less visible but no less consequential.
+:100. The experimental computer networks of the 1970s differed in hardware, ownership, and operating rules.
+:101. The Internet Protocol supplied a common way to address and forward packets across those heterogeneous networks.
+:102. Routers in the shared middle had important work to do, but they did not need to understand the internal purpose of every application at the endpoints.
+:103. This layered boundary allowed new applications to use the network without requiring the physical network to be redesigned for each one.
+:104. Other architectures assigned functions differently, and later formal efforts such as the Open Systems Interconnection model competed to organize network communication.
+:105. The Internet's eventual dominance cannot be explained by openness alone.
+:106. Research funding, government procurement, university adoption, working implementations, technical choices, and institutional timing all mattered.
+:107. Publicly available technical documents made the rules easier to inspect and implement, while growing use produced more software, equipment, and expertise compatible with those rules.
+:108. That feedback made the network increasingly valuable and made incompatible alternatives increasingly expensive to adopt.
+:109. The World Wide Web repeated the pattern on top of the Internet rather than replacing it.
+:110. Tim Berners-Lee developed the first web system at CERN around a small set of conventions for identifying, requesting, and linking documents.
+:111. On April 30, 1993, CERN placed its basic web client, server, and common code library in the public domain.
+:112. The underlying protocols and data formats were also available for others to implement without negotiating a private license.
+:113. This decision lowered the permission cost of building servers, browsers, and websites beyond CERN.
+:114. Other networked information systems already existed, and the early web was not superior along every dimension.
+:115. Its simple boundaries, free availability, growing collection of browsers, and ability to run on the existing Internet combined to accelerate adoption.
+:116. More implementers created more content and tools, which attracted more users, who in turn made implementation more rewarding.
+:117. Openness enlarged the group that could extend the system, and that enlarged group strengthened the path around the open boundary.
+:118. The example does not prove that open interfaces always defeat closed ones.
+:119. Proprietary systems can prevail when integration, distribution, performance, security, or convenience matters more to users than independent implementation.
+:120. The web demonstrates a mechanism of self-reinforcement, not a moral law of technical history.
+:121. Interfaces are also rules about participation.
+:122. A device assembled with common fasteners may be accessible to an independent repair shop, although access alone does not provide the parts, knowledge, or authorization needed for a successful repair.
+:123. Proprietary fasteners, restricted diagnostic tools, and software that pairs a replacement part to one device can move the boundary from visible metal into less visible code.
+:124. Parts pairing may support calibration, theft deterrence, or security in some applications, and it may also prevent sound independent repairs or reduce the value of used devices.
+:125. The label open or closed cannot settle which explanation applies in a particular case.
+:126. What matters is what the restriction does, whether a less restrictive design could achieve the same protection, and how it changes the set of capable repairers.
+:127. Once local workshops invest in tools and skills for a common interface, they become part of its complementary ecosystem.
+:128. When a boundary admits only one supplier, those independent investments become less attractive, and their disappearance can make later opening less useful than it would have been earlier.
+:129. Data interfaces create a similar effect by determining which systems can exchange records and which outside developers can build complementary tools.
+:130. Interoperability can enlarge the field in which comparison, substitution, and unanticipated invention occur.
+:131. It can also widen an attack surface, constrain rapid safety changes, or require participants to support behaviors they would otherwise reject.
+:132. The design problem is therefore not openness at any price but a boundary that preserves valuable coordination without needlessly destroying evolvability.
+:133. Technical standards are consequently both engineering instruments and institutional settlements.
+:134. A standards committee can influence what will be easy or expensive, whose products will already conform, and who must pay to adapt.
+:135. These decisions remain technical, but their distributional effects do not become apolitical merely because they are expressed in tables and diagrams.
+:136. Formal standards organizations use defined procedures, expert committees, national bodies, public comments, and consensus rules to broaden participation and test proposals.
+:137. Participation still consumes engineering time, legal knowledge, travel, and sustained attention that large organizations can often supply more easily than small firms, repairers, or poorly funded public-interest groups.
+:138. No conspiracy is required for the composition of a room to influence which problems are noticed and which costs look acceptable.
+:139. The legal conditions surrounding a standard also shape its possible ecosystem.
+:140. Some standards bodies permit essential patents under declared licensing commitments, while others pursue royalty-free implementation for particular classes of standards.
+:141. Neither publication nor the word standard therefore answers whether an implementer needs permission, must pay royalties, or can participate in future revisions.
+:142. Private extensions can fragment an official standard by making the most useful implementation incompatible with the common core.
+:143. A specification can also become so complex that formally equal permission produces sharply unequal practical ability to implement it.
+:144. Claims of openness deserve concrete questions about documentation, licensing, conformance testing, governance, and migration.
+:145. The strongest open interfaces create many possible builders, but successful shared boundaries can freeze as firmly as proprietary ones.
+:146. Once millions of devices and programs depend on a common rule, changing it requires coordination across parties that no single owner can command.
+:147. The Internet's addressing system supplies a standing example.
+:148. The limits of the original 32-bit Internet Protocol address space became clear, and a successor with a vastly larger address space was standardized in the late 1990s.
+:149. Migration has remained prolonged because networks contain legacy equipment, software, operational procedures, and services that still expect the older protocol.
+:150. Running both versions and translating between them can preserve service during transition, but those bridges carry their own cost and complexity.
+:151. The open character of the standards did not abolish path dependence.
+:152. It distributed control more widely while leaving every participant to reckon with investments made under the earlier rule.
+:153. The difference between a proprietary boundary and a shared one is not simply the presence or absence of a lock, but who can make a key and who can help redesign the door.
+:154. The Baltimore fire gave this abstract problem a brutal physical form.
+:155. In 1905, the National Fire Protection Association adopted a national model for hose couplings and adapters based on measurements gathered by the federal Bureau of Standards.
+:156. Adoption remained uneven because cities with functioning local equipment faced immediate replacement costs for a benefit that became visible mainly during mutual aid.
+:157. A century after the fire, a federal survey found the national standard installed in only eighteen of the forty-eight largest American cities it examined.
+:158. Adapters remained a practical bridge between the value of existing equipment and the value of interoperability.
+:159. The lesson is not that someone once chose the wrong thread, but that an interface connects investments and expectations across time, so decisions made quietly at a system's seams can govern possibilities far beyond the detail their makers believed they were settling.

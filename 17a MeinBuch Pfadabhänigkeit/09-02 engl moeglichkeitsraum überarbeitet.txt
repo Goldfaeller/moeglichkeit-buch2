@@ -1,0 +1,122 @@
+== 9.2 Doktrin als geistiger Lock-in ==
+
+:1. On May 13, 1940, German assault troops crossed the Meuse near Sedan, and the French command began assembling the kind of deliberate counterstroke its regulations prescribed.
+:2. The response required reports to climb the hierarchy, orders to descend it, artillery to receive a coordinated plan, and units to arrive at appointed lines on a timetable.
+:3. Before that machinery of command could gather its weight, German forces had widened the breach and begun pushing armor across the river.
+:4. French officers were not confronting a weapon they had never seen.
+:5. Their army possessed thousands of tanks, some with armor and guns that German crews had good reason to respect.
+:6. What failed at Sedan was therefore not a simple contest between modern machines and obsolete ones.
+:7. Two military systems had attached different meanings, organizations, and habits of command to many of the same technologies.
+:8. The German system proved better suited to exploiting this particular rupture, but that outcome was neither encoded in the tank nor obvious during the preceding twenty years.
+:9. It arose from an interaction among plans, radios, unit structures, training, initiative, terrain, timing, and decisions made under severe uncertainty.
+:10. To isolate doctrine from that interaction would be artificial, yet to omit doctrine would leave the machines without a theory of use.
+:11. Military doctrine is an organization's shared working answer to a practical question: how should its forces understand a problem and act together when no commander can specify every move in advance?
+:12. Some of that answer appears in manuals, but much of it lives in drills, planning vocabulary, map symbols, exercises, staff procedures, and judgments about what a competent officer ought to notice.
+:13. Doctrine reduces the nearly infinite possibilities of combat to a manageable repertoire.
+:14. That reduction is indispensable because hesitation and incompatible improvisation can be deadly.
+:15. It is also a form of commitment, for the repertoire that makes coordinated action possible renders unfamiliar combinations harder to imagine, explain, rehearse, and supply.
+:16. Doctrine becomes path dependent when earlier solutions do more than survive in memory and instead reorganize the costs and probabilities of later choices.
+:17. A lesson enters a school curriculum, the curriculum shapes an exercise, performance in the exercise influences evaluation, and officers fluent in the approved method become credible candidates for greater responsibility.
+:18. Those officers then write requirements, select equipment, design later exercises, and teach the next cohort what realistic war looks like.
+:19. No conspiracy is required.
+:20. Each step can reward competence by the standards the institution already knows how to measure, while an alternative demands new measures, new specialists, and tolerance for failures that initially resemble incompetence.
+:21. The French Army's interwar doctrine shows how a successful answer can harden in precisely this way.
+:22. Its leaders remembered the opening offensives of 1914, when attacking infantry suffered catastrophic losses, but they also remembered the far more systematic operations with which the Allies prevailed in 1918.
+:23. Firepower, careful preparation, reserves, and centralized coordination were not fantasies invented by timid men after the danger had passed.
+:24. They were lessons purchased in a war that had killed roughly 1.4 million French servicemen and left France facing a larger German population across its border.
+:25. From that experience emerged the bataille conduite, commonly rendered in English as the methodical battle.
+:26. In this approach, higher headquarters assembled information, concentrated artillery and other resources, assigned successive objectives, and sought to keep movement synchronized with supporting fire.
+:27. The ideal was not permanent immobility but controlled movement, protected from the chaos and exposed flanks that could turn boldness into slaughter.
+:28. Under conditions resembling the deliberate battles of 1918, such discipline could be a strength.
+:29. Indeed, an army that simply celebrated speed without coordinating infantry, engineers, artillery, armor, air support, and supply would produce traffic jams and isolated units rather than maneuver.
+:30. The path-dependent element lay not in valuing control but in building so many complementary practices around one tempo and one picture of a manageable battlefield.
+:31. French field exercises and staff education repeatedly trained officers to break operations into phases that a central command could prepare and supervise.
+:32. Artillery doctrine favored concentrated fires controlled at relatively high levels, which made reliable schedules and clearly defined objectives especially valuable.
+:33. Communications reinforced the preference: an army relying heavily on telephone lines and couriers had stronger reasons to stabilize a plan than one able to exchange frequent radio reports with moving formations.
+:34. The preference then influenced equipment, because a tank conceived mainly as close support for infantry did not need the same internal communications, crew arrangements, or operational range as a tank expected to help a mixed formation penetrate and exploit at speed.
+:35. Material design and doctrine were turning into each other's evidence.
+:36. When a machine performed well in the role imagined for it, the result validated the role, while features needed for an untested role could appear extravagant or unsafe.
+:37. Organization added another loop.
+:38. France developed capable mechanized cavalry divisions for reconnaissance and security, while many tanks remained distributed for infantry support, and its first armored divisions intended for concentrated action were formed only shortly before the 1940 campaign.
+:39. These choices did not mean that every French officer rejected massed armor or operational movement.
+:40. They meant that new formations had little time to acquire the practiced teamwork, maintenance routines, communications, and shared expectations that make a formation more than an inventory.
+:41. An alternative concept is cheap on paper because paper does not have to retrain thousands of people.
+:42. Inside an established army, however, the concept must find branches willing to surrender tasks, commanders able to evaluate unfamiliar performance, factories capable of supplying a different mix of equipment, and exercises large enough to expose hidden incompatibilities.
+:43. It must also offer a professional future to the officers and enlisted specialists who learn it.
+:44. Promotion matters because an organization does not truly adopt an idea if expertise in that idea remains a career detour.
+:45. Senior commands are filled over years, so yesterday's criteria for identifying promise become tomorrow's pool of leaders.
+:46. The result is a cognitive lock-in with payrolls, schools, workshops, and chains of command attached.
+:47. Calling it "mental" must not tempt us to place the mechanism entirely inside individual heads.
+:48. Organizational identity gives the path emotional force, since artillery officers, infantry officers, cavalry officers, aviators, and engineers inherit distinct histories and standards of excellence, but identity persists partly because budgets, jurisdictions, and promotion ladders make those distinctions consequential.
+:49. A proposal framed as a better tank tactic may therefore imply an unspoken redistribution of authority among entire professions.
+:50. Resistance can protect status, yet it can also reflect genuine knowledge about coordination costs that an enthusiast has ignored.
+:51. This is why the familiar image of a farsighted innovator opposed by foolish traditionalists explains so little.
+:52. New concepts arrive incomplete, exercises are noisy tests, prototypes break down, and a failed trial may reveal either a bad idea or merely an immature supporting system.
+:53. Britain's Experimental Mechanised Force of 1927 illustrated that ambiguity by combining tanks, motorized infantry, artillery, engineers, and other elements in maneuvers on Salisbury Plain.
+:54. Its vehicles differed in speed, reliability, and cross-country performance, so the experiment exposed both the promise of an all-arms mobile force and the difficulty of making its parts travel and fight together.
+:55. Some observers could reasonably infer that mechanization required deeper integration, while others could reasonably see proof that the proposed combination was not ready.
+:56. The force was dissolved in 1928, although its experiments informed later regulations and argument rather than disappearing without effect.
+:57. Here was an alternative visible before the next war, not a solution hidden until hindsight made it shine.
+:58. Visibility, however, is not availability.
+:59. For a doctrine to become a usable branch in the possibility space, an institution must connect an idea to equipment, authority, training time, logistical support, and repeated collective practice.
+:60. The armies that entered the next war had made those connections in markedly different ways, and the contrast would reveal both the power and the limits of doctrine.
+:61. In the small German Reichswehr created after the First World War, those connections began forming before Germany possessed the armored mass with which they would later be associated.
+:62. The Treaty of Versailles restricted the army to 100,000 men, abolished its General Staff by name, and prohibited tanks, conditions that might have produced mere technical stagnation.
+:63. Instead, the reduced force preserved intensive officer education, studied wartime experience, and used maps, staff rides, and exercises to examine movement and combined arms even when real equipment was scarce.
+:64. Under Hans von Seeckt, the institution emphasized mobility, initiative, and the ability of junior commanders to act within a superior's purpose when circumstances disrupted detailed instructions.
+:65. This practice, often associated with the later term Auftragstaktik, was not a license for personal adventure.
+:66. Decentralized decisions worked only because training, vocabulary, and a shared conception of the commander's intent created agreement about what initiative was supposed to accomplish.
+:67. Paradoxically, therefore, a common doctrine could permit more local freedom than a system of meticulous central direction.
+:68. It replaced some advance coordination by schedule with coordination through learned judgment.
+:69. That trade-off carried risks, since a subordinate could misunderstand the purpose, outrun support, or turn flexibility into disobedience.
+:70. The German approach did not eliminate hierarchy; it shifted part of the burden from prior instructions to selection and education.
+:71. When rearmament accelerated under the Nazi regime, conceptual preparation could be joined to actual formations, although money, political direction, industry, and illegal earlier cooperation all contributed to the transformation.
+:72. The panzer division was important not because it collected the strongest tanks but because it combined tanks with motorized infantry, artillery, engineers, reconnaissance, signals, maintenance, and supply under a command expected to move them together.
+:73. More extensive radio provision allowed commanders to redirect moving units faster, while the expectation of rapid redirection made radios seem central rather than optional.
+:74. Exercises could then reveal problems, revised procedures could be taught, and the next generation of vehicles and units could be specified with those procedures in mind.
+:75. This was the reciprocal adaptation of equipment and doctrine that the French system had achieved around a different pattern of battle.
+:76. Nor was it the creation of a solitary prophet.
+:77. Heinz Guderian became a forceful advocate and organizer of armored warfare, but German practice drew on inherited command traditions, collective study of the First World War, foreign experiments, institutional patrons, and the work of many branches.
+:78. Ideas crossed borders more easily than organizations did.
+:79. British theorists could describe concentrated mechanized forces, French officers could create sophisticated mechanized cavalry, and observers from several countries could watch exercises, yet each proposal entered a different web of missions, budgets, rivalries, and strategic assumptions.
+:80. The same tank concept consequently acquired a different probability of adoption depending on where it landed.
+:81. Even the German web was far from complete.
+:82. Most German divisions in 1940 were not panzer divisions, much of the army moved on foot and relied on horses, and its mechanized spearheads risked separating from slower infantry and supply.
+:83. The campaign in France did not test two pure systems under controlled conditions.
+:84. It tested uneven coalitions of units amid surprise, weather, terrain, disrupted communications, errors, and rapidly changing information.
+:85. The German plan to send the main armored concentration through the Ardennes emerged only after earlier plans had been reconsidered, and its execution exposed long columns to dangers that the defenders might have exploited.
+:86. Crossing the Meuse required engineers, infantry assaults, artillery, air support, bridging equipment, and local improvisation before the tanks could race westward.
+:87. Doctrine helped actors combine those elements and exploit success, but it did not guarantee that the crossing would succeed.
+:88. Nor did it dictate every consequential command decision after the breakthrough, when German commanders themselves argued over speed, exposed flanks, and pauses.
+:89. Calling the result “blitzkrieg” can conceal this contingency by making a contested campaign look like the execution of a finished master formula.
+:90. There was no frictionless doctrine that transformed every German unit into a machine of maneuver.
+:91. What existed was a stronger organizational capacity in certain formations to recognize and extend a fast-moving opportunity.
+:92. That capacity changed probabilities, not laws of history.
+:93. The distinction becomes clearer when French performance is examined below the level of national collapse.
+:94. At Hannut and Gembloux in Belgium, French mechanized cavalry and prepared infantry fought effectively enough to show that neither their equipment nor their doctrine imposed automatic defeat in every encounter.
+:95. The French First Army's position at Gembloux was not simply shattered by the German armored attack; the wider breakthrough farther south compelled withdrawal.
+:96. Such episodes are not footnotes offered to rescue institutional pride.
+:97. They are countertests that prevent a successful explanation of Sedan from expanding into the false claim that one doctrine was universally competent and the other uniformly helpless.
+:98. The British counterattack near Arras on May 21 offers another useful check.
+:99. Heavy Matilda tanks surprised German forces and caused serious alarm, demonstrating the tactical value of protection and the vulnerability of an advance whose flanks and support had not fully caught up.
+:100. Yet the attack was limited in scale and coordination, and it could not reverse the operational situation.
+:101. One episode thus supplied evidence both for the power of a particular weapon and for the insufficiency of a weapon not connected to a larger, practiced system.
+:102. Battlefield feedback rarely arrives with its interpretation attached.
+:103. Survivors report different fragments, organizations protect capabilities they still need, and a result produced by several causes may be credited to the most visible arm.
+:104. Victory can deepen a path especially quickly because it confirms doctrine, leaders, equipment, and identity at once.
+:105. Defeat can be equally ambiguous, prompting genuine revision in one institution but scapegoating, cosmetic reform, or renewed orthodoxy in another.
+:106. War accelerates selection without making selection intellectually clean.
+:107. It may discard a formation that was badly used, preserve one that succeeded through temporary advantage, or reward a doctrine suited to a theater whose conditions will not recur.
+:108. The later difficulties of German forces across greater distances and against changing opponents would expose constraints that the short western campaign had not resolved, particularly in transport, maintenance, replacement, and supply.
+:109. A method that opens possibilities at one scale can close them at another.
+:110. That is why innovation cannot be measured by the novelty of a device or even by the elegance of a manual.
+:111. It requires at least three linked changes: a material capability, an organization able to sustain it, and a practiced conception of how to use it.
+:112. Remove any one of the three, and apparent innovation may remain a prototype, a demonstration unit, or a slogan.
+:113. Join them too tightly, and today's coherent capability may become tomorrow's expensive lock-in.
+:114. Military organizations therefore face a genuine dilemma rather than a choice between intelligence and stupidity.
+:115. They must standardize behavior enough for strangers and specialized units to cooperate under danger, yet preserve enough variation to discover when the standard answer has become mismatched to the problem.
+:116. Experiments, maneuvers, historical study, and protected specialist careers can keep alternatives alive, but each consumes resources and each is interpreted through concepts already in use.
+:117. Reflection creates openings; it does not erase the inherited structure through which an opening must be reached.
+:118. Doctrine is best understood, then, as an infrastructure of attention: it directs what an organization notices, what it rehearses, and which combinations appear feasible under pressure.
+:119. Changing that infrastructure is possible, as the interwar armies demonstrated in different degrees, but a new idea becomes consequential only when people, tools, authority, and repeated practice give it a road into action.
+:120. The next test of that road would come where an ancient symbol of mobility, the cavalry arm, confronted weapons that seemed to make its inherited role impossible.

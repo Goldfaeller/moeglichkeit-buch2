@@ -1,0 +1,147 @@
+== 2.1 Evolution als Tüftler ==
+
+:1. Picture two workshops.
+:2. In the first, an engineer sits at an immaculate drafting table.
+:3. Before her lies a blank sheet of paper, and beside it stands a catalog of precision tools, standardized parts, and materials she is free to choose.
+:4. She designs a bridge, an engine, or a machine from scratch, according to a plan she has drawn.
+:5. Every component can be manufactured specifically for its assigned purpose.
+:6. If a better solution appears, she can remove the old component and build anew.
+:7. Mistakes can be corrected on the drawing board before the first screw is turned.
+:8. This workshop represents clarity, foresight, and the freedom to compare solutions before committing to one.
+:9. The second workshop looks entirely different.
+:10. Here there is no empty drafting table, only a workbench crowded with bins of used parts: bent sheet metal, mismatched screws, discarded engine components, and leftovers from earlier projects.
+:11. A tinkerer stands before it, surveying what is available.
+:12. He does not specify a finished product and then order ideal components; he asks what the material already at hand might be made to do.
+:13. An old bicycle rim may become a steering wheel, a battered pot a protective shell, and a length of hose a conduit.
+:14. None of these objects was made for its new role.
+:15. Yet a workable device can emerge, complete with visible seams, inherited proportions, and unexpected combinations.
+:16. The contrast is immediately useful because living forms often look less like clean-sheet designs than like revisions of previous forms.
+:17. It is also dangerous if taken literally.
+:18. Real engineers inherit budgets, standards, factories, trained workers, regulations, and earlier machines, while evolution has no workbench, no foresight, and no one choosing among the parts.
+:19. The two workshops are therefore not competing descriptions of actual workplaces but a way to expose a difference in how possible changes arise.
+:20. The metaphor earns its keep only when the biological mechanism underneath it remains visible.
+:21. The word behind the second workshop is bricolage.
+:22. The French anthropologist Claude Lévi-Strauss used the bricoleur to describe someone whose materials are already defined and whose possible combinations are constrained by their previous uses.
+:23. In a celebrated 1977 essay titled "Evolution and Tinkering," the biologist François Jacob carried that contrast into biology.
+:24. Jacob's authority did not rest on metaphor alone.
+:25. He had joined the Free French Forces during the Second World War, served as a medical officer, and suffered severe wounds in Normandy in 1944 before turning from surgery to biological research.
+:26. In 1965, he shared the Nobel Prize in Physiology or Medicine with André Lwoff and Jacques Monod for discoveries concerning the genetic control of enzyme and virus synthesis.
+:27. His work helped reveal that cells regulate inherited instructions rather than simply executing a static blueprint.
+:28. That background made the contrast between engineering and tinkering especially pointed.
+:29. The molecular machinery of life was intricate, but intricacy did not imply that a planner had specified the finished arrangement in advance.
+:30. An engineer can begin with a target and search for parts that satisfy it.
+:31. Evolution begins with reproducing populations whose members already have bodies, developmental systems, and relations to an environment.
+:32. No future form sends instructions backward to summon the mutation it will need.
+:33. Mutations alter inherited material, recombination reshuffles variants, and gene flow can bring variants from other populations.
+:34. Development then translates genes and environmental conditions into bodies, but it does not generate every imaginable body with equal ease.
+:35. Some variations arise readily because existing developmental pathways can produce them, while others would require changes that the current system rarely or never generates.
+:36. Natural selection does not manufacture the useful variant in this process.
+:37. It changes the representation of heritable variants when their bearers leave different numbers of descendants in a particular environment.
+:38. Genetic drift can also change variant frequencies by chance, especially in small populations, even when the variants do not differ much in their effects on reproduction.
+:39. Migration, changing environments, competition, cooperation, and accidents of population history further alter what persists.
+:40. Evolution is therefore not random variation followed by selective survival and nothing else.
+:41. It is the changing outcome of several processes acting on variation that an inherited developmental system makes available.
+:42. This distinction turns the tinkerer from a charming character into an account of path dependence.
+:43. At any moment, a population can vary only from the biological organization it already has.
+:44. A mutation that would be beneficial in one genetic or developmental background may be neutral, harmful, or impossible to express in another.
+:45. Earlier changes thus modify not only the present organism but also the distribution and effects of changes that can come next.
+:46. That is the mechanism by which history reshapes the space of the possible.
+:47. The phrase "space of the possible" does not name a literal container stocked with every form that could ever exist.
+:48. It is an analytical model for distinguishing imaginable organisms from physically possible ones, viable ones, and those reachable from a particular population through a sequence of changes.
+:49. A dragon can be imagined without being biologically available, and a viable form can exist in principle without being accessible from the lineage now under discussion.
+:50. Accessibility depends on sequence.
+:51. A change that works after two preparatory changes may fail before them, while an early modification may open several routes and close others.
+:52. The order of steps matters because each step alters the platform on which the next must operate.
+:53. Evolutionary history is path-dependent when that order changes the probability, cost, or viability of later outcomes, not merely when one event happens before another.
+:54. A fossil sequence alone supplies chronology; explaining why one state made another reachable supplies the mechanism.
+:55. The inhabited house under renovation captures the same point from another angle.
+:56. Residents can replace a staircase, reinforce a wall, or divide a room, but they cannot ignore the load carried by the present structure while they work.
+:57. A lineage likewise cannot suspend reproduction for ten thousand generations while incomplete components wait for their partners.
+:58. Variants in a continuing lineage must function well enough, in the circumstances of their time, for descendants to carry them onward.
+:59. "Well enough" is the crucial phrase.
+:60. An intermediate need not be perfect, and it need not perform the same function as the later structure.
+:61. It may be neutral, useful in a different way, or advantageous only in combination with conditions that later disappear.
+:62. Nor must every evolutionary change be microscopically small.
+:63. Gene duplications, recombination, and larger genomic rearrangements can produce substantial novelty, but they still appear in organisms that must develop and reproduce rather than in a workshop temporarily closed for redesign.
+:64. A coordinated transformation is difficult when its isolated components are damaging, yet neutral intermediates, duplicated parts, and changes in regulation can create routes that a simple picture of tiny improvements would miss.
+:65. The continuity requirement constrains evolution without reducing it to a march of uniformly minute steps.
+:66. The giant panda's hand makes this mixture of inheritance, function, and compromise visible.
+:67. A panda holds bamboo between its fingers and a projecting structure on the thumb side of its wrist.
+:68. That projection is not a sixth finger but an enlarged radial sesamoid, a wrist bone embedded in tendons near the base of the first digit.
+:69. Its history is not accurately described by saying that evolution decided a panda needed a thumb and built the wrong one.
+:70. Carnivoran ancestors already possessed a radial sesamoid, and the panda lineage inherited a paw organized around five true digits and a plantigrade stance.
+:71. Variation in the size and shape of the existing sesamoid could therefore affect how food was supported against the palm.
+:72. Selection could act on those differences without first creating an entirely new digit with new joints, muscles, nerves, and developmental instructions.
+:73. The resulting pseudo-thumb participates in a larger functional unit rather than moving as an independent opposable digit.
+:74. Fingers flex bamboo against the sesamoid and fleshy pads, allowing the animal to hold and manipulate stems while feeding.
+:75. This arrangement is not merely a clumsy substitute for the hand an engineer might draw.
+:76. It also answers several demands at once.
+:77. Fossil evidence indicates that an enlarged false thumb was present in the panda lineage at least six million years ago, yet the structure did not simply become longer and longer.
+:78. A very long projection might improve some kinds of grasping but would interfere with the wrist's role in bearing weight during plantigrade walking.
+:79. The modern form therefore reflects both a historical opportunity and continuing selection under conflicting demands.
+:80. Its lineage made one region of design space accessible by modifying a wrist bone, while inherited posture made other modifications costly.
+:81. Calling the result "good enough" should not be mistaken for calling it poor.
+:82. Giant pandas manipulate bamboo effectively, and the persistence of the arrangement over millions of years is evidence of function, not failure.
+:83. The lesson lies in the route by which the function became available and in the alternatives that route made easier or harder.
+:84. Mammalian hearing preserves an even deeper renovation.
+:85. In the ancestors and extinct relatives of mammals, the articular and quadrate bones formed the primary joint between the lower jaw and the skull.
+:86. Across a long sequence documented by fossils and development, a new jaw articulation arose between the dentary and squamosal bones.
+:87. Some transitional mammaliaforms possessed both articulations, so the old joint did not have to vanish before the new one could bear loads.
+:88. As the dentary-squamosal joint assumed the work of the jaw hinge, the articular and quadrate became increasingly involved in transmitting sound.
+:89. Their mammalian descendants are the malleus and incus, the hammer and anvil of the middle ear.
+:90. The angular bone contributed to the ring supporting the eardrum, while the stapes has a separate and older ancestry in the hyomandibular element.
+:91. The familiar claim that all three mammalian ear bones simply migrated out of a reptile's lower jaw therefore compresses several origins into one misleading sentence.
+:92. The actual transition is more instructive because overlapping functions and a temporary double jaw joint help explain how continuity was maintained.
+:93. Each stage could work as a jaw, a hearing apparatus, or both, while the balance between those functions shifted.
+:94. What looks like a leap when only the endpoints are compared becomes a traversable route when the intermediates are restored.
+:95. The route did not produce an inferior patchwork.
+:96. The three-ossicle middle ear became part of a highly effective sound-transmission system, including sensitivity to frequencies important in many mammalian lives.
+:97. Reuse can generate precision as readily as awkwardness.
+:98. These examples also reveal where the engineering analogy breaks down.
+:99. A tinkerer is a person who sees a problem, imagines a use, and selects a part, whereas mutation, development, selection, and drift possess no such intentions.
+:100. Phrases such as "evolution reached for" or "nature found a solution" are convenient shorthand only if we remember that populations, not a hidden craftsperson, changed across generations.
+:101. Organisms are not machines assembled from independent pieces with one purpose each.
+:102. A bone can bear weight, anchor tissue, guide motion, and alter leverage at the same time, while a gene can affect many traits through a network of development.
+:103. Changing one component may therefore alter several functions, some beneficial and some costly.
+:104. The interdependence itself is inherited, making apparently simple redesigns biologically expensive.
+:105. Yet inheritance does not explain every similarity or every limit.
+:106. Gravity, diffusion, material strength, and energy supply constrain organisms regardless of their ancestry.
+:107. If two lineages face the same physical problem, natural selection can sometimes produce convergent functions from different starting materials.
+:108. Sharks and dolphins, for example, acquired broadly streamlined bodies through separate histories because moving rapidly through water rewards some shapes more than others.
+:109. Their resemblance shows that history does not make outcomes arbitrary.
+:110. Their anatomical differences show that similar pressure does not erase history either.
+:111. Path dependence operates between these extremes: the present is neither the uniquely optimal answer nor a random accident unconstrained by function.
+:112. The old phrase "survival of the fittest" can obscure this middle ground.
+:113. Herbert Spencer coined the expression, and Charles Darwin adopted it in later editions of On the Origin of Species.
+:114. In evolutionary biology, fitness does not mean strongest, smartest, healthiest, or closest to an ideal form.
+:115. It refers to relative reproductive success in a specified environment, measured through contribution to subsequent generations.
+:116. A trait that raises reproductive success on one island, in one climate, or alongside one set of competitors may lower it elsewhere.
+:117. Survival matters because organisms usually must survive long enough to reproduce, but longevity without descendants is not evolutionary victory.
+:118. Selection is also not the only reason a trait persists.
+:119. A feature may be nearly neutral, linked to another feature under selection, retained because alternatives do not arise, or carried through a population by drift.
+:120. The absence of a cleaner-looking design therefore does not prove that natural selection tested it and rejected it.
+:121. It may never have been developmentally available from that starting point, or it may have required a temporarily damaging transition.
+:122. Conversely, a strange structure is not automatically a historical burden.
+:123. Whale pelvic bones, once casually dismissed as useless remnants, anchor muscles involved in reproduction and differ in ways associated with reproductive function.
+:124. A structure can testify to ancestry while performing a current job.
+:125. That combination is common because evolution modifies relationships rather than merely preserving museum pieces inside bodies.
+:126. History can even expand possibilities.
+:127. Feathers existed in nonflying dinosaur lineages before feathers supported powered flight.
+:128. Their earliest functions remain uncertain, and insulation, display, camouflage, and other roles need not have been mutually exclusive.
+:129. Once feathered surfaces and the developmental machinery producing them existed, later changes could alter their size, symmetry, stiffness, placement, and control.
+:130. Some of those modifications made aerodynamic uses increasingly effective.
+:131. The inherited structure did not point toward flight from the beginning, but it supplied material from which flight could later become reachable.
+:132. A similar correction applies to the old classroom claim that a fish's swim bladder simply became a tetrapod lung.
+:133. Comparative anatomy, development, and molecular evidence instead indicate that lungs and the gas bladders of bony fishes are homologous organs with an ancient shared origin.
+:134. In ray-finned fishes, descendants of an ancestral air-breathing organ were modified into gas bladders used largely for buoyancy, while other lineages retained or elaborated respiratory functions.
+:135. The direction of the transformation matters because a reversed story hides which structures were actually available at each stage.
+:136. Tinkering is therefore more than reuse.
+:137. It is reuse under inherited developmental rules, immediate functional demands, population processes, and environments that themselves change.
+:138. Earlier steps alter which variants appear, which combinations work, and which transitions impose a reproductive cost.
+:139. Some paths narrow because components become tightly integrated, while others widen because duplication, redundancy, or a new function creates room for further change.
+:140. The same history can constrain one dimension and enable another.
+:141. Living forms are consequently neither fresh designs nor heaps of arbitrary leftovers.
+:142. They are present-tense performances assembled through routes that had to remain passable as they unfolded.
+:143. The panda's wrist and the mammalian ear do not reveal what a perfect designer would have chosen; they reveal how an inherited arrangement changed the next available move.
+:144. Once that shift in viewpoint is made, an anatomical oddity stops being a joke about bad design and becomes evidence about vanished alternatives.
+:145. Evolution leaves its history not as a label attached to the finished organism, but in the pattern of doors that the organism can still open.

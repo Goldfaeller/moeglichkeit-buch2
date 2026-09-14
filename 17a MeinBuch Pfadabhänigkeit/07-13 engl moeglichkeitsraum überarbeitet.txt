@@ -1,0 +1,122 @@
+== 7.13 Die europäische Schicht ==
+
+:1. On July 9, 2005, the Sturgeon family checked in at Toronto for a Condor flight home to Frankfurt and learned that the departure had been canceled.
+:2. They collected their luggage, spent the night in a hotel, and flew the next day under the same flight number, reaching Frankfurt about twenty-five hours late.
+:3. Whether this ordeal legally counted as a cancellation or merely a long delay mattered because a European regulation expressly awarded fixed compensation for some cancellations but not, in equally clear words, for delays.
+:4. The family sued Condor in Germany.
+:5. By the time the dispute reached the Federal Court of Justice, the answer no longer lay within German statutes or German precedent alone.
+:6. Germany's highest ordinary court for civil matters asked the Court of Justice of the European Union in Luxembourg how the regulation should be understood.
+:7. The Luxembourg judges joined the German reference with an Austrian case and ruled in 2009 that passengers who reach their destination at least three hours late may generally claim the same compensation as passengers whose flights are canceled, unless extraordinary circumstances excuse the carrier.
+:8. The ruling did not replace the German court, retry the facts, or send a European bailiff to Condor's offices.
+:9. It supplied an authoritative interpretation of European Union law, after which the national court had to decide the lawsuit.
+:10. One family's journey thus passed through several legal layers: a contract governed largely by national private law, a directly applicable European regulation, German trial and appellate procedure, and an interpretive judgment binding courts across the Union.
+:11. Calling the European layer simply higher misses how this arrangement works.
+:12. The European Union is not a federal state with a complete code sitting atop every national code, and its institutions may act only within powers that the member states have conferred by treaty.
+:13. Family law, criminal procedure, taxation, consumer contracts, environmental permits, and aviation may each contain a different mixture of European, federal, state, and judge-made rules.
+:14. The relevant question is therefore not which legal pyramid contains the highest stone, but which institution has authority over this issue and how its decision travels through the others.
+:15. Article 267 of the Treaty on the Functioning of the European Union provides the hinge used in Sturgeon.
+:16. Any national court may ask the Court of Justice to interpret Union law when an answer is needed for judgment, while a court of last instance must ordinarily refer a necessary unresolved question.
+:17. The parties remain before their national judge, and that judge normally finds the facts, applies national procedure, and enters the final order.
+:18. Yet the interpretation returned from Luxembourg is not private advice for one courtroom.
+:19. It coordinates the meaning of common rules across legal systems whose languages, procedures, professional traditions, and inherited categories remain distinct.
+:20. This decentralized arrangement gains reach precisely because it recruits national courts rather than building a duplicate European judiciary in every city.
+:21. European legislation enters national law through several routes, and those routes create different kinds of layering.
+:22. Under Article 288 of the treaty, a regulation is binding in its entirety and directly applicable in every member state.
+:23. That is why the air-passenger regulation could become part of a German lawsuit without the Bundestag first copying its provisions into a new German statute.
+:24. A directive works differently: it binds member states to a result while leaving national authorities a choice of form and methods.
+:25. German legislators may therefore amend the Civil Code to implement a consumer-law directive, retaining familiar concepts where the directive permits and changing them where it does not.
+:26. The resulting section still looks, reads, and operates as German law, but its permissible meaning is partly fixed by a European instrument and by judgments interpreting that instrument.
+:27. Even this contrast is not absolute in practice, because regulations may require national enforcement machinery, while an unimplemented directive can under limited conditions give individuals rights against the state.
+:28. Legal layers are interfaces, not sealed sheets.
+:29. They transmit commands, but they also translate them through inherited institutions.
+:30. The European layer first became powerful in economic fields where separate national rules could make a formally open border expensive to cross.
+:31. In the 1970s, the German retailer Rewe-Zentral sought to import Cassis de Dijon, a French black-currant liqueur containing between fifteen and twenty percent alcohol.
+:32. German rules required fruit liqueurs sold under that category to contain at least twenty-five percent alcohol, so the federal spirits administration refused market access.
+:33. The rule did not discriminate on its face between German and French producers, and Germany defended it partly as protection for consumers and public health.
+:34. In 1979, after a Hessian finance court requested guidance, the Court of Justice held that such an obstacle to trade required adequate justification and developed the principle later summarized as mutual recognition.
+:35. A product lawfully made and marketed in one member state should generally be admitted in another even when national technical rules differ.
+:36. This was integration without writing one exhaustive European recipe for liqueur.
+:37. Mutual recognition reduced the lock-in produced by each country's standards because a producer no longer always had to redesign a product for every national market.
+:38. It also shifted the default: diversity remained possible, but a state now had to justify certain barriers rather than treating its inherited rule as the unquestioned price of entry.
+:39. The shift did not abolish regulation, since interests such as health, fair dealing, and effective consumer protection can justify proportionate national measures.
+:40. Nor did one judgment make national standards disappear overnight.
+:41. Administrators had to revise practice, courts had to distinguish justified safeguards from disguised barriers, firms had to learn where recognition applied, and European lawmakers could still decide that common legislation was needed.
+:42. Harmonization is that more deliberate route: the Union establishes common requirements in an authorized field, sometimes leaving national room above a floor and sometimes occupying most of the field.
+:43. It can release producers and citizens from twenty-seven separate compliance paths, enlarge the market for a tested design, and make rights portable across borders.
+:44. At the same time, every common definition, filing system, remedy, and technical standard invites investment in compliance teams, databases, contracts, training, and case law.
+:45. Those complementary investments generate a new path dependence at European scale.
+:46. Once millions of transactions and thousands of administrative routines rely on a shared rule, national divergence becomes costlier even if a different local rule looks attractive in isolation.
+:47. This is not necessarily a trap.
+:48. Stable common rules allow an airline to plan a network, a business to sell beyond its home market, and a traveler to carry recognizable protections across borders.
+:49. The same binding force that closes some national options opens cross-border possibilities that fragmented law had kept remote or invisible.
+:50. European rules are also not imposed by a single actor standing outside the member states.
+:51. In the ordinary legislative procedure, the European Commission generally proposes legislation, while the directly elected European Parliament and the Council, composed of ministers from national governments, must agree on the text.
+:52. German preferences can enter through the federal government in the Council, through German members of Parliament, through expert consultations, and through the participation rights of the Bundestag and Bundesrat.
+:53. Article 23 of the Basic Law gives both federal chambers roles in European affairs and provides especially strong involvement for the Länder when their legislative powers or administrative responsibilities are affected.
+:54. The European layer therefore runs through German federalism rather than simply covering it.
+:55. A European environmental directive, for example, may be negotiated by federal representatives, transposed by a federal statute, implemented by Land authorities, reviewed by administrative courts, and interpreted in Luxembourg after a reference from one of those courts.
+:56. Each stage can preserve specialized knowledge, but each junction also introduces delay, translation, and a possible dispute over competence.
+:57. The treaty's principles of conferral, subsidiarity, and proportionality respond to this problem by asking whether the Union has authority, whether action at European scale is needed, and whether its form goes beyond what the objective requires.
+:58. These principles constrain centralization, although reasonable institutions and governments can disagree sharply about their application.
+:59. The system consequently holds unity and specialization in continuous tension: common meaning must emerge from courts and administrations built for different legal domains.
+:60. That tension becomes most visible when a national constitutional court asks not merely what European law means, but why and within what limits it has authority at all.
+:61. Germany's answer to that question has itself changed through a sequence of judicial encounters.
+:62. In 1974, in the decision known as Solange I, the Federal Constitutional Court held that, as long as the European Community lacked an adequate catalogue of fundamental rights, German courts could ask Karlsruhe to review Community measures against the Basic Law after obtaining the required European interpretation.
+:63. The reservation reflected the Community as it then existed, not an eternal definition of German sovereignty.
+:64. Meanwhile, the Court of Justice was developing fundamental-rights principles from the constitutional traditions shared by the member states, and European institutions gradually strengthened those protections.
+:65. In Solange II in 1986, the German court acknowledged that development and said it would no longer conduct such review as long as European protection remained generally comparable and effective.
+:66. This was neither unconditional surrender nor a declaration that two legal orders could ignore one another.
+:67. It was a feedback process in which challenge encouraged institutional development, development altered German doctrine, and the revised doctrine made deeper integration more legally secure.
+:68. The Charter of Fundamental Rights, made legally binding with the Lisbon Treaty in 2009, added a written European reference point to this evolved settlement.
+:69. From the perspective of the Basic Law, Article 23 authorizes participation in European integration and the transfer of sovereign powers under specified constitutional conditions.
+:70. From the perspective of European Union law, primacy requires every national court to give effective Union rules precedence when conflicting national law falls within their scope.
+:71. That precedence normally means leaving the conflicting national rule unapplied in the case, not erasing it from the statute book for every other purpose.
+:72. The Court of Justice treats primacy as necessary to prevent common obligations from changing whenever a member state adopts a contrary rule.
+:73. The Federal Constitutional Court accepts primacy in principle but grounds it in Germany's constitutional authorization and reserves exceptional review of whether European institutions have plainly exceeded conferred powers or invaded Germany's protected constitutional identity.
+:74. Lawyers dispute the compatibility and practical reach of these reservations, and occasional confrontations show that cooperation is not guaranteed by harmonious vocabulary.
+:75. Yet the reservations are framed as narrow safeguards, not ordinary licenses for every German court to disregard an unwelcome European judgment.
+:76. Their very narrowness reveals a serious counterweight to the language of hierarchy: the system depends on rival claims of final authority being managed through restraint.
+:77. The 2019 decision known as Right to Be Forgotten II displayed another adaptation.
+:78. When German authorities and courts apply rules that European law has fully harmonized, the Federal Constitutional Court said that it will normally assess their actions under the fundamental rights of the European Union rather than the parallel rights of the Basic Law.
+:79. Karlsruhe thus retained its role as a constitutional court while changing the legal standard it used and committing itself to cooperation with Luxembourg.
+:80. The result is authority distributed by subject matter, degree of harmonization, procedural route, and the source of the asserted right.
+:81. Germany's specialized judiciary adds another set of layers below that constitutional conversation.
+:82. Its federal system culminates in separate supreme courts for ordinary, administrative, finance, labor, and social jurisdiction, each connected to lower courts and a distinct professional practice.
+:83. The Federal Constitutional Court stands apart from those branches and decides constitutional questions rather than serving as a general court of further appeal.
+:84. European law does not dissolve these divisions when it enters a dispute over a workplace, tax bill, pension, building permit, or sales contract.
+:85. A court in any branch can encounter Union law and, when the treaty's conditions are met, send an interpretive question to Luxembourg.
+:86. This design preserves expertise in the factual settings and domestic doctrines surrounding a common European rule.
+:87. It also creates a risk that different branches, regions, or member states will recognize the European issue at different times or frame it in different terms.
+:88. The preliminary-ruling procedure promotes unity by giving them a common interpreter, but the questions arriving in Luxembourg bear the imprint of specialized national disputes.
+:89. Uniform interpretation therefore does not eliminate institutional variety; it organizes exchange across it.
+:90. National legal systems also normally supply the procedures and remedies through which European rights are enforced.
+:91. European doctrine limits that procedural autonomy by requiring, among other things, that national rules not treat Union claims less favorably than comparable domestic claims or make European rights practically impossible or excessively difficult to exercise.
+:92. The European Commission can separately bring infringement proceedings when a member state fails to fulfill its obligations.
+:93. Even so, most encounters with European law occur through national clerks, inspectors, agencies, lawyers, and judges using offices and routines that predate the Union rule before them.
+:94. A formally uniform command can consequently produce uneven speed, cost, and practical accessibility.
+:95. That fact is a limitation on the simple claim that harmonization creates one law for everyone.
+:96. Common rules may remove border costs while fitting some national institutions more easily than others.
+:97. A detailed uniform standard can also suppress local experiments that might have revealed a better solution or accommodated a genuine regional difference.
+:98. Mutual recognition leaves more room for diversity, but it asks jurisdictions to trust protections they did not design and may find difficult to evaluate.
+:99. Minimum harmonization preserves national additions, though those additions can restore some of the complexity that common rules were meant to reduce.
+:100. Maximum harmonization offers greater predictability across borders, but it narrows the ability of a member state to respond differently even when local preferences are strong.
+:101. There is no context-free point at which unity becomes preferable to specialization.
+:102. The answer depends on cross-border spillovers, the value of experimentation, enforcement capacity, distributional effects, and the consequences of incompatible rules.
+:103. Nor does a European path become irreversible merely because complementary institutions have grown around it.
+:104. European legislators can amend or repeal secondary legislation through the procedures authorized by the treaties.
+:105. The Court of Justice can distinguish or revise earlier interpretations when new disputes expose consequences that the old formula did not adequately address, although legal certainty weighs against abrupt reversal.
+:106. National legislators can use whatever discretion a directive leaves, and administrations can alter enforcement methods without abandoning the common objective.
+:107. Derogations, transitional periods, mutual-recognition clauses, and minimum standards can preserve controlled variation inside a shared framework.
+:108. Treaty revision offers a deeper but far more demanding route because it reopens bargains on which many states and institutions rely.
+:109. Every route has switching costs, and those costs are distributed unevenly among citizens, firms, governments, and professions.
+:110. Actors that have mastered the existing system gain expertise and influence from it, while potential beneficiaries of an unbuilt alternative may be scattered and difficult to organize.
+:111. The resulting stability can protect settled expectations and cross-border cooperation, yet it can also keep a flawed arrangement in place after its original compromise has lost support.
+:112. Path dependence here lies not in an inability to change, but in the way previous integration alters who must agree, what must be rebuilt, and which alternatives remain credible.
+:113. The Sturgeon litigation makes that alteration tangible.
+:114. A gap in the wording of a European regulation became a question from a German court, then a common European interpretation, then part of the expectations surrounding air travel across the Union.
+:115. Passengers gained a portable claim, while airlines had to price, document, and litigate delay compensation within the rule the judgment created.
+:116. Germany could not thereafter restore a different national rule for German carriers simply by amending its Civil Code.
+:117. European lawmakers could still redesign the common regime, courts could refine its boundaries, and carriers could change operations or contracts within those boundaries.
+:118. The decision therefore did not close the possibility space so much as move important choices from one national arena into a network of shared institutions.
+:119. Beneath that network, German private law, federalism, specialized courts, administrative practice, and constitutional safeguards continued to carry their own histories.
+:120. How far, then, can part of a country leave its inherited legal path when it builds a rival order for four decades, and what survives when the two paths meet again?

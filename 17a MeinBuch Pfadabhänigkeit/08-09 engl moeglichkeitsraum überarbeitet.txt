@@ -1,0 +1,122 @@
+== 8.9 1990: die ultimative Pfadprobe ==
+
+:1. At midnight on October 3, 1990, the German Democratic Republic disappeared, but leases, marriages, court files, pension claims, and entries in land registers did not.
+:2. The state ended in an instant; the legal relationships through which people lived could not.
+:3. That mismatch turned unification into a test more exacting than any comparison of two statutes on a page.
+:4. The Unification Treaty, signed only thirty-three days earlier, had to change the governing order while keeping millions of ongoing relationships intelligible.
+:5. Its answer was not to build a third legal system from equal portions of East and West German law.
+:6. The freely elected Volkskammer had resolved on August 23 that the GDR would accede to the Federal Republic under the then Article 23 of the Basic Law, effective October 3.
+:7. Legally, this was an enlargement of an existing state and constitutional order, not the simultaneous dissolution of two states into a new one.
+:8. The Basic Law took effect in Brandenburg, Mecklenburg–Western Pomerania, Saxony, Saxony-Anhalt, Thuringia, and the former eastern part of Berlin.
+:9. Under Article 8 of the treaty, federal law generally entered into force in this accession territory unless the treaty, especially its vast first annex, provided otherwise.
+:10. That compact rule carried an immense practical consequence: one side supplied the default law, and departures had to be specified.
+:11. The choice had an alternative that was neither imaginary nor legally absurd.
+:12. The old Article 146 offered a route toward a constitution adopted by the German people in a free decision, and East German civic groups promoted versions of a common constitutional beginning.
+:13. A new constitution could have created a broader forum for selecting institutions from both states or inventing different ones.
+:14. It would also have opened nearly every constitutional settlement to negotiation when political authority, administrative capacity, and the East German economy were all in rapid transition.
+:15. Supporters of accession valued the tested Basic Law, but they also valued speed and a result that could be implemented through machinery already in operation.
+:16. These reasons should not be compressed into the claim that history simply selected the better constitution.
+:17. They describe a choice made under a narrowing calendar, unequal resources, mass migration, economic strain, and an uncertain international window.
+:18. The route was contingent before it was chosen, then strongly consequential afterward.
+:19. Once accession became the governing design, every drafting hour spent adapting federal law increased the cost of returning to a wholly new synthesis.
+:20. This is path dependence in a precise sense: the earlier constitutional choice reorganized the work still possible before unity day.
+:21. The asymmetry was larger than the wording of Article 23.
+:22. The Federal Republic brought four decades of legislation, judicial decisions, commentaries, forms, ministries, professional examinations, and administrative routines that already fitted one another.
+:23. Its civil servants and judges knew not only individual rules but also the unwritten sequence by which a case moved from an application to a decision and, if challenged, through a hierarchy of review.
+:24. Banks, insurers, employers, bar associations, publishers, and universities were likewise organized around the same legal vocabulary.
+:25. The GDR also possessed trained jurists, institutions, records, and a developed body of law, but these belonged to a state that was being dissolved and to a political order whose courts had lacked the independence required by the incoming constitutional system.
+:26. Legal unification therefore was not a contest in which two isolated codes were placed before an impartial jury.
+:27. It was a junction between one legal network that continued to operate and another whose authority, organizations, and career structures were being dismantled or remade.
+:28. The larger network offered immediate compatibility: a federal statute came with precedents, textbooks, appellate courts, instructors, and officials who already knew how its neighboring provisions worked.
+:29. An East German rule could be shorter or better suited to a particular problem and still lose because retaining it required new interfaces with the surrounding order.
+:30. Size mattered because it multiplied complements, not because numerical superiority proved legal wisdom.
+:31. The treaty nevertheless did not press a delete key on the entire law of the GDR.
+:32. Article 9 allowed East German law that fell within the future competence of the Länder to remain in force when it was compatible with the Basic Law, applicable federal law, directly effective European Community law, and the treaty itself.
+:33. Other provisions preserved particular rules for limited periods or adapted federal statutes to eastern conditions.
+:34. This distinction between a default and its exceptions kept administration possible during the handover.
+:35. It also reveals why the word “takeover” is both accurate and incomplete.
+:36. Federal law supplied the dominant architecture, while negotiated clauses decided where immediate uniformity would break legitimate expectations, destroy workable arrangements, or demand capacities that did not yet exist.
+:37. The nearly one-thousand-page treaty package was long because an abrupt political act had to be translated into thousands of differentiated legal transitions.
+:38. A clean break at the constitutional level thus depended on considerable messiness below it.
+:39. The mess was not merely bad drafting.
+:40. It was the legal form of time.
+:41. Consider the transfer of public institutions.
+:42. Article 13 assigned many administrative and judicial bodies to the new Länder, while bodies performing federal functions passed under the responsible federal authorities; each receiving government then had to transfer or wind them up.
+:43. The organizational shell could change hands by rule, but its personnel, files, buildings, budgets, and working knowledge could not be recreated by declaration.
+:44. West German Länder supplied judges, prosecutors, administrators, advisers, and training assistance to help establish the new structures.
+:45. That personnel transfer made rapid operation possible, yet it also carried West German habits into the places where the incoming law was interpreted for the first time.
+:46. Every practical solution taught officials how to use the new system, and every successful use made the same system easier to use again.
+:47. Learning therefore reinforced legal extension after the formal choice had been made.
+:48. The mechanism combined network effects, complementary institutions, and switching costs: the value of each adopted component rose because adjacent components had already been adopted.
+:49. Uniformity brought real benefits, including a common structure of constitutional rights, appeal, commerce, and public administration.
+:50. Those benefits were not a disguise for path dependence; they were among the returns that strengthened the path.
+:51. Nor can the result be explained by institutional mass alone.
+:52. Many East Germans had demanded democratic government and law bound by enforceable rights, and the March 1990 election gave the final Volkskammer a mandate to negotiate fast unification.
+:53. The Basic Law and the Federal Republic's courts offered tested protections that the SED state had systematically denied.
+:54. International settlement, monetary union, collapsing output, migration, and the approaching all-German election also shaped what could be attempted in the available months.
+:55. A hypothetical synthesis designed over several calm years was not among the options available at the same cost in the summer of 1990.
+:56. Path analysis becomes misleading if it treats every foregone ideal as a once-practical alternative.
+:57. The relevant comparison is among routes that actors could organize, legitimate, and implement before the conditions supporting them changed.
+:58. Even by that stricter standard, however, accession did not dictate every detail.
+:59. Negotiators retained room to protect expectations, postpone clashes, preserve selected institutions, and recognize facts that no general clause could safely erase.
+:60. The deepest test therefore lay inside the exceptions: wherever a uniform legal map met ownership histories, family rules, professional lives, or politically charged records, the old paths demanded a price for being crossed.
+:61. One such price appeared in the property claims that arrived with political freedom.
+:62. People dispossessed under the GDR demanded homes, businesses, or land now held by residents, enterprises, municipalities, or the Treuhand agency, and no general invocation of unity could make both histories of ownership prevail.
+:63. The two governments’ Joint Declaration on unresolved property questions, incorporated into the treaty, adopted restitution before compensation as the general approach for property taken by GDR authorities after 1949, while surrounding that principle with qualifications.
+:64. Restitution could be excluded when property had been put to complex residential use, substantially altered, or acquired honestly by individuals whose reliance also deserved protection.
+:65. Expropriations carried out under occupation law or occupation authority between 1945 and 1949 were not to be reversed, leaving possible equalization payments to a united legislature.
+:66. They distributed security, delay, loss, and bargaining power among former owners, current occupants, investors, and public bodies.
+:67. Land registers that had once recorded one order now became junctions at which several legal pasts competed for recognition.
+:68. The resulting disputes demonstrate why a return to an earlier title is not a return to an earlier world, since decades of construction, inheritance, public use, and personal reliance intervene.
+:69. Here the strongest path was not simply East German or West German law but the accumulated sequence of acts that neither legal system could undo without creating new injuries.
+:70. The two states entered unity with divergent rules on abortion, an issue that joined criminal law, constitutional doctrine, medical practice, and sharply opposed moral commitments.
+:71. Immediate extension of the West German rule would have produced uniformity on paper while abruptly reversing a significant part of East German practice.
+:72. The treaty instead allowed the territorially different regimes to continue temporarily and instructed the all-German legislature to seek a new settlement by the end of 1992.
+:73. It created a political interval in which a conflict could be handled by legislation rather than concealed inside a general transfer clause.
+:74. The eventual history remained contentious and required constitutional review, which confirms that postponement did not dissolve the underlying disagreement.
+:75. Yet the temporary exception matters analytically because it shows that even an overwhelmingly asymmetric unification could preserve a disputed eastern rule long enough to alter the subsequent national debate.
+:76. Influence need not take the form of keeping an institution intact; it can enter through the problem a transition is forced to reconsider.
+:77. A rule may vanish as a jurisdictional default and still change the sequence by which its successor is made.
+:78. East German citizens had occupied offices, guarded files, and demanded control over evidence that documented surveillance and repression.
+:79. When activists feared that the treaty’s original arrangement would place the files beyond adequate public control, renewed protest in September helped force a supplementary agreement.
+:80. Their handling became a distinct institutional task, later governed by federal legislation and a special federal authority.
+:81. This was no survival of the Stasi system; it was a repurposing of its material remains for access, investigation, and historical accounting.
+:82. The case marks a limit to the gravitational pull of the ready-made western state.
+:83. Organized actors could still change the terms of transfer when they possessed a legitimate claim, a concrete institutional proposal, and leverage at the moment when the settlement was not yet closed.
+:84. Path dependence constrained agency here without erasing it.
+:85. The treaty generally protected the equivalence of recognized school, vocational, and university qualifications, while public employees and judicial personnel faced rules concerning transfer, suitability, need, and involvement with the former regime.
+:86. A diploma could be recognized more readily than the authority attached to a judgeship in a system without independent courts.
+:87. Conversely, dismissing every East German jurist would have discarded local knowledge precisely when unfamiliar law had to be applied to unfamiliar facts.
+:88. The transition therefore combined examination, removal, retraining, temporary assistance, and recruitment from the West, with results that varied among professions and Länder.
+:89. This mixture carried two risks in opposite directions: preserving compromised authority and treating an entire professional biography as contamination.
+:90. Legal capacity resides in people, and people cannot be transferred, revised, or replaced with the clean modularity suggested by an organizational chart.
+:91. The distribution of expertise after 1990 consequently reinforced the adopted system while also shaping whose experience counted in its interpretation.
+:92. A common law arrived quickly, but a common professional world did not.
+:93. A comprehensive synthesis might have granted East German experience more visible authorship and preserved rules that deserved serious consideration.
+:94. It would also have required lawmakers to compare thousands of interlocking provisions, decide which precedents survived, retrain two professions rather than one, redesign forms and databases, and tell citizens which old expectations remained enforceable.
+:95. During that work, courts and agencies would still have needed rules for the disputes already before them.
+:96. The cost was therefore not only money or conservative reluctance but prolonged uncertainty in a society undergoing simultaneous constitutional, monetary, economic, and administrative transformation.
+:97. This does not absolve the process of its power imbalance.
+:98. The side whose institutions continued could define practicality through standards that its own history had created, so an eastern proposal often bore the burden of proving why the default should bend.
+:99. Time pressure amplified that advantage because mature commentaries and trained personnel could be deployed immediately, whereas a hybrid required design before it could acquire experience.
+:100. Even sensible demands for certainty thus favored the already organized system.
+:101. Power operated through clocks, staffing tables, and compatibility requirements as well as through votes and bargaining positions.
+:102. The ultimate path test of 1990 consequently yields no simple verdict for or against legal continuity.
+:103. The West German framework prevailed partly because democratic actors chose it for intelligible reasons, partly because it offered enforceable rights and operational capacity, and partly because previous investment had made every rival route more expensive.
+:104. Calling the result inevitable would erase the constitutional alternative, the negotiated exceptions, and the interventions that changed the treaty.
+:105. Calling it a neutral competition would erase the unequal size, endurance, and institutional power of the two systems.
+:106. Calling it wholesale replacement would erase the eastern laws, claims, records, qualifications, and experiences that survived in formal provisions or forced later adaptations.
+:107. The more accurate picture is a dominant transfer threaded with negotiated continuities, temporary borders, and unresolved histories.
+:108. It produced coordination quickly, but the speed of legal unity shifted much of the harder adjustment into courts, offices, workplaces, and private lives.
+:109. Every exception identified a place where uniform language could not by itself create equivalent conditions.
+:110. Every successful transition also added new training, precedent, and reliance to the united system, deepening a path that had begun as a choice.
+:111. The pattern suggests a scale for judging what could move and what resisted.
+:112. An isolated rule with few dependencies could be removed by a legislative sentence, although political neglect might preserve it for years.
+:113. A field such as family law required coordinated changes in procedure, benefits, institutions, and social expectations.
+:114. Property doctrine reached backward through titles and forward into investment, making transition dependent on millions of particular histories.
+:115. Courts and professions were deeper still because their formal powers worked only through trained judgment, organizational trust, and repeated practice.
+:116. At each deeper level, political will remained relevant but purchased less immediate change for a higher transitional cost.
+:117. That gradient explains how a state could vanish overnight while parts of its legal past remained active for decades.
+:118. It also explains how a familiar western rule, transplanted eastward, could acquire a different practical meaning among different assets, biographies, and institutional memories.
+:119. The question after unity was no longer which of two sealed systems had won.
+:120. It was how deeply each inherited arrangement was woven into the lives that the new law now had to govern.

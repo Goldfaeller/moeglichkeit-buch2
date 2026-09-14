@@ -1,0 +1,177 @@
+== 4.8 Leistung gegen Beherrschbarkeit ==
+
+:1. On April 25, 1838, the steamboat Moselle was preparing to leave Cincinnati when its boilers exploded.
+:2. The exact death toll remains uncertain, but contemporary and later estimates placed it well above one hundred.
+:3. It was one catastrophe in a long series on the Ohio, the Mississippi, and their tributaries during the first half of the nineteenth century.
+:4. Popular retellings often give these disasters a single villain: the engineer who loaded or obstructed a safety valve to wring more speed from the boat.
+:5. Such tampering did occur, especially in an industry that celebrated racing, but investigations also argued over low water, overheated metal, weak construction, poor maintenance, and inadequate operating knowledge.
+:6. A safety valve is designed to open when pressure exceeds a set level and to vent steam before the boiler ruptures.
+:7. Defeating that safeguard could be deadly, yet a working valve could not compensate for every bad boiler or every dangerous operating condition.
+:8. Higher pressure could produce more power, while a faster passage could bring a captain prestige, passengers, and freight.
+:9. Commercial pressure therefore encouraged crews and owners to press machinery hard, even though no single incentive or practice explains the era's explosions.
+:10. A federal law enacted in 1838 required inspections of hulls, boilers, and machinery, but its local inspection system lacked uniform technical standards and proved difficult to enforce.
+:11. The Steamboat Act of 1852 expanded the regime, specified safety equipment, and required the licensing of engineers and pilots.
+:12. Congress did not repeal the physics of steam; it changed the competitive rules under which boats converted pressure into speed and danger into someone else's loss.
+:13. A captain could still arrive second, but the decision to run harder was no longer governed only by the hand nearest the throttle.
+:14. This history is more useful than the neat legend precisely because it refuses to turn a complicated safety system into one bad choice.
+:15. The valve itself did not trade controllability for power, since its purpose was to make unsafe pressure less exploitable.
+:16. The consequential exchange involved speed, maintenance, cost, expertise, enforcement, and the distribution of risk.
+:17. Its terms changed when inspection, licensing, liability, and engineering knowledge changed.
+:18. Machine intelligence presents a similarly crowded problem, although its pressures are mathematical, economic, and organizational rather than thermodynamic.
+:19. Discussions of intelligent machines often compress control into a single property that a system either possesses or lacks.
+:20. In practice, manageability includes interpretability, testability, reliability, monitoring, secure access, the ability to override or roll back a system, and the organizational capacity to investigate failures.
+:21. Performance is equally plural, encompassing accuracy, speed, scope, cost, adaptability, and sometimes the ability to function with little supervision.
+:22. These qualities do not sit on one balance beam.
+:23. Some conflict in a particular design, some reinforce one another, and some appear to conflict only because one has been measured more carefully than the other.
+:24. The central question is therefore not whether power must be purchased with blindness.
+:25. It is how repeated choices about measurable performance create tools, skills, standards, and dependencies that make some later combinations of performance and control easier to reach than others.
+:26. One influential strand of artificial-intelligence research in the 1970s and 1980s tried to write expert knowledge down as explicit rules.
+:27. MYCIN, a research system developed at Stanford in the 1970s, used such rules to recommend antimicrobial therapy for serious infections.
+:28. It could also answer versions of “how” and “why” questions by listing rules involved in its reasoning.
+:29. That explanatory facility was valuable, but it did not make every aspect of the system transparent.
+:30. Researchers later noted that the rules contained implicit knowledge about diagnostic strategy that a simple rule trace did not expose.
+:31. Building and maintaining a large rule base also required experts and programmers to identify, formalize, reconcile, and update knowledge case by case.
+:32. This became known as the knowledge-acquisition bottleneck.
+:33. Rule-based systems could perform impressively inside a bounded domain and then degrade sharply when a case violated assumptions their authors had not represented.
+:34. A wrong conclusion might sometimes be traced to a particular rule, but revising that rule could alter its interaction with many others.
+:35. The old systems were more legible in one important sense, not effortlessly correctable in every sense.
+:36. Machine learning offered a different bargain by deriving patterns from examples rather than requiring a specialist to state every decision rule in advance.
+:37. In large neural networks, useful behavior can be distributed across many adjustable parameters, none of which carries the plain meaning of a MYCIN rule by itself.
+:38. That arrangement has supported capabilities in perception, language, and other messy domains that hand-built rule bases struggled to cover.
+:39. Yet the absence of a readable internal rule is not the absence of every audit trail.
+:40. A learned system can still have documented training data, version histories, test results, access logs, incident records, and reproducible deployment procedures.
+:41. Those records explain how the system was built and used, however, not necessarily why one particular output arose.
+:42. Post hoc explanation methods can reveal influential inputs or internal patterns, but their fidelity and usefulness depend on the model, the method, the audience, and the question being asked.
+:43. The phrase “interpretability” consequently hides several different needs: scientific understanding, debugging, justification to a user, legal evidence, and prediction of behavior under change.
+:44. A method that helps with one need may do little for another.
+:45. There is no proven law that every increase in predictive performance must reduce interpretability.
+:46. On some structured problems, compact and interpretable models can rival or equal more opaque alternatives.
+:47. On other problems, especially those involving high-dimensional images, sound, or language, builders may obtain better measured performance from models whose internal computation is much harder to summarize.
+:48. The trade-off is an empirical feature of a task, dataset, model family, and definition of explanation, not a tax levied by nature on intelligence itself.
+:49. Path dependence begins when one successful choice changes the next contest.
+:50. A model family that performs well attracts optimized software, specialized hardware, teaching materials, experienced workers, investment, and benchmark results.
+:51. Capability often produces a convenient number that can be scored, ranked, published, and compared with last quarter.
+:52. Manageability produces several numbers, observations, and judgments whose relevance changes with the intended use.
+:53. That asymmetry does not make manageability unreal, but it makes a simple performance gain easier to demonstrate and reward.
+:54. Funding and attention then flow toward the approach that already fits the accepted tests.
+:55. Safety research follows, because the system most likely to be deployed is also the system whose failures most urgently need to be understood.
+:56. Each new monitor, evaluation suite, interpretability tool, and operational routine can make the dominant architecture safer.
+:57. It can also deepen commitment to that architecture by adding another complementary investment that an alternative would have to replace.
+:58. This is how prudence can compound into commitment without ceasing to be prudent.
+:59. The distinction between a trade-off and a path matters here.
+:60. A trade-off exists when two valued qualities compete under present conditions.
+:61. Path dependence appears when an earlier compromise changes the cost, probability, or visibility of later compromises.
+:62. A field may face a real performance-versus-inspection problem today without being condemned to face the same frontier forever.
+:63. It may nevertheless keep improving along that frontier because its laboratories, code, chips, and assurance methods have accumulated there.
+:64. Research that probes internal representations has already recovered structures from networks once dismissed as wholly opaque.
+:65. Such findings do not amount to a complete theory of a large model, and a striking visualization is not automatically a faithful causal account.
+:66. They do show that opacity has degrees and can change with investigative tools.
+:67. Behavioral testing provides another kind of knowledge by asking what the system does across carefully varied inputs rather than trying to translate every internal operation.
+:68. Neither approach eliminates surprise outside the tested conditions.
+:69. The manageable object is therefore not just the model but the surrounding system of documentation, evaluation, monitoring, authority, and response.
+:70. Manageability is not a switch installed at the end of development.
+:71. It is a continuing organizational performance that can improve, decay, or become dependent on particular people and interfaces.
+:72. Speed creates a different pressure on that performance.
+:73. Much of automation's value comes from completing a task faster or at a scale that case-by-case human review cannot match.
+:74. Once a system operates below the timescale of human attention, oversight cannot remain an attentive person reading every result before the next action.
+:75. It must move elsewhere in the sequence, into limits set beforehand, automatic monitors during operation, sampled review afterward, or procedures that stop and recover from anomalies.
+:76. The change is consequential, but it does not simply remove human judgment.
+:77. It relocates judgment into the design of thresholds, tests, escalation rules, and institutional responsibilities.
+:78. United States financial markets exposed the difficulty on May 6, 2010.
+:79. During the event later called the Flash Crash, the S&P 500 fell about five percent in roughly five minutes and recovered within about ten minutes.
+:80. A joint regulatory investigation did not find one rogue machine that single-handedly caused the episode.
+:81. It described a large automated sell order entering an already unsettled market, high-speed interactions among trading strategies, withdrawal of liquidity, and rapid propagation across linked markets.
+:82. The systems moved faster than people could reconstruct what was happening across the venues.
+:83. Regulators and exchanges responded first with pilot trading pauses for individual stocks and later with a more systematic limit-up-limit-down mechanism.
+:84. These were automated guardrails, but installing them did not mean abandoning human judgment for another unchecked machine.
+:85. People debated, specified, monitored, and revised the rules by which the automatic intervention would occur.
+:86. The guardrails also became another layer of market infrastructure with failure modes, interactions, and maintenance demands of its own.
+:87. Oversight was preserved by changing form, and that new form created a further path that later reforms had to take into account.
+:88. Generality creates a related but distinct problem.
+:89. Reliability claims become strongest when a system has a specified purpose, known operating conditions, and tests that represent those conditions well.
+:90. A narrowly defined controller can be challenged repeatedly near the edges of its intended operating range.
+:91. A general-purpose model does not literally have no envelope, because organizations can still restrict its inputs, tools, users, and permissible actions.
+:92. Its possible contexts of use are nevertheless harder to enumerate than those of a machine built for one task in one setting.
+:93. Capability is measured on cases someone selected, while reliability is experienced across the cases an actual environment supplies.
+:94. The environment does not consult the test set.
+:95. A system that invites many uses will encounter combinations its builders did not anticipate, so broad capability can outrun the evidence supporting any particular assurance claim.
+:96. That does not make generality equivalent to unreliability.
+:97. The same broad training that permits unexpected uses may also provide robust background competence that a narrow system lacks.
+:98. Tools, retrieval systems, verification steps, and task-specific wrappers can turn a general component into a more bounded application.
+:99. Those additions may improve performance and reliability together, although they also create more components whose interactions must be tested.
+:100. The real compromise concerns the breadth of promised use, the strength of evidence, and the cost of maintaining safeguards across contexts.
+:101. Openness and control are often placed on another misleading single axis.
+:102. A system can disclose research papers, source code, model weights, training details, test results, or an application interface, and these are different kinds of access.
+:103. Wider access can enable independent inspection, replication, adaptation, and continued use after the original developer leaves.
+:104. It can also make capable artifacts difficult to recall once copies have spread.
+:105. A centrally operated service may be patched, rate-limited, or withdrawn quickly.
+:106. The same arrangement can conceal evidence, concentrate decision power, and make downstream users dependent on a provider they cannot replace easily.
+:107. Closed access does not guarantee containment, just as published code does not guarantee that anyone has the resources or expertise to inspect it.
+:108. Large files of parameters can be available to everyone and intelligible to no one in the sense a physician could read a MYCIN rule.
+:109. Access can also be layered through documentation, controlled research access, licensing, sandboxes, or delayed release rather than reduced to open or closed.
+:110. Genuine tensions remain between distributed scrutiny and centralized correctability, but no single release label settles them.
+:111. The governance and distribution chosen early become part of the technical path.
+:112. Applications adopt an interface, researchers build tools around the accessible artifact, and organizations write procedures for the risks they can observe.
+:113. Changing the access model later can break those procedures or strand the complementary investments behind them.
+:114. An open standard may reduce dependence on one supplier while a popular open implementation becomes a de facto standard with its own compatibility costs.
+:115. A useful lock-in can support scrutiny, continuity, and shared defensive knowledge even as it narrows the routes by which the system can later be replaced.
+:116. The pull toward the well-trodden path is itself, in the short run, a safety strategy.
+:117. A builder choosing among approaches has excellent reasons to prefer the mature one: its failure modes are better cataloged, its tools have been tested by many hands, and its behavior under stress is more familiar.
+:118. Choosing an unusual approach may mean discovering its weaknesses personally, in production, in front of users.
+:119. The conservative, risk-averse engineer and the incurious follower of fashion can therefore make the same choice for entirely different reasons.
+:120. Procurement rules, interoperability requirements, professional training, and certification practices often reinforce it further.
+:121. Not every precaution drives a field deeper into one architecture, because modular interfaces, independent tests, and portable records can preserve room for alternatives.
+:122. Yet many safeguards are architecture-specific.
+:123. A monitor may rely on particular internal signals, an audit tool on one data format, and a response team on years of experience with one family of failures.
+:124. An alternative must then replace not only the model's performance but the assurance ecosystem that has grown around it.
+:125. Accumulated safety knowledge becomes an installed base.
+:126. That is a productive lock-in when it prevents known failures and makes competent operation routine.
+:127. It becomes constraining when unfamiliar risks are ignored simply because the organization lacks instruments for seeing them in another architecture.
+:128. The strength of the lock-in is not fixed, since new interfaces, external shocks, or a decisive performance difference can make the cost of switching worth paying.
+:129. Commitment acquires a second edge when other systems adapt to the behavior of the first.
+:130. Downstream users may depend on intended outputs, undocumented quirks, timing, error formats, or thresholds that were never promised as permanent.
+:131. Correcting a flaw can then break the accommodations built around it.
+:132. Versioning and backward compatibility protect users from abrupt disruption, but they also preserve old assumptions inside new releases.
+:133. Wrappers and translation layers can postpone a disruptive change while adding another layer that future maintainers must understand.
+:134. Manageability now depends less on finding one faulty parameter than on coordinating a change across an ecosystem.
+:135. The path is stored in interfaces, contracts, test suites, staff skills, fallback procedures, and ordinary routines as much as in the model itself.
+:136. The Year 2000 problem remains a clear example of such entanglement outside artificial intelligence.
+:137. For decades, many computer systems represented a calendar year with two digits.
+:138. Limited storage and older data formats helped make that convention attractive, though it was never universal and the century problem was not unforeseeable.
+:139. As long as programs interpreted dates correctly within the expected period, replacing the convention brought little immediate reward.
+:140. The code then outlived its original planning horizons, connected to other systems, and became important in operations its authors could not have mapped in advance.
+:141. By the late 1990s, changing date logic required inventories, repairs, tests, contingency plans, and coordination across organizations and borders.
+:142. Estimates of worldwide remediation costs varied widely, but they commonly ran into the hundreds of billions of dollars.
+:143. The relatively uneventful rollover did not prove that the dependency had been imaginary, since prevention is designed to erase the event that would demonstrate its value.
+:144. The correction had been technically mundane for years before it became institutionally urgent and expensive.
+:145. This is the timing asymmetry at the heart of many technological safeguards.
+:146. A safeguard is often cheapest to install when a system is small, unproven, and not yet widely depended upon, which is also when the case for the expense sounds most theoretical.
+:147. It becomes easier to justify after the system is large, entangled, and relied upon, which is when installing it disturbs the greatest number of complements.
+:148. There may be no clean interval in which the need is obvious, the design is settled, and the change remains cheap.
+:149. Compatibility creates real value throughout this process by keeping equipment, data, and skills usable.
+:150. The same value raises switching costs, so continuity can be both a public benefit and a brake on redesign.
+:151. Competitive pressure narrows the window further, and here the riverboats return in a more careful form.
+:152. Whoever pauses to verify may incur an immediate, visible cost, while the accident prevented by that pause leaves no entry in a ledger.
+:153. Caution that works produces an absence.
+:154. Performance gains, by contrast, often arrive as rankings, revenue, throughput, or deadlines met.
+:155. This difference in visibility can reward organizations for improving what is easy to count while treating operational knowledge, fallback capacity, and uneventful reliability as overhead.
+:156. The structure resembles the nineteenth-century contest for passengers, but the similarity lies in incentives rather than in a literal valve on an intelligent machine.
+:157. Federal steamboat regulation changed those incentives by making inspection and professional qualification shared conditions of competition.
+:158. Technical standards, procurement requirements, and common evaluation practices can likewise alter which investments pay off, although they may also stabilize another path.
+:159. Safety need not remain a deduction from performance.
+:160. Better logs can accelerate debugging, modular components can limit the spread of failures, and reliable rollback can make experimentation less costly.
+:161. These capacities demand time and resources at first, yet they can become cumulative productive assets rather than permanent burdens.
+:162. Redundancy, portable records, open interfaces, and retained human skill may appear inefficient when everything works, but they preserve neighboring routes when a component must change.
+:163. Maximum short-term optimization tends to remove precisely such slack because its value lies in futures that have not happened.
+:164. Preserving it is not free, and there is no universal amount that every system should carry.
+:165. The relevant exchange rate depends on the harm a failure can cause, the speed of operation, the reversibility of an action, the maturity of the technology, and the alternatives actually available.
+:166. Naming those dimensions is more informative than declaring one side of “performance versus control” correct.
+:167. The deepest mistake is to treat a present compromise as either a law of nature or an isolated decision.
+:168. It may be a genuine trade-off under today's conditions and still be the accumulated product of yesterday's benchmarks, architectures, interfaces, and investments.
+:169. Those earlier choices do not dictate the next step, but they change which steps are affordable, credible, and even visible.
+:170. A steamboat engineer could at least see the lever, read the pressure gauge, and know that the boiler had limits.
+:171. The modern equivalent is distributed across a supply chain, a research culture, an evaluation regime, a software stack, and a competitive schedule.
+:172. No single person stands beside all of those gauges.
+:173. Manageability resides in the records that reveal change, the interfaces that permit replacement, the monitors that detect drift, the routines that contain failure, and the authority and skill to pause a system without losing the work built around it.
+:174. These are not decorations added to a powerful machine but historical assets that determine what can still be done when its behavior no longer fits its world.
+:175. A system remains manageable only while its path preserves the practical ability to notice, interrupt, repair, and change it.

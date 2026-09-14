@@ -1,0 +1,182 @@
+== 4.1 Die Architektur, die alles bestimmte ==
+
+:1. There is a diagram that almost anyone entering modern machine learning will encounter early.
+:2. It is not much to look at.
+:3. Two columns of rectangles stand on top of one another, arrows run upward, a few loops return to the side, and half a dozen labels sit in small type.
+:4. First published in 2017, versions of that diagram now appear in papers, lectures, software documentation, and classrooms around the world.
+:5. It describes an arrangement of mathematical operations for processing sequences, and the arrangement is called a transformer.
+:6. Transformer components now sit inside many influential systems for language, images, audio, and scientific data.
+:7. They often appear in modified or hybrid form, which already complicates the idea that one unchanging architecture conquered every domain.
+:8. Convolutional networks, recurrent models, graph networks, state-space models, and systems built around explicit rules have not vanished.
+:9. The title of this chapter is therefore a deliberate exaggeration.
+:10. The transformer did not determine everything, but it changed which experiments became easy to run, which results became easy to compare, and which research programs became easy to finance.
+:11. That difference matters because an architecture does more than map inputs to outputs.
+:12. Once widely adopted, it gathers software, hardware, trained specialists, benchmarks, and investment around itself.
+:13. Those complements improve the architecture while also raising the cost of departing from it.
+:14. There are two tempting explanations for its spread, and the tension between them reveals why technical success and historical accumulation are so difficult to separate.
+:15. The first is that the arrangement captures useful and unusually general relationships in structured data.
+:16. The second is that it became dominant because more and more people learned how to build, run, measure, and pay for it.
+:17. Neither explanation can be dismissed, and the most defensible account includes both.
+:18. Technical merit helped create the path, while the path helped magnify the returns to technical merit.
+:19. Before 2017, many leading systems for translating or otherwise transforming sequences relied on recurrent or convolutional neural networks.
+:20. A recurrent network processes a sequence by carrying a numerical state from one position to the next.
+:21. Each update depends on the state produced at the preceding step, so the steps along a sequence cannot all be computed simultaneously during training.
+:22. The model may perform many operations within a step and process many examples at once, but the chain of states still creates a serial dependency.
+:23. Long short-term memory networks, introduced by Sepp Hochreiter and Jürgen Schmidhuber in 1997, used gates and a protected error path to make long-range learning more tractable.
+:24. Later variants became important in translation, speech recognition, language modeling, and other sequence tasks.
+:25. They worked well, and their success created its own stock of code, expertise, and compatible methods.
+:26. Their serial structure nevertheless limited how fully training could exploit machines designed for parallel arithmetic.
+:27. That limitation did not arise from language itself.
+:28. It arose from the chosen computational representation of language.
+:29. At the same time, graphics processors were becoming central to machine learning.
+:30. Developed for highly parallel image calculations and increasingly used for general-purpose computing, these processors were especially effective at large blocks of matrix arithmetic.
+:31. They could perform many similar operations together, provided the computation exposed enough independent work.
+:32. Recurrent models and parallel processors were not incompatible, but their strengths did not line up perfectly.
+:33. The mismatch was one important constraint on training speed, though hardly the only obstacle facing the field.
+:34. In 2017 eight researchers at Google published a paper titled “Attention Is All You Need.”
+:35. Attention mechanisms already allowed a model to assign different weights to different parts of an input rather than compressing everything into one running summary.
+:36. The new architecture moved attention to the center and removed recurrence and convolution from its main sequence-processing blocks.
+:37. In a transformer encoder, representations of all input positions can be processed together.
+:38. Each position is projected into numerical objects conventionally called a query, a key, and a value.
+:39. The compatibility between queries and keys produces weights that determine how values are combined.
+:40. Several attention heads can learn different patterns of relationship in parallel.
+:41. Because attention by itself does not know whether a token came first or last, information about position must be supplied separately.
+:42. The original paper used positional encodings added to the input representations.
+:43. This design made training much more parallelizable than training a recurrent network along the sequence dimension.
+:44. It did not abolish sequence.
+:45. Autoregressive transformer decoders still generate one token after another at inference time, unless a different generation scheme is used.
+:46. Nor did the design make computation free.
+:47. Full self-attention forms interactions among every pair of positions, so its time and memory demands grow quadratically with sequence length in the standard formulation.
+:48. Doubling a long input can therefore make the attention calculation roughly four times as large.
+:49. That is a serious disadvantage for long sequences, but it is not proof that the whole design is theoretically worse.
+:50. Direct global interaction between positions can shorten the path through which distant information must travel inside a network.
+:51. The architecture traded one kind of difficulty for another, and the new trade fit the available accelerators unusually well.
+:52. The original paper reported strong results on two machine-translation tasks and emphasized greater parallelism and substantially shorter training time than the recurrent and convolutional systems it compared against.
+:53. It also tested the model on English constituency parsing, but it did not claim to have found a universal blueprint for intelligence.
+:54. The paper was a focused technical contribution, not a declaration that an entire discipline had reached its final form.
+:55. What followed depended on more than the paper alone.
+:56. Researchers adapted transformer ideas to language pretraining, vision, speech, protein structure, and other domains, often changing the architecture to match the problem.
+:57. Some adaptations succeeded because attention could flexibly connect distant or otherwise related elements.
+:58. Others succeeded because the same computational primitives could be reused across large data sets and powerful accelerators.
+:59. These are related advantages, but they are not the same advantage.
+:60. One concerns what the model can represent, while the other concerns how efficiently an institution can develop and operate it.
+:61. Empirical studies of transformer language models then found regular scaling relationships under specified training conditions.
+:62. Average prediction loss often fell approximately as a power law when researchers increased model size, data, and computation in coordinated ways.
+:63. These scaling laws describe measured regimes, not laws of nature and not guarantees that every desirable capability improves smoothly.
+:64. They also involve diminishing returns, data quality, and choices about how a fixed computing budget is divided between parameters and training examples.
+:65. More spending did not automatically buy wisdom, reliability, or suitability for every task.
+:66. It did make improvement on important training and evaluation measures predictable enough to support large investments.
+:67. The architecture consequently became more than a research choice.
+:68. It became a platform around which laboratories and companies could organize long projects.
+:69. Software libraries implemented transformer blocks, and later versions made those blocks faster, easier to distribute, and less expensive to run.
+:70. Compiler teams and kernel specialists tuned the innermost arithmetic to particular accelerators and memory systems.
+:71. Chip designers, meanwhile, improved matrix engines, numerical formats, memory bandwidth, and interconnects for a broad range of machine-learning workloads that included transformers.
+:72. It would be too simple to say that the transformer created all of this hardware, since specialized matrix hardware and deep-learning accelerators were already developing alongside it.
+:73. The more precise claim is reciprocal.
+:74. The architecture benefited from an existing trajectory in parallel computation, and its growing workloads gave hardware and software developers stronger reasons to optimize that trajectory further.
+:75. Each turn of this loop improved the pairing.
+:76. Success attracted complementary investment, and complementary investment increased the probability of further success.
+:77. The arrangement also entered the curriculum.
+:78. It is taught in courses, explained in tutorials, implemented in exercises, and assumed by many hiring processes.
+:79. Practitioners acquire intuitions about memory limits, optimization failures, and useful modifications by working repeatedly with the same family of designs.
+:80. Those skills are real productive assets, not mere habits.
+:81. Large pretrained models and reusable checkpoints further lower the cost of beginning a project within the established family.
+:82. A researcher can adapt an existing model instead of assembling every capability from the beginning.
+:83. Common benchmarks and reporting conventions make results easier to compare across laboratories.
+:84. Shared tools, trained people, reusable models, and common measures together make cumulative research possible at extraordinary speed.
+:85. This is the useful side of lock-in.
+:86. Stability prevents every project from paying the full cost of reinvention.
+:87. The same stability creates switching costs because an alternative must replace not only a model but also some portion of the surrounding system.
+:88. That is where ordinary continuity becomes path dependence.
+:89. The architecture has a history merely because it was invented in the past.
+:90. It becomes path-dependent when the sequence of adoption and investment changes the cost, visibility, or probability of later research choices.
+:91. Early performance attracts users, users justify tooling, tooling improves performance, and improved performance attracts more users.
+:92. The loop does not make alternatives physically impossible.
+:93. It makes some alternatives cheaper to test and others more expensive even to formulate in comparable terms.
+:94. The clearest way to see the effect is to imagine proposing a fundamentally different architecture.
+:95. Suppose the idea is genuinely promising, although no one can know in advance whether it is better overall.
+:96. To establish its value, you must build it and compare it with a strong incumbent.
+:97. The incumbent arrives with mature libraries, optimized kernels, established training procedures, trained models, diagnostic tools, and baselines familiar to reviewers.
+:98. Your first implementation may arrive with a small team, limited computing time, and bugs that the incumbent's community eliminated years ago.
+:99. You are not yet comparing two equally developed ideas.
+:100. You are comparing an idea with an ecosystem.
+:101. This does not guarantee that the challenger will lose.
+:102. It does mean that early experimental results mix architectural quality with unequal engineering maturity.
+:103. A weak result can therefore show that an approach is weak, that its implementation is immature, that its training recipe is unsuitable, or some combination of the three.
+:104. Reviewers who demand competitive baselines are not behaving irrationally.
+:105. Their standards protect the literature from claims supported only by easy comparisons.
+:106. A laboratory director who declines an uncertain multiyear project may be protecting students whose careers depend on timely results.
+:107. A graduate student who chooses a modification of a proven model over a radical replacement may be responding sensibly to scarce time and computing access.
+:108. Funders may prefer a project whose milestones can be stated in the field's established units.
+:109. Every individual decision can be defensible while their aggregate narrows the region of the possibility space that receives sustained exploration.
+:110. This is not evidence that the community has ceased exploring.
+:111. Researchers continue to develop recurrent networks, convolutions, graph methods, explicit reasoning systems, state-space models, and mixtures of several approaches.
+:112. Their existence is an important counterexample to any claim of complete lock-in.
+:113. The way some alternatives become competitive nevertheless reveals the inherited constraints.
+:114. Structured state-space models, for example, revive the idea of carrying a state through a sequence while reformulating the computation for efficient training on parallel hardware.
+:115. The S4 architecture showed that a carefully structured state-space system could be evaluated efficiently as a convolution and used recurrently for generation.
+:116. Later selective state-space designs introduced input-dependent updates and hardware-aware parallel algorithms.
+:117. These systems are not simple returns to the recurrent networks that transformers displaced.
+:118. They are new constructions designed in a world whose accelerators, software stacks, data pipelines, and benchmarks were heavily shaped by deep learning at scale.
+:119. Even an escape route can pass through part of the constraint.
+:120. Alternatives that reuse tensor libraries, automatic differentiation, accelerator clusters, standard data sets, and familiar evaluation procedures face lower entry costs.
+:121. Hybrid models lower those costs further by replacing only selected components rather than the whole stack.
+:122. Such changes can be technically substantial even when the resulting system retains the transformer label.
+:123. The label therefore hides variation as well as enforcing continuity.
+:124. Modular blocks allow attention, recurrence, convolution, routing, or external memory to be combined without discarding every complementary investment.
+:125. This capacity for internal modification makes the established family more evolvable than a rigid standard would be.
+:126. It also directs innovation toward changes that fit the established interfaces.
+:127. Approaches requiring different hardware, different data representations, different training objectives, and different measures must cross several barriers at once.
+:128. The surrounding apparatus reaches into evaluation itself.
+:129. Many optimization methods, initialization practices, numerical formats, and debugging techniques have been refined alongside transformer systems.
+:130. Benchmarks used by the field often test tasks on which transformer baselines are already extensively tuned.
+:131. A challenger assessed with those instruments may face a meaningful test, but not a neutral test of architecture alone.
+:132. A fair comparison would require comparable data, computing budgets, engineering effort, and opportunities to learn from failure.
+:133. Even equal raw computation would not erase the incumbent's accumulated knowledge.
+:134. Changing the benchmark could reduce one bias while introducing another, because no measure captures every use or every trade-off.
+:135. Rigorous comparison is indispensable, yet the conventions that make comparison rigorous can still embody a historical path.
+:136. That is why the constraint is easy to miss.
+:137. It often feels like ordinary competence.
+:138. The strongest rival explanation remains straightforward: perhaps transformers dominate because, for many important tasks, they really are the best architecture so far developed.
+:139. Their empirical record gives that explanation substantial weight.
+:140. Path dependence does not deny technical merit, and dominance is not evidence of inferiority.
+:141. It asks a different causal question about how merit and accumulated advantage interact.
+:142. A strong design can become stronger through learning effects, scale, compatibility, and stable expectations.
+:143. Once that happens, observed dominance no longer measures the original design in isolation.
+:144. It measures the design plus the history built around it.
+:145. The romantic opposite is equally mistaken.
+:146. An underfunded alternative is not secretly superior merely because it lost, and keeping every possible approach alive would consume money, talent, and time that could be used elsewhere.
+:147. The evidential problem is narrower: uneven development leaves some comparisons unresolved.
+:148. Biologists have a term that suggests a useful analogy for such deep architectural commitments.
+:149. A body plan is a basic organization established early in the history of an animal lineage and reused in its descendants.
+:150. Whales, bats, horses, and humans have transformed homologous forelimb bones for very different functions while retaining the tetrapod pattern they inherited.
+:151. Changes to deeply integrated developmental systems can affect many traits at once, so viable variation is often easier within the inherited organization than across it.
+:152. This does not mean that evolution literally chose a blueprint or that every feature of a lineage was fixed at its origin.
+:153. Body plans themselves evolved, developmental systems retain flexibility, and the comparison should not be pushed beyond its explanatory purpose.
+:154. The useful parallel lies in dependency.
+:155. A design adopted while a surrounding system is small permits enormous variation above it, while change at the shared foundation becomes costly as more components assume the old arrangement.
+:156. The analogy then breaks at a crucial point.
+:157. An animal lineage cannot inspect its own developmental history, publish an alternative, or coordinate a planned migration.
+:158. A machine-learning architecture is written down, discussed openly, and implemented by people capable of changing it.
+:159. No physical law prevents a laboratory from building something different.
+:160. The weight holding an incumbent in place consists of compatible tools, sunk investments, acquired skills, organizational routines, performance records, and expectations about what others will support.
+:161. Within real budgets and institutions, that weight can be highly binding, but it is not equivalent to biological irreversibility.
+:162. People can fund parallel lines of research, design translation layers, preserve data in portable forms, or replace a system gradually.
+:163. New hardware, new applications, or a serious failure of the incumbent can also alter the relative costs.
+:164. Lock-in is therefore a matter of degree, not a sentence of permanence.
+:165. None of this amounts to a claim that the transformer is bad.
+:166. It has proved capable of far more than the original machine-translation experiments demonstrated.
+:167. The argument would still matter if the transformer were the best general architecture currently available, because present merit and future evolvability are different properties.
+:168. Nor does the argument establish that a neglected alternative would have produced better systems.
+:169. It establishes that dominance alone cannot settle either question.
+:170. Knowing how good an architecture is in isolation would require sustained comparisons among designs given enough support to mature.
+:171. Such comparisons are expensive, and not every speculative approach deserves equal investment.
+:172. Yet options that are allowed to lose their tools, practitioners, and evaluative vocabulary cannot be summoned instantly when conditions change.
+:173. The possibility space may still contain them in theory while no practical path reaches them at acceptable cost.
+:174. Successful architectures thicken their surrounding apparatus fastest precisely when changing course seems least urgent.
+:175. That process can close some routes, but it can also create modules, skills, and computational capacity from which unexpected routes later open.
+:176. Path dependence is not only a story of foreclosure.
+:177. It is also a story of how one working solution builds the platform from which the next departure must begin.
+:178. Eight authors in 2017 presented a faster and more parallelizable approach to machine translation.
+:179. They did not alone choose the blueprint for a generation of technology, because that blueprint accumulated through thousands of later experiments, investments, adaptations, and reasonable decisions.
+:180. The boxes in the famous diagram show the computation, but the dependencies that now give the diagram its weight lie mostly outside the frame.

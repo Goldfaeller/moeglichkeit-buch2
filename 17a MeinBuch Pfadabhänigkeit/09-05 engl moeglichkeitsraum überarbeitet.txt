@@ -1,0 +1,122 @@
+== 9.5 Warum Auslese Lock-ins nicht beseitigt ==
+
+:1. On September 7, 1940, Hawker Hurricane R4118 arrived with Number 605 Squadron at Croydon, close to the most heavily contested airspace of the Battle of Britain.
+:2. Over the next six weeks, the fighter flew forty-nine operational sorties under eleven different pilots.
+:3. German fighters damaged it on October 22, yet it was repaired and returned to the larger wartime inventory rather than written off as yesterday's machine.
+:4. Its service record turns an abstract problem of military selection into a stubborn material fact.
+:5. The Hurricane was designed around familiar construction methods, with a tubular metal frame and fabric covering much of the fuselage.
+:6. That structure lacked the aerodynamic refinement of a fully stressed metal skin, but it tolerated damage and could be repaired comparatively easily.
+:7. When Britain declared war in September 1939, roughly five hundred Hurricanes were already in service.
+:8. During the Battle of Britain, the type equipped thirty-two fighter squadrons and bore a large share of the fighting.
+:9. The Supermarine Spitfire was faster and more advanced in construction, and after 1940 it gradually replaced the Hurricane as Fighter Command's principal fighter.
+:10. Its sophisticated stressed-skin wings, however, demanded scarce precision skills and initially proved difficult to manufacture in volume.
+:11. The summer of 1940 was therefore not a laboratory contest in which two blueprints waited for a judge to select the better one.
+:12. Britain fought with aircraft that factories could deliver, squadrons could operate, mechanics could restore, and a command system could direct before the immediate danger passed.
+:13. The Hurricane's earlier start had created stocks, practiced workers, trained crews, repair routines, and confidence grounded in use.
+:14. Those inheritances did not make it superior in every dimension, and they did not guarantee it a permanent place.
+:15. They made it valuable at a particular time because military capability is produced by a system, not by a specification sheet.
+:16. An aircraft that could be repaired tonight might matter more tomorrow than one with better performance that a strained factory could deliver only months later.
+:17. War certainly applies selection pressure, often with a speed and severity that civilian organizations never experience.
+:18. Equipment that fails in combat can cost lives within minutes, while tactics that fail may destroy a unit before a committee could finish studying them.
+:19. Yet harsh feedback does not arrive at a factory as an instantly executable design.
+:20. Reports must be gathered, causes separated, requirements revised, prototypes built, tests completed, tooling changed, suppliers synchronized, crews instructed, and machines transported to the place where they are needed.
+:21. Each stage consumes time, and several stages require resources taken from the system already producing usable equipment.
+:22. A superior design that arrives after the campaign has ended is not superior in the only comparison that mattered to that campaign.
+:23. This delay separates battlefield selection from the clean image of inferior objects being swept away as soon as their defects appear.
+:24. The pressure is immediate, but the response has a pipeline.
+:25. What enters that pipeline is also uncertain because combat supplies noisy evidence.
+:26. A weapon may fail because of its design, poor maintenance, unsuitable tactics, inexperienced crews, bad terrain, deficient intelligence, or an enemy advantage elsewhere in the system.
+:27. Victory is equally ambiguous, since an adequate machine used in great numbers may prevail even while exposing serious defects.
+:28. Survival therefore proves that a system remained viable under the conditions it encountered, not that engineers had reached the best imaginable solution.
+:29. Production adds its own memory to this delay.
+:30. Workers and managers learn where parts bind, which tolerances cause trouble, how tasks should be sequenced, and which suppliers can meet a deadline.
+:31. Economists call this learning by doing because the knowledge accumulates through repeated production rather than arriving complete with the drawings.
+:32. Changing designs can preserve some of that knowledge, but a major change may demand new jigs, gauges, machine tools, materials, subcontractors, and inspection routines.
+:33. Output often falls just when the need for equipment is greatest.
+:34. The old line consequently possesses a real present advantage even if the new design promises better future performance.
+:35. This is not merely an excuse based on money already spent.
+:36. Past expenditure that cannot be recovered is a sunk cost and, by itself, should not govern the next decision.
+:37. Existing aircraft, trained mechanics, compatible ammunition, proven spare parts, and a factory producing dependable machines are different because they can still generate future capability.
+:38. The relevant comparison is therefore between two streams of future consequences: continued output with known limitations and disrupted output followed, perhaps, by a stronger replacement.
+:39. Earlier choices have altered the size, timing, and risk of those streams.
+:40. That is the path-dependent mechanism.
+:41. The mechanism becomes a lock-in when the surrounding commitments make an alternative prohibitively costly or slow even after its advantages are recognized.
+:42. Military lock-ins are rarely absolute, because parts can be modified, roles reassigned, production shared, and new systems introduced alongside old ones.
+:43. They are better understood as steep transition gradients across which an organization must carry combat power without dropping it.
+:44. The United States Army confronted such a gradient with the M4 Sherman tank.
+:45. The Sherman had been a strong combination of mobility, reliability, firepower, and manufacturability when it entered combat in North Africa.
+:46. As heavier German tanks appeared, its armor and gun became increasingly inadequate in direct encounters.
+:47. By August 1943, the United States Army's Ordnance Department was warning that the Sherman was becoming more obsolescent and urging production preparations for better-armed and better-armored tanks in the T20 series.
+:48. In November, the European theater commander, Lieutenant General Jacob Devers, pressed for priority development of the T26 with a ninety-millimeter gun.
+:49. These proposals show that the problem was seen before American troops met Panthers in large numbers in France.
+:50. They also show why the later outcome cannot be reduced to ignorant commanders refusing to notice technical change.
+:51. Army Ground Forces worried that a heavy tank conflicted with prevailing doctrine, while planners also faced shipping limits, production schedules, uncertain requirements, and immature designs.
+:52. Different parts of the organization were selecting for different risks.
+:53. Ordnance emphasized the danger of technological inferiority, field commanders needed timely combat power, and production authorities had to translate either preference into thousands of standardized objects.
+:54. The choice was not between a Sherman already on the battlefield and a perfected replacement already beside it.
+:55. It was between a functioning industrial and military network and a projected network whose components would mature at different speeds.
+:56. Official wartime histories record that even spare industrial capacity could not raise output of particular tank models overnight when designs changed and factories had to retool.
+:57. By 1944 the Sherman retained genuine strengths, notably reliability and operational range, while its weaker gun and protection imposed grave costs on crews facing heavier German armor.
+:58. Numbers could create tactical opportunities, but they could not make those individual costs unreal.
+:59. Calling the Sherman simply obsolete would miss the support system that kept it moving, while calling its continued use optimal would erase the alternatives and warnings already under debate.
+:60. The harder question was how much present combat power could be surrendered to build a stronger force for battles that had not yet begun.
+:61. No formula could settle that question, because the answer depended on the expected length of the war, the rate of losses, the maturity of the replacement, and the battles planners believed lay ahead.
+:62. The historical outcome reveals the cost of delay more clearly than it reveals the one correct decision.
+:63. The American Army did not freeze the Sherman in its original form while waiting for an entirely new tank.
+:64. It fitted some Shermans with a higher-velocity seventy-six-millimeter gun, improved ammunition, altered suspensions and tracks, and adapted tactics to reduce disadvantages that could not quickly be engineered away.
+:65. High-velocity armor-piercing ammunition increased the chance of defeating heavy German armor, but tungsten scarcity kept the most effective rounds in short supply.
+:66. Crews also used smoke, maneuver, artillery, tank destroyers, and air support, none of which converted a weak frontal shot into a strong one but all of which changed the encounter the tank had to survive.
+:67. Such measures exploited compatibility with the existing fleet and bought capability sooner than wholesale replacement could.
+:68. They also transferred risk back to crews when an incremental improvement remained unequal to the threat.
+:69. The T26, standardized as the M26 Pershing, finally reached combat in the closing months of the European war.
+:70. Its first shipment comprised only twenty tanks, assigned to two armored divisions, and these vehicles first entered action on February 23, 1945.
+:71. By mid-April, official records counted 185 Pershings in the theater, with 110 issued to armored divisions.
+:72. That was enough to demonstrate a substantial improvement, but far too late and too few to replace the Sherman fleet before victory in Europe.
+:73. The transition was therefore possible, just not on the timetable that earlier choices and wartime urgency had made decisive.
+:74. An earlier commitment to the heavier tank might have brought more of them into battle sooner, but it would also have encountered unresolved design, production, transport, and training problems.
+:75. The counterfactual cannot be converted into a clean ledger of tanks gained without tanks forgone.
+:76. The decisive asymmetry was temporal: the M4's weaknesses were present, while many benefits of replacement existed only as forecasts.
+:77. Doctrine offers a serious rival explanation for the delay.
+:78. Army Ground Forces expected tanks chiefly to exploit breakthroughs and assigned much of the task of defeating enemy armor to tank destroyers.
+:79. Within that conception, the Sherman's mobility and reliability looked more valuable, and the case for greater weight and armor looked less decisive, than it did to crews confronting Panthers.
+:80. Shipping capacity, bridges, recovery vehicles, and maintenance equipment further favored limits on size and weight for reasons that were functional rather than merely historical.
+:81. Information from combat also traveled unevenly, and different theaters presented different mixtures of terrain, missions, and enemy equipment.
+:82. These considerations could have supported the same choice even without deep investment in the M4.
+:83. A path-dependent account must therefore supplement explanations based on doctrine, information, and operational trade-offs, not swallow them.
+:84. The test is whether previous commitments changed the cost or probability of adopting an otherwise feasible alternative.
+:85. In the Sherman case they plainly did, because factories, suppliers, shipping plans, depots, training programs, and field organizations had been scaled around the existing family.
+:86. That finding still leaves room to conclude that officials misjudged the balance, acted reasonably under uncertainty, or did some of both at different moments.
+:87. Selection in war does not rank weapons one by one and preserve only the champion.
+:88. It acts on forces whose readiness is distributed across machines, crews, supply chains, communications, doctrine, terrain, and time.
+:89. A reliable tank of moderate performance may provide more usable fighting hours than a formidable tank that is frequently immobilized or difficult to recover.
+:90. Conversely, availability cannot compensate indefinitely for a machine that cannot accomplish its assigned task without unacceptable loss.
+:91. Even the evidence left after battle is filtered because recoverable equipment returns to the records while destroyed machines, abandoned workshops, and defeated organizations may leave thinner traces.
+:92. Quantity matters only after each unit clears a threshold of usefulness, and quality matters only when it can be delivered, sustained, and employed at relevant scale.
+:93. This is why the Hurricane's repairability was consequential in 1940 rather than a sentimental virtue of an old design.
+:94. Had the aircraft been too slow to intercept its targets or incompatible with Fighter Command's control system, a warehouse full of spares would merely have sustained irrelevance.
+:95. Military history contains many types that disappeared because their accumulated support could no longer purchase adequate performance.
+:96. The Spitfire's gradual replacement of the Hurricane in Fighter Command after 1940 is itself evidence that an established path can lose its advantage when the alternative's production and operating system mature.
+:97. Selection did not abolish the old commitment instantly, but neither did commitment defeat selection forever.
+:98. The balance shifted as factories delivered more aircraft, technicians gained experience, and the relative value of performance and easy repair changed with missions and opponents.
+:99. Another route around lock-in is to alter a system without discarding its entire productive ancestry.
+:100. The Soviet Union kept the T-34's basic design in mass production through the war while introducing many modifications and one major change in armament from a 76.2-millimeter to an eighty-five-millimeter gun.
+:101. When newer heavy tanks and self-propelled guns entered production in 1944, Soviet planners did not halt output of the older types all at once.
+:102. Parallel production protected the current flow of vehicles while allowing a different branch of the technological tree to grow.
+:103. The T-34 was not preserved unchanged, and its continuity alone does not prove that every retained feature was wise.
+:104. Its history instead shows how improvement within an established family can capture accumulated manufacturing knowledge while relaxing some constraints of the original design.
+:105. Whether this works depends on architectural headroom: space, weight capacity, power, interfaces, and production processes able to accept change.
+:106. Modularity can lower the cost of substitution, but no interface can make a larger gun, heavier turret, stronger engine, and revised suspension independent of one another.
+:107. An adaptable platform converts a potential break into a sequence of bounded changes; an exhausted platform forces more of those changes to occur together.
+:108. This distinction prevents us from treating every long production run as evidence of organizational blindness.
+:109. This capacity for deliberate redesign marks an important difference from biological evolution.
+:110. Military organizations can describe a discovered weakness, copy an enemy solution, move engineers between projects, preserve drawings, and plan a transition before the existing system has vanished.
+:111. Knowledge can cross from one design lineage to another far faster than genes cross between biological lineages, yet machine tools, skilled teams, inventories, and trained units cannot be transferred at the speed of an idea.
+:112. Purpose accelerates variation and learning, but it does not cancel construction time or guarantee agreement about the purpose being served.
+:113. An adversary also responds, so the environment that rewarded a design during development may change by the time that design arrives in quantity.
+:114. There is consequently no single military fitness measure waiting to reveal the universally best machine.
+:115. Survival may reflect firepower, protection, speed, range, reliability, repairability, manufacturability, tactical fit, or an opponent's mistakes, combined in proportions that vary from one campaign to another.
+:116. A lock-in can be useful when it preserves standards, output, trust, and practiced coordination under pressure.
+:117. It becomes dangerous when those benefits conceal a falling threshold of adequacy or when every incremental repair consumes the resources needed to keep an alternative alive.
+:118. What begins as a rational hedge against transition risk can become a trap if experimentation stops and the window for parallel development closes.
+:119. Judging the path therefore requires a counterfactual grounded in time: not which machine looks strongest in isolation, but which transition could actually have been completed, at what temporary loss, and before which conditions changed.
+:120. Once that question is asked, the contest among designs becomes a contest among sacrifices, because more protection may mean less speed, more range may mean less payload, and exquisite performance may mean too few machines ready when they are needed.

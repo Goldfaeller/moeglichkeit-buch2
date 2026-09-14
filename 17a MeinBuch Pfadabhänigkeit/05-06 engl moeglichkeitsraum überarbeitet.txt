@@ -1,0 +1,122 @@
+== 5.6 Identität als härtester Lock-in ==
+
+:1. In two Japanese teaching hospitals, twenty-two second-year resident physicians participated in detailed interviews about medical errors that had shaken their confidence.
+:2. The incidents ranged from near misses to adverse events, and every participant had also attended an informal conference where errors could be discussed.
+:3. The researchers were not trying to rank the residents' clinical competence; they wanted to trace what happened between making an error, speaking about it, and becoming able to learn from it.
+:4. Immediately after an incident, many residents described panic, shame, guilt, or a loss of confidence rather than calm analysis.
+:5. Shame often centered on how colleagues might judge them, whereas guilt more often centered on what a patient or family had suffered.
+:6. Before disclosing anything, the residents weighed whom they could trust, what relief or advice disclosure might bring, and how badly it might damage their standing.
+:7. Some turned first to peers who understood the pressures of training, while others sought senior residents whose own accounts of failure made survival seem possible.
+:8. Some told no one.
+:9. Speaking in a group could expose an already wounded sense of competence, yet it could also convert a private calamity into knowledge that colleagues might use.
+:10. The same admission—“I made an error”—could therefore function as evidence of unfitness, an act of professional responsibility, or the beginning of better practice, depending partly on the relationships around the speaker.
+:11. That ambiguity makes medical error a powerful case for understanding identity, because the physician is not merely defending an opinion but trying to remain a recognizable person in a demanding social world.
+:12. The Japanese study was qualitative and involved a small, selected group, so it cannot establish how common each response is or prove that disclosure caused recovery.
+:13. Identity is often spoken of as if it were a sealed object hidden somewhere inside a person.
+:14. In practice, it is better understood as both an evolving account of one's life and a position sustained among other people.
+:15. The narrative part connects a reconstructed past to an imagined future, giving separate episodes some degree of unity without preserving them like an unedited recording.
+:16. The social part consists of roles and memberships—physician, parent, friend, supervisor, apprentice—whose meanings depend on expectations, obligations, and recognition.
+:17. A white coat cannot create a physician, but neither is being a physician only a private feeling.
+:18. Licenses, patients, colleagues, schedules, skills, and promises help make the role real.
+:19. Because most adults occupy several roles, the self is neither a single story nor a single location.
+:20. Those roles can reinforce one another, compete for time, or provide refuge when one of them is threatened.
+:21. Identity is therefore coherent only in a practical sense: coherent enough to guide action and to let other people anticipate what one will do.
+:22. Its hardness comes not from an unchanging inner substance but from the number of parts that must move when a central identity is revised.
+:23. Consider how a professional identity accumulates.
+:24. An initial choice leads to training, training produces specialized competence, competence opens particular jobs, and those jobs bring colleagues, income, duties, and a reputation.
+:25. The person increasingly chooses situations in which that competence is useful, while others increasingly approach the person as someone who possesses it.
+:26. Each successful performance supplies another remembered episode for the life story and another reason for the social circle to expect continuity.
+:27. Alternatives may remain physically possible, yet they become less practiced, less visible, and more expensive to enter.
+:28. At the same time, the familiar role supplies a ready answer to new questions: which opportunities to notice, whose approval to seek, and which sacrifices seem worthwhile.
+:29. This is a path-dependent mechanism rather than the mere passage of time: earlier commitments alter the returns, relationships, and expectations attached to later choices.
+:30. The feedback can be compactly stated: identity guides action, action elicits recognition, recognition strengthens commitment, and commitment directs the next action.
+:31. Nothing in that loop makes departure impossible.
+:32. It does, however, mean that changing a central role may require new skills, a new audience, a revised account of the past, and tolerance for a period in which neither the old nor the new identity feels secure.
+:33. Public commitments tighten the loop because other people organize their own conduct around them.
+:34. A colleague delegates a task, a patient grants trust, a partner plans a household, or an institution awards authority on the assumption that the person will remain broadly consistent.
+:35. Renouncing a position can consequently impose losses on others and provoke judgments that a silent change of mind would not.
+:36. Some of those costs are material and forward-looking, while others concern status, belonging, and self-respect.
+:37. An admission of error becomes especially difficult when it seems to say not merely “this decision failed” but “the kind of person I claimed to be does not exist.”
+:38. At that point, evidence collides with identity.
+:39. Psychologists call the uncomfortable conflict among important beliefs, actions, or self-understandings cognitive dissonance.
+:40. The term names a tension and a motivation to reduce it; it does not specify one automatic response.
+:41. In a famous 1959 experiment, Leon Festinger and James Carlsmith assigned Stanford students an hour of deliberately monotonous work with spools and square pegs.
+:42. Some were then paid one dollar and others twenty dollars to tell a waiting student that the tasks had been interesting and enjoyable.
+:43. After exclusions, the analysis compared twenty men in each of the two payment groups with twenty controls.
+:44. The one-dollar group later rated the tasks as more enjoyable than either the controls or the twenty-dollar group.
+:45. Festinger and Carlsmith argued that twenty dollars supplied an obvious external reason for the misleading statement, whereas one dollar left participants with more inconsistency to explain.
+:46. Changing their private evaluation of the task was one way to make their own conduct more intelligible.
+:47. The result became famous because the smaller reward produced more reported attitude change, contrary to the simple expectation that more money should buy more persuasion.
+:48. Yet this compact laboratory result is not a universal law of identity.
+:49. The original sample was small, all male, and drawn from one introductory psychology course, and the experiment created a narrow inconsistency through an elaborate deception.
+:50. Later research has supported dissonance as a productive framework while continuing to debate which appraisals create the discomfort and which processes explain particular findings.
+:51. People can reduce inconsistency by changing an attitude, changing future behavior, adding a justification, reinterpreting responsibility, minimizing the issue, avoiding the evidence, or accepting a more complicated view of themselves.
+:52. Calling every such response denial would erase precisely what needs explaining.
+:53. A revised belief may be a distortion, but it may also reflect new evidence; a continued course may protect pride, but it may also honor a real obligation.
+:54. Identity raises the stakes because contradictions involving a central moral or professional claim matter more than contradictions involving a trivial preference.
+:55. The physician who has harmed a patient confronts more than the mild puzzle of having praised a boring task.
+:56. The evidence can challenge technical judgment, moral worth, membership in a profession, and confidence about future action all at once.
+:57. It can also carry external risks, including discipline, damaged reputation, legal exposure, and the anger of patients or colleagues.
+:58. Those risks provide a serious rival explanation for silence: reluctance to disclose an error need not arise from an unconscious effort to preserve a flattering self-image.
+:59. Hierarchy, reporting procedures, uncertainty about causation, and fear of punishment can produce the same outward behavior.
+:60. The crucial question is what turns a contradiction from a threat to the whole self into information that an identity can survive.
+:61. In the Japanese hospitals, that transformation often began when disclosure met neither expulsion nor a demand for instant emotional composure.
+:62. Residents described choosing listeners who could acknowledge the gravity of the incident without treating one failure as a complete verdict on the person.
+:63. When senior colleagues recounted errors of their own, they supplied evidence that professional membership could survive fallibility.
+:64. Private disclosure could first relieve distress, after which group discussion made it easier to examine what had happened and how a recurrence might be prevented.
+:65. This sequence did not make the harm smaller.
+:66. It changed the implied definition of a good physician from someone who never errs to someone who remains accountable, learns, and continues to care for patients after an error.
+:67. That revised definition offered a way to alter the professional story without abandoning the profession itself.
+:68. A blame-saturated workplace and a learning-oriented workplace can therefore present the same person with very different costs for admitting the same fact.
+:69. The surrounding institution does not dictate the response, but it helps determine whether candor threatens belonging or demonstrates fitness for belonging.
+:70. An apparently private identity lock-in is thus partly constructed outside the individual.
+:71. Role identity research makes this reciprocity visible by treating commitment as a pattern of relationships, not merely a strong feeling.
+:72. The more valued relationships depend on occupying a particular role, and the more areas of life those relationships cover, the more costly it becomes to leave that role.
+:73. A physician may share a workplace, friendships, daily language, social prestige, and family expectations with the profession.
+:74. Even after private conviction weakens, that network can keep the professional identity prominent in situations far removed from the hospital.
+:75. Conversely, a change in relationships can gradually change which identity comes most readily to mind and which actions feel available.
+:76. The social position stabilizes the self, while the self's repeated performance stabilizes the position.
+:77. Another reinforcing process is self-verification, the tendency to seek or favor responses that fit an established view of oneself.
+:78. Research suggests that people sometimes prefer confirming feedback even when the self-view being confirmed is unflattering.
+:79. This does not mean that everyone rejects praise or consciously arranges a hostile audience.
+:80. Predictable reactions make social encounters easier to interpret, and a familiar identity tells both parties which conduct is expected.
+:81. A person known as dependable is repeatedly entrusted with difficult commitments, gains practice in fulfilling them, and accumulates further evidence of dependability.
+:82. A person known as incapable may receive fewer demanding opportunities and therefore fewer chances to disconfirm the label.
+:83. In each case, identity changes the environment from which later evidence about identity will be drawn.
+:84. The loop can preserve an error, but it can also preserve earned trust.
+:85. Long projects require a present self to expect that a future self will still recognize the promise.
+:86. Friendship, parenthood, craft, and professional care all depend on some continuity across moods and changing circumstances.
+:87. Other people invest in a relationship partly because a person's past conduct provides a usable, though never infallible, guide to future conduct.
+:88. If every contradiction dissolved an identity, accountability would become nearly impossible, because the person who made a promise could disappear conceptually whenever keeping it became uncomfortable.
+:89. The physician's continuing identity can carry responsibility forward as well as carry defensiveness forward.
+:90. What looks like rigidity from one angle may be integrity from another.
+:91. Stability by itself, however, does not establish path dependence.
+:92. A person may remain in a profession because the work still fits present abilities and values, regardless of how the career began.
+:93. Remaining may also be reasonable because departure would sacrifice current income, credentials, relationships, or the welfare of people who rely on that person.
+:94. These are prospective switching costs—costs that a change would impose from now on—not merely memories of past effort.
+:95. Years of training are already spent, but the competence those years produced may still generate real benefits.
+:96. It would be a mistake to call every use of accumulated skill a sunk-cost fallacy.
+:97. A stronger claim of identity lock-in requires a feedback process in which earlier commitments changed later incentives or perceptions enough to make a once-plausible alternative progressively harder to see or pursue.
+:98. Even then, reconstructing a single life rarely reveals what the same person would have chosen along an unrealized path.
+:99. Temperament, ability, economic opportunity, discrimination, health, luck, and current preference can all resemble or reinforce an identity effect.
+:100. No solitary childhood event, public declaration, or costly decision earns the right to explain an adult life by itself.
+:101. Identity is also unusually reflexive: people can notice the story they have been using and make that story an object of thought.
+:102. Awareness does not erase credentials, obligations, habits, or other people's expectations, but it can expose them as components rather than destiny.
+:103. The existence of several identities creates additional room for such revision.
+:104. Someone leaving clinical practice may still remain a scientist, teacher, colleague, parent, or person committed to relieving suffering.
+:105. Connections preserved across a transition can bridge old and new roles, while portable skills can lower the cost of entering a neighboring field.
+:106. Research on major life changes, including retirement, indicates that maintaining some group memberships and gaining compatible new ones can support adjustment, although the evidence does not promise an effortless transition.
+:107. Life stories are reconstructed, which means that their meaning can change even when their events cannot.
+:108. An abandoned career may be recast as wasted time, as necessary training for later work, or as an honorable commitment that eventually reached its limit.
+:109. These interpretations are not interchangeable fantasies, because each must answer to remembered facts and present consequences.
+:110. Yet facts rarely dictate a single moral for the person who lived them.
+:111. For a physician, an error can become proof of permanent unworthiness, an episode concealed to preserve status, or a painful part of a more realistic professional identity.
+:112. Which interpretation becomes sustainable depends partly on whether patients, colleagues, employers, and loved ones leave room for responsibility without social annihilation.
+:113. Support can lower the cost of honest revision, but it cannot substitute comfort for accountability or guarantee that trust will be restored.
+:114. Identity is therefore the hardest lock-in only under particular conditions.
+:115. It hardens when one role monopolizes livelihood, relationships, status, moral worth, and the language available for describing a life.
+:116. It becomes more revisable when relationships cross role boundaries, skills can travel, institutions permit reentry or repair, and continuity can be found at the level of values rather than a single performance.
+:117. Power matters here, because professions and organizations control credentials, sanctions, audiences, and access to alternative positions.
+:118. The personal story and the external opportunity structure remain distinct, even while each continually edits the other.
+:119. Past investments consequently survive in two forms: some are gone forever, while others remain active as skills, obligations, reputations, and expectations.
+:120. Once a course of action has become part of who someone is, the next decision cannot be evaluated only by future payoffs, because the ledger now includes the self that previous decisions helped build.

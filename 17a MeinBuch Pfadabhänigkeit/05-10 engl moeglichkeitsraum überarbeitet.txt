@@ -1,0 +1,122 @@
+== 5.10 Sensible Phasen und der Matthäus-Effekt ==
+
+:1. In a New Delhi hospital, five children and adolescents who had lived with severe visual impairment from birth were tested soon after surgery gave them usable sight.
+:2. Researchers asked them to explore an unfamiliar object by touch, then showed them a pair of objects without letting them touch what they saw.
+:3. The newly sighted participants could distinguish one object from another within either sense, yet they initially struggled to match the shape felt by a hand with the shape presented to the eyes.
+:4. The world was visible, but its visual and tactile descriptions did not yet agree.
+:5. When several participants were tested again after days rather than years, their matching improved sharply.
+:6. The experiment, conducted through Project Prakash in India, compressed a developmental puzzle into a brief interval: some capacities had been altered by the timing of experience, while others remained remarkably ready to learn.
+:7. Long deprivation had plainly mattered, but it had not issued a final verdict.
+:8. That combination is the signature of a sensitive phase, a span of development during which a particular kind of experience has an unusually large effect.
+:9. A critical period is the harder limiting case, in which required input must arrive within a restricted interval for a capacity to develop normally and later experience cannot fully repair the loss.
+:10. Researchers do not always use the two labels consistently, which is one reason popular accounts often turn a sloping change in learnability into a slammed door.
+:11. The distinction matters because a sensitive phase changes the cost and probability of later learning, whereas an absolute critical period removes an option.
+:12. Human development contains many examples of the former and far fewer clean examples of the latter.
+:13. Even vision is not a single ability governed by a single clock.
+:14. After cataract removal, a person may improve at separating objects, following motion, or connecting sight with touch while still retaining serious limits in sharpness or contrast sensitivity.
+:15. In one Project Prakash study of fifty-three children aged eight to eighteen with early-onset bilateral cataracts, nearly all moved out of the study's most severe near-blindness category after surgery, although only a minority reached visual acuity of 20/200 or better within six weeks.
+:16. Those outcomes neither erase the cost of delayed treatment nor justify withholding treatment once an assumed deadline has passed.
+:17. They show instead that different components of a developing system can have different degrees and schedules of plasticity.
+:18. During a sensitive phase, neural circuits are especially responsive to patterned input, so frequently encountered signals strengthen useful pathways and help organize later processing.
+:19. As the circuits mature, their architecture becomes more stable, which makes perception faster and more reliable in the environment that trained it.
+:20. Stability is therefore not simply a defect imposed by the past.
+:21. An infant who had to construct every visual category anew each morning would possess boundless flexibility only in the most useless sense.
+:22. The achievement of development is to convert recurring structure into dependable expectation.
+:23. Its price is that later learning must work through an architecture already tuned by earlier experience.
+:24. That is a genuine path-dependent mechanism: earlier input changes the neural and behavioral starting point from which subsequent input is interpreted, and it changes how much practice or support a new path requires.
+:25. The mechanism is not the mere passage of time.
+:26. Nor is age itself a substance that hardens the brain uniformly.
+:27. Maturation, accumulated practice, bodily change, and the environments available at different ages move together, making them difficult to separate in human studies.
+:28. Children who receive early treatment also tend to differ from late-treated children in access to care, family resources, schooling, and the causes or severity of their condition.
+:29. Careful research can reduce these confounds, but no ethical experiment can randomly assign children to years of preventable deprivation.
+:30. The strongest claims therefore come from converging evidence rather than from one dramatic recovery.
+:31. Speech perception offers a less extreme example of early tuning.
+:32. In a classic study, English-learning infants six to eight months old distinguished certain consonant contrasts used in Hindi and in a Salish language, while infants ten to twelve months old performed much more like English-speaking adults who were not practiced in those contrasts.
+:33. The younger infants were not miniature linguists who understood all languages.
+:34. They began with a broad sensitivity to acoustic differences, and ordinary exposure helped their perceptual system allocate attention to distinctions that carried information in the language around them.
+:35. What looks like loss from one angle is specialization from another.
+:36. Becoming efficient in one sound system makes familiar speech easier to parse, even as some unfamiliar contrasts become harder to hear.
+:37. Later training can improve discrimination, but it starts from a perceptual landscape that early experience has already reshaped.
+:38. Grammar, vocabulary, pronunciation, and speech perception also follow different developmental trajectories, so the phrase “the language window” conceals more than it explains.
+:39. Large studies agree that age at first sustained exposure predicts eventual command of a second language, but they disagree about whether the curve contains one sharp biological break.
+:40. An analysis of roughly two-thirds of a million English speakers estimated that the ability to learn grammar remained high through adolescence and then declined, although native-like mastery usually required starting much earlier because mastery itself takes years.
+:41. An earlier analysis of census responses from 2.3 million immigrants found a broadly continuous decline with age of arrival rather than the abrupt discontinuity a strict critical-period account predicted.
+:42. The two studies measured different things with different methods, and neither permits age to be detached completely from education, amount of use, social setting, or motivation.
+:43. They nevertheless make one conclusion difficult to defend: that adults stand outside language development altogether.
+:44. Adults routinely acquire new vocabulary, communicative competence, and sometimes very high proficiency, though on average they do so under different conditions and with different outcomes than children.
+:45. Learning a second language after a first is established is also not equivalent to being denied accessible language early in life.
+:46. The existing language supplies categories, strategies, and a social world that the new language can recruit, whereas late first-language exposure poses a much more fundamental developmental problem.
+:47. Timing thus matters in relation to what is being learned, what has already been learned, and what input the environment provides.
+:48. This three-part relation prevents biology from becoming a convenient explanation for every early advantage.
+:49. Some windows that govern a life are built by institutions rather than by neurons.
+:50. A school system chooses an age for enrollment, a sequence for teaching reading, dates for examinations, and thresholds for entering advanced courses.
+:51. None of those deadlines is a critical period in the biological sense.
+:52. Yet missing one can alter which instruction comes next, which peers share a classroom, which teacher expects what, and how much time remains before another decision.
+:53. An administrative date can therefore acquire developmental force without being written into the brain.
+:54. Expectations can add another layer when adults interpret an early difference as evidence of fixed ability and then distribute attention or challenge accordingly.
+:55. This does not mean that expectation alone manufactures achievement, because instruction, prior knowledge, health, time, and material resources remain real constraints.
+:56. It means that an initial result can change the environment that produces the next result.
+:57. The transition is especially visible when children learn to read, a skill whose components are taught in sequence but whose rewards also expand the opportunities for further practice.
+:58. A child who decodes words a little more fluently can read a slightly more interesting book, gather vocabulary and knowledge from it, and return to the next text with more of the equipment comprehension demands.
+:59. A child who must spend great effort on each word receives less meaning and less pleasure from the same page, so practice may become both rarer and less productive.
+:60. At that point, an early difference has begun to alter the stream of later experience itself.
+:61. The reading researcher Keith Stanovich gave this recursive pattern a memorable name in 1986: the Matthew effect.
+:62. He borrowed the term from the sociologist Robert Merton, who had used it to describe how already prominent scientists could receive disproportionate recognition and visibility.
+:63. In its broader form, the term means cumulative advantage, the process by which an initial benefit helps generate conditions for further benefits.
+:64. Transferred to reading, it describes a loop rather than a blessing bestowed once and for all.
+:65. Better decoding can make reading easier, easier reading can increase practice, practice can enlarge vocabulary and background knowledge, and that knowledge can make subsequent reading more comprehensible.
+:66. Each pass through the loop may slightly change the payoff from the next one.
+:67. The parallel loop of cumulative disadvantage is not simply the same sequence with a less capable child placed at its center.
+:68. Books in the home, quiet time, accessible libraries, skilled instruction, health, and exposure to the language of schooling are unequally distributed inputs.
+:69. When these resources make early reading more successful, the apparent return to a child's ability partly reflects an environment that keeps investing where success is already visible.
+:70. A confident reader may be offered longer books, more demanding questions, or membership in a faster instructional group.
+:71. A struggling reader may receive useful additional teaching, but may instead encounter simplified material, public comparison, or less time with the very content needed to close the gap.
+:72. The institution is then responding to a difference while also helping shape its future size.
+:73. Such feedback can eventually make accumulated opportunity look like an original personal trait.
+:74. Calling this a Matthew effect should expose that history, not conceal it behind a proverb about winners and losers, and it should also impose a strict test.
+:75. If two groups begin apart and improve at the same rate, the difference is persistent but not cumulative.
+:76. If the initially lower group gains faster, the pattern is compensatory even when the groups have not yet met.
+:77. Only when an early position helps alter later growth so that a meaningful gap expands has the central rich-get-richer claim been demonstrated.
+:78. By that standard, the empirical record on reading is decidedly mixed.
+:79. A major review of twenty-five years of research found no strong support for either universal widening or universal narrowing of reading differences.
+:80. Across the results it examined, widening appeared in only about a quarter, while compensatory patterns were more common and stable differences also occurred frequently.
+:81. The type of skill being measured helped explain some of the variation.
+:82. Constrained skills such as accurate recognition of common words can approach a ceiling, leaving initially slower learners room to catch up.
+:83. Fluency, vocabulary, and knowledge are more open-ended, so additional experience can continue producing differences after basic accuracy has leveled off.
+:84. The measuring scale matters as well.
+:85. A fixed difference in test points can represent convergence, stability, or divergence depending on how the scale relates scores to underlying skill.
+:86. Floor effects can hide differences among beginners, while ceiling effects can compress differences among proficient readers.
+:87. Grouping children by their first observed scores also invites regression toward the average, because an unusually good or bad day is unlikely to repeat exactly.
+:88. These complications do not make cumulative advantage imaginary, but they prevent a vivid label from substituting for a developmental analysis.
+:89. Early skill predicting later skill is not enough, since stable differences can arise without any self-amplifying loop.
+:90. Evidence for the mechanism must show that an earlier result changed later practice, instruction, motivation, selection, or some other consequential input.
+:91. Even then, the arrows may point both ways.
+:92. Children often read more because they read well, and they may read better partly because they read more.
+:93. Enjoyment can invite practice, while growing competence can make the same practice more enjoyable.
+:94. A third factor, such as oral language knowledge or effective teaching, may improve both performance and willingness to read.
+:95. The rival explanations are therefore not competitors that one decisive study can simply eliminate; several can operate together and at different strengths for different children.
+:96. This is why cumulative disadvantage should never be translated into deficient motivation or poor choices by the learner.
+:97. Avoidance may be an intelligible response to a task that repeatedly consumes effort without delivering meaning, status, or pleasure.
+:98. Changing the payoff structure can change the path.
+:99. Evidence from interventions for struggling readers in grades four through twelve shows that decoding, fluency, vocabulary, and comprehension can improve well after the years in which foundational reading is normally taught.
+:100. Effects tend to be smaller on standardized measures than on tests closely matched to an intervention, and older difficulties may require many hours of focused instruction.
+:101. Later development is thus possible without being equivalent in cost to timely early learning.
+:102. An adolescent receiving specialized literacy support must learn skills while classmates are already using those skills to study science, history, and mathematics.
+:103. The learner faces two moving targets: mastering the instrument and acquiring the knowledge that others have been accumulating through it.
+:104. This extra burden is historical, but it is not proof that the capacity itself has biologically expired.
+:105. Schools often have fewer teachers trained to provide foundational reading instruction in later grades because their organization assumes that the task was completed earlier.
+:106. What appears to be a closed window inside the student may therefore be a shortage of suitable instruction outside the student.
+:107. Unlike the maturation of a sensory circuit, that shortage can be altered by budgets, training, schedules, and the design of materials.
+:108. Institutional windows are real in their consequences precisely because changing them demands coordination and resources, not because their dates are natural facts.
+:109. Early support remains valuable, since it can prevent avoidable costs and give a child access to subsequent opportunities at the time they ordinarily arrive.
+:110. Its long-term effect, however, depends on what follows.
+:111. A preschool gain that meets an under-resourced classroom may fade on a test, while a modest early gain followed by responsive teaching can redirect placement, confidence, and later instruction.
+:112. Longitudinal research on Chicago's Child-Parent Centers, for example, linked extended participation beyond preschool and kindergarten with stronger later reading performance and lower rates of grade retention and special education placement among the children studied.
+:113. Because such studies must contend with selection and local context, they do not establish that one program or one starting age will generate the same chain everywhere.
+:114. They do show why the lasting consequence of an intervention need not be a permanently enlarged score at every measurement point.
+:115. An early change can matter by altering the sequence of classrooms, relationships, and decisions through which a child subsequently moves.
+:116. Sensitive phases and Matthew effects can therefore reinforce each other, but they are not the same mechanism.
+:117. A sensitive phase changes how strongly a system can be shaped by a given experience at a given time.
+:118. A Matthew effect changes which experiences, resources, and responses are likely to arrive next because of what happened before.
+:119. Development becomes most path dependent when the two coincide: an early experience changes the learner, and the learner's changed performance induces the surrounding world to supply a different future.
+:120. A personal history becomes more binding when an environment reads it as a forecast and feeds that forecast back as the next opportunity.

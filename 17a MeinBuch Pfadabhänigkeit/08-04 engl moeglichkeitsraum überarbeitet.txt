@@ -1,0 +1,122 @@
+== 8.4 Der Kranzgeldparagraph ==
+
+:1. In September 1952, a woman in East Germany went to court seeking 1,000 marks from the man who had broken their engagement.
+:2. A local court accepted the basis of her claim, which rested on Section 1300 of the German Civil Code, the provision popularly known as the Kranzgeld paragraph.
+:3. The rule offered money for an injury that the legal language did not quite name: an “innocent” fiancée had permitted sexual intercourse in expectation of marriage, and the man had then ended the engagement without adequate cause or driven her to end it through his fault.
+:4. The prosecutor general sought cassation, a procedure for overturning the judgment, and the case reached the Supreme Court of the German Democratic Republic.
+:5. On September 4, the court reversed the decision, declaring that applying Section 1300 violated the constitutional equality of the sexes because the claim treated a woman’s sexual history as a loss of value.
+:6. One old paragraph had met a new constitutional order, and the paragraph gave way.
+:7. Across the internal German border, the same words remained printed in the same civil code for another forty-six years.
+:8. That divergence makes Kranzgeld more than a legal curiosity with an archaic name.
+:9. It is a compact test of how rules survive, not only because powerful groups defend them or because whole institutions depend on them, but sometimes because almost nobody considers their removal urgent enough to spend political attention on it.
+:10. Section 1300 belonged to the Civil Code promulgated in 1896 and effective from January 1, 1900.
+:11. Its two short subsections sat among the rules governing engagements, near provisions covering expenses incurred in anticipation of marriage and the return of engagement gifts.
+:12. Unlike those claims for measurable losses, Kranzgeld compensated nonfinancial harm.
+:13. Eligibility was explicitly gendered: the claimant was a woman, she had to be “unbescholten,” a term suggesting sexual respectability, and she had to have consented to intercourse with her fiancé.
+:14. The cross-references to Sections 1298 and 1299 added another condition, because the man had to withdraw without an important reason or culpably give the woman an important reason to withdraw.
+:15. The statute therefore did not make every failed engagement compensable, nor did it formally enforce a promise to marry.
+:16. Indeed, the neighboring Section 1297 denied any lawsuit to compel a marriage, so the code combined freedom to leave an engagement with limited liability for certain consequences of leaving it.
+:17. This architecture matters because the provision had a protective logic within the society that produced it.
+:18. In an order where women’s economic security and social standing were closely tied to marriage, and where premarital intercourse could diminish a woman’s perceived marriage prospects far more than a man’s, a broken promise could expose a real asymmetry of risk.
+:19. Money could not restore a reputation, but the claim attempted to place part of the resulting cost on the man whose promise had helped induce the risk.
+:20. Protection, however, came packaged inside the hierarchy that made protection seem necessary.
+:21. The rule converted a gendered social judgment into a legal asset by treating female sexual “innocence” as something that could be impaired and priced.
+:22. It offered no parallel claim to a man, and its focus was not simply betrayal, grief, pregnancy, coercion, or economic loss, each of which could be addressed through other legal categories under appropriate conditions.
+:23. What it singled out was the supposed decline in the unmarried woman’s value after intercourse.
+:24. The paragraph therefore both responded to a constrained female possibility space and helped certify the assumptions that constrained it.
+:25. Law did not create the sexual double standard by itself, yet a lawsuit under Section 1300 required judges to ask questions that kept the standard institutionally legible.
+:26. Was the claimant still “innocent” before this relationship, had she consented because marriage was promised, and what sum fairly represented the nonfinancial harm?
+:27. Each answer translated a social hierarchy into the routines of pleading, proof, and judgment.
+:28. This was path dependence through classification: an inherited category determined which injury the legal system could see and who could present herself as its proper victim.
+:29. It was also a weakly coupled path, because removing this claim did not require Germany to redesign property law, court organization, legal education, or the ordinary machinery of contract enforcement.
+:30. The East German break demonstrates that relative separability.
+:31. The constitution of the new republic, effective on October 7, 1949, declared men and women equal and made its principles directly applicable law.
+:32. The Act on the Protection of Mothers and Children and the Rights of Women, adopted on September 27, 1950, stated that family-law provisions restricting or diminishing women’s rights had been repealed when the constitution took effect.
+:33. That act also tied equality to employment, joint decision-making within marriage, and rights for mothers of children born outside marriage, embedding the rejection of the older female role in a broader state project.
+:34. Section 1300 was not individually crossed out of every copy of the Civil Code in 1949 or 1950.
+:35. Instead, judges had to decide what constitutional transformation meant for inherited provisions that formally remained in the book.
+:36. The 1952 case supplied an authoritative answer.
+:37. The Supreme Court described Kranzgeld as expressing a “diminution in value” of the woman relative to the man and held the claim inapplicable under the equality guarantee.
+:38. In 1959, the same court extended the reasoning to the surrounding engagement claims, emphasizing that East German law no longer treated engagement as a legal institution carrying those civil consequences.
+:39. The new path thus formed through a combination of constitutional command, ideological reconstruction of family law, and centralized judicial interpretation rather than through the isolated repeal of a single numbered section.
+:40. That speed should not be mistaken for proof that East German family law as a whole was more just, or that a court operating in a one-party state supplied stronger legal protection in general.
+:41. Formal equality existed alongside political control of the judiciary, and women’s extensive participation in paid work did not erase unequal domestic burdens or guarantee autonomous enforcement of rights.
+:42. The comparison isolates one rule, not two political systems’ moral worth.
+:43. It also reveals that easy legal replacement can reflect concentrated state power as well as persuasive principle.
+:44. A government capable of rapidly reorienting courts may remove an anachronism quickly, while also leaving citizens fewer independent institutions through which to resist other commands.
+:45. The relevant lesson is narrower: where a rule is only lightly connected to neighboring doctrines, a new constitutional interpretation can disable it without breaking the everyday legal system.
+:46. West Germany began with the same inherited text but a different sequence of decisions.
+:47. The Basic Law, effective in 1949, also guaranteed equality between men and women, and its transitional Article 117 allowed conflicting older law only until March 31, 1953.
+:48. Yet the Equal Rights Act enacted in 1957 left Section 1300 unchanged, and not because nobody noticed it.
+:49. An opposition bill introduced by the Social Democratic parliamentary group in January 1954 had proposed repeal, and a Bundestag subcommittee debated the provision in 1957.
+:50. Elisabeth Selbert’s fellow Social Democrat Frieda Nadig argued that a claim available only to women was itself an equality problem, while another prominent female legislator, Elisabeth Schwarzhaupt of the governing Christian Democrats, regarded the rule as practically dispensable but resisted presenting its removal as a mechanical consequence of equality.
+:51. The subcommittee declined to include repeal, and the enacted reform addressed other parts of family law.
+:52. This is legislative path dependence in miniature: a reform window opened, an obsolete-looking rule was visible inside it, but the window was defined narrowly enough for the disputed paragraph to remain outside the adopted package.
+:53. Because Section 1300 imposed little administrative cost and demanded no continuing budget, leaving it alone was easier than resolving what should replace it, if anything.
+:54. Its weakness as an institution became a source of longevity.
+:55. Courts then inherited the unresolved choice.
+:56. Some continued to award Kranzgeld, while others questioned whether the sex-specific claim could coexist with constitutional equality and changing social conditions.
+:57. In 1970, the Regional Court of Kaiserslautern suspended a case and asked the Federal Constitutional Court to decide the provision’s compatibility with the Basic Law.
+:58. The constitutional court’s January 1972 decision looked like the moment when the West German path might finally converge with the eastern one, but the judges stopped at the threshold.
+:59. They held that Section 1300 remained preconstitutional law that the postwar legislature had not affirmatively adopted as its own, so the referral was inadmissible and ordinary courts had to judge the provision’s constitutionality for themselves.
+:60. The paragraph had survived another encounter with constitutional change, not through endorsement, but through a decision about who was responsible for deciding its fate.
+:61. That allocation of responsibility produced not one national answer but a patchwork of judicial ones.
+:62. Only months after the constitutional court’s procedural ruling, the Hanseatic Higher Regional Court refused a Kranzgeld claim on the ground that awarding it would violate equality and degrade the woman it purported to compensate.
+:63. Other courts continued to treat Section 1300 as applicable when its demanding factual conditions were met.
+:64. In 1980, the Local Court of Korbach awarded a claimant 1,000 West German marks, a sum that showed the provision was not yet merely typographical debris.
+:65. As late as 1987, the Local Court of St. Ingbert concluded that another claimant’s case had enough prospect of success to justify legal aid.
+:66. The same federal statute could thus be legally alive in one courtroom and constitutionally unacceptable in another.
+:67. The variation arose not because judges were reading different words, but because the inherited rule’s status depended on their judgments about equality, social reality, and the authority ordinary courts possessed over preconstitutional law.
+:68. Meanwhile, the social premise beneath the claim was eroding faster than the printed text.
+:69. Formal engagements became less universal, premarital sex lost much of its former public stigma, and women’s access to education, employment, property, and social protection made marriage less singular as a route to material security.
+:70. None of those changes removed the emotional or economic injuries that deception and abandonment can cause.
+:71. They did, however, weaken the statute’s peculiar equation between a woman’s sexual history and diminished prospects on the marriage market.
+:72. As fewer claimants invoked that equation and fewer judges accepted it, the paragraph produced less case law, less predictable enforcement, and less practical reason for lawyers to rely on it.
+:73. The rule was becoming obsolete through disuse before it was repealed through legislation.
+:74. Yet desuetude, the fading of a rule through nonuse, is not the same as formal abolition in German statutory law.
+:75. A dormant provision can still shape bargaining, invite an occasional lawsuit, or lend the authority of the code to a social judgment that most institutions have abandoned.
+:76. It can also return whenever a court decides that judges may dislike a statute but may not erase it.
+:77. The possibility was small, but it was not imaginary, as the Korbach judgment demonstrated.
+:78. This is why the provision’s long life should not be described as a strong lock-in in the usual sense.
+:79. No large workforce depended on administering Kranzgeld, no specialized technology had been built around it, and no web of contracts would unravel if it disappeared.
+:80. The neighboring rules on engagement expenses and gifts could operate without it.
+:81. Nor is there evidence that a durable coalition spent decades mobilizing to preserve the claim.
+:82. The principal mechanism was agenda dependence: legislation changes only what authorized actors place inside a reform proposal, committees process, majorities accept, and other institutions do not displace first.
+:83. A low-cost rule can persist because repeal itself has a cost in attention, drafting, scheduling, negotiation, and parliamentary time.
+:84. For a provision that rarely produces judgments, that cost need not be large to exceed the perceived benefit of acting now.
+:85. Political insignificance can therefore preserve a rule that political power would have little difficulty abolishing.
+:86. The contradiction became especially sharp in a 1992 case before the Local Court of Münster.
+:87. A woman sought 1,000 marks under Section 1300 after her engagement ended, but the court rejected the claim and held the provision incompatible with the Basic Law’s equality guarantees.
+:88. Its reasoning turned on changed legal and social conditions: emotional pain from a broken engagement was not inherently female, premarital intercourse no longer generally reduced a woman’s standing, and women were not dependent on marriage in the way presupposed by the old model.
+:89. The claimant challenged that result, but in February 1993 the Federal Constitutional Court declined to take up her constitutional complaint.
+:90. The brief ruling left the ordinary court’s refusal intact without converting every contested historical and sociological statement in its reasoning into a nationwide judicial finding.
+:91. What mattered institutionally was that a judge could now decline to apply the paragraph without being forced to await a plenary constitutional judgment.
+:92. The route that had dispersed authority in 1972 had eventually made local nonapplication easier, although it still left the statute on the books.
+:93. Parliament received another direct invitation to finish the work in October 1993.
+:94. A bill introduced by the PDS/Left List group proposed a one-line solution—delete Section 1300—and stated that the change would create no costs.
+:95. Its explanatory memorandum called the category of female “innocence” discriminatory and incompatible with sexual self-determination.
+:96. The proposal did not become law, illustrating once more that recognizing an anomaly, calculating negligible transition costs, and drafting a remedy do not by themselves secure a place in the enacted statute book without a legislative path to completion.
+:97. That path appeared when the federal government prepared a broader reorganization of marriage law in 1996.
+:98. The package moved rules on entering and annulling marriages back into the Civil Code, revised civil-registration procedures, and addressed several other remnants and formalities in the existing system.
+:99. Within that larger vehicle, repeal of Section 1300 became the first numbered amendment rather than a free-standing political cause.
+:100. The official explanation called the paragraph legally and politically obsolete and pointed to general tort and personality-right protections for cases involving independently recognizable harm.
+:101. That distinction prevented reform from collapsing two different claims into one.
+:102. The law could reject the notion that consensual sex reduced a woman’s marital value without declaring that fraud, coercion, injury, pregnancy-related costs, or serious violations of personality never warrant a remedy.
+:103. General legal categories ask what wrongful conduct and actual harm occurred, rather than presuming a special loss attached to the sexual history of an “innocent” fiancée.
+:104. The transition therefore removed a status judgment while leaving other paths to compensation open when their separate requirements were satisfied.
+:105. This was not a comprehensive redesign of intimate life by statute, but a precise deletion accompanied by reliance on legal tools that had developed around the old rule.
+:106. The Eheschließungsrechtsgesetz, or Marriage Law Reorganization Act, was signed on May 4, 1998, published four days later, and took effect on July 1.
+:107. Section 1300 then disappeared after nearly ninety-nine years of formal existence in the Civil Code and almost half a century of sharply divergent treatment in the two German states.
+:108. Its repeal required no long transition, compensation program, retraining scheme, or replacement bureaucracy.
+:109. Once attached to an active legislative package, the supposedly persistent rule proved easy to remove.
+:110. The delay had measured not the paragraph’s structural indispensability but the distance between social obsolescence and legislative attention.
+:111. Even that conclusion needs a qualification, because changing morality did causal work alongside legal procedure.
+:112. Had the social costs of nonmarital sex for women remained as severe as they had once been, courts and legislators would have faced a harder question about how to replace the old remedy without abandoning those exposed to unequal risks.
+:113. Conversely, social change alone did not select the date of repeal, since the core assumptions of Section 1300 had become implausible to many judges and lawmakers long before 1998.
+:114. The formal endpoint arrived only when altered expectations, available general remedies, judicial practice, and a suitable reform vehicle aligned.
+:115. This was path change, but not an escape from history: the new solution depended on rights and doctrines accumulated during the old provision’s decline.
+:116. Kranzgeld therefore exposes a mismatch between moral prominence and structural depth.
+:117. A rule can embody a consequential judgment about gender while remaining only lightly coupled to the rest of private law.
+:118. Its symbolic offense does not make it mechanically difficult to delete, just as its mechanical separability does not make its message harmless.
+:119. The small paragraph survived because it often stood below the threshold of action, then vanished when a routine legislative opening finally absorbed it.
+:120. Once the law moved from the broken engagement to the broken marriage, however, every choice reached into property, support, children, and procedure, and the path became harder to leave.

@@ -1,0 +1,122 @@
+== 6.9 Gewaltenteilung als Modularisierung ==
+
+:1. On April 8, 1952, President Harry Truman ordered the United States government to take possession of most of the nation's steel mills.
+:2. His executive order directed Commerce Secretary Charles Sawyer to keep the plants operating under federal control.
+:3. Steel companies and the United Steelworkers had reached an impasse over wages and working conditions, and a nationwide strike was hours away.
+:4. With the Korean War underway, Truman argued that an interruption in steel production would endanger military supply and the wider economy that supported it.
+:5. The danger was concrete, but so was the constitutional difficulty.
+:6. No act of Congress authorized this particular seizure, and the president had chosen not to use the labor-dispute procedure that Congress had already provided.
+:7. The mills kept running, while their owners went to court.
+:8. Their lawsuit turned an industrial emergency into a test of who could decide what necessity permitted.
+:9. The administration's claim was not frivolous, because a president charged with conducting a war cannot wait for perfect information or leisurely agreement.
+:10. Yet urgency did not answer the prior question of where the power to take private property came from.
+:11. A federal district court barred the seizure, and the dispute reached the Supreme Court with unusual speed.
+:12. On June 2, the Court ruled against Truman by six votes to three.
+:13. Justice Hugo Black's opinion began from a spare proposition: presidential power must arise either from an act of Congress or from the Constitution itself.
+:14. The majority found neither source sufficient.
+:15. Commanding the armed forces did not, in its view, make the president the lawmaker for labor relations inside the country.
+:16. Congress possessed tools for dealing with industrial conflict, but it had not handed the president the tool he had selected.
+:17. Justice Robert Jackson's concurring opinion supplied the more durable map of the conflict.
+:18. He divided presidential action into three practical situations rather than pretending that executive power had one fixed magnitude.
+:19. A president acting with congressional authorization stands at the height of institutional power because the claims of two branches align.
+:20. When Congress has neither granted nor denied authority, president and legislature may occupy a zone of uncertain, partly shared power.
+:21. When a president acts against Congress's expressed or implied will, executive authority reaches its weakest position.
+:22. The categories made constitutional power relational: what one institution may do depends partly on what another institution has already done.
+:23. That is not a picture of three sealed rooms.
+:24. It is a picture of boundaries joined by contested doors.
+:25. Truman immediately directed the government to return the mills after the decision, and the steelworkers began their strike that same day.
+:26. The ruling therefore did not manufacture steel, settle wages, or make the emergency disappear.
+:27. It changed which routes remained lawful for responding to the emergency and forced the conflict back toward bargaining and congressional action.
+:28. The check corrected one kind of error while exposing the country to another kind of cost.
+:29. This double effect is the reason separation of powers is better understood as institutional engineering than as a ceremonial diagram.
+:30. Government must be able to act, but the same concentration that makes action swift can allow a mistaken or self-serving decision to spread without resistance.
+:31. Separating legislative, executive, and judicial functions gives different bodies distinct tasks, information, procedures, and time horizons.
+:32. Legislatures assemble general rules and authorize resources, executives coordinate implementation, and courts decide concrete disputes under law.
+:33. Actual constitutions rarely leave the functions that tidy.
+:34. A presidential veto reaches into lawmaking, legislative confirmation reaches into executive appointments, and judicial review reaches into the work of both elected branches.
+:35. These overlaps are not merely stains on an otherwise pure separation; they are often the checking mechanism itself.
+:36. The designers of the United States Constitution had seen state legislatures dominate formally separate departments after independence.
+:37. Experience suggested that a written boundary could be crossed whenever the institution behind it lacked the means or incentive to defend it.
+:38. In Federalist 51, James Madison therefore argued for arranging offices so that the ambitions of their occupants could resist encroachment by other offices.
+:39. The design did not depend on finding unusually virtuous officials.
+:40. It tried to harness ordinary institutional interests to preserve a distribution of authority.
+:41. Here the analogy to modular engineering becomes useful.
+:42. An engineer divides a complex system so that a change or failure in one part need not race unchecked through every other part.
+:43. Clear interfaces allow components to cooperate while limiting the consequences of a local defect.
+:44. In government, a court can halt an unlawful executive act without assuming daily command of the executive agencies.
+:45. Congress can deny money or authorization without itself administering every program it shapes.
+:46. An executive can return a bill by veto without permanently taking over the legislature's power to write statutes.
+:47. Each institution preserves a partly independent base from which to detect, contest, or contain another's mistake.
+:48. That resemblance, however, must not be mistaken for identity.
+:49. A defective machine part has no electorate, legal judgment, constituency, ambition, or rival account of the system's purpose.
+:50. State institutions do, and their boundaries cannot be specified once and then treated as politically neutral interfaces.
+:51. The branches also help constitute one another: presidents nominate judges, legislatures confirm and fund offices, and courts interpret the powers that created them.
+:52. Their independence is therefore produced through managed dependence rather than isolation.
+:53. That arrangement stores history in offices, procedures, precedents, professional training, and expectations of compliance.
+:54. The constitutional words adopted in 1787 mattered, but they could not by themselves have generated the institutional capacity displayed in 1952.
+:55. Generations of legislation had built federal courts, generations of decisions had established judicial review, and repeated compliance had made an adverse judgment consequential.
+:56. Those complementary investments made legal correction more available, while making wholesale replacement of the arrangement increasingly costly.
+:57. This is the path-dependent mechanism: earlier divisions of authority create organizations and expectations that raise the value of using the same channels again.
+:58. The result is not permanent equilibrium, because powers migrate, precedents change, and institutions sometimes fail to resist encroachment.
+:59. Nor does every delay prove that the safeguards are working, since conflict can reflect partisan strategy, unclear responsibility, or simple incapacity.
+:60. The harder question begins where the steel case leaves us, with a system whose ability to catch an error is inseparable from its ability to slow a decision.
+:61. Delay is therefore not an accidental blemish on divided government, although neither is it automatically a public good.
+:62. Requiring a second institution to agree creates time for objections, new information, and affected interests to enter a decision.
+:63. It also gives every required participant an opportunity to demand concessions, protect jurisdiction, or refuse responsibility.
+:64. The same veto point can be a circuit breaker in one episode and a padlock in another.
+:65. Its value depends on the errors a polity most fears, the speed it genuinely needs, and the routes that remain when agreement fails.
+:66. Emergencies sharpen that trade-off because the damage from waiting is visible while the damage from unconstrained action remains uncertain.
+:67. In the steel dispute, the three dissenting justices emphasized the wartime stakes and the practical need to keep production moving.
+:68. Their position reminds us that the majority's constitutional safeguard carried material risks beyond the courtroom.
+:69. A system optimized only to prevent executive overreach could fail through paralysis, just as a system optimized only for speed could fail through unchecked command.
+:70. There is no institutional setting that minimizes both dangers under every condition.
+:71. Overlapping authority makes this balance still less mechanical.
+:72. The Senate's power to confirm appointments can screen candidates, but it can also leave offices vacant or turn qualifications into bargaining tokens.
+:73. A presidential veto can stop a poorly considered statute, but its anticipation may prevent a broadly supported proposal from receiving a vote.
+:74. Legislative control of funding can restrain an executive program, yet a funding impasse can interrupt services that none of the disputants intended to challenge.
+:75. Such consequences do not prove that the interfaces were badly designed; they show that political interfaces carry incentives as well as information.
+:76. Officeholders may cooperate across a boundary, bargain through it, or use it to transfer blame.
+:77. When one political party controls several branches, formally separate institutions may decline to check one another.
+:78. When opposing parties control them, an ordinary policy disagreement may be recast as a defense of constitutional territory.
+:79. Architecture changes the probability and reach of error; it cannot remove strategy from politics.
+:80. The Watergate crisis two decades after the steel case exposed both the redundancy and the irregularity of this architecture.
+:81. In February 1973, the Senate unanimously created a select committee with subpoena power to investigate misconduct connected to the previous presidential campaign.
+:82. After testimony revealed the White House recording system, the committee demanded tapes that President Richard Nixon withheld under a claim of executive privilege.
+:83. The committee sued, but federal courts dismissed its case because Congress had not supplied the necessary jurisdiction.
+:84. One checking route had reached a dead end.
+:85. A separate route remained because the special prosecutor sought the recordings as evidence in a criminal proceeding.
+:86. On July 24, 1974, the Supreme Court unanimously ordered Nixon to comply with the subpoena in that case.
+:87. The Court recognized a legitimate presidential interest in confidential deliberation rather than treating the executive boundary as imaginary.
+:88. It nevertheless rejected an absolute privilege against the demonstrated need for evidence in a criminal trial.
+:89. Nixon surrendered the tapes, and the House Judiciary Committee adopted three articles of impeachment before he resigned on August 9.
+:90. No single branch had operated as a master switch.
+:91. Senate investigators, prosecutors, courts, and the House moved under different grants of authority, on different schedules, and with partially different purposes.
+:92. Their work sometimes reinforced and sometimes complicated the work of the others.
+:93. The Senate committee even curtailed its public proceedings when continued exposure threatened to interfere with criminal prosecutions.
+:94. Redundancy preserved another route when one failed, while boundaries reduced the risk that every inquiry would become the same inquiry.
+:95. Even so, the outcome depended on trained staffs, enforceable subpoenas, professional norms, political coalitions, public scrutiny, and Nixon's eventual compliance.
+:96. A constitution can allocate powers on paper, but it cannot make institutions use them or make officials accept defeat.
+:97. This limitation supplies a serious counterexample to any simple engineering analogy: a disconnected component cannot persuade the rest of a machine to ignore the wiring diagram.
+:98. Political actors can do exactly that.
+:99. Another countercheck comes from parliamentary government, where the executive is ordinarily drawn from the legislature and depends on its confidence.
+:100. In the United Kingdom, ministers sit in Parliament, and a government supported by a disciplined majority can often move legislation without bargaining across a separately elected executive branch.
+:101. This fusion can increase decisiveness and clarify which governing majority is responsible for a policy.
+:102. It does not necessarily abolish constraint, because elections, parliamentary questioning, committees, opposition parties, internal party conflict, legal limits, and an independent judiciary can supply checks of different kinds.
+:103. The arrangement carries its own vulnerability when a reliable majority allows the cabinet to dominate the legislature that is supposed to scrutinize it.
+:104. Yet its long operation demonstrates that strong executive-legislative separation is neither a necessary nor a sufficient condition for constitutional government.
+:105. Modularity is one family of solutions, not a universal blueprint.
+:106. Rigidly isolated branches may be unable to assemble a coherent decision, while thoroughly fused powers may allow a local error to become a system-wide command.
+:107. Constitutions occupy many positions between those poles and draw different boundaries around appointments, budgets, treaties, administration, and adjudication.
+:108. Once a pattern has endured, political parties recruit for it, lawyers build doctrines around it, committees acquire expertise within it, and citizens learn where demands can be pressed.
+:109. These adaptations make the arrangement more capable than its original text alone, but they also make transplanting a foreign model deceptively difficult.
+:110. Moving a formal power may strand the staff, procedures, expectations, and informal bargains that once made it usable.
+:111. The losses from reform also fall unevenly, so an institution that appears inefficient in aggregate may remain valuable to groups that possess access through its existing gates.
+:112. Reformers therefore tend to layer new reviews, exceptions, and coordinating bodies onto old divisions rather than erase the inherited map.
+:113. The result can increase fault detection while also multiplying the places where responsibility becomes blurred.
+:114. Separation of powers is thus an intentionally created path dependence whose stability serves a purpose: it prevents each temporary majority or officeholder from redesigning the entire decision system for immediate convenience.
+:115. Good design cannot mean maximizing the number of obstacles, because a state that never completes a decision merely exchanges errors of commission for errors of omission.
+:116. The practical question is which failures should be contained, which decisions require several independent judgments, and which tasks need a clear hand capable of acting in time.
+:117. Efficiency counts because delay consumes money, attention, trust, and sometimes lives.
+:118. Resistance counts because an efficient mistake can travel farther and become harder to reverse than a slow one.
+:119. Redundancy, overlap, and spare decision-making capacity look wasteful until the principal channel fails, at which point their unused possibilities become the system's room to maneuver.
+:120. Once authority has been divided by function, the same wager can be made across territory: several governments may preserve experiments and contain mistakes, but only by accepting another layer of friction.

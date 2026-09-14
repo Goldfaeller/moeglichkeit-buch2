@@ -1,0 +1,577 @@
+KAPITELNUMMER: 05-13
+
+
+Die oben genannte Kapitelnummer ist die einzige variable Eingabe dieses Auftrags. Leite alle benötigten Dateinamen und die zugehörige Kapitelarbeitsanweisung selbstständig daraus ab.
+
+Bevor du mit der Arbeit beginnst, fasse in einem kurzen Absatz zusammen, wie du den Auftrag verstanden hast. Frage anschließend wörtlich:
+
+„Hab ich das so richtig verstanden und kann ich jetzt mit der Arbeit starten?“
+
+Warte auf meine Bestätigung. Beginne erst danach mit der eigentlichen Bearbeitung.
+
+## Ziel des Auftrags
+
+Überarbeite den bereits vorhandenen englischen Sachtext des oben genannten Kapitels bestandserhaltend nach den neuesten, aktuell gültigen Projektanweisungen.
+
+Der vorhandene Text ist eine ausgearbeitete erste Fassung und kein beliebiges Rohmaterial. Er darf nicht ohne zwingenden Grund durch eine vollständige Neufassung ersetzt werden.
+
+Bewahre möglichst viel von dem, was bereits funktioniert:
+
+- den konkreten Einstieg;
+- gelungene Erklärungen;
+- anschauliche Analogien;
+- tragfähige Beispiele;
+- eigenständige Formulierungen;
+- den vorhandenen Gedankengang;
+- bereits gut funktionierende Übergänge;
+- alle Inhalte, die weiterhin zur Leitfrage von pBBB passen.
+
+Ziel ist eine sorgfältig weiterentwickelte zweite Fassung. Sie darf den vorhandenen Text korrigieren, differenzieren, neu ordnen, erweitern und stärker auf die aktualisierte Perspektive von pBBB ausrichten.
+
+Bevorzuge eine behutsame, gehaltvolle Weiterentwicklung gegenüber einem vollständigen Neubeginn.
+
+## Automatische Bildung der Dateinamen
+
+Bilde aus der oben genannten Kapitelnummer automatisch die Quelldatei nach diesem Muster:
+
+„[oben genannte Kapitelnummer] engl moeglichkeitsraum.txt“
+
+Bilde den Namen der überarbeiteten Ausgabedatei nach diesem Muster:
+
+„[oben genannte Kapitelnummer] engl moeglichkeitsraum überarbeitet.txt“
+
+Die ursprüngliche Quelldatei darf nicht überschrieben oder verändert werden.
+
+Falls die erwartete Quelldatei nicht vorhanden ist, suche nicht nach einem nur ungefähr passenden Ersatz und erfinde keinen Dateinamen. Teile mir stattdessen den erwarteten vollständigen Dateinamen mit.
+
+Falls die vorgesehene Ausgabedatei bereits vorhanden ist, überschreibe sie nicht ungeprüft. Erhalte sie und verwende für die neue Fassung einen eindeutig nummerierten Namen, beispielsweise:
+
+„[oben genannte Kapitelnummer] engl moeglichkeitsraum überarbeitet 2.txt“
+
+## Verbindlich zu lesende Dateien
+
+Lies vor der Bearbeitung diese Dateien vollständig und in dieser Reihenfolge:
+
+1. „AGENTS.md“
+2. „sachbuchautor/SKILL.md“
+3. „pBBB – KAPITEL 1 BIS 4 - UMFASSENDE ÜBERARBEITUNGSANWEISUNGEN.txt“
+4. die automatisch aus der oben genannten Kapitelnummer gebildete Quelldatei
+
+Lies keine dieser Dateien nur auszugsweise.
+
+Beginne mit der Manuskriptarbeit erst, nachdem du alle vier Dateien vollständig gelesen hast.
+
+Die Datei „pBBB – KAPITEL 1 BIS 4 - UMFASSENDE ÜBERARBEITUNGSANWEISUNGEN.txt“ enthält die neuen, nun gültigen und gegenüber früheren Fassungen leicht veränderten Arbeitsanweisungen. Sie ist die maßgebliche inhaltliche Arbeitsgrundlage für die Neuausrichtung der vorhandenen Texte.
+
+Falls ältere Projektdateien, frühere Arbeitsanweisungen oder Aussagen im vorhandenen Artikel mit dieser neuen Arbeitsanweisung kollidieren, behandle die neue Arbeitsanweisung als aktuell gültige Fassung.
+
+Die konkrete aktuelle Arbeitsanweisung zum betroffenen Kapitel oder Unterkapitel hat Vorrang vor allgemeineren älteren Vorgaben.
+
+Gehe nicht davon aus, dass du den Inhalt früherer Chats kennst. Alle für diesen Auftrag maßgeblichen Informationen müssen aus der aktuellen Nutzervorgabe und den genannten Dateien gewonnen werden.
+
+## Zuordnung der Kapitelnummer
+
+Ermittle aus der oben genannten Kapitelnummer selbstständig die passende Arbeitsanweisung.
+
+Dabei gilt:
+
+- Eine Nummer nach dem Muster „NN-00“ bezeichnet den überspannenden Text des jeweiligen Hauptkapitels.
+- Eine Nummer nach dem Muster „NN-MM“ bezeichnet das Unterkapitel NN.MM.
+- Wenn der erste Nummernblock aus Nullen besteht, handelt es sich um die Einleitung des Gesamtwerks und nicht um ein erfundenes Unterkapitel.
+- Bei der Einleitung gelten die allgemeinen und projektübergreifenden Vorgaben der neuen pBBB-Arbeitsanweisung.
+- Bei einem Hauptkapitel gelten dessen übergreifende Arbeitsanweisung und die für das Gesamtprojekt geltenden Qualitätsregeln.
+- Bei einem Unterkapitel gelten sowohl die übergreifende Arbeitsanweisung des zugehörigen Hauptkapitels als auch die konkrete Arbeitsanweisung des Unterkapitels.
+- Die konkrete Unterkapitelanweisung ist besonders sorgfältig umzusetzen.
+
+Prüfe außerdem, ob die sichtbare Überschrift in der Quelldatei zur Kapitelnummer und zur aktuellen Arbeitsanweisung passt.
+
+Korrigiere eine falsche Überschrift oder Nummerierung nur dann, wenn sich die richtige Fassung eindeutig aus „AGENTS.md“ oder der neuen pBBB-Arbeitsanweisung ergibt.
+
+## Bestandserhaltende Arbeitsweise
+
+Führe vor dem Schreiben intern eine Bestandsaufnahme des vorhandenen Textes durch.
+
+Ordne die vorhandenen Passagen gedanklich diesen Kategorien zu:
+
+- unverändert oder nahezu unverändert bewahren;
+- sprachlich glätten;
+- sachlich korrigieren;
+- wissenschaftlich differenzieren;
+- stärker auf den Mechanismus der Pfadabhängigkeit ausrichten;
+- mit einem Gegenbeispiel oder einer Einschränkung ergänzen;
+- an eine logisch passendere Stelle verschieben;
+- wegen der Abgrenzung zu pAAA oder pCCC neu rahmen;
+- durch neuen Inhalt erweitern.
+
+Gib diese interne Einteilung nicht als Arbeitsbericht aus.
+
+Ersetze den vorhandenen Text nicht pauschal durch einen neu geschriebenen Text. Bearbeite ihn als wertvollen Bestand.
+
+Eine grundlegende Neuformulierung ist nur gerechtfertigt, wenn mindestens einer dieser Gründe vorliegt:
+
+- eine sachliche Ungenauigkeit;
+- eine unbelegte oder übertriebene Tatsachenbehauptung;
+- eine missverständliche oder falsche Kausalbehauptung;
+- eine populäre Ursprungsgeschichte, die wissenschaftlich umstritten ist;
+- eine falsche Gleichsetzung von Pfadabhängigkeit mit bloßer Vergangenheit;
+- eine falsche Gleichsetzung von Pfadabhängigkeit mit Gewohnheit, Beschränkung, Trade-off oder Determinismus;
+- ein Widerspruch zur neuen Kapitelarbeitsanweisung;
+- eine längere Passage, deren eigentliche Leitfrage inzwischen zu pAAA oder pCCC gehört;
+- eine störende Wiederholung innerhalb desselben Textes;
+- eine sprachlich unklare oder unbeholfene Formulierung;
+- eine notwendige Änderung der Argumentationsstruktur.
+
+Wenn eine vorhandene Passage nicht mehr vollständig passt, versuche zuerst, sie unter der Leitfrage von pBBB neu zu rahmen, anstatt sie ersatzlos zu entfernen.
+
+Sachlich falsche Aussagen dürfen nicht aus Gründen der Bestandserhaltung stehen bleiben. Ersetze sie durch eine korrekte oder angemessen qualifizierte Fassung.
+
+## Inhalt erhalten und erweitern
+
+Die überarbeitete Fassung soll grundsätzlich nicht kürzer und nicht inhaltsärmer werden als die Quelldatei.
+
+Wenn einzelne falsche, redundante oder unpassende Sätze entfernt werden müssen, bewahre ihren weiterhin brauchbaren Gehalt an anderer Stelle oder ersetze sie durch besseren Inhalt.
+
+Eine Erweiterung um 50 bis 100 nummerierte Sätze gegenüber dem aktuellen Kapiteltext ist bei inhaltlichem Bedarf ausdrücklich erlaubt.
+
+Diese Erweiterung ist keine mechanische Pflicht. Sie soll nur genutzt werden, wenn zusätzliche Sätze echte Erklärungsarbeit leisten.
+
+Eine umfangreiche Erweiterung ist besonders sinnvoll, wenn sie:
+
+- den konkreten Mechanismus der Pfadabhängigkeit klarer macht;
+- eine bisher fehlende begriffliche Unterscheidung erklärt;
+- ein wichtiges Gegenbeispiel ergänzt;
+- eine verbreitete, aber zu einfache Erzählung korrigiert;
+- eine historische Alternative sichtbar macht;
+- einen nützlichen Lock-in neben einem problematischen Lock-in zeigt;
+- eine Einschränkung oder rivalisierende Erklärung ergänzt;
+- die Verbindung zwischen Beispiel und allgemeinem Muster herstellt;
+- einen abrupten Gedankensprung überbrückt;
+- einen bisher nur behaupteten Zusammenhang kausal erklärt;
+- die Perspektive von pBBB gegenüber pAAA und pCCC deutlicher macht;
+- einen zu knappen Schluss zu einer eigenständigen Einsicht entwickelt.
+
+Füge keine Füllsätze, künstlichen Vorschauen oder mehrfach formulierten Schlussfolgerungen ein, um den Text lediglich zu verlängern.
+
+Die in „AGENTS.md“ genannte Standardlänge ist für diesen besonderen Überarbeitungsauftrag kein Kürzungsziel. Die aktuelle Nutzervorgabe erlaubt ausdrücklich, den vorhandenen Text zu erhalten und bei Bedarf erheblich auszubauen.
+
+## Umgang mit Doppelungen
+
+Inhaltliche Überschneidungen zwischen pBBB, pAAA und pCCC sind zulässig, sofern derselbe Gegenstand jeweils unter einer anderen Leitfrage behandelt wird.
+
+Entferne einen guten Gedanken nicht allein deshalb, weil ein verwandtes Thema auch in einem anderen Projekt vorkommt.
+
+Derselbe Gegenstand kann beispielsweise mehrfach erscheinen:
+
+- in pAAA als Frage seiner Wahrnehmung, emotionalen Bewertung oder kulturellen Deutung;
+- in pBBB als Frage seiner historischen Entstehung, Selbstverstärkung und Bindungswirkung;
+- in pCCC als Frage seiner gegenwärtigen Bewertung, Steuerung und verantwortlichen Veränderung.
+
+Wiederholungen innerhalb desselben Artikels sind anders zu behandeln. Entferne oder verbinde Passagen, die denselben Gedanken ohne zusätzlichen Erkenntnisgewinn mehrfach aussprechen.
+
+Erweiterung bedeutet mehr inhaltliche Tiefe und nicht bloß mehr Textmenge.
+
+## Leitperspektive von pBBB
+
+Der fertige Text muss eindeutig die zentrale Frage von pBBB verfolgen:
+
+Wie verändern frühere Zustände, Entscheidungen und Entwicklungsreihenfolgen die Menge, Sichtbarkeit, Wahrscheinlichkeit und Kosten späterer Möglichkeiten?
+
+Pfadabhängigkeit bedeutet nicht bloß, dass etwas eine Vergangenheit besitzt.
+
+Zeige den konkreten Mechanismus, durch den frühere Zustände spätere Möglichkeiten verändern.
+
+Mögliche Mechanismen sind insbesondere:
+
+- Reihenfolgeabhängigkeit;
+- positive Rückkopplung;
+- Selbstverstärkung;
+- Netzwerkeffekte;
+- Lern- und Skaleneffekte;
+- versunkene Kosten;
+- zukünftige Wechselkosten;
+- komplementäre Investitionen;
+- erworbene Fähigkeiten;
+- technische Kompatibilität;
+- institutionelle Verflechtung;
+- organisatorisches Wissen;
+- historisch entstandene Kategorien;
+- Infrastrukturabhängigkeit;
+- Pfadverstärkung durch frühen Erfolg;
+- Stabilisierung durch Erwartungen;
+- Verlust, Verdeckung oder Verteuerung früherer Alternativen.
+
+Unterscheide sorgfältig:
+
+- Pfadabhängigkeit von bloßer historischer Herkunft;
+- Pfadabhängigkeit von einer gegenwärtigen physischen Grenze;
+- Pfadabhängigkeit von einem allgemeinen Trade-off;
+- Lock-in von vollständiger Unveränderlichkeit;
+- Kontingenz von Beliebigkeit;
+- Stabilität von Starrheit;
+- Dominanz von technischer Überlegenheit;
+- Einschränkung von Determinismus;
+- Evolvierbarkeit von gegenwärtiger Leistung;
+- funktionale Kontinuität von moralischer oder technischer Güte;
+- einen historischen Mechanismus von einer bloßen zeitlichen Abfolge.
+
+Zeige nicht nur schädliche oder absurde Pfade.
+
+Gemeinsame Standards, verlässliche Institutionen, eingeübte Fähigkeiten, kompatible Systeme und stabile Erwartungen können großen Nutzen schaffen. Genau dieser Nutzen kann einen späteren Wechsel zugleich erschweren.
+
+Ein Lock-in kann daher nützlich und veränderungshemmend zugleich sein.
+
+Pfadabhängigkeit ist kein Fatalismus. Zeige, soweit es zum konkreten Text passt:
+
+- verbleibende Handlungsmöglichkeiten;
+- Gegenkräfte;
+- alternative Pfade;
+- historische Umnutzungen;
+- graduelle Veränderungen;
+- Übergangslösungen;
+- Bedingungen eines Pfadwechsels;
+- bewusste Maßnahmen zur Erhaltung von Evolvierbarkeit.
+
+Behandle heutige Zustände weder als notwendiges Endergebnis noch pauschal als historischen Irrtum.
+
+## Abgrenzung zu pAAA
+
+pAAA untersucht hauptsächlich, wie Menschen das Neue wahrnehmen, emotional bewerten und erzählen.
+
+Vermeide deshalb in pBBB längere eigenständige Ausführungen über:
+
+- Staunen angesichts neuer Technik;
+- Technikangst;
+- moralische Panik;
+- Anthropomorphisierung;
+- Heilsversprechen;
+- Technobabble;
+- magisches Denken;
+- Medienhype;
+- kulturelle Weltuntergangserzählungen;
+- die Psychologie des ersten Kontakts;
+- die spätere Gewöhnung an eine Neuerung.
+
+Solche Aspekte dürfen knapp vorkommen, wenn sie für die Erklärung eines pfadabhängigen Mechanismus erforderlich sind. Sie dürfen aber nicht zum eigentlichen Gegenstand des Textes werden.
+
+Wenn beispielsweise künstliche Intelligenz behandelt wird, liegt der Schwerpunkt von pBBB auf Architektur, Hardware, Software, Daten, Benchmarks, Infrastruktur, Investitionen, organisatorischer Einbettung und daraus entstehenden Wechselkosten.
+
+Die Frage, weshalb künstliche Intelligenz als Person, Orakel, Wunder oder Bedrohung erlebt wird, gehört ausführlich zu pAAA.
+
+## Abgrenzung zu pCCC
+
+pCCC untersucht hauptsächlich, wie Menschen und Institutionen unter Unsicherheit gegenwärtig entscheiden, Verantwortung verteilen, Risiken bewerten, Versuche gestalten und zukünftige Möglichkeiten offenhalten.
+
+Vermeide deshalb in pBBB längere eigenständige Abhandlungen über:
+
+- allgemeine Entscheidungstheorie unter Unsicherheit;
+- Risiko, Unsicherheit und Unwissen als eigenständige Begriffslehre;
+- normative Bewertungsverfahren;
+- gerechte Risikoverteilung;
+- demokratische Entscheidungsverfahren;
+- Verantwortung und Rechenschaft als eigenständige Hauptthemen;
+- Pilotprojekte und regulatorische Experimente;
+- adaptive Regulierung;
+- gegenwärtige politische Handlungsprogramme;
+- konkrete Empfehlungen für heutige Zukunftsentscheidungen;
+- Maschinenentscheidungen unter dem Gesichtspunkt heutiger Zuständigkeit und Anfechtbarkeit.
+
+Solche Aspekte dürfen vorkommen, wenn sie eine Folge oder eine Veränderungsmöglichkeit eines pfadabhängigen Systems erklären.
+
+Der Schwerpunkt bleibt jedoch auf der historischen Frage:
+
+Wie ist der heutige Möglichkeitsraum entstanden, und durch welche Mechanismen wurden bestimmte Wege leichter, schwieriger, unsichtbar oder teuer?
+
+## Kurzformel zur Abgrenzung
+
+Verwende bei Zweifelsfällen diese Unterscheidung:
+
+- Geht es hauptsächlich darum, wie Menschen das Neue erleben und deuten, gehört die ausführliche Behandlung zu pAAA.
+- Geht es hauptsächlich darum, wie frühere Entwicklungen spätere Möglichkeiten strukturieren, gehört die ausführliche Behandlung zu pBBB.
+- Geht es hauptsächlich darum, wie heute unter Unsicherheit entschieden, Verantwortung verteilt und Zukunft offengehalten werden kann, gehört die ausführliche Behandlung zu pCCC.
+
+Im fertigen Manuskript dürfen die Bezeichnungen pAAA, pBBB und pCCC nicht erwähnt werden.
+
+Auch die Namen der Arbeitsdateien, Arbeitsanweisungen oder verwendeten Skills dürfen im Manuskript nicht erscheinen.
+
+## Besondere Behandlung der Einleitung
+
+Wenn die oben genannte Kapitelnummer die Einleitung bezeichnet, gelten folgende zusätzliche Regeln:
+
+- Behandle sie als Eröffnung des Gesamtwerks und nicht als erfundenes Unterkapitel.
+- Bewahre einen starken konkreten Einstieg, sofern er sachlich belastbar ist.
+- Öffne die zentrale Frage von pBBB, ohne eine lange Inhaltsübersicht zu liefern.
+- Führe Pfadabhängigkeit und Möglichkeitsraum anschaulich ein, ohne ein trockenes Glossar zu schreiben.
+- Stelle den Möglichkeitsraum als analytisches Modell dar und nicht als buchstäblich vorhandenen geometrischen Raum.
+- Unterscheide theoretisch denkbare, physisch mögliche, funktional erreichbare und historisch zugängliche Möglichkeiten.
+- Zeige bereits in der Einleitung, dass historische Begrenzung nicht mit vollständiger Festlegung identisch ist.
+- Vermeide lange Vorschauen auf spätere Kapitel.
+- Formuliere den Schluss als eigenständige Einsicht und nicht als Werbebotschaft oder Inhaltsankündigung.
+
+## Besondere Behandlung eines Hauptkapiteltextes
+
+Wenn die oben genannte Kapitelnummer einen überspannenden Hauptkapiteltext bezeichnet:
+
+- Bewahre seine Funktion als Eröffnung des betreffenden Denkraums.
+- Erzähle die Inhalte der Unterkapitel nicht ausführlich vorweg.
+- Vermeide doppelte Fallgeschichten, die in den Unterkapiteln ausführlich behandelt werden.
+- Erkläre die zentrale Leitfrage und den gemeinsamen Mechanismus des Hauptkapitels.
+- Baue eine logische Bewegung auf, die zu den Vertiefungen passt, ohne sie als Inhaltsverzeichnis aufzuzählen.
+- Der Hauptkapiteltext darf kürzer und stärker synthetisierend sein als die zugehörigen Unterkapitel, soll aber wegen dieses Überarbeitungsauftrags nicht unnötig gekürzt werden.
+
+## Besondere Behandlung eines Unterkapitels
+
+Wenn die oben genannte Kapitelnummer ein Unterkapitel bezeichnet:
+
+- Setze die konkrete Arbeitsanweisung des betreffenden Unterkapitels vollständig um.
+- Bewahre den vorhandenen Schwerpunkt, sofern er mit der neuen Arbeitsanweisung vereinbar ist.
+- Das Unterkapitel muss eigenständig verständlich sein.
+- Verweise nicht ausdrücklich auf vorherige oder folgende Kapitel.
+- Erkläre notwendige Begriffe knapp im vorliegenden Text.
+- Verwende mindestens einen konkreten, tragenden Fall.
+- Erkläre am Fall den tatsächlichen Mechanismus.
+- Ergänze mindestens eine Einschränkung, Gegenprobe oder alternative Erklärung.
+- Schließe mit einer neuen Einsicht und nicht mit einer bloßen Wiederholung der Überschrift.
+
+## Wissenschaftliche Prüfung
+
+Prüfe jede konkrete Tatsachenbehauptung, insbesondere:
+
+- historische Ereignisse;
+- Personen;
+- Jahreszahlen;
+- Studien;
+- Experimente;
+- anatomische Aussagen;
+- evolutionäre Erklärungen;
+- technische Ursprungsgeschichten;
+- Längen- und Größenangaben;
+- technische Leistungsbehauptungen;
+- rechtliche Kontinuitäten;
+- institutionelle Entwicklungen;
+- militärhistorische Beispiele;
+- Aussagen über künstliche Intelligenz;
+- Behauptungen über Gewinner und Verlierer technischer Konkurrenz.
+
+Übernimm verbreitete Standardgeschichten nicht ungeprüft.
+
+Nutze bei Bedarf verfügbare Recherchewerkzeuge. Bevorzuge:
+
+- wissenschaftliche Primärliteratur;
+- amtliche Dokumente;
+- technische Originaldokumente;
+- seriöse wissenschaftliche Synthesen;
+- institutionelle oder archivalische Primärquellen.
+
+Erfinde keine:
+
+- Szenen;
+- Dialoge;
+- Gedanken;
+- Motive;
+- Zitate;
+- Studien;
+- Zahlen;
+- technischen Details;
+- historischen Zusammenhänge.
+
+Wenn die Quellenlage unsicher oder umstritten ist, mache diese Unsicherheit an der sachlich passenden Stelle sichtbar.
+
+Opfere Genauigkeit nicht für eine glatte Pointe.
+
+Korrelation darf nicht als Kausalität erscheinen.
+
+Eine zeitliche Abfolge allein ist noch kein Mechanismus der Pfadabhängigkeit.
+
+Erzähle historische Entwicklungen nicht so, als sei ihr tatsächlicher Ausgang von Anfang an unvermeidlich gewesen.
+
+Rekonstruiere nach Möglichkeit, welche Alternativen und Kenntnisse den damaligen Akteuren tatsächlich zur Verfügung standen.
+
+Füge dem Manuskript keine Fußnoten, Quellenliste oder redaktionellen Kommentare hinzu, sofern ich dies nicht ausdrücklich verlange.
+
+Wenn du für wesentliche Korrekturen recherchiert hast, kannst du die wichtigsten Quellen in deiner kurzen Abschlussmeldung nennen.
+
+## Sprache und Stil
+
+Befolge „sachbuchautor/SKILL.md“ vollständig.
+
+Schreibe ein hochwertiges, allgemein verständliches amerikanisches Sachbuchenglisch.
+
+Der Stil soll sein:
+
+- idiomatisch;
+- klar;
+- präzise;
+- anschaulich;
+- wissenschaftlich sorgfältig;
+- energisch, aber nicht hektisch;
+- zugänglich für intelligente Nichtfachleute;
+- konkret vor abstrakt;
+- selbstbewusst, aber nicht allwissend;
+- erzählerisch zusammenhängend;
+- frei von akademischem Imponiergehabe;
+- frei von Werbesprache;
+- frei von künstlicher Sensationsrhetorik;
+- frei von Selbsthilfeton;
+- frei von der erkennbaren Nachahmung eines bestimmten Autors.
+
+Beginne nicht mit leeren Formeln wie:
+
+- „To understand …“
+- „Since the dawn of time …“
+- „Throughout human history …“
+- „In today’s rapidly changing world …“
+- „This topic is more important than ever …“
+
+Verwende Analogien nur, wenn sie einen realen Zusammenhang erklären.
+
+Mache die Grenzen einer Analogie sichtbar, bevor sie als vollständige Gleichsetzung missverstanden werden kann.
+
+Vermenschliche Evolution, Institutionen, Märkte oder technische Systeme nicht so, dass der tatsächliche Mechanismus verdeckt wird.
+
+Evolution plant, versucht und beabsichtigt nichts.
+
+Institutionen erinnern nicht wie Personen, sofern nicht erklärt wird, in welchen Regeln, Akten, Fähigkeiten oder Routinen ihre Vergangenheit gespeichert ist.
+
+Vermeide Listen, die lediglich in vollständige Sätze umgeschrieben wurden. Der Text soll einen fortlaufenden argumentativen und erzählerischen Bogen besitzen.
+
+Variiere Satzlänge und Rhythmus, obwohl jeder Satz aus Formatgründen in einer eigenen Zeile steht.
+
+## Format des Manuskripts
+
+Halte „AGENTS.md“ vollständig ein.
+
+Insbesondere:
+
+- Die sichtbare Überschrift steht auf Deutsch.
+- Die vorgegebene Kapitelnummer und der deutsche Kapiteltitel bleiben erhalten.
+- Die Überschrift wird im MediaWiki-Format geschrieben.
+- Das Muster lautet „== Kapitelnummer Deutscher Kapiteltitel ==“.
+- Bei einer unnummerierten Einleitung wird kein erfundener Kapitelwert ergänzt.
+- Zwischen Überschrift und erstem nummerierten Satz steht genau eine Leerzeile.
+- Der eigentliche Manuskripttext steht auf Englisch.
+- Jeder Satz steht in einer eigenen physischen Zeile.
+- Jede Satzzeile beginnt mit Doppelpunkt, Satznummer, Punkt und Leerzeichen.
+- Das Format lautet „:1. …“, „:2. …“, „:3. …“ und so weiter.
+- Jede nummerierte Zeile enthält genau einen vollständigen Satz.
+- Zwischen den nummerierten Satzzeilen stehen keine Leerzeilen.
+- Nach allen Ergänzungen, Verschiebungen und Überarbeitungen wird vollständig neu und lückenlos nummeriert.
+- Im Manuskript stehen keine Aufzählungszeichen.
+- Im Manuskript stehen keine Markdown-Codeblöcke.
+- Im Manuskript stehen keine Arbeitsnotizen.
+- Im Manuskript stehen keine Quellenhinweise, sofern sie nicht ausdrücklich verlangt wurden.
+- Im Manuskript stehen keine sichtbaren Änderungsmarkierungen.
+- Im Manuskript stehen keine Kommentare wie „ergänzt“, „gekürzt“, „korrigiert“ oder „überarbeitet“.
+- Vor oder nach dem Manuskript stehen innerhalb der Ausgabedatei keine erläuternden Bemerkungen.
+
+## Speicherung
+
+Verändere oder überschreibe die automatisch ermittelte Quelldatei nicht.
+
+Speichere die fertige zweite Fassung unter dem automatisch gebildeten Ausgabedateinamen:
+
+„[oben genannte Kapitelnummer] engl moeglichkeitsraum überarbeitet.txt“
+
+Stelle nach dem Speichern ausdrücklich sicher, dass:
+
+- die Quelldatei weiterhin unverändert vorhanden ist;
+- die Ausgabedatei vollständig gespeichert wurde;
+- keine fremden Dateien verändert wurden;
+- keine bereits vorhandenen Nutzeränderungen überschrieben wurden.
+
+## Qualitätsprüfung vor der Abgabe
+
+Prüfe die fertige Fassung in mehreren getrennten Durchgängen.
+
+### 1. Argumentation
+
+Prüfe:
+
+- Besitzt der Text eine klare zentrale Frage?
+- Erklärt er einen wirklichen Mechanismus?
+- Entwickelt sich die Argumentation logisch vom konkreten Fall zur allgemeinen Einsicht?
+- Leistet jede Passage neue Erklärungsarbeit?
+- Sind Beispiele Belege oder Erklärungswerkzeuge und nicht bloße Dekoration?
+- Ist mindestens eine ernsthafte Einschränkung, Gegenprobe oder alternative Erklärung enthalten?
+- Vermeidet der Schluss eine schulische Zusammenfassung?
+
+### 2. Bestandserhaltung
+
+Prüfe:
+
+- Wurden starke vorhandene Passagen bewahrt?
+- Wurde nur mit erkennbarem Grund grundlegend neu formuliert?
+- Ging kein brauchbarer Inhalt allein wegen einer Überschneidung mit pAAA oder pCCC verloren?
+- Ist die neue Fassung mindestens so gehaltvoll wie die Ausgangsfassung?
+- Wurde der ursprüngliche Text weiterentwickelt und nicht heimlich vollständig ersetzt?
+- Sind Erweiterungen organisch in den Text eingebaut?
+
+### 3. Inhaltliche Ausrichtung
+
+Prüfe:
+
+- Bleibt die Leitfrage eindeutig bei pBBB?
+- Wird Pfadabhängigkeit präzise erklärt?
+- Wird der tatsächliche Verstärkungs- oder Bindungsmechanismus benannt?
+- Werden Pfadabhängigkeit, Trade-off, Lock-in, Kontingenz und Evolvierbarkeit sauber unterschieden?
+- Werden nützliche Bindungen ebenso ernst genommen wie problematische?
+- Wird Fatalismus vermieden?
+- Werden frühere Alternativen und Rückschaufehler berücksichtigt?
+- Werden pAAA und pCCC nicht ausführlich vorweggenommen?
+- Fehlen die Projektbezeichnungen im Manuskript?
+
+### 4. Wissenschaftliche Sorgfalt
+
+Prüfe:
+
+- Sind alle konkreten Tatsachenbehauptungen belastbar?
+- Sind Zahlen und Jahresangaben geprüft?
+- Sind populäre Ursprungsgeschichten angemessen differenziert?
+- Werden unsichere Zusammenhänge als unsicher gekennzeichnet?
+- Wird keine Korrelation als Kausalität ausgegeben?
+- Wird keine einzelne Person als alleinige Ursache einer komplexen Entwicklung dargestellt?
+- Wird der tatsächliche Ausgang nicht als unvermeidlich erzählt?
+
+### 5. Sprache und Stil
+
+Prüfe:
+
+- Ist das Englisch idiomatisch und natürlich?
+- Sind die Verben aktiv und die Substantive konkret?
+- Wurden Floskeln, Hype und unnötiger Fachjargon entfernt?
+- Ist der Text für intelligente Nichtfachleute verständlich?
+- Variieren Satzlänge und Rhythmus?
+- Wurden unnötige Wiederholungen innerhalb des Artikels entfernt?
+- Bleibt der Text anschaulich, ohne Genauigkeit zu opfern?
+- Endet er mit einer verdienten Einsicht?
+
+### 6. Formale Kontrolle
+
+Überprüfe abschließend systematisch oder technisch:
+
+- die genaue Zahl der nummerierten Sätze;
+- die lückenlose Nummerierung ab 1;
+- das Fehlen doppelter Nummern;
+- das Fehlen ausgelassener Nummern;
+- genau einen vollständigen Satz pro nummerierter Zeile;
+- keine Leerzeilen zwischen nummerierten Sätzen;
+- genau eine Leerzeile zwischen Überschrift und erstem Satz;
+- keine zusätzlichen unnummerierten Manuskriptzeilen;
+- die deutsche MediaWiki-Überschrift;
+- die englische Sprache des Manuskripttextes;
+- den korrekten Ausgabedateinamen;
+- den unveränderten Erhalt der Quelldatei.
+
+Behebe gefundene Fehler vor der Abgabe.
+
+## Abschlussmeldung
+
+Antworte nach erfolgreicher Bearbeitung kurz und konkret mit:
+
+- dem vollständigen Namen der neu erstellten Ausgabedatei;
+- der ursprünglichen Zahl nummerierter Sätze;
+- der neuen Zahl nummerierter Sätze;
+- einer knappen Zusammenfassung der wichtigsten Verbesserungen;
+- einem ausdrücklichen Hinweis, dass die Quelldatei unverändert erhalten blieb;
+- gegebenenfalls den wichtigsten Quellen wesentlicher sachlicher Korrekturen.
+
+Gib den vollständigen Manuskripttext in der Abschlussmeldung nicht noch einmal aus, sofern ich dies nicht ausdrücklich verlange.

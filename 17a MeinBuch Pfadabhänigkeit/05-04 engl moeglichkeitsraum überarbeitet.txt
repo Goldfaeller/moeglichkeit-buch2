@@ -1,0 +1,122 @@
+== 5.4 Die selbsterfüllende Prophezeiung ==
+
+:1. In the fall of 1965, eighteen teachers at a California elementary school received the names of children said to be poised for unusual intellectual growth.
+:2. The children had taken a test, and the list appeared to carry the authority of measurement.
+:3. In fact, the researchers Robert Rosenthal and Lenore Jacobson had selected the names at random.
+:4. The designated pupils possessed no hidden test-based advantage over their classmates when the school year began.
+:5. Yet when the children were tested again, those presented as likely “bloomers” showed larger gains on average, with the most striking results concentrated in the younger grades.
+:6. The experiment became famous because it seemed to catch belief turning into fact inside an ordinary institution.
+:7. No teacher could raise a score by expectation alone.
+:8. Something had to pass from a label in an adult’s mind, through daily encounters, into a child’s opportunities and responses.
+:9. That passage, rather than the attractive slogan that high expectations work miracles, is where the self-fulfilling prophecy begins.
+:10. It is also where the evidence becomes more exacting and the story less magical.
+:11. A self-fulfilling prophecy is not merely a prediction that happens to come true.
+:12. Rain does not fall because a meteorologist forecasts it, and an experienced teacher who correctly anticipates a student’s performance has not thereby produced that performance.
+:13. The causal chain requires an expectation to alter the believer’s behavior, that behavior to alter another person’s situation or response, and the resulting response to make the original expectation look more accurate.
+:14. If any link is missing, the case may involve good judgment, bad judgment, selective perception, or coincidence, but not a fulfilled prophecy.
+:15. The initial belief need not be wholly false, because a small exaggeration can still help create the difference it predicted.
+:16. Nor must the target consciously accept the belief.
+:17. A pupil given a harder question, more time to answer, and specific guidance receives a different learning environment even if no one mentions ability.
+:18. A pupil interrupted quickly, assigned repetitive work, or called on only when success seems assured receives a different set of chances to practice.
+:19. Over many encounters, these small allocations can change skill, confidence, effort, and the evidence available for the next judgment.
+:20. The prophecy is therefore a feedback loop with a social transmission mechanism, not a mysterious victory of thought over reality.
+:21. Classrooms make the loop unusually visible because teachers possess scarce resources that students cannot distribute for themselves.
+:22. They decide who is called on, how long an answer is allowed to develop, which error deserves a hint, and who is offered material just beyond current mastery.
+:23. Warmth and encouragement may matter, but so do the less sentimental currencies of instruction: time, difficulty, feedback, and access.
+:24. Observational research has found that teachers often demand stronger performance from pupils for whom they hold higher expectations and sometimes give those pupils more informative opportunities to respond.
+:25. Some of this difference is entirely reasonable, since instruction must respond to what students already know.
+:26. The analytical problem is to identify the remainder, where an expectation based on incomplete or misleading information changes treatment beyond what prior performance warrants.
+:27. That remainder can open a path for one child and narrow it for another.
+:28. A demanding task followed by useful correction produces learning that makes the next demanding task more likely to be offered.
+:29. An easy task followed by thin feedback may preserve a high success rate while withholding the practice needed for advancement.
+:30. Both students can then appear to have revealed stable levels of ability, although the classroom helped produce the widening evidence.
+:31. The famous experiment at the California school, commonly known as the Oak School study, was designed to isolate this causal remainder by planting randomly assigned expectations.
+:32. Its audacity was methodological as well as ethical: the researchers deliberately gave teachers false information about children who had not consented to become bearers of a reputation.
+:33. The reported gains made the study culturally durable, but they did not settle the size or generality of the effect.
+:34. Critics challenged features of the testing and analysis, and later experiments did not reproduce a uniform transformation across ages, classrooms, or outcomes.
+:35. A synthesis of eighteen experiments found that induced expectations had their clearest effects when teachers received them very early, before they had learned much about their pupils.
+:36. When teachers already knew the children, an unsupported label had less room to govern what they saw and did.
+:37. That pattern is important because it identifies a boundary condition rather than an embarrassment to be hidden.
+:38. Existing knowledge can constrain a false prophecy.
+:39. So can a student’s established competence, a standardized curriculum, contact with several adults, or evidence too persistent to explain away.
+:40. People shape one another, but they do not write on blank pages.
+:41. Natural classrooms add a second complication: teachers’ expectations are usually not random.
+:42. They are built from previous scores, observed effort, language fluency, behavior, records, conversations with colleagues, and information about a student’s circumstances.
+:43. Longitudinal studies have repeatedly found that such expectations predict later achievement chiefly because they contain accurate information about where students are already headed.
+:44. After prior achievement and motivation are taken into account, a smaller expectancy effect often remains, but it is generally modest rather than transformative.
+:45. A large review of more than three decades of classroom research concluded that self-fulfilling effects do occur, yet typically remain small, often fade, and do not reliably compound without limit.
+:46. The same review found reasons for greater concern where students already carry a stigma or a record of low achievement, because their own power to disconfirm an expectation may be weaker.
+:47. This is not a license to blame every unequal outcome on a teacher’s belief.
+:48. It is a reason to ask when a judgment controls access to the very evidence by which that judgment will later be assessed.
+:49. Power changes the weight of a prophecy because not everyone’s expectation can reorganize another person’s day.
+:50. A child may privately think a teacher unfair, but the teacher assigns the work, evaluates the answer, and writes the report that another teacher may read.
+:51. A supervisor can allocate training, visible assignments, discretion, and second chances, whereas a junior employee’s hunch about the supervisor rarely carries comparable institutional force.
+:52. An institution can turn an expectation into a category, attach procedures to the category, and preserve its consequences after the original observer has gone.
+:53. Once that happens, a social judgment begins to resemble a personal trait in the official record.
+:54. The student placed in a lower group receives a different curriculum; the employee denied demanding work accumulates less evidence of handling it; the distrusted colleague, monitored at every turn, becomes guarded.
+:55. Each response can be genuine without revealing what the person would have done under another sequence of treatment.
+:56. That missing comparison is the counterfactual at the heart of the problem: the path not taken leaves no performance record.
+:57. Positive expectations can create equally real advantages by increasing practice, support, and tolerance for early error, although benefits are no more automatic than harms.
+:58. Stability can also be useful when a well-founded reputation allows others to extend trust without reopening every question from the beginning.
+:59. The danger arises when yesterday’s estimate changes today’s opportunities and today’s constrained response is filed as proof that yesterday’s estimate merely described the person.
+:60. At that point, the next encounter begins not with an open question but with an inherited answer waiting to be confirmed.
+:61. The inherited answer can alter an encounter before the person it describes has entered the room.
+:62. In 1974, the psychologists Carl Word, Mark Zanna, and Joel Cooper examined this process in a simulated job interview divided into two experiments.
+:63. In the first, White interviewers sat farther away from Black applicants than from White applicants, conducted shorter interviews, and produced more speech errors, although the applicants were trained participants whose qualifications could not explain the interviewers’ behavior.
+:64. In the second experiment, trained interviewers gave White applicants either the relatively warm treatment previously accorded to White applicants or the more distant treatment previously accorded to Black applicants.
+:65. Independent judges rated applicants who received the distant style as performing less adequately and appearing more nervous, while the applicants moved farther from their interviewers and judged them less friendly.
+:66. An expectation had crossed the table as physical distance, time pressure, and disrupted conversational rhythm, then returned as apparently diagnostic behavior.
+:67. The study did not show that every interview reproduces prejudice, nor could its laboratory design measure an entire hiring career.
+:68. It demonstrated something narrower and more unsettling: an evaluator can partly manufacture the performance used to justify an evaluation.
+:69. A related experiment turned expectation into tone of voice rather than distance across a room.
+:70. Male students spoke by telephone with female students after being shown photographs that led them to believe, falsely, that their conversation partner was either physically attractive or unattractive.
+:71. Listeners who heard only the women’s side of the recordings rated women in the supposedly attractive condition as more friendly, sociable, and likable.
+:72. Because the women had never seen the false photograph, they were not consciously acting out a label but responding to a partner whose manner had already been altered by it.
+:73. The experiment captured behavioral confirmation, the moment when one person’s expectation elicits conduct that seems to confirm it.
+:74. Yet it also carried the narrowness of its era and design: a small sample of heterosexual college students, a brief call, and gendered assumptions about attractiveness.
+:75. Such studies establish that the mechanism is possible under controlled conditions; they do not tell us how frequently it governs long relationships or complex institutions.
+:76. Outside the laboratory, people arrive with histories, allies, skills, obligations, and expectations of their own, all of which compete with an imposed definition.
+:77. Workplaces nevertheless provide many channels through which a supervisor’s forecast can acquire material force.
+:78. Employees judged promising may receive difficult assignments, closer mentoring, useful criticism, and permission to recover from errors that accompany learning.
+:79. Those judged limited may be protected from failure so thoroughly that they are also protected from growth.
+:80. Later, the difference in experience is visible, while the earlier difference in opportunity recedes from view.
+:81. Meta-analyses of organizational Pygmalion experiments have found that induced leader expectations can affect adult performance, sometimes substantially, but the results vary greatly across settings.
+:82. Many of the strongest findings came from military or training environments, where roles, evaluation periods, and performance tasks were unusually structured.
+:83. Evidence from established commercial workplaces was thinner, and attempts to teach a generalized high-expectation leadership style produced much smaller effects than earlier expectation manipulations.
+:84. The contrast separates efficacy under favorable experimental conditions from effectiveness amid ordinary organizational noise, warning against the managerial slogan that believing in people is sufficient to make them succeed.
+:85. Resources, instruction, task design, prior skill, incentives, and the employee’s own decisions remain causal parts of the outcome.
+:86. Low expectations can even be accurate and still contribute to the future they anticipate.
+:87. A supervisor may correctly notice weak current performance, reduce a worker’s autonomy to protect a project, and thereby remove opportunities needed to demonstrate improvement.
+:88. The first judgment reflects reality, but the response helps preserve it, creating a mixed case that is harder to diagnose than a wholly invented belief imposed on an indistinguishable group.
+:89. It shows why the key question is not whether an expectation was biased or accurate in the abstract, but whether acting on it changed the later menu of possibilities.
+:90. Trust follows the same recursive logic.
+:91. One colleague expects another to withhold information, so the first shares less, checks every step, and interprets requests as attempts to gain leverage.
+:92. The second colleague, encountering secrecy and surveillance, becomes cautious and begins documenting every exchange.
+:93. The resulting guardedness confirms the initial suspicion, although cooperation might have emerged under a less defensive opening.
+:94. Unlike a simple error, the belief has recruited two people’s reasonable responses into a mistrust spiral.
+:95. Reputation can extend that spiral across observers who never witnessed its beginning.
+:96. A description such as “not leadership material,” “difficult,” or “unreliable” directs attention toward some behaviors and changes which tests the person is allowed to face.
+:97. Ambiguous conduct is then read against the inherited description, while missed opportunities leave no contradictory record.
+:98. Because the second evaluator receives both the label and the behavior produced under earlier treatment, the evidence arrives already entangled with the expectation.
+:99. Reputation is not inherently unjust or irrational, since reliable information about past conduct makes cooperation possible among people who cannot investigate everything anew.
+:100. The path-dependent question is whether the information remains corrigible and whether its bearer retains access to situations capable of disproving it.
+:101. A reputation hardens toward lock-in when it travels farther than its evidence, controls scarce opportunities, and survives contrary results by reinterpreting them as exceptions.
+:102. It remains more flexible when judgments expire, tasks produce visible outcomes, several observers contribute independent evidence, and people can enter settings not governed by the original label.
+:103. These conditions do not erase bias, but they weaken the closed circuit in which expectation controls both the test and its interpretation, returning some causal weight to performances the prophecy did not arrange.
+:104. Targets also resist, overperform, withdraw, seek another evaluator, or treat the expectation itself as evidence that the setting is hostile.
+:105. Resistance can break a prophecy, though it may require effort that people favored by the expectation never have to spend.
+:106. Withdrawal is especially ambiguous because it protects a person from one damaging interaction while supplying observers with apparent evidence of low commitment or poor sociability.
+:107. Even overperformance may be discounted if evaluators attribute success to luck, assistance, or an unusually easy task.
+:108. For this reason, a single contrary episode often has less power than the sequence of ordinary confirmations accumulated around it.
+:109. Still, prophecies fail constantly when behavior is clearly measured, when relationships expose people to varied roles, or when targets possess enough independence to refuse the offered part.
+:110. The existence of feedback does not imply an inescapable loop; it identifies the points at which history enters an encounter and the conditions under which new evidence can redirect it.
+:111. When the loop persists, repeated treatment changes practice, confidence, caution, and sometimes the person’s own estimate of where effort is likely to pay.
+:112. The resulting disposition is real, but its reality does not prove that it existed before the sequence that cultivated it.
+:113. This is how a social path comes to look like a property of the traveler, as the quiet pupil, guarded colleague, or underused employee eventually behaves consistently across enough situations to make the label seem self-evident.
+:114. Attribution then runs backward from the visible pattern to an imagined permanent essence, skipping the encounters that rewarded, punished, or rehearsed the behavior.
+:115. Yet the person is neither merely mislabeled nor passively manufactured, because every response adds preferences, skills, memories, and choices of its own.
+:116. Someone repeatedly trusted may learn to enjoy responsibility and seek places where it is offered, while someone repeatedly treated as suspect may become adept at self-protection and avoid relationships that demand unguarded dependence.
+:117. The environments available to each person consequently begin to differ, partly through exclusion and partly through active selection.
+:118. What started as an expectation inside one observer has then altered which rooms the other person can enter, which rooms seem worth entering, and what that person can do upon arrival.
+:119. The feedback loop has grown beyond a single prophecy into a continuing fit between a developing person and a socially organized environment.
+:120. An inherited answer has become not a final verdict, but one of the forces deciding where the next question will be asked.
